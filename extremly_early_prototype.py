@@ -30,9 +30,10 @@ app.layout = html.Div([
     html.H6(children="Hello world extremly early prototype:"),
     
     #Själva checklistan
-    dcc.Checklist(id='skills',
+    dcc.Dropdown(id='skills',
                  options = new_list, #options är variabeln som deklarerar själva 
                     value=[], #value är variabeln som håller in alla valda val, mer om både options och value kommer in i callback
+                    multi = True,
     ),
     html.Button('Match jobs', id='submit-button'), #Själva knappen till matchningen
     html.Div(id='job-matches'), #ids används som referenser  in koden och i callback funktionen
