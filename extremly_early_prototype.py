@@ -1,8 +1,16 @@
+from flask import flask, render_template
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
 
-app = dash.Dash(__name__)
+server = flask.Flask(__name__)
+
+
+@server.route('/')
+def hello():
+    return render_template("home.html")
+
+app = dash.Dash(__name__, server=server, routes_pathname_prefix="/")
 
 #Test lista av jobb här, vi kommer nog behöva köra en databas här
 Jobs = (
@@ -60,4 +68,4 @@ def match_jobs(n_clicks, selected_skills):
         return 'no Matches found'
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    server.run(debug=True)
