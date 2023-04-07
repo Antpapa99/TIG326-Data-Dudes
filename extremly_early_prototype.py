@@ -1,16 +1,16 @@
-from flask import flask, render_template
+from flask import Flask, render_template
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
 
-server = flask.Flask(__name__)
+server = Flask(__name__)
 
 
 @server.route('/')
 def hello():
     return render_template("home.html")
 
-app = dash.Dash(__name__, server=server, routes_pathname_prefix="/")
+app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/")
 
 #Test lista av jobb här, vi kommer nog behöva köra en databas här
 Jobs = (
