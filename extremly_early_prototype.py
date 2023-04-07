@@ -11,14 +11,16 @@ Jobs = (
     {"title": "DevOps Engineer", "skills": ["python", "git", "kubernetes", "cloud", "linux"]},
     {"title": "Systems Engineer", "skills": ["systemvetenskap", "git", "ccna", "python"]},
     {"title": "Front-end Developer", "skills": ["javascript", "css", "html"]},
-    {"title": "Network Engineer", "skills": "ccna"}
+    {"title": "Network Engineer", "skills": ["ccna"]}
+    {"title": "Student", "skills": ["systemvetenskap"]}
+    {"title": "Database Admin", "skills": ["sql"]}
 )
 
 
 #En dictionary med skills som har två nycklar en för label och en annan för value
 skills = {"label": 
-          ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux",],
-          "value": ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux",]}
+          ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux","sql"],
+          "value": ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux","sql"]}
 
 #Gör om hela dictionary till flertal dictionaries 
 new_list = [{"label": label, "value": value} for label, value in zip(skills["label"], skills["value"])]
