@@ -3,7 +3,11 @@ body {
   }
   h1 {
     color: #df1616;
+
   }
   p1 {
-    color: red;
+    color:rgb(255, 0, 0)
+  }
+  button {
+    color: #df1616;
   }
