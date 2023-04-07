@@ -11,7 +11,7 @@ Jobs = (
     {"title": "DevOps Engineer", "skills": ["python", "git", "kubernetes", "cloud", "linux"]},
     {"title": "Systems Engineer", "skills": ["systemvetenskap", "git", "ccna", "python"]},
     {"title": "Front-end Developer", "skills": ["javascript", "css", "html"]},
-    {"title": "Network Engineer", "skills": "CCNA"}
+    {"title": "Network Engineer", "skills": "ccna"}
 )
 
 
