@@ -19,6 +19,6 @@ for sample in data:
 
 # Save the filtered data to a new JSON file
 with open('filtered_data.json', 'w') as f:
-    json.dump(filtered_data, f)
+    json.dump(filtered_data, f, indent=4)  # Set the indent parameter to 4
 
 print("done")
