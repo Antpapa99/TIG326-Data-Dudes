@@ -3,19 +3,19 @@ import json
 
 url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
-with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r') as f:
+with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="UTF-8") as f:
     data = json.load(f)
 
-Job_Skill_List = []
+Job_Class = []
 
-for i in range(10):
+for i in range(100):
     sample = data[i]
     params = {
     "documents_input": [
         {
         "doc_id": data[i]["id"],
         "doc_headline": data[i]["headline"],
-        "doc_text": data[i]["description"]["text"],
+        "doc_text": data[i]["description"]["text_formatted"],
         }
         ]
     }
@@ -24,8 +24,8 @@ for i in range(10):
         #print("Request successful")
         json_response = response.json()
         # Make sure to access the correct element of the list
-        enriched_candidates = json_response[0]["enriched_candidates"]
-        Job_Skill_List.append(enriched_candidates)
+        enriched_candidates = json_response
+        Job_Class.append(enriched_candidates)
         #Jobs[job_title] = skills
         #print("Traits:", enriched_candidates["traits"])
         #print("Geos:", enriched_candidates["geos"])
@@ -35,16 +35,31 @@ for i in range(10):
         print("Error message:", response.text)
 
 
-new_lista = []
-for x in Job_Skill_List:
-  i = 0
-  while i < (len(x["competencies"])):
-    print(x["competencies"][i]["prediction"])
-    print((x["competencies"][i]["concept_label"]))
-    new_lista.append(x["competencies"][i]["concept_label"])
-    i += 1
+Keywords = []
+loop = 0
+dict_list = []
+while loop < len(Job_Class):
+    for i in Job_Class[loop]:
+        occupations = set()
+        skills = set()
+        for data in i["enriched_candidates"]["occupations"]:
+            if data["prediction"] > 0.9:
+                occupations.add(data["concept_label"])
+        for data in i["enriched_candidates"]["competencies"]:
+            if data["prediction"] > 0.9:
+                skills.add(data["concept_label"])
 
-print(new_lista)
+        occupations = list(occupations)   
+        skills = list(occupations)
+        output = {"Job Title": i["doc_headline"],
+                "Occupations": occupations,
+                    "Skills": skills
+                }
+        dict_list.append(output)
+        loop += 1
+
+for i, x in enumerate(dict_list):
+    print(i, x)
 
 #for y in skills_list:
   #skills = y[0]
