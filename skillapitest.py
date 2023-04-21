@@ -3,10 +3,10 @@ import json
 
 url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
-with open('/Users/anto/JSON_DATA/filtered_data_IT_jobs.json', 'r') as f:
+with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r') as f:
     data = json.load(f)
 
-Jobs = {}
+Job_Skill_List = []
 
 for i in range(10):
     sample = data[i]
@@ -25,23 +25,27 @@ for i in range(10):
         json_response = response.json()
         # Make sure to access the correct element of the list
         enriched_candidates = json_response[0]["enriched_candidates"]
-        Occupation = (enriched_candidates["occupations"])
-        #print(Occupation)
-        Skills = (enriched_candidates["competencies"])
-        print(enriched_candidates["competencies"])
+        Job_Skill_List.append(enriched_candidates)
         #Jobs[job_title] = skills
         #print("Traits:", enriched_candidates["traits"])
         #print("Geos:", enriched_candidates["geos"])
+        
     else:
         print("Request failed with status code:", response.status_code)
         print("Error message:", response.text)
 
-job_dict = {}
-for x in Occupation:
-  if x['prediction'] > 0.90:
-    print(x["concept_label"])
 
-for y in Skills:
-  if y['prediction'] > 0.80:
-    print(y["concept_label"])
+new_lista = []
+for x in Job_Skill_List:
+  i = 0
+  while i < (len(x["competencies"])):
+    print(x["competencies"][i]["prediction"])
+    print((x["competencies"][i]["concept_label"]))
+    new_lista.append(x["competencies"][i]["concept_label"])
+    i += 1
 
+print(new_lista)
+
+#for y in skills_list:
+  #skills = y[0]
+  #print(skills["concept_label"],skills["prediction"])
