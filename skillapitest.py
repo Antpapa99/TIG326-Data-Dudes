@@ -8,7 +8,7 @@ with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encod
 
 Job_Class = []
 
-for i in range(100):
+for i in range(99):
     sample = data[i]
     params = {
     "documents_input": [
@@ -43,14 +43,14 @@ while loop < len(Job_Class):
         occupations = set()
         skills = set()
         for data in i["enriched_candidates"]["occupations"]:
-            if data["prediction"] > 0.9:
+            if data["prediction"] > 0.8:
                 occupations.add(data["concept_label"])
         for data in i["enriched_candidates"]["competencies"]:
-            if data["prediction"] > 0.9:
+            if data["prediction"] > 0.8:
                 skills.add(data["concept_label"])
 
         occupations = list(occupations)   
-        skills = list(occupations)
+        skills = list(skills)
         output = {"Job Title": i["doc_headline"],
                 "Occupations": occupations,
                     "Skills": skills
@@ -58,7 +58,13 @@ while loop < len(Job_Class):
         dict_list.append(output)
         loop += 1
 
-for i, x in enumerate(dict_list):
+Unique_Dict_List = []
+
+for i in range(len(dict_list)):
+    if dict_list[i] not in dict_list[i + 1:]:
+        Unique_Dict_List.append(dict_list[i])
+
+for i, x in enumerate(Unique_Dict_List):
     print(i, x)
 
 #for y in skills_list:
