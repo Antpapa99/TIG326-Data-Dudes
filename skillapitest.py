@@ -28,6 +28,7 @@ for i in range(10):
         Occupation = (enriched_candidates["occupations"])
         #print(Occupation)
         Skills = (enriched_candidates["competencies"])
+        print(enriched_candidates["competencies"])
         #Jobs[job_title] = skills
         #print("Traits:", enriched_candidates["traits"])
         #print("Geos:", enriched_candidates["geos"])
@@ -37,8 +38,10 @@ for i in range(10):
 
 job_dict = {}
 for x in Occupation:
-  print(x["concept_label"])
+  if x['prediction'] > 0.90:
+    print(x["concept_label"])
 
 for y in Skills:
-  print(y["concept_label"])
+  if y['prediction'] > 0.80:
+    print(y["concept_label"])
 
