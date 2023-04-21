@@ -1,39 +1,41 @@
 import requests
 import json
+from concurrent.futures import ThreadPoolExecutor
+import time
 
 url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
+
+start_time = time.time()
 
 with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="UTF-8") as f:
     data = json.load(f)
 
 Job_Class = []
 
-for i in range(99):
+def send_request(i):
     sample = data[i]
     params = {
-    "documents_input": [
-        {
-        "doc_id": data[i]["id"],
-        "doc_headline": data[i]["headline"],
-        "doc_text": data[i]["description"]["text_formatted"],
-        }
+        "documents_input": [
+            {
+                "doc_id": data[i]["id"],
+                "doc_headline": data[i]["headline"],
+                "doc_text": data[i]["description"]["text_formatted"],
+            }
         ]
     }
     response = requests.post(url, json=params)
     if response.status_code == 200:
-        #print("Request successful")
         json_response = response.json()
-        # Make sure to access the correct element of the list
         enriched_candidates = json_response
-        Job_Class.append(enriched_candidates)
-        #Jobs[job_title] = skills
-        #print("Traits:", enriched_candidates["traits"])
-        #print("Geos:", enriched_candidates["geos"])
-        
+        return enriched_candidates
     else:
         print("Request failed with status code:", response.status_code)
         print("Error message:", response.text)
 
+
+with ThreadPoolExecutor(max_workers=90) as executor:
+    indices = range(0, 1000)
+    Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
 loop = 0
@@ -67,6 +69,8 @@ for i in range(len(dict_list)):
 for i, x in enumerate(Unique_Dict_List):
     print(i, x)
 
-#for y in skills_list:
-  #skills = y[0]
-  #print(skills["concept_label"],skills["prediction"])
+end_time = time.time()  # Record the end time
+elapsed_time = end_time - start_time  # Calculate the elapsed time
+
+print(f"Elapsed time: {elapsed_time:.2f} seconds")
+
