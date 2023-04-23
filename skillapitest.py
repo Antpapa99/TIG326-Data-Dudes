@@ -3,6 +3,7 @@ import json
 from concurrent.futures import ThreadPoolExecutor
 import time
 
+#Vår AI API
 url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
@@ -13,7 +14,7 @@ with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encod
 Job_Class = []
 occupation_list = []
 
-
+#funktionen som gör att programmet skicker en request till APIn med de olika json filerna som input
 def send_request(i):
     sample = data[i]
     params = {
@@ -21,7 +22,7 @@ def send_request(i):
             {
                 "doc_id": data[i]["id"],
                 "doc_headline": data[i]["headline"],
-                "doc_text": data[i]["description"]["text_formatted"],
+                "doc_text": data[i]["description"]["text"],
             }
         ]
     }
@@ -52,7 +53,7 @@ def send_request(i):
             time.sleep(2)  # You can adjust the sleep duration based on your needs
     print(f"Request {i} failed after {max_retries} retries")
 
-
+#Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
     indices = range(0, 100)
     Job_Class = list(executor.map(send_request, indices))
@@ -64,14 +65,16 @@ dict_list = []
 
 Dict_List = []
 loop = 0
+#En loop som rensar Datan
 while loop < len(Job_Class):
     Ai_Occupation = set()
     Skills = set()
+    #Här kan ni configuera prediction värde
     for i in Job_Class[loop]["Occupation-AI_classify"]:
         if i["prediction"] > 0.8:
             Ai_Occupation.add(i["concept_label"])
     for i in Job_Class[loop]["Skills"]:
-        if i["prediction"] > 0.9:
+        if i["prediction"] > 0.95:
             Skills.add(i["concept_label"])
     Skills = list(Skills)
     Ai_Occupation = list(Ai_Occupation)
