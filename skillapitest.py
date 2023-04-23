@@ -11,8 +11,8 @@ with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encod
     data = json.load(f)
 
 Job_Class = []
+occupation_list = []
 
-print(data[1]["occupation"])
 
 def send_request(i):
     sample = data[i]
@@ -27,13 +27,20 @@ def send_request(i):
     }
     max_retries = 3
     retries = 0
+    occupation_list.append(data[i]["occupation"]["label"])
     while retries < max_retries:
         try:
             response = requests.post(url, json=params)
             if response.status_code == 200:
                 json_response = response.json()
-                enriched_candidates = json_response
-                return enriched_candidates
+                enriched_candidates_skills = json_response[0]["enriched_candidates"]["competencies"]
+                enriched_candidates_occupation = json_response[0]["enriched_candidates"]["occupations"]
+                output = {"Job Title": data[i]["headline"],
+                "Occupation-type":  (data[i]["occupation"]["label"]),
+                "Occupation-AI_classify":  enriched_candidates_occupation,
+                    "Skills": enriched_candidates_skills
+                }
+                return output
             else:
                 print(f"Request {i} failed with status code:", response.status_code)
                 print("Error message:", response.text)
@@ -47,40 +54,49 @@ def send_request(i):
 
 
 with ThreadPoolExecutor(max_workers=100) as executor:
-    indices = range(0, 1)
+    indices = range(0, 100)
     Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
 loop = 0
 dict_list = []
-while loop < len(Job_Class):
-    for i in Job_Class[loop]:
-        occupations = set()
-        skills = set()
-        for data in i["enriched_candidates"]["occupations"]:
-            if data["prediction"] > 0.9:
-                occupations.add(data["concept_label"])
-        for data in i["enriched_candidates"]["competencies"]:
-            if data["prediction"] > 0.9:
-                skills.add(data["concept_label"])
 
-        occupations = list(occupations)   
-        skills = list(skills)
-        output = {"Job Title": i["doc_headline"],
-                "Occupations": occupations,
-                    "Skills": skills
+
+Dict_List = []
+loop = 0
+while loop < len(Job_Class):
+    Ai_Occupation = set()
+    Skills = set()
+    for i in Job_Class[loop]["Occupation-AI_classify"]:
+        if i["prediction"] > 0.8:
+            Ai_Occupation.add(i["concept_label"])
+    for i in Job_Class[loop]["Skills"]:
+        if i["prediction"] > 0.9:
+            Skills.add(i["concept_label"])
+    Skills = list(Skills)
+    Ai_Occupation = list(Ai_Occupation)
+    output = {"Job Title": Job_Class[loop]["Job Title"],
+                "Occupation-type":  Job_Class[loop]["Occupation-type"],
+                "Occupation-AI_classify":  Ai_Occupation,
+                    "Skills": Skills
                 }
-        dict_list.append(output)
-        loop += 1
+    Dict_List.append(output)
+    loop += 1
+
 
 Unique_Dict_List = []
 
-for i in range(len(dict_list)):
-    if dict_list[i] not in dict_list[i + 1:]:
-        Unique_Dict_List.append(dict_list[i])
+for i in range(len(Dict_List)):
+    if Dict_List[i] not in Dict_List[i + 1:]:
+        Unique_Dict_List.append(Dict_List[i])
 with open("Job_Dictionary.txt", "w", encoding="utf-8") as file:
     for i in Unique_Dict_List:
         file.write(json.dumps(i) + "\n")
+
+print(Unique_Dict_List)
+
+for i in Unique_Dict_List:
+    print(i)
 
 end_time = time.time()  # Record the end time
 elapsed_time = end_time - start_time  # Calculate the elapsed time
