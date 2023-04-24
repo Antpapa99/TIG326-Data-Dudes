@@ -1,5 +1,5 @@
 import json
-import pandas
+import csv
 with open('Skills_whitelist.json', "r", encoding="utf-8") as f:
  data =  json.load(f)
 
@@ -18,8 +18,9 @@ for string in Skills_list:
 
 clean_duplicates = set(new_strings)
 clean_duplicates = list(clean_duplicates)
+skills = {"label": [i.lower() for i in clean_duplicates],
+          "value": [i.lower() for i in clean_duplicates]}
 
-print(new_strings)
-with open("Skills.csv", "w", encoding="utf-8") as file:
-  for i in clean_duplicates:
-    file.write(i + "\n")  
+
+with open("Skills.json", "w", encoding="utf-8") as file:
+    file.write(json.dumps(skills) + "\n")  

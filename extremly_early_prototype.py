@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
+from Skills_Selector import select_skills
 
 server = Flask(__name__)
 
@@ -25,13 +26,9 @@ Jobs = (
 )
 
 
-#En dictionary med skills som har två nycklar en för label och en annan för value
-skills = {"label": 
-          ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux","sql"],
-          "value": ["javascript", "css", "ccna", "html", "python", "c#", "git", "systemvetenskap", "kubernetes", "cloud", "linux","sql"]}
 
-#Gör om hela dictionary till flertal dictionaries 
-new_list = [{"label": label, "value": value} for label, value in zip(skills["label"], skills["value"])]
+new_skills = select_skills()
+new_list = new_skills
 
 #Själva frontenden
 app.layout = html.Div([
@@ -39,7 +36,7 @@ app.layout = html.Div([
     
     #Själva checklistan
     dcc.Dropdown(id='skills',
-                 options = new_list, #options är variabeln som deklarerar själva 
+                 options = new_skills, #options är variabeln som deklarerar själva 
                     value=[], #value är variabeln som håller in alla valda val, mer om både options och value kommer in i callback
                     multi = True,
     ),
