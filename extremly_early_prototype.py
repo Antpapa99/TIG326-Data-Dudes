@@ -52,7 +52,7 @@ app.layout = html.Div([
 
 def match_jobs(n_clicks, selected_skills):
     if not selected_skills: #Om inte väljer något får man inget tillbaka
-        return ''
+        return "no matches"
     matches = [] #Själva listan som lagrar jobben när man väljer de olika skills
     for job in Jobs: #For loopen för att iterar genom jobben
         required_skills = set(job['skills']) #skills som jobb kräver
