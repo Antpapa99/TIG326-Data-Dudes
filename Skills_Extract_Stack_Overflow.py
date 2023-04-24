@@ -23,7 +23,7 @@ print(unique_values)
 
 for elements in unique_values:
     output = {"label": [elements.lower() for elements in unique_values],
-              "values": [elements.lower() for elements in unique_values]}
+              "value": [elements.lower() for elements in unique_values]}
 
 with open ("Stack_Overflow_Skills.json", "w", encoding="utf-8") as file:
     file.write(json.dumps(output) + "\n")
