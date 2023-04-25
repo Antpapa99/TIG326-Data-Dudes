@@ -22,7 +22,7 @@ for job in job_data:
             occupation_skills[occupation][skill] += 1
 
 # Calculate the percentage of occurrence for each skill in each occupation
-percentage_threshold = 0.7  # Change this value to set the threshold
+percentage_threshold = 0.25  # Change this value to set the threshold
 desired_skills = {}
 for occupation, skills in occupation_skills.items():
     desired_skills[occupation] = [
