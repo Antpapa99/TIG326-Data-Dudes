@@ -3,6 +3,7 @@ import dash
 import dash_html_components as html
 import dash_core_components as dcc
 from Skills_Selector import select_skills
+from Job_Selector import jobs
 
 server = Flask(__name__)
 
@@ -14,16 +15,7 @@ def hello():
 app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/")
 
 #Test lista av jobb här, vi kommer nog behöva köra en databas här
-Jobs = (
-    {"title": "Software engineer", "skills": ["python", "c#", "git"]},
-    {"title": "Unity Developer", "skills": ["c#", "git"]},
-    {"title": "DevOps Engineer", "skills": ["python", "git", "kubernetes", "cloud", "linux"]},
-    {"title": "Systems Engineer", "skills": ["systemvetenskap", "git", "ccna", "python"]},
-    {"title": "Front-end Developer", "skills": ["javascript", "css", "html"]},
-    {"title": "Network Engineer", "skills": ["ccna"]},
-    {"title": "Student", "skills": ["systemvetenskap"]},
-    {"title": "Database Admin", "skills": ["sql"]},
-)
+Jobs = jobs()
 
 
 

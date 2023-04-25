@@ -8,7 +8,7 @@ url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
 
-with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="utf-8") as f:
+with open (r'/Users/anto/JSON_DATA/filtered_data_IT_jobs.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 Job_Class = []
@@ -28,7 +28,7 @@ def send_request(i):
             
         ]
     }
-    max_retries = 6
+    max_retries = 12
     retries = 0
     occupation_list.append(data[i]["occupation"]["label"])
     while retries < max_retries:
@@ -57,7 +57,7 @@ def send_request(i):
 
 #Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
-    indices = range(0, 100)
+    indices = range(0, 5000)
     Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
@@ -73,10 +73,10 @@ while loop < len(Job_Class):
     Skills = set()
     #Här kan ni configuera prediction värde
     for i in Job_Class[loop]["Occupation-AI_classify"]:
-        if i["prediction"] > 0.8:
+        if i["prediction"] > 0.5:
             Ai_Occupation.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Skills"]:
-        if i["prediction"] > 0.60:
+        if i["prediction"] > 0.5:
             Skills.add(i["concept_label"].lower())
     Skills = list(Skills)
     Ai_Occupation = list(Ai_Occupation)
@@ -94,7 +94,7 @@ Unique_Dict_List = []
 for i in range(len(Dict_List)):
     if Dict_List[i] not in Dict_List[i + 1:]:
         Unique_Dict_List.append(Dict_List[i])
-with open("Job_Dictionary.txt", "w", encoding="utf-8") as file:
+with open("Job_Dictionary.json", "w", encoding="utf-8") as file:
     for i in Unique_Dict_List:
         file.write(json.dumps(i) + "\n")
 
