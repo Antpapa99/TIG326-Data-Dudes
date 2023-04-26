@@ -1,8 +1,13 @@
 import json
 
 # Load the skills whitelist from the JSON file
-with open('Skills.json') as f:
-    skills_whitelist = json.load(f)
+with open('Skills.json') as file1:
+    skills_whitelist = json.load(file1)
+
+with open('Stack_Overflow_Skills.json') as file2:
+    dict2 = json.load(file2)
+
+skills_whitelist.update(dict2)
 
 # Define a function to check if a given skill is in the whitelist
 def is_valid_skill(skill):

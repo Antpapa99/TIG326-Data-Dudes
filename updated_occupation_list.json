@@ -17,9 +17,7 @@
     },
     {
         "title": "teknisk projektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "resurskonsult",
@@ -27,9 +25,7 @@
     },
     {
         "title": "first line support",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "it-supporttekniker",
@@ -57,9 +53,7 @@
     },
     {
         "title": "systemf\u00f6rvaltare",
-        "skills": [
-            "systemf\u00f6rvaltning"
-        ]
+        "skills": []
     },
     {
         "title": "h\u00f6gskoleingenj\u00f6r",
@@ -89,11 +83,7 @@
     },
     {
         "title": "3rd-line support",
-        "skills": [
-            "drifting",
-            "n\u00e4tverk",
-            "sccm"
-        ]
+        "skills": []
     },
     {
         "title": "operations specialist",
@@ -118,31 +108,25 @@
     {
         "title": "sw-utvecklare",
         "skills": [
-            "datateknik",
             "c++"
         ]
     },
     {
         "title": "ios-utvecklare",
         "skills": [
-            "designsystem",
-            "swift",
-            "ios"
+            "swift"
         ]
     },
     {
         "title": "projektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "infrastrukturarkitekt",
         "skills": [
-            "jira",
-            "scrum",
-            "red hat",
-            "design"
+            "vmware",
+            "ansible",
+            "red hat"
         ]
     },
     {
@@ -151,15 +135,11 @@
     },
     {
         "title": "f\u00f6rvaltningsledare",
-        "skills": [
-            "pm3"
-        ]
+        "skills": []
     },
     {
         "title": "kodare",
-        "skills": [
-            "webbutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "mjukvaruingenj\u00f6r",
@@ -171,9 +151,7 @@
     },
     {
         "title": "h\u00e5rdvaruingenj\u00f6r",
-        "skills": [
-            "h\u00e5rdvarun\u00e4ra programmering"
-        ]
+        "skills": []
     },
     {
         "title": "ux-designer",
@@ -195,9 +173,7 @@
     },
     {
         "title": "devops-utvecklare",
-        "skills": [
-            "bash"
-        ]
+        "skills": []
     },
     {
         "title": "backend-utvecklare",
@@ -215,10 +191,7 @@
     },
     {
         "title": "utvecklingsledare",
-        "skills": [
-            "digitalisering",
-            "f\u00f6r\u00e4ndringsledning"
-        ]
+        "skills": []
     },
     {
         "title": "site reliability engineer",
@@ -250,40 +223,31 @@
         "title": "drifts\u00e4ttare",
         "skills": [
             "radio",
-            "data",
             "crm-system",
-            "duc",
-            "programmering",
             "citect"
         ]
     },
     {
         "title": "beslutsst\u00f6d",
         "skills": [
-            "datalager",
             "sql-server",
-            "data"
+            "microsoft azure"
         ]
     },
     {
         "title": "bi-utvecklare",
         "skills": [
             "sql",
-            "datamodellering",
-            "data"
+            "microsoft azure"
         ]
     },
     {
         "title": "verksamhetsutvecklare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "processutvecklare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "frontend developer",
@@ -296,10 +260,6 @@
     {
         "title": "servicetekniker",
         "skills": [
-            "skrivare",
-            "data",
-            "n\u00e4tverk",
-            "datorer",
             "routrar"
         ]
     },
@@ -309,28 +269,20 @@
     },
     {
         "title": "plattformsutvecklare",
-        "skills": [
-            "datorer"
-        ]
+        "skills": []
     },
     {
         "title": "linux-utvecklare",
         "skills": [
-            "datorer",
             "python",
-            "programmering",
             "git",
-            "c++",
-            "linux",
-            "jenkins"
+            "c++"
         ]
     },
     {
         "title": "databasadministrat\u00f6r",
         "skills": [
-            "databaser",
-            "sql-server",
-            "databas"
+            "sql-server"
         ]
     },
     {
@@ -345,9 +297,7 @@
     },
     {
         "title": "kravanalytiker",
-        "skills": [
-            "kravhantering"
-        ]
+        "skills": []
     },
     {
         "title": "verksamhetsst\u00f6d",
@@ -367,13 +317,7 @@
     },
     {
         "title": "digitaliseringschef",
-        "skills": [
-            "dokumentation",
-            "f\u00f6r\u00e4ndringsledning",
-            "digitaliseringsarbete",
-            "projektledning",
-            "digitaliseringsfr\u00e5gor"
-        ]
+        "skills": []
     },
     {
         "title": "civilingenj\u00f6r",
@@ -393,16 +337,11 @@
     },
     {
         "title": "installationstekniker",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "supportroll",
-        "skills": [
-            "ubuntu",
-            "linux"
-        ]
+        "skills": []
     },
     {
         "title": "it-samordnare",
@@ -416,24 +355,15 @@
         "title": "systemkoordinator",
         "skills": [
             "cms",
-            "crm",
-            "projektledning",
-            "kvalitetss\u00e4kring",
-            "databaser",
-            "anv\u00e4ndarsupport",
-            "kravhantering",
-            "systemf\u00f6rvaltning",
-            "digitalisering"
+            "crm"
         ]
     },
     {
         "title": "it-drifttekniker",
         "skills": [
-            "active directory",
-            "drifting",
-            "servrar",
-            "windows server",
-            "n\u00e4tverk"
+            "vmware",
+            "powershell",
+            "microsoft azure"
         ]
     },
     {
@@ -442,30 +372,23 @@
     },
     {
         "title": "drifttekniker",
-        "skills": [
-            "drifting",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "it-infrastrukturspecialist",
         "skills": [
-            "drifting",
-            "active directory",
-            "virtualisering",
-            "n\u00e4tverk"
+            "powershell",
+            "microsoft azure",
+            "kubernetes"
         ]
     },
     {
         "title": "teknisk specialist",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "informationss\u00e4kerhetssamordnare",
         "skills": [
-            "informationss\u00e4kerhet",
             "riskanalys"
         ]
     },
@@ -498,7 +421,6 @@
     {
         "title": "cobol-utvecklare",
         "skills": [
-            "db2",
             "cobol",
             "sql"
         ]
@@ -521,23 +443,18 @@
     },
     {
         "title": "security manager",
-        "skills": [
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "it-s\u00e4kerhetsansvarig",
         "skills": [
             "cissp",
-            "informationss\u00e4kerhet",
             "cism"
         ]
     },
     {
         "title": "customer support manager",
-        "skills": [
-            "jira"
-        ]
+        "skills": []
     },
     {
         "title": "2nd-line support",
@@ -557,15 +474,11 @@
     },
     {
         "title": "applikationsutvecklare",
-        "skills": [
-            "android"
-        ]
+        "skills": []
     },
     {
         "title": "it-konsult",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "trainee",
@@ -573,22 +486,18 @@
     },
     {
         "title": "handledare",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "systemdesigner",
         "skills": [
             "reglerteknik",
-            "data"
+            "powershell"
         ]
     },
     {
         "title": "n\u00e4tverkstekniker",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "dom\u00e4narkitekt",
@@ -607,9 +516,7 @@
     },
     {
         "title": "it-projektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "diskrimineringsombudsman",
@@ -625,9 +532,7 @@
     },
     {
         "title": "integrationsarkitekt",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "modell",
@@ -639,9 +544,7 @@
     },
     {
         "title": "mjukvarutestare",
-        "skills": [
-            "testning"
-        ]
+        "skills": []
     },
     {
         "title": "produktspecialist",
@@ -650,9 +553,7 @@
     {
         "title": "n\u00e4tverkskonsult",
         "skills": [
-            "cisco",
-            "n\u00e4tverksl\u00f6sningar",
-            "n\u00e4tverk"
+            "cisco"
         ]
     },
     {
@@ -668,22 +569,10 @@
     {
         "title": "rekryteringsspecialist",
         "skills": [
-            "unix",
-            "n\u00e4tverkskunskaper",
-            "datateknik",
             "civilingenj\u00f6rsutbildning",
-            "datavetenskap",
-            "linux",
-            "n\u00e4tverksteknik",
-            "n\u00e4tverksl\u00f6sningar",
             "cybers\u00e4kerhet",
-            "vpn",
             "sql",
-            "servrar",
-            "drifts\u00e4ttning",
-            "design",
-            "cissp",
-            "programmeringsspr\u00e5k"
+            "cissp"
         ]
     },
     {
@@ -697,6 +586,7 @@
     {
         "title": ".net-utvecklare",
         "skills": [
+            ".net",
             "c#"
         ]
     },
@@ -712,7 +602,9 @@
     },
     {
         "title": "systemkonsult",
-        "skills": []
+        "skills": [
+            "powershell"
+        ]
     },
     {
         "title": "testare",
@@ -741,41 +633,25 @@
     {
         "title": "l\u00e4rare",
         "skills": [
-            "python",
-            "programmeringsspr\u00e5k"
+            "python"
         ]
     },
     {
         "title": "webbanalytiker",
-        "skills": [
-            "programmering",
-            "webbutveckling",
-            "data",
-            "digital marknadsf\u00f6ring",
-            "konverteringsoptimering"
-        ]
+        "skills": []
     },
     {
         "title": "informationsarkitekt",
-        "skills": [
-            "datamodellering",
-            "informationsmodellering",
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "objektledare",
-        "skills": [
-            "pm3",
-            "f\u00f6r\u00e4ndringsledning"
-        ]
+        "skills": []
     },
     {
         "title": "2nd line supporttekniker",
         "skills": [
-            "active directory",
-            "windows server",
-            "n\u00e4tverk",
+            "microsoft azure",
             "citrix"
         ]
     },
@@ -793,10 +669,7 @@
     },
     {
         "title": "informationss\u00e4kerhetsspecialist",
-        "skills": [
-            "informationss\u00e4kerhet",
-            "informationss\u00e4kerhetsarbete"
-        ]
+        "skills": []
     },
     {
         "title": "change manager",
@@ -816,30 +689,24 @@
         "title": "kvalitetss\u00e4krare",
         "skills": [
             "python",
-            "soapui",
-            "gitlab",
-            "scrum",
-            "testning"
+            "gitlab"
         ]
     },
     {
         "title": "kvalitetss\u00e4kringsansvarig",
         "skills": [
             "python",
-            "soapui",
-            "gitlab",
-            "scrum"
+            "gitlab"
         ]
     },
     {
         "title": "365-utvecklare",
         "skills": [
-            "design",
+            "microsoft azure",
             "typescript",
             "react",
-            "dokumenthantering",
-            "css",
-            "html"
+            "angularjs",
+            "css"
         ]
     },
     {
@@ -848,22 +715,26 @@
     },
     {
         "title": "datatekniker",
-        "skills": [
-            "datorer"
-        ]
+        "skills": []
     },
     {
         "title": "integrationsutvecklare",
-        "skills": []
+        "skills": [
+            "microsoft azure"
+        ]
     },
     {
         "title": "365-konsult",
-        "skills": []
+        "skills": [
+            "powershell",
+            "microsoft azure"
+        ]
     },
     {
         "title": "s\u00e4ljst\u00f6d",
         "skills": [
-            "projektledning"
+            "powershell",
+            "microsoft azure"
         ]
     },
     {
@@ -877,22 +748,18 @@
     {
         "title": "cloud-specialist",
         "skills": [
-            "active directory",
-            "n\u00e4tverk"
+            "microsoft azure"
         ]
     },
     {
         "title": "pedagog",
         "skills": [
-            "iis",
-            "drifting"
+            "powershell"
         ]
     },
     {
         "title": "teknikspecialist",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "team leader",
@@ -905,10 +772,8 @@
     {
         "title": "spinninginstrukt\u00f6r",
         "skills": [
-            "dokumentation",
-            "kanban",
-            "git",
-            "scrum"
+            ".net",
+            "git"
         ]
     },
     {
@@ -918,14 +783,12 @@
     {
         "title": "s\u00e4kerhetskonsult",
         "skills": [
-            "check point",
-            "sccm"
+            "check point"
         ]
     },
     {
         "title": "webbutvecklare",
         "skills": [
-            "webbutveckling",
             "css",
             "javascript"
         ]
@@ -933,10 +796,7 @@
     {
         "title": "linux-konsult",
         "skills": [
-            "python",
-            "testning",
-            "linux",
-            "jenkins"
+            "python"
         ]
     },
     {
@@ -947,24 +807,15 @@
     },
     {
         "title": "1st line supporttekniker",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "kravspecialist",
-        "skills": [
-            "dokumentation",
-            "scrum"
-        ]
+        "skills": []
     },
     {
         "title": "kravledare",
-        "skills": [
-            "dokumentation",
-            "scrum",
-            "kravhantering"
-        ]
+        "skills": []
     },
     {
         "title": "technical support engineer",
@@ -982,26 +833,18 @@
     },
     {
         "title": "dataskyddsombud",
-        "skills": [
-            "informationss\u00e4kerhet",
-            "dataskyddsfr\u00e5gor",
-            "dataskydd"
-        ]
+        "skills": []
     },
     {
         "title": "r\u00e4ddningstj\u00e4nstpersonal",
         "skills": [
-            "projektledning",
-            "confluence",
-            "jira"
+            "confluence"
         ]
     },
     {
         "title": "deltidsbrandman",
         "skills": [
-            "projektledning",
-            "confluence",
-            "jira"
+            "confluence"
         ]
     },
     {
@@ -1017,9 +860,8 @@
         "skills": [
             "python",
             "cybers\u00e4kerhet",
-            "cloud",
-            "datorteknik",
-            "datorer"
+            "matlab",
+            "cloud"
         ]
     },
     {
@@ -1027,8 +869,8 @@
         "skills": [
             "python",
             "cybers\u00e4kerhet",
-            "cloud",
-            "datorteknik"
+            "matlab",
+            "cloud"
         ]
     },
     {
@@ -1037,11 +879,7 @@
     },
     {
         "title": "servertekniker",
-        "skills": [
-            "drifting",
-            "linux",
-            "windows server"
-        ]
+        "skills": []
     },
     {
         "title": "researcher",
@@ -1053,7 +891,9 @@
     },
     {
         "title": "operations engineer",
-        "skills": []
+        "skills": [
+            "powershell"
+        ]
     },
     {
         "title": "aml",
@@ -1061,9 +901,7 @@
     },
     {
         "title": "bi-konsult",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "backuptekniker",
@@ -1083,11 +921,7 @@
         "title": "datalagerutvecklare",
         "skills": [
             "visual studio",
-            "datalager",
-            "design",
             "sql-server",
-            "dimensionsmodellering",
-            "systemutveckling",
             "sql"
         ]
     },
@@ -1101,10 +935,7 @@
     },
     {
         "title": "informationss\u00e4kerhetsstrateg",
-        "skills": [
-            "projektledning",
-            "informationss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "coordinator",
@@ -1113,6 +944,7 @@
     {
         "title": "konstn\u00e4r",
         "skills": [
+            ".net",
             "java",
             "c#"
         ]
@@ -1120,8 +952,7 @@
     {
         "title": "forskare",
         "skills": [
-            "python",
-            "programmering"
+            "python"
         ]
     },
     {
@@ -1130,10 +961,7 @@
     },
     {
         "title": "it-f\u00f6rvaltare",
-        "skills": [
-            "projektledning",
-            "pm3"
-        ]
+        "skills": []
     },
     {
         "title": "delivery manager",
@@ -1142,9 +970,7 @@
     {
         "title": "line-tekniker",
         "skills": [
-            "active directory",
-            "sccm",
-            "n\u00e4tverk"
+            "microsoft azure"
         ]
     },
     {
@@ -1161,21 +987,19 @@
     },
     {
         "title": "interaktionsdesigner",
-        "skills": [
-            "interaktionsdesign",
-            "designsystem"
-        ]
+        "skills": []
     },
     {
         "title": "driftansvarig",
-        "skills": []
+        "skills": [
+            "microsoft azure",
+            "powershell"
+        ]
     },
     {
         "title": "devops-ingenj\u00f6r",
         "skills": [
-            "testning",
-            "programmering",
-            "jenkins",
+            "kubernetes",
             "ci"
         ]
     },
@@ -1186,19 +1010,12 @@
     {
         "title": "skribent",
         "skills": [
-            "digitalisering",
-            "f\u00f6r\u00e4ndringsledning",
-            "cosmic",
-            "manus",
-            "webbutveckling"
+            "cosmic"
         ]
     },
     {
         "title": "objektspecialist",
-        "skills": [
-            "systemf\u00f6rvaltning",
-            "pm3"
-        ]
+        "skills": []
     },
     {
         "title": "agil coach",
@@ -1222,15 +1039,11 @@
     },
     {
         "title": "e-commerce manager",
-        "skills": [
-            "e-handel"
-        ]
+        "skills": []
     },
     {
         "title": "onsite-tekniker",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "servicedeskmedarbetare",
@@ -1243,13 +1056,13 @@
     {
         "title": "it-manager",
         "skills": [
-            "java"
+            "java",
+            "spring boot"
         ]
     },
     {
         "title": "windowstekniker",
         "skills": [
-            "active directory",
             "sql"
         ]
     },
@@ -1268,7 +1081,6 @@
     {
         "title": "it-s\u00e4kerhetskonsult",
         "skills": [
-            "informationss\u00e4kerhet",
             "regelverk"
         ]
     },
@@ -1292,33 +1104,28 @@
     {
         "title": "it-systemtekniker",
         "skills": [
-            "informationss\u00e4kerhet",
             "riskhantering"
         ]
     },
     {
         "title": "implementationstekniker",
-        "skills": [
-            "drifting",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "scala-utvecklare",
         "skills": [
             "ci/cd",
             "git",
+            "kubernetes",
             "docker",
             "scala",
-            "distribuerade system",
-            "design"
+            "apache spark"
         ]
     },
     {
         "title": "serviceledare",
         "skills": [
-            "logic",
-            "microsoft biztalk"
+            "microsoft azure"
         ]
     },
     {
@@ -1328,36 +1135,26 @@
     {
         "title": "plattformsansvarig",
         "skills": [
-            "datavetenskap",
-            "databasadministration",
+            ".net",
+            "powershell",
             "sql-server",
-            "windows server",
-            "microsoft biztalk",
+            "vmware",
+            "kubernetes",
             "docker",
-            "dokumenthantering",
-            "chefserfarenhet",
-            "datalager",
-            "data",
-            "datahantering"
+            "microsoft azure",
+            "chefserfarenhet"
         ]
     },
     {
         "title": "v\u00e5rdinformationsst\u00f6d",
         "skills": [
             "r\u00f6r",
-            "xml",
-            "html",
-            "sql-server",
-            "xslt"
+            "sql-server"
         ]
     },
     {
         "title": "teknisk r\u00e5dgivare",
-        "skills": [
-            "dokumentation",
-            "n\u00e4tverk",
-            "virtualisering"
-        ]
+        "skills": []
     },
     {
         "title": "administrat\u00f6r",
@@ -1366,7 +1163,7 @@
     {
         "title": "servicedesktekniker",
         "skills": [
-            "n\u00e4tverk"
+            "microsoft azure"
         ]
     },
     {
@@ -1387,45 +1184,32 @@
             "certifieringar",
             "check point",
             "cisco",
-            "n\u00e4tverksl\u00f6sningar",
             "cisco switchar",
-            "cisco nexus",
-            "n\u00e4tverk"
+            "cisco nexus"
         ]
     },
     {
         "title": "bildanalytiker",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "systemledare",
-        "skills": [
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "lead engineer",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "noc-tekniker",
         "skills": [
-            "linux",
-            "n\u00e4tverk",
-            "active directory"
+            "microsoft azure"
         ]
     },
     {
         "title": "produktionssupport",
         "skills": [
-            "redaktionellt arbete",
-            "linux",
-            "ios",
-            "anv\u00e4ndarsupport"
+            "redaktionellt arbete"
         ]
     },
     {
@@ -1434,26 +1218,18 @@
     },
     {
         "title": "devsecops engineer",
-        "skills": [
-            "linux"
-        ]
+        "skills": []
     },
     {
         "title": "n\u00e4tverksspecialist",
         "skills": [
-            "drifting",
             "router",
-            "cisco",
-            "n\u00e4tverk",
-            "lan",
-            "design"
+            "cisco"
         ]
     },
     {
         "title": "chefsingenj\u00f6r",
-        "skills": [
-            "driftledning"
-        ]
+        "skills": []
     },
     {
         "title": "utbildningskonsult",
@@ -1480,18 +1256,15 @@
     {
         "title": "qa-ingenj\u00f6r",
         "skills": [
-            "testning",
+            ".net",
             "cloudtj\u00e4nster",
             "ci",
-            "drifting",
+            "microsoft azure",
             "python",
             "certifieringar",
-            "defekter",
-            "kvalitetss\u00e4kring",
             "rapportering",
             "java",
             "javascript",
-            "programmeringsspr\u00e5k",
             "c#"
         ]
     },
@@ -1504,17 +1277,11 @@
     },
     {
         "title": "delprojektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "initiativledare",
-        "skills": [
-            "projektledning",
-            "scrum",
-            "systemutvecklingsprojekt"
-        ]
+        "skills": []
     },
     {
         "title": "manager",
@@ -1535,21 +1302,14 @@
     {
         "title": "integrationskonsult",
         "skills": [
+            ".net",
             "c#",
-            "dokumentation",
-            "testning",
-            "programmering",
-            "datateknik",
-            "java",
-            "drifts\u00e4ttning"
+            "java"
         ]
     },
     {
         "title": "consultant manager",
-        "skills": [
-            "scrum",
-            "kanban"
-        ]
+        "skills": []
     },
     {
         "title": "support-specialist",
@@ -1574,9 +1334,8 @@
     {
         "title": "driftchef",
         "skills": [
-            "sql-server",
-            "n\u00e4tverk",
-            "drifting"
+            "vmware",
+            "sql-server"
         ]
     },
     {
@@ -1584,7 +1343,6 @@
         "skills": [
             "cms",
             "css",
-            "html",
             "google analytics"
         ]
     },
@@ -1594,19 +1352,14 @@
             "containrar",
             "ci/cd",
             "cloud",
-            "datavisualisering",
             "cucumber",
-            "soapui",
             "git",
-            "kvalitetss\u00e4kring",
-            "jira",
-            "kravhantering",
+            "groovy",
             "java",
+            "microsoft azure",
             "cms",
-            "episerver",
+            ".net",
             "javascript",
-            "jenkins",
-            "active directory",
             "cloudtj\u00e4nster"
         ]
     },
@@ -1616,33 +1369,20 @@
     },
     {
         "title": "applikationstekniker",
-        "skills": [
-            "n\u00e4tverksteknik",
-            "databasadministration"
-        ]
+        "skills": []
     },
     {
         "title": "it-s\u00e4kerhetstekniker",
         "skills": [
             "certifieringar",
-            "n\u00e4tverk",
-            "n\u00e4tverksinfrastruktur",
-            "vpn",
             "router"
         ]
     },
     {
         "title": "systemoperat\u00f6r",
         "skills": [
-            "n\u00e4tverk",
-            "virtuella milj\u00f6er",
-            "linux",
-            "testning",
-            "node",
-            "databas",
-            "unix",
-            "cisco ios",
-            "drifting"
+            "vmware",
+            "cisco ios"
         ]
     },
     {
@@ -1654,9 +1394,7 @@
     {
         "title": "linuxtekniker",
         "skills": [
-            "linux",
-            "python",
-            "drifting"
+            "python"
         ]
     },
     {
@@ -1665,9 +1403,7 @@
     },
     {
         "title": "personnel manager",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "aff\u00e4rssystemkonsult",
@@ -1678,23 +1414,13 @@
     {
         "title": "tj\u00e4nsteutvecklare",
         "skills": [
-            "scrum",
             "regelverk",
-            "anv\u00e4ndbarhet",
-            "confluence",
-            "dokumentation",
-            "anv\u00e4ndarsupport",
-            "dataanalys",
-            "jira"
+            "confluence"
         ]
     },
     {
         "title": "qa-konsult",
-        "skills": [
-            "programmeringsspr\u00e5k",
-            "jenkins",
-            "selenium"
-        ]
+        "skills": []
     },
     {
         "title": "it-personal",
@@ -1706,10 +1432,7 @@
     },
     {
         "title": "hr-handl\u00e4ggare",
-        "skills": [
-            "drifting",
-            "n\u00e4tverkss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "it-service manager",
@@ -1729,47 +1452,35 @@
     {
         "title": "spelutvecklare",
         "skills": [
-            "programmering",
             "c++",
-            "unity",
-            "c#",
-            "datateknik"
+            "c#"
         ]
     },
     {
         "title": "databasutvecklare",
         "skills": [
-            "data",
             "sql",
-            "databas",
             "sql-server"
         ]
     },
     {
         "title": "telefonoperat\u00f6r",
         "skills": [
-            "testning",
-            "cucumber",
-            "selenium",
-            "scrum"
+            "cucumber"
         ]
     },
     {
         "title": "kundansvarig",
         "skills": [
-            "virtualisering",
+            "vmware",
             "citrix",
-            "n\u00e4tverk",
-            "windows server",
-            "drifting"
+            "powershell",
+            "microsoft azure"
         ]
     },
     {
         "title": "programledare",
-        "skills": [
-            "data",
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "generalist",
@@ -1778,7 +1489,8 @@
     {
         "title": "testautomatiserare",
         "skills": [
-            "python"
+            "python",
+            ".net"
         ]
     },
     {
@@ -1796,37 +1508,31 @@
     {
         "title": "people manager",
         "skills": [
-            "systemutveckling"
+            ".net"
         ]
     },
     {
         "title": ".net-arkitekt",
         "skills": [
             "css",
-            "html",
             "javascript"
         ]
     },
     {
         "title": "aff\u00e4rskonsult",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "integrat\u00f6r",
         "skills": [
-            "java",
-            "n\u00e4tverk"
+            "microsoft azure",
+            "java"
         ]
     },
     {
         "title": "ledningsst\u00f6d",
         "skills": [
-            "dokumentation",
-            "linux",
-            "kravhantering",
-            "dataskydd"
+            "microsoft azure"
         ]
     },
     {
@@ -1847,35 +1553,25 @@
     },
     {
         "title": "sakkunnig",
-        "skills": [
-            "informationss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "it-s\u00e4kerhetssamordnare",
         "skills": [
             "certifieringar",
-            "systemutveckling",
             "risk management",
-            "informationss\u00e4kerhet",
-            "compliance",
-            "n\u00e4tverk",
-            "kravhantering"
+            "compliance"
         ]
     },
     {
         "title": "unix-tekniker",
-        "skills": [
-            "unix",
-            "linux",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "it-operations manager",
         "skills": [
+            "microsoft azure",
             "cloud",
-            "linux",
             "sql-server"
         ]
     },
@@ -1896,21 +1592,15 @@
     },
     {
         "title": "l\u00f6nechef",
-        "skills": [
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "hr-direkt\u00f6r",
-        "skills": [
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "system manager",
-        "skills": [
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "sharepoint-utvecklare",
@@ -1929,21 +1619,14 @@
     {
         "title": "l\u00e4kare",
         "skills": [
-            "programmering",
             "react",
-            "f\u00f6r\u00e4ndringsledning",
-            "testning",
             "python",
-            "c++",
-            "datavetenskap",
-            "design"
+            "c++"
         ]
     },
     {
         "title": "leveransansvarig",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "technical lead",
@@ -1951,25 +1634,18 @@
     },
     {
         "title": "systemanalytiker",
-        "skills": [
-            "projektledning",
-            "sap",
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "databasansvarig",
         "skills": [
-            "javascript",
-            "datahantering",
-            "html"
+            "javascript"
         ]
     },
     {
         "title": "webbansvarig",
         "skills": [
-            "cms",
-            "webbutveckling"
+            "cms"
         ]
     },
     {
@@ -2003,34 +1679,20 @@
     {
         "title": "dataanalytiker",
         "skills": [
-            "dataanalys",
-            "datavisualisering",
             "python",
-            "datalager",
-            "datavetenskap",
             "sql",
-            "data warehouse",
-            "dimensionsmodellering",
-            "data",
-            "programmeringsspr\u00e5k",
-            "datamodellering",
-            "visualiseringsverktyg",
             "c#"
         ]
     },
     {
         "title": "s\u00e4kerhetsskyddshandl\u00e4ggare",
-        "skills": [
-            "informationss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "dokumentationstekniker",
         "skills": [
-            "dokumentation",
             "relationshandlingar",
-            "cad",
-            "dokumentationsteknik"
+            "cad"
         ]
     },
     {
@@ -2041,9 +1703,7 @@
     },
     {
         "title": "php-utvecklare",
-        "skills": [
-            "e-handelsplattformar"
-        ]
+        "skills": []
     },
     {
         "title": "projektkoordinator",
@@ -2056,10 +1716,6 @@
     {
         "title": "l\u00f6sningsspecialist",
         "skills": [
-            "sap",
-            "systemutveckling",
-            "databaser",
-            "systemf\u00f6rvaltning",
             "sql"
         ]
     },
@@ -2077,10 +1733,7 @@
     },
     {
         "title": "e-handelsadministrat\u00f6r",
-        "skills": [
-            "e-handel",
-            "wordpress"
-        ]
+        "skills": []
     },
     {
         "title": "helpdesktekniker",
@@ -2090,7 +1743,6 @@
         "title": "android-utvecklare",
         "skills": [
             "java",
-            "android",
             "kotlin"
         ]
     },
@@ -2098,9 +1750,7 @@
         "title": "detektiv",
         "skills": [
             "sql",
-            "c#",
-            "n\u00e4tverkss\u00e4kerhet",
-            "programmering"
+            "c#"
         ]
     },
     {
@@ -2114,14 +1764,9 @@
     {
         "title": "integrationstekniker",
         "skills": [
-            "windows server",
-            "systemutveckling",
+            "powershell",
             "certifikat",
-            "sql",
-            "microsoft biztalk",
-            "unix",
-            "datakommunikation",
-            "linux"
+            "sql"
         ]
     },
     {
@@ -2131,28 +1776,20 @@
     {
         "title": "it-strateg",
         "skills": [
-            "informationss\u00e4kerhetsarbete",
-            "systemf\u00f6rvaltning",
-            "projektledning",
             "certifieringar"
         ]
     },
     {
         "title": "driftsamordnare",
-        "skills": [
-            "datorvana"
-        ]
+        "skills": []
     },
     {
         "title": "implementat\u00f6r",
         "skills": [
-            "programmering",
-            "databashantering",
+            ".net",
             "javascript",
             "sql-server",
             "c#",
-            "erp-system",
-            "e-handel",
             "redovisning"
         ]
     },
@@ -2172,12 +1809,7 @@
         "title": "n\u00e4tverksarkitekt",
         "skills": [
             "red hat",
-            "lan",
-            "n\u00e4tverksarkitektur",
-            "linux",
-            "dns",
-            "dhcp",
-            "design",
+            "vmware",
             "router"
         ]
     },
@@ -2199,18 +1831,14 @@
         "title": "intelligence-konsult",
         "skills": [
             "cloudl\u00f6sningar",
-            "digitaliseringsfr\u00e5gor",
-            "data",
             "sql-server",
+            "microsoft azure",
             "sql"
         ]
     },
     {
         "title": "it-s\u00e4kerhetschef",
-        "skills": [
-            "datateknik",
-            "informationss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "service delivery manager",
@@ -2222,16 +1850,12 @@
     },
     {
         "title": "koncernarkitekt",
-        "skills": [
-            "distribuerade system",
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "s\u00e4kerhetsingenj\u00f6r",
         "skills": [
-            "riskhantering",
-            "n\u00e4tverk"
+            "riskhantering"
         ]
     },
     {
@@ -2240,9 +1864,7 @@
     },
     {
         "title": "teknisk konsult",
-        "skills": [
-            "databashantering"
-        ]
+        "skills": []
     },
     {
         "title": "controller",
@@ -2258,9 +1880,7 @@
     },
     {
         "title": "dba",
-        "skills": [
-            "databaser"
-        ]
+        "skills": []
     },
     {
         "title": "funktionsutvecklare",
@@ -2273,13 +1893,12 @@
         "title": "infrastrukturutvecklare",
         "skills": [
             "red hat",
+            "vmware",
             "centos",
-            "active directory",
-            "dns",
-            "sccm",
+            "kubernetes",
+            "ansible",
             "python",
-            "bash",
-            "linux",
+            "puppet",
             "docker",
             "ruby",
             "java",
@@ -2290,80 +1909,54 @@
     {
         "title": "integrationsingenj\u00f6r",
         "skills": [
-            "datorer",
-            "systemutveckling",
-            "programmering",
-            "defekter",
-            "h\u00e5rdvarun\u00e4ra programmering",
             "rapportering",
-            "n\u00e4tverk"
+            "kubernetes"
         ]
     },
     {
         "title": "teknisksupport",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "telefonsupport",
         "skills": [
-            "citrix",
-            "n\u00e4tverk"
+            "citrix"
         ]
     },
     {
         "title": "penetrationstestare",
-        "skills": [
-            "active directory",
-            "linux",
-            "programmeringsspr\u00e5k"
-        ]
+        "skills": []
     },
     {
         "title": "specialistroll",
         "skills": [
-            "dokumentation",
-            "n\u00e4tverksarkitektur",
-            "linux",
             "regelverk",
-            "apl",
-            "systemutveckling",
-            "digitalisering"
+            "apl"
         ]
     },
     {
         "title": "cloud engineer",
-        "skills": []
+        "skills": [
+            "terraform"
+        ]
     },
     {
         "title": "ict-tekniker",
-        "skills": [
-            "n\u00e4tverk",
-            "servrar"
-        ]
+        "skills": []
     },
     {
         "title": "gruppledare",
         "skills": [
-            "programmering",
-            "linux",
-            "centos",
-            "servrar",
-            "n\u00e4tverk"
+            "centos"
         ]
     },
     {
         "title": "service desk manager",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "teknisk systemf\u00f6rvaltare",
-        "skills": [
-            "systemf\u00f6rvaltning"
-        ]
+        "skills": []
     },
     {
         "title": "studentkonsult",
@@ -2379,35 +1972,25 @@
     },
     {
         "title": "eln\u00e4tsprojekt\u00f6r",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "beredare",
         "skills": [
-            "projektledning",
             "rapportering"
         ]
     },
     {
         "title": "testspecialist",
         "skills": [
-            "e-handel",
             "python",
             "c++",
-            "regressionstestning",
-            "design",
-            "testning",
-            "programmering",
-            "soapui"
+            "regressionstestning"
         ]
     },
     {
         "title": "logistiktekniker",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "creative director",
@@ -2416,16 +1999,8 @@
     {
         "title": "applikationssupport",
         "skills": [
-            "drift\u00f6vervakning",
-            "unix",
-            "systemutveckling",
-            "linux",
-            "xml",
-            "jira",
             "sql",
-            "xsd",
-            "java",
-            "jenkins"
+            "java"
         ]
     },
     {
@@ -2434,37 +2009,24 @@
     },
     {
         "title": "planerare",
-        "skills": [
-            "projektledning",
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "s\u00e4kerhetssamordnare",
         "skills": [
             "ramavtal",
-            "projektledning",
-            "dataskyddsfr\u00e5gor",
-            "dataskyddsarbete",
-            "informationss\u00e4kerhet",
             "riskanalys"
         ]
     },
     {
         "title": "software asset manager",
-        "skills": [
-            "scrum",
-            "kanban"
-        ]
+        "skills": []
     },
     {
         "title": "cybers\u00e4kerhetsspecialist",
         "skills": [
             "cybers\u00e4kerhet",
-            "informationss\u00e4kerhet",
-            "riskanalys",
-            "informationss\u00e4kerhetsarbete",
-            "dataskyddslagstiftning"
+            "riskanalys"
         ]
     },
     {
@@ -2477,10 +2039,6 @@
     {
         "title": "arkivarie",
         "skills": [
-            "dokumentation",
-            "dokumentationssystem",
-            "datateknik",
-            "systemf\u00f6rvaltning",
             "riskanalys"
         ]
     },
@@ -2488,64 +2046,47 @@
         "title": "iam-konsult",
         "skills": [
             "cybers\u00e4kerhet",
-            "cloud",
-            "datateknik"
+            "cloud"
         ]
     },
     {
         "title": "kravingenj\u00f6r",
         "skills": [
-            "kanban",
-            "kravhantering",
-            "scrum",
-            "r\u00f6r",
-            "design"
+            "r\u00f6r"
         ]
     },
     {
         "title": "rapportutvecklare",
         "skills": [
-            "programmering",
-            "datalager",
-            "xml",
-            "databaser",
             "sql",
             "rapportverktyg",
-            "xslt",
             "regelverk"
         ]
     },
     {
         "title": "sales consultant manager",
-        "skills": [
-            "agila arbetsmetoder"
-        ]
+        "skills": []
     },
     {
         "title": "infrastrukturspecialist",
         "skills": [
-            "python",
-            "dns"
+            "ansible",
+            "python"
         ]
     },
     {
         "title": "ambassad\u00f6r",
         "skills": [
-            "systemutveckling"
+            "microsoft azure"
         ]
     },
     {
         "title": "v\u00e5rdsystemsamordnare",
-        "skills": [
-            "anv\u00e4ndarsupport",
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "product engineering manager",
         "skills": [
-            "deployment",
-            "data",
             "continuous integration"
         ]
     },
@@ -2563,10 +2104,7 @@
     },
     {
         "title": "f\u00e4ltservicetekniker",
-        "skills": [
-            "n\u00e4tverk",
-            "skrivare"
-        ]
+        "skills": []
     },
     {
         "title": "noc-operat\u00f6r",
@@ -2574,19 +2112,11 @@
     },
     {
         "title": "produktionstekniker",
-        "skills": [
-            "testning",
-            "scanner",
-            "dfx",
-            "programmering",
-            "webbutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "dw-utvecklare",
         "skills": [
-            "systemutveckling",
-            "programmering",
             "sql-server"
         ]
     },
@@ -2601,18 +2131,14 @@
     {
         "title": "beslutsfattare",
         "skills": [
-            "data",
             "rapportering"
         ]
     },
     {
         "title": "webbredakt\u00f6r",
         "skills": [
-            "episerver",
             "css",
-            "html",
             "connector",
-            "datorvana",
             "drupal"
         ]
     },
@@ -2623,19 +2149,14 @@
     {
         "title": "s\u00e4kerhetstekniker",
         "skills": [
-            "cybers\u00e4kerhet",
-            "n\u00e4tverk",
-            "n\u00e4tverksteknik"
+            "cybers\u00e4kerhet"
         ]
     },
     {
         "title": "supportingenj\u00f6r",
         "skills": [
             "python",
-            "c++",
-            "programmeringsspr\u00e5k",
-            "dokumentation",
-            "programmering"
+            "c++"
         ]
     },
     {
@@ -2644,11 +2165,7 @@
     },
     {
         "title": "helpdeskmedarbetare",
-        "skills": [
-            "datorer",
-            "informationss\u00e4kerhet",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "automationsprogrammerare",
@@ -2656,23 +2173,18 @@
     },
     {
         "title": "it-s\u00e4kerhetshandl\u00e4ggare",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "it-systemadministrat\u00f6r",
         "skills": [
-            "servrar",
-            "docker",
-            "drifting"
+            "powershell",
+            "docker"
         ]
     },
     {
         "title": "utvecklingsingenj\u00f6r",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "it-s\u00e4kerhetsingenj\u00f6r",
@@ -2689,14 +2201,9 @@
     {
         "title": "etl-utvecklare",
         "skills": [
-            "dokumentation",
-            "testning",
-            "data",
             "sql",
-            "design",
-            "datamodellering",
             "sql-server",
-            "data warehouse"
+            "microsoft azure"
         ]
     },
     {
@@ -2706,9 +2213,7 @@
     {
         "title": "cad-ritare",
         "skills": [
-            "projektledning",
-            "creo",
-            "design"
+            "creo"
         ]
     },
     {
@@ -2717,16 +2222,11 @@
     },
     {
         "title": "verksamhetsledare",
-        "skills": [
-            "datavetenskap",
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "informationsf\u00f6rvaltare",
-        "skills": [
-            "dokumentationsverktyg"
-        ]
+        "skills": []
     },
     {
         "title": "applikationsingenj\u00f6r",
@@ -2746,35 +2246,19 @@
     },
     {
         "title": "personalchef",
-        "skills": [
-            "informationss\u00e4kerhet"
-        ]
+        "skills": []
     },
     {
         "title": "produktionsledare",
-        "skills": [
-            "kanban",
-            "scrum"
-        ]
+        "skills": []
     },
     {
         "title": "produktansvarig",
-        "skills": [
-            "projektledning",
-            "systemf\u00f6rvaltning",
-            "kravhantering",
-            "scrum",
-            "dataanalys",
-            "f\u00f6r\u00e4ndringsledning",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "solution manager",
-        "skills": [
-            "sap",
-            "informationss\u00e4kerhetsomr\u00e5det"
-        ]
+        "skills": []
     },
     {
         "title": "konfigurationsingenj\u00f6r",
@@ -2800,10 +2284,7 @@
     },
     {
         "title": "it security architect",
-        "skills": [
-            "informationss\u00e4kerhet",
-            "linux"
-        ]
+        "skills": []
     },
     {
         "title": "customer support",
@@ -2813,8 +2294,7 @@
         "title": "business controller",
         "skills": [
             "crm",
-            "sql-databaser",
-            "visualisering"
+            "sql-databaser"
         ]
     },
     {
@@ -2824,35 +2304,25 @@
     {
         "title": "kommunikationstekniker",
         "skills": [
-            "driftmilj\u00f6",
-            "routrar",
-            "design"
+            "routrar"
         ]
     },
     {
         "title": "konstrukt\u00f6r",
-        "skills": [
-            "systemutvecklingsarbete"
-        ]
+        "skills": []
     },
     {
         "title": "fastighetstekniker",
         "skills": [
-            "dataprogram",
-            "datorer",
-            "drifting",
             "reglersystem"
         ]
     },
     {
         "title": "testtekniker",
         "skills": [
-            "dokumentation",
-            "data",
+            "microsoft azure",
             "c++",
             "civilingenj\u00f6rsutbildning",
-            "testledning",
-            "kravhantering",
             "c#"
         ]
     },
@@ -2868,15 +2338,13 @@
         "title": "cloud-arkitekt",
         "skills": [
             "certifieringar",
-            "kanban",
-            "cloud",
-            "scrum"
+            "cloud"
         ]
     },
     {
         "title": "software consultant",
         "skills": [
-            "node",
+            ".net",
             "java",
             "c#"
         ]
@@ -2884,24 +2352,14 @@
     {
         "title": "leveransledare",
         "skills": [
-            "scrum",
-            "projektledning",
-            "systemutvecklingsprojekt",
             "registerkontroll"
         ]
     },
     {
         "title": "kronofogden",
         "skills": [
-            "systemutveckling",
-            "systemf\u00f6rvaltning",
-            "scrum",
-            "projektledning",
-            "systemutvecklingsprojekt",
             "certifieringar",
             "cissp",
-            "informationss\u00e4kerhet",
-            "informationss\u00e4kerhetsarbete",
             "r\u00e5dgivning",
             "riskhantering",
             "riskanalys"
@@ -2910,20 +2368,13 @@
     {
         "title": "teknikst\u00f6d",
         "skills": [
-            "digitalisering",
-            "skrivare",
             "ciscos",
-            "router",
-            "sccm",
-            "n\u00e4tverk"
+            "router"
         ]
     },
     {
         "title": "fpga-utvecklare",
-        "skills": [
-            "labview",
-            "vhdl"
-        ]
+        "skills": []
     },
     {
         "title": "omr\u00e5desarkitekt",
@@ -2931,18 +2382,15 @@
     },
     {
         "title": "native-utvecklare",
-        "skills": [
-            "ios",
-            "android"
-        ]
+        "skills": []
     },
     {
         "title": "planner",
         "skills": [
             "python",
-            "agila arbetsmetoder",
             "sql",
             "java",
+            "microsoft azure",
             "rimlighetsbed\u00f6mningar"
         ]
     },
@@ -2956,7 +2404,9 @@
     },
     {
         "title": "azure-specialist",
-        "skills": []
+        "skills": [
+            "microsoft azure"
+        ]
     },
     {
         "title": "co",
@@ -2965,13 +2415,7 @@
     {
         "title": "tj\u00e4nstedesigner",
         "skills": [
-            "agila arbetsmetoder",
-            "design",
-            "digitalisering",
             "research",
-            "designprocessen",
-            "dokumentation",
-            "prototyping",
             "cms",
             "cms-l\u00f6sningar"
         ]
@@ -2979,19 +2423,9 @@
     {
         "title": "webbstrateg",
         "skills": [
-            "agila arbetsmetoder",
-            "design",
             "cms",
-            "sitevision",
-            "webbutveckling",
-            "testning",
-            "episerver",
             "confluence",
-            "projektledning",
-            "jira",
-            "designsystem",
-            "kravhantering",
-            "testledning"
+            "microsoft azure"
         ]
     },
     {
@@ -3000,9 +2434,7 @@
     },
     {
         "title": "major incident manager",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "omr\u00e5deschef",
@@ -3019,23 +2451,16 @@
     {
         "title": "projekt\u00f6r",
         "skills": [
-            "data",
             "radio"
         ]
     },
     {
         "title": "tj\u00e4nsteomr\u00e5desansvarig",
-        "skills": [
-            "systemutveckling",
-            "systemf\u00f6rvaltning",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "e-tj\u00e4nsteutvecklare",
         "skills": [
-            "programmering",
-            "projektledning",
             "javascript"
         ]
     },
@@ -3055,22 +2480,18 @@
         "title": "trainer",
         "skills": [
             "java",
-            "c++",
-            "webbutveckling"
+            "c++"
         ]
     },
     {
         "title": "javascript-utvecklare",
         "skills": [
-            "html5",
             "css"
         ]
     },
     {
         "title": "teknisk skribent",
-        "skills": [
-            "grafisk design"
-        ]
+        "skills": []
     },
     {
         "title": "technical writer",
@@ -3080,7 +2501,7 @@
         "title": "it-utvecklare",
         "skills": [
             "c++",
-            "linux"
+            "microsoft azure"
         ]
     },
     {
@@ -3107,16 +2528,13 @@
     },
     {
         "title": "incident manager",
-        "skills": [
-            "f\u00f6r\u00e4ndringsledning"
-        ]
+        "skills": []
     },
     {
         "title": "chauff\u00f6r",
         "skills": [
             "kotlin",
-            "java",
-            "android"
+            "java"
         ]
     },
     {
@@ -3125,10 +2543,7 @@
     },
     {
         "title": "teknisk administrat\u00f6r",
-        "skills": [
-            "sap",
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "konfigurationsledare",
@@ -3140,15 +2555,11 @@
     },
     {
         "title": "project manager officer",
-        "skills": [
-            "f\u00f6r\u00e4ndringsledning",
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "jurist",
         "skills": [
-            "informationss\u00e4kerhet",
             "riskanalys"
         ]
     },
@@ -3160,18 +2571,14 @@
         "title": "it-ingenj\u00f6r",
         "skills": [
             "oracle",
+            "vmware",
             "sql",
             "clustering"
         ]
     },
     {
         "title": "personalvetare",
-        "skills": [
-            "verksamhetsanalys",
-            "f\u00f6r\u00e4ndringsledning",
-            "projektledning",
-            "systemf\u00f6rvaltning"
-        ]
+        "skills": []
     },
     {
         "title": "software manager",
@@ -3186,15 +2593,11 @@
     },
     {
         "title": "rekryteringschef",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "teknikledare",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "it-tj\u00e4nsteansvarig",
@@ -3203,52 +2606,38 @@
     {
         "title": "aff\u00e4rsutvecklare",
         "skills": [
-            "erp-system",
-            "projektledning",
-            "html",
-            "databasdesign",
             "sql",
             "java",
-            "asp",
-            "javascript",
-            "programmeringsspr\u00e5k"
+            "javascript"
         ]
     },
     {
         "title": "c#-utvecklare",
         "skills": [
-            "systemutveckling",
-            "c#",
-            "programmering"
+            "c#"
         ]
     },
     {
         "title": "applikationsansvarig",
         "skills": [
-            "active directory",
-            "windows server",
             "vba-programmering"
         ]
     },
     {
         "title": "it-infrastrukturtekniker",
         "skills": [
-            "dns",
             "router",
-            "n\u00e4tverk",
             "cisco switchar",
             "certifikat",
-            "active directory",
+            "vmware",
             "cloud",
-            "servrar"
+            "microsoft azure"
         ]
     },
     {
         "title": "tolk",
         "skills": [
-            "registerkontroll",
-            "design",
-            "systemutveckling"
+            "registerkontroll"
         ]
     },
     {
@@ -3258,27 +2647,20 @@
     {
         "title": "utvecklingsansvarig",
         "skills": [
-            "informationss\u00e4kerhet",
             "javascript"
         ]
     },
     {
         "title": "f\u00f6rmedling",
-        "skills": [
-            "pm3"
-        ]
+        "skills": []
     },
     {
         "title": "dataansvarig",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "analysansvarig",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "quality engineer",
@@ -3286,26 +2668,17 @@
     },
     {
         "title": "digitaliseringsledare",
-        "skills": [
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "windowsspecialist",
         "skills": [
-            "virtualisering",
-            "linux",
-            "drifting",
-            "registerkontroll",
-            "dokumentation",
-            "testning"
+            "registerkontroll"
         ]
     },
     {
         "title": "verksamhetskonsult",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "operations manager",
@@ -3318,16 +2691,12 @@
     {
         "title": "biztalk-utvecklare",
         "skills": [
-            "ramavtal",
-            "drifting",
-            "microsoft biztalk"
+            "ramavtal"
         ]
     },
     {
         "title": "portf\u00f6ljadministrat\u00f6r",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "processledare",
@@ -3336,14 +2705,14 @@
     {
         "title": "elkraftsingenj\u00f6r",
         "skills": [
-            "rapportskrivning",
-            "dimensionering"
+            "rapportskrivning"
         ]
     },
     {
         "title": "prestandatestare",
         "skills": [
             "python",
+            ".net",
             "javascript"
         ]
     },
@@ -3366,15 +2735,12 @@
     {
         "title": "stack-utvecklare",
         "skills": [
-            "javascript",
-            "html"
+            "javascript"
         ]
     },
     {
         "title": "teknisk systemadministrat\u00f6r",
-        "skills": [
-            "systemf\u00f6rvaltning"
-        ]
+        "skills": []
     },
     {
         "title": "biodlare",
@@ -3383,31 +2749,21 @@
     {
         "title": "it-driftchef",
         "skills": [
-            "drifting",
-            "xml",
             "sql-server",
-            "csv",
-            "n\u00e4tverk"
+            "csv"
         ]
     },
     {
         "title": "webbdesigner",
         "skills": [
-            "webbutveckling",
-            "digital marknadsf\u00f6ring",
             "sass",
             "javascript",
-            "html",
             "css"
         ]
     },
     {
         "title": "driftoperat\u00f6r",
-        "skills": [
-            "unix",
-            "linux",
-            "driftarbete"
-        ]
+        "skills": []
     },
     {
         "title": "program manager",
@@ -3415,42 +2771,28 @@
     },
     {
         "title": "it program manager",
-        "skills": [
-            "projektledning",
-            "webbutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "mjukvarukonstrukt\u00f6r",
         "skills": [
             "c++",
-            "design",
-            "linux",
             "c#"
         ]
     },
     {
         "title": "driftkonsult",
-        "skills": [
-            "n\u00e4tverksinfrastruktur",
-            "servrar",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "infrastrukturkonsult",
         "skills": [
-            "n\u00e4tverksinfrastruktur",
-            "servrar",
-            "n\u00e4tverk",
-            "windows server"
+            "powershell"
         ]
     },
     {
         "title": "supportansvarig",
-        "skills": [
-            "datorvana"
-        ]
+        "skills": []
     },
     {
         "title": "soldat",
@@ -3465,19 +2807,16 @@
         "skills": [
             "radio",
             "realtidssystem",
-            "dataingenj\u00f6rsutbildning",
             "c++",
-            "data",
             "civilingenj\u00f6rsutbildning",
-            "linux",
+            "kubernetes",
             "docker"
         ]
     },
     {
         "title": "multidiciplin\u00e4r projektledare",
         "skills": [
-            "resor",
-            "projektledning"
+            "resor"
         ]
     },
     {
@@ -3494,30 +2833,22 @@
     },
     {
         "title": "planeringschef",
-        "skills": [
-            "driftledning"
-        ]
+        "skills": []
     },
     {
         "title": "projektkonsult",
         "skills": [
-            "active directory",
-            "cloudtj\u00e4nster"
+            "cloudtj\u00e4nster",
+            "microsoft azure"
         ]
     },
     {
         "title": "utbildningssamordnare",
-        "skills": [
-            "data",
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "onsite-support",
-        "skills": [
-            "datorer",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "teknikersupport",
@@ -3537,38 +2868,29 @@
     },
     {
         "title": "marknadskoordinator",
-        "skills": [
-            "webbutveckling",
-            "digital marknadsf\u00f6ring",
-            "wordpress"
-        ]
+        "skills": []
     },
     {
         "title": "ikt-tekniker",
         "skills": [
-            "jira",
             "reparation"
         ]
     },
     {
         "title": "butikss\u00e4ljare",
         "skills": [
-            "datorer",
             "reparation"
         ]
     },
     {
         "title": "butikschef",
         "skills": [
-            "datorer",
             "reparation"
         ]
     },
     {
         "title": "klienttekniker",
-        "skills": [
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "it-supportspecialist",
@@ -3582,12 +2904,8 @@
         "title": "sitevision-utvecklare",
         "skills": [
             "cms",
-            "sitevision",
-            "webbutveckling",
             "javascript",
-            "html",
-            "react",
-            "episerver"
+            "react"
         ]
     },
     {
@@ -3608,28 +2926,16 @@
     },
     {
         "title": "j\u00e4gare",
-        "skills": [
-            "n\u00e4tverksl\u00f6sningar",
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "musiker",
-        "skills": [
-            "n\u00e4tverksl\u00f6sningar",
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "verksamhetsspecialist",
         "skills": [
-            "projektledning",
-            "pm3",
-            "kravhantering",
-            "vidareutveckling",
-            "confluence",
-            "jira",
-            "anv\u00e4ndarsupport"
+            "confluence"
         ]
     },
     {
@@ -3638,9 +2944,7 @@
     },
     {
         "title": "cloudutvecklare",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "forensiker",
@@ -3653,23 +2957,15 @@
     {
         "title": "programadministrat\u00f6r",
         "skills": [
-            "dokumentation",
             "rapportering"
         ]
     },
     {
         "title": "verksamhetsansvarig",
         "skills": [
-            "programmering",
             "redovisning",
             "radioteknik",
-            "masterdata",
-            "datalager",
-            "data",
-            "sql-databaser",
-            "kvalitetss\u00e4kring",
-            "datahantering",
-            "databaser"
+            "sql-databaser"
         ]
     },
     {
@@ -3680,56 +2976,40 @@
     },
     {
         "title": "arbetsledare",
-        "skills": [
-            "sap",
-            "masterdata",
-            "datasystem"
-        ]
+        "skills": []
     },
     {
         "title": "informationss\u00e4kerhetschef",
         "skills": [
-            "f\u00f6r\u00e4ndringsledning",
-            "projektledning",
-            "informationss\u00e4kerhetsomr\u00e5det",
-            "informationss\u00e4kerhet",
             "riskhantering"
         ]
     },
     {
         "title": "mont\u00f6r",
-        "skills": [
-            "driftavtal",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "projekttekniker",
-        "skills": [
-            "driftavtal",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "av-tekniker",
-        "skills": [
-            "videokonferenssystem",
-            "mac os x",
-            "n\u00e4tverk",
-            "ubuntu",
-            "skrivare"
-        ]
+        "skills": []
     },
     {
         "title": "devops-konsult",
         "skills": [
-            "unix",
+            "ansible",
+            "microsoft azure",
             "python",
             "cloud",
             "docker",
-            "linux",
+            "puppet",
+            "mariadb",
+            "kubernetes",
+            "mongodb",
             "oracle",
-            "databas",
+            ".net",
             "react"
         ]
     },
@@ -3740,17 +3020,14 @@
     {
         "title": "applikationspaketerare",
         "skills": [
-            "adminstudio",
-            "virtualisering",
-            "windows os",
+            "vmware",
+            "powershell",
             "registerkontroll"
         ]
     },
     {
         "title": "n\u00e4tanalytiker",
-        "skills": [
-            "dimensionering"
-        ]
+        "skills": []
     },
     {
         "title": "software development engineer",
@@ -3766,7 +3043,7 @@
             "certifieringar",
             "cisco",
             "red hat",
-            "virtualisering"
+            "vmware"
         ]
     },
     {
@@ -3775,23 +3052,16 @@
     },
     {
         "title": "kvalitetsansvarig",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "verksamhetsanalytiker",
-        "skills": [
-            "verksamhetsanalys",
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "delsystemtestare",
         "skills": [
-            "python",
-            "testledning",
-            "linux-milj\u00f6"
+            "python"
         ]
     },
     {
@@ -3801,30 +3071,20 @@
     {
         "title": "informationss\u00e4kerhetsansvarig",
         "skills": [
-            "informationss\u00e4kerhetsomr\u00e5det",
-            "dataskydd",
-            "informationss\u00e4kerhet",
-            "r\u00f6r",
-            "informationss\u00e4kerhetsarbete"
+            "r\u00f6r"
         ]
     },
     {
         "title": "linjechef",
         "skills": [
-            "configuration management",
-            "f\u00f6r\u00e4ndringsledning"
+            "configuration management"
         ]
     },
     {
         "title": "teknisk ledare",
         "skills": [
-            "systemutveckling",
-            "projektledning",
-            "python",
-            "datalager",
-            "data",
-            "datamodellering",
-            "databas"
+            "matlab",
+            "python"
         ]
     },
     {
@@ -3838,59 +3098,36 @@
     {
         "title": "it-direkt\u00f6r",
         "skills": [
-            "riskhantering",
-            "informationss\u00e4kerhet"
+            "riskhantering"
         ]
     },
     {
         "title": "dokumentationsst\u00f6d",
-        "skills": [
-            "dokumentation",
-            "dokumentationssystem"
-        ]
+        "skills": []
     },
     {
         "title": "system center configuration manager",
-        "skills": [
-            "active directory",
-            "datorer",
-            "sccm",
-            "microsoft intune",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "metodst\u00f6d",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "digitaliseringsansvarig",
-        "skills": [
-            "projektledning",
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "kontorschef",
-        "skills": [
-            "dataskyddsfr\u00e5gor",
-            "dataskyddsarbete",
-            "linux"
-        ]
+        "skills": []
     },
     {
         "title": "desk-medarbetare",
-        "skills": [
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "hr-partner",
-        "skills": [
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "market area manager",
@@ -3898,36 +3135,23 @@
     },
     {
         "title": "plc-programmerare",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "support lead",
-        "skills": [
-            "data",
-            "dokumentation",
-            "testning"
-        ]
+        "skills": []
     },
     {
         "title": "development manager",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "verksamhetsarkitekt",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "grafisk designer",
-        "skills": [
-            "design",
-            "grafisk design"
-        ]
+        "skills": []
     },
     {
         "title": "utvecklingsprojektledare",
@@ -3948,22 +3172,16 @@
     {
         "title": "linuxadministrat\u00f6r",
         "skills": [
-            "n\u00e4tverksdesign",
-            "linux",
-            "drifts\u00e4ttning",
-            "linux-milj\u00f6",
-            "virtualisering",
-            "databaser",
             "cloud",
-            "webbservrar",
+            "puppet",
+            "ansible",
+            "terraform",
             "docker"
         ]
     },
     {
         "title": "business support manager",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "grossist",
@@ -3972,21 +3190,13 @@
     {
         "title": "ux-lead",
         "skills": [
-            "webbutveckling",
-            "visuell design",
-            "design",
-            "research",
-            "designprocessen"
+            "research"
         ]
     },
     {
         "title": "webmaster",
         "skills": [
-            "wordpress",
-            "grafisk design",
-            "dokumentation",
-            "cms",
-            "webbutveckling"
+            "cms"
         ]
     },
     {
@@ -3995,21 +3205,15 @@
     },
     {
         "title": "testansvarig",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "teststrateg",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "testmilj\u00f6koordinator",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "testarkitekt",
@@ -4019,12 +3223,7 @@
     },
     {
         "title": "tons\u00e4ttare",
-        "skills": [
-            "dokumentation",
-            "systemutveckling",
-            "episerver",
-            "e-handel"
-        ]
+        "skills": []
     },
     {
         "title": "test automation engineer",
@@ -4041,8 +3240,8 @@
     {
         "title": "api-utvecklare",
         "skills": [
-            "c#",
-            "programmering"
+            ".net",
+            "c#"
         ]
     },
     {
@@ -4051,9 +3250,7 @@
     },
     {
         "title": "systemekonom",
-        "skills": [
-            "e-handelssystem"
-        ]
+        "skills": []
     },
     {
         "title": "hr business partner",
@@ -4069,13 +3266,7 @@
     },
     {
         "title": "klientsupport",
-        "skills": [
-            "active directory",
-            "n\u00e4tverk",
-            "datorer",
-            "windows 7",
-            "windows server"
-        ]
+        "skills": []
     },
     {
         "title": "signalskyddshandl\u00e4ggare",
@@ -4096,18 +3287,12 @@
     {
         "title": "database administrator",
         "skills": [
-            "restore",
-            "linux",
-            "databaser",
-            "drifting"
+            "restore"
         ]
     },
     {
         "title": "generalagent",
-        "skills": [
-            "data",
-            "vidareutbildning"
-        ]
+        "skills": []
     },
     {
         "title": "provledare",
@@ -4120,38 +3305,24 @@
     {
         "title": "stadsn\u00e4tstekniker",
         "skills": [
-            "registrering",
-            "dokumentation",
-            "datorinriktning"
+            "registrering"
         ]
     },
     {
         "title": "it-handl\u00e4ggare",
         "skills": [
-            "projektledning",
-            "drifting",
-            "dokumentation",
-            "n\u00e4tverkskunskaper",
-            "n\u00e4tverksmilj\u00f6er",
-            "active directory",
-            "episerver cms",
             "callguide"
         ]
     },
     {
         "title": "elektronikingenj\u00f6r",
         "skills": [
-            "vhdl",
-            "distribution",
-            "rel\u00e4skydd",
-            "dokumentation"
+            "rel\u00e4skydd"
         ]
     },
     {
         "title": "techsupport",
-        "skills": [
-            "danska"
-        ]
+        "skills": []
     },
     {
         "title": "release train engineer",
@@ -4159,30 +3330,24 @@
     },
     {
         "title": "licenssamordnare",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "testdesigner",
         "skills": [
             "python",
-            "programmering",
+            "matlab simulink",
             "c++",
             "canoe"
         ]
     },
     {
         "title": "jobbagent",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "line-support",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "teknikinformat\u00f6r",
@@ -4203,15 +3368,12 @@
     {
         "title": "embeddedprogrammerare",
         "skills": [
-            "c++",
-            "design"
+            "c++"
         ]
     },
     {
         "title": "styrsystemkonstrukt\u00f6r",
-        "skills": [
-            "testning"
-        ]
+        "skills": []
     },
     {
         "title": "technical operation manager",
@@ -4220,8 +3382,8 @@
     {
         "title": "applikationsf\u00f6rvaltare",
         "skills": [
-            "datavetenskap",
-            "java"
+            "java",
+            "microsoft azure"
         ]
     },
     {
@@ -4238,11 +3400,7 @@
     },
     {
         "title": "internkonsult",
-        "skills": [
-            "datakommunikation",
-            "datan\u00e4t",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "hardware engineer",
@@ -4250,16 +3408,11 @@
     },
     {
         "title": "kvalitetsutvecklare",
-        "skills": [
-            "digitala medier"
-        ]
+        "skills": []
     },
     {
         "title": "rektor",
-        "skills": [
-            "digitala medier",
-            "skrivare"
-        ]
+        "skills": []
     },
     {
         "title": "sportkoordinator",
@@ -4267,16 +3420,12 @@
     },
     {
         "title": "verksamhetscontroller",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "logistikutvecklare",
         "skills": [
-            "python",
-            "programmering",
-            "projektledning"
+            "python"
         ]
     },
     {
@@ -4290,11 +3439,7 @@
     {
         "title": "quality assurance manager",
         "skills": [
-            "windows server",
-            "testning",
-            "dokumentdatabaser",
-            "e-handel",
-            "selenium"
+            "microsoft azure"
         ]
     },
     {
@@ -4304,23 +3449,18 @@
     {
         "title": "lantbrukare",
         "skills": [
-            "lantbruk",
             "react",
-            "interaktionsdesign",
             "python",
-            "c++",
-            "programmeringsspr\u00e5k",
-            "diagnostikl\u00f6sningar"
+            "matlab",
+            "c++"
         ]
     },
     {
         "title": "algoritmutvecklare",
         "skills": [
             "python",
-            "lantbruk",
+            "matlab",
             "c++",
-            "programmeringsspr\u00e5k",
-            "diagnostikl\u00f6sningar",
             "react"
         ]
     },
@@ -4329,7 +3469,6 @@
         "skills": [
             "cybers\u00e4kerhet",
             "cloud",
-            "dokumentationsarbete",
             "cadence"
         ]
     },
@@ -4341,9 +3480,7 @@
     },
     {
         "title": "teknikf\u00f6rvaltare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "teknisk kundtj\u00e4nst",
@@ -4361,17 +3498,11 @@
     },
     {
         "title": "steward",
-        "skills": [
-            "databearbetning",
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "dokumentat\u00f6r",
-        "skills": [
-            "dokumentation",
-            "dokumentationssystem"
-        ]
+        "skills": []
     },
     {
         "title": "larmtekniker",
@@ -4387,9 +3518,7 @@
     },
     {
         "title": "mallutvecklare",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "backend engineer",
@@ -4399,10 +3528,7 @@
         "title": "systemintegrat\u00f6r",
         "skills": [
             "docker",
-            "duc",
-            "programmering",
-            "citect",
-            "drifts\u00e4ttning"
+            "citect"
         ]
     },
     {
@@ -4417,8 +3543,7 @@
         "skills": [
             "cms",
             "google analytics",
-            "google ads",
-            "design"
+            "google ads"
         ]
     },
     {
@@ -4434,56 +3559,32 @@
     },
     {
         "title": "produktionsutvecklare",
-        "skills": [
-            "scanner",
-            "dfx"
-        ]
+        "skills": []
     },
     {
         "title": "forskningsassistent",
-        "skills": [
-            "programmeringsspr\u00e5k",
-            "databaser",
-            "windowsmilj\u00f6er"
-        ]
+        "skills": []
     },
     {
         "title": "teamansvarig",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "service level manager",
         "skills": [
-            "certifieringar",
-            "datavetenskap",
-            "f\u00f6r\u00e4ndringsledning",
-            "drifting"
+            "certifieringar"
         ]
     },
     {
         "title": "hr-ansvarig",
         "skills": [
-            "digitala projekt",
-            "data",
-            "kvalitetss\u00e4kring",
-            "distribution",
-            "google analytics",
-            "webbutveckling",
-            "systemf\u00f6rvaltning"
+            "google analytics"
         ]
     },
     {
         "title": "regionansvarig",
         "skills": [
-            "digitala projekt",
-            "data",
-            "kvalitetss\u00e4kring",
-            "distribution",
-            "google analytics",
-            "webbutveckling",
-            "systemf\u00f6rvaltning"
+            "google analytics"
         ]
     },
     {
@@ -4496,49 +3597,30 @@
     },
     {
         "title": "chefsarkitekt",
-        "skills": [
-            "informationsmodellering"
-        ]
+        "skills": []
     },
     {
         "title": "dokumentansvarig",
-        "skills": [
-            "dokumenthantering",
-            "dokumentation",
-            "dataprogram"
-        ]
+        "skills": []
     },
     {
         "title": "ekonom",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "sales support",
-        "skills": [
-            "sap"
-        ]
+        "skills": []
     },
     {
         "title": "utredare",
-        "skills": [
-            "vision"
-        ]
+        "skills": []
     },
     {
         "title": "it-generalist",
         "skills": [
-            "n\u00e4tverkskonfigurering",
-            "windows server",
-            "n\u00e4tverk",
-            "dokumentation",
+            "vmware",
             "cloud",
-            "citrix",
-            "design",
-            "databas",
-            "active directory",
-            "projektledning"
+            "citrix"
         ]
     },
     {
@@ -4547,14 +3629,11 @@
     },
     {
         "title": "watch supervisor",
-        "skills": [
-            "datorvana"
-        ]
+        "skills": []
     },
     {
         "title": "serviceingenj\u00f6r",
         "skills": [
-            "digital elektronik",
             "radioteknik"
         ]
     },
@@ -4564,37 +3643,27 @@
     },
     {
         "title": "it-coach",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "huvudprojektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "cloud-konsult",
         "skills": [
-            "design"
+            "microsoft azure"
         ]
     },
     {
         "title": "hr-utvecklare",
-        "skills": [
-            "systemutveckling",
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "driftspecialist",
         "skills": [
-            "driftansvar",
-            "active directory",
-            "windows server",
-            "n\u00e4tverk",
-            "windowsmilj\u00f6er"
+            "vmware",
+            "microsoft azure"
         ]
     },
     {
@@ -4602,11 +3671,7 @@
         "skills": [
             "radiol\u00e4nk",
             "radioteknik",
-            "n\u00e4tverkskommunikation",
-            "unix",
-            "certifieringar",
-            "linux",
-            "driftmilj\u00f6"
+            "certifieringar"
         ]
     },
     {
@@ -4620,23 +3685,18 @@
         "title": "kodutvecklare",
         "skills": [
             "eclipse",
-            "bitbucket",
             "confluence",
             "git",
-            "jira",
-            "jenkins",
             "sql",
             "intellij",
-            "java",
-            "systemutveckling"
+            "java"
         ]
     },
     {
         "title": "datacentertekniker",
         "skills": [
-            "cisco",
-            "vpn",
-            "wan"
+            "microsoft azure",
+            "cisco"
         ]
     },
     {
@@ -4659,9 +3719,7 @@
     },
     {
         "title": "kundprojektledare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "ikt-pedagog",
@@ -4671,11 +3729,8 @@
         "title": "bildingenj\u00f6r",
         "skills": [
             "python",
-            "programmering",
-            "data",
             "c++",
-            "civilingenj\u00f6rsexamen",
-            "linux"
+            "civilingenj\u00f6rsexamen"
         ]
     },
     {
@@ -4684,10 +3739,7 @@
     },
     {
         "title": "arbetsf\u00f6rmedlare",
-        "skills": [
-            "programmering",
-            "jenkins"
-        ]
+        "skills": []
     },
     {
         "title": "elingenj\u00f6r",
@@ -4696,24 +3748,16 @@
     {
         "title": "elektriker",
         "skills": [
-            "data",
-            "servrar",
-            "n\u00e4tverk",
             "routrar"
         ]
     },
     {
         "title": "vd-assistent",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "produktomr\u00e5desansvarig",
-        "skills": [
-            "projektledning",
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "sambandsassistent",
@@ -4726,21 +3770,18 @@
     {
         "title": "integrationsspecialist",
         "skills": [
-            "deployment",
             "ci/cd",
             "git",
+            "powershell",
             "certifikathantering",
             "continuous integration",
-            "xml",
             "javascript",
             "docker"
         ]
     },
     {
         "title": "marknadsanalytiker",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "f\u00f6rhandlare",
@@ -4757,35 +3798,26 @@
     {
         "title": "s\u00e4kerhetschef",
         "skills": [
-            "informationss\u00e4kerhet",
             "resor"
         ]
     },
     {
         "title": "teknisk teamledare",
-        "skills": [
-            "bash"
-        ]
+        "skills": []
     },
     {
         "title": "it service delivery manager",
-        "skills": [
-            "systemf\u00f6rvaltning"
-        ]
+        "skills": []
     },
     {
         "title": "elektronikkonstrukt\u00f6r",
-        "skills": [
-            "programmering",
-            "digital elektronik",
-            "h\u00e5rdvarun\u00e4ra programmering"
-        ]
+        "skills": []
     },
     {
         "title": "microsoft-utvecklare",
         "skills": [
-            "systemutveckling",
-            "scrum",
+            ".net",
+            "angularjs",
             "react",
             "c#"
         ]
@@ -4793,11 +3825,8 @@
     {
         "title": "marknadsf\u00f6rare",
         "skills": [
-            "displayn\u00e4tverk",
-            "digital marknadsf\u00f6ring",
             "google analytics",
-            "reklam",
-            "design"
+            "reklam"
         ]
     },
     {
@@ -4808,24 +3837,18 @@
     },
     {
         "title": "civilekonom",
-        "skills": [
-            "sap",
-            "dagligvaruhandel"
-        ]
+        "skills": []
     },
     {
         "title": "portfolio manager",
-        "skills": [
-            "sap",
-            "dagligvaruhandel",
-            "progress"
-        ]
+        "skills": []
     },
     {
         "title": "stj\u00e4rnutvecklare",
         "skills": [
             "c#",
-            "cns"
+            "cns",
+            "microsoft azure"
         ]
     },
     {
@@ -4838,31 +3861,23 @@
     },
     {
         "title": "systemcontroller",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "process\u00e4gare",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "driftst\u00f6d",
         "skills": [
-            "n\u00e4tverksteknik",
             "cisco",
-            "linux",
-            "n\u00e4tverk"
+            "vmware",
+            "microsoft azure"
         ]
     },
     {
         "title": "tj\u00e4nstespecialist",
-        "skills": [
-            "dokumentation",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "it-s\u00e4kerhetsr\u00e5dgivare",
@@ -4872,12 +3887,7 @@
     },
     {
         "title": "datavetare",
-        "skills": [
-            "dokumentation",
-            "digitalisering",
-            "projektledning",
-            "jira"
-        ]
+        "skills": []
     },
     {
         "title": "globetrotter",
@@ -4885,17 +3895,11 @@
     },
     {
         "title": "organisat\u00f6r",
-        "skills": [
-            "digitalisering",
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "requirement manager",
-        "skills": [
-            "systemutveckling",
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "service designer",
@@ -4911,17 +3915,11 @@
     },
     {
         "title": "administrativ chef",
-        "skills": [
-            "dokumentation",
-            "databashantering",
-            "datahantering"
-        ]
+        "skills": []
     },
     {
         "title": "handl\u00e4ggande arkitekt",
-        "skills": [
-            "designprojekt"
-        ]
+        "skills": []
     },
     {
         "title": "integration architect",
@@ -4933,32 +3931,22 @@
     },
     {
         "title": "informationsspecialist",
-        "skills": [
-            "n\u00e4tverk",
-            "informationss\u00e4kerhet",
-            "dataskyddsfr\u00e5gor",
-            "drifting"
-        ]
+        "skills": []
     },
     {
         "title": "k\u00f6kspersonal",
         "skills": [
-            "testning",
-            "systemutveckling",
             "c#.net",
             "typescript",
-            "datateknik",
             "riskanalys",
-            "sql",
-            "dom\u00e4ndriven design"
+            "sql"
         ]
     },
     {
         "title": "servicedeskagent",
         "skills": [
-            "datorer",
-            "active directory",
-            "citrix"
+            "citrix",
+            "microsoft azure"
         ]
     },
     {
@@ -4970,12 +3958,7 @@
     },
     {
         "title": "testutvecklingsingenj\u00f6r",
-        "skills": [
-            "dft",
-            "testning",
-            "programmering",
-            "labview"
-        ]
+        "skills": []
     },
     {
         "title": "kvalitetssamordnare",
@@ -4988,10 +3971,6 @@
     {
         "title": "dataskyddsspecialist",
         "skills": [
-            "dataskyddslagstiftning",
-            "datavetenskap",
-            "informationss\u00e4kerhet",
-            "dataskydd",
             "riskhantering"
         ]
     },
@@ -5000,19 +3979,14 @@
         "skills": [
             "python",
             "cad",
-            "programmering",
-            "windows desktop",
-            "testning",
-            "data",
-            "programmeringsspr\u00e5k",
+            ".net framework",
+            ".net",
             "c#"
         ]
     },
     {
         "title": "skoladministrat\u00f6r",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "dokumentcontroller",
@@ -5020,24 +3994,15 @@
     },
     {
         "title": "portf\u00f6ljsamordnare",
-        "skills": [
-            "pm3"
-        ]
+        "skills": []
     },
     {
         "title": "first line it support",
-        "skills": [
-            "active directory",
-            "data",
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "n\u00e4rst\u00f6d",
-        "skills": [
-            "skrivare",
-            "drifts\u00e4ttning"
-        ]
+        "skills": []
     },
     {
         "title": "hr-manager",
@@ -5049,9 +4014,7 @@
     },
     {
         "title": "ink\u00f6psansvarig",
-        "skills": [
-            "data"
-        ]
+        "skills": []
     },
     {
         "title": "avtalsansvarig",
@@ -5059,12 +4022,7 @@
     },
     {
         "title": "f\u00f6rste forskningsingenj\u00f6r",
-        "skills": [
-            "datorgrafik",
-            "programmering",
-            "data",
-            "visualisering"
-        ]
+        "skills": []
     },
     {
         "title": "head of it",
@@ -5076,13 +4034,13 @@
     },
     {
         "title": "f\u00f6rvaltningsansvarig",
-        "skills": []
+        "skills": [
+            "microsoft azure"
+        ]
     },
     {
         "title": "application manager",
-        "skills": [
-            "windows server"
-        ]
+        "skills": []
     },
     {
         "title": "projektsupport",
@@ -5092,56 +4050,35 @@
     },
     {
         "title": "samh\u00e4llsplanerare",
-        "skills": [
-            "databashantering",
-            "datahantering"
-        ]
+        "skills": []
     },
     {
         "title": "gis-ingenj\u00f6r",
-        "skills": [
-            "databashantering",
-            "datahantering"
-        ]
+        "skills": []
     },
     {
         "title": "kulturgeograf",
-        "skills": [
-            "databashantering",
-            "datahantering"
-        ]
+        "skills": []
     },
     {
         "title": "gis-analytiker",
-        "skills": [
-            "databashantering",
-            "datahantering"
-        ]
+        "skills": []
     },
     {
         "title": "acquisition manager",
-        "skills": [
-            "progress"
-        ]
+        "skills": []
     },
     {
         "title": "personlig assistent",
-        "skills": [
-            "scrum",
-            "kanban"
-        ]
+        "skills": []
     },
     {
         "title": "fastighets\u00e4gare",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "gis-konsult",
-        "skills": [
-            "databaser"
-        ]
+        "skills": []
     },
     {
         "title": "huvudplanerare",
@@ -5150,20 +4087,12 @@
     {
         "title": "v\u00e5rdpersonal",
         "skills": [
-            "ios",
-            "n\u00e4tverkskunskaper",
-            "active directory",
-            "wan",
-            "lan",
-            "android",
             "certifieringar",
             "cloudl\u00f6sningar",
-            "virtualisering",
-            "vpn",
-            "linux",
-            "drifting",
-            "windows server",
-            "access control",
+            "vmware",
+            "ansible",
+            "terraform",
+            "kubernetes",
             "docker",
             "router"
         ]
@@ -5171,10 +4100,7 @@
     {
         "title": "sambandstekniker",
         "skills": [
-            "data",
-            "datakommunikation",
             "reparation",
-            "drifting",
             "radiosystem",
             "radar"
         ]
@@ -5190,45 +4116,30 @@
     {
         "title": "s\u00e4kerhetsanalytiker",
         "skills": [
-            "n\u00e4tverkss\u00e4kerhet",
-            "programmering",
-            "visualisering",
-            "n\u00e4tverk",
             "registerkontroll",
-            "n\u00e4tverksteknik",
-            "systemutveckling",
-            "data",
-            "drifting",
-            "bash"
+            "powershell"
         ]
     },
     {
         "title": "technical support manager",
         "skills": [
-            "e-handel",
             "sql",
             "csv"
         ]
     },
     {
         "title": "fiberprojekt\u00f6r",
-        "skills": [
-            "datorvana"
-        ]
+        "skills": []
     },
     {
         "title": "stridspilot",
         "skills": [
-            "programmering",
-            "design",
             "c#"
         ]
     },
     {
         "title": "plattformsarkitekt",
-        "skills": [
-            "testning"
-        ]
+        "skills": []
     },
     {
         "title": "regionchef",
@@ -5240,27 +4151,22 @@
     },
     {
         "title": "software configuration manager",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "editor",
         "skills": [
-            "programmering",
             "c++"
         ]
     },
     {
         "title": "integration manager",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "analytics manager",
         "skills": [
-            "data"
+            "microsoft azure"
         ]
     },
     {
@@ -5271,35 +4177,23 @@
     },
     {
         "title": "f\u00f6rmedlare",
-        "skills": [
-            "datorer"
-        ]
+        "skills": []
     },
     {
         "title": "utredningsledare",
-        "skills": [
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "chief information security officer",
-        "skills": [
-            "informationss\u00e4kerhetsarbete",
-            "projektledning",
-            "f\u00f6r\u00e4ndringsledning"
-        ]
+        "skills": []
     },
     {
         "title": "plattformsspecialist",
-        "skills": [
-            "linux"
-        ]
+        "skills": []
     },
     {
         "title": "coo",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "anl\u00e4ggningskonstrukt\u00f6r",
@@ -5307,29 +4201,20 @@
     },
     {
         "title": "systems engineering manager",
-        "skills": [
-            "kvalitetss\u00e4kring"
-        ]
+        "skills": []
     },
     {
         "title": "utrullningstekniker",
-        "skills": [
-            "active directory"
-        ]
+        "skills": []
     },
     {
         "title": "teletekniker",
-        "skills": [
-            "n\u00e4tverksteknik",
-            "datan\u00e4tstj\u00e4nster",
-            "drifts\u00e4ttning"
-        ]
+        "skills": []
     },
     {
         "title": "sql-utvecklare",
         "skills": [
             "continuous integration",
-            "jira",
             "continuous delivery",
             "sql",
             "java"
@@ -5343,20 +4228,13 @@
         "title": "applikationsdriftsansvarig",
         "skills": [
             "postgresql",
-            "iis",
             "sql-server",
-            "n\u00e4tverk",
-            "sql",
-            "windows server",
-            "drifting",
-            "servrar"
+            "sql"
         ]
     },
     {
         "title": "funktionsansvarig",
         "skills": [
-            "linux",
-            "databaser",
             "sql"
         ]
     },
@@ -5367,22 +4245,16 @@
     {
         "title": "fastighetsm\u00e4klare",
         "skills": [
-            "javascript",
-            "vidareutveckling"
+            "javascript"
         ]
     },
     {
         "title": "solution expert",
-        "skills": [
-            "detaljhandel"
-        ]
+        "skills": []
     },
     {
         "title": "ux-strateg",
-        "skills": [
-            "anv\u00e4ndbarhet",
-            "designsystem"
-        ]
+        "skills": []
     },
     {
         "title": "helpdesk-support",
@@ -5390,30 +4262,22 @@
     },
     {
         "title": "projektingenj\u00f6r",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "processingenj\u00f6r",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "it-l\u00f6sningsarkitekt",
         "skills": [
-            "dokumentation",
-            "systemutveckling",
-            "scrum",
-            "pm3"
+            "microsoft azure"
         ]
     },
     {
         "title": "\u00e4mnesansvarig",
         "skills": [
-            "resor",
-            "bash"
+            "resor"
         ]
     },
     {
@@ -5424,8 +4288,7 @@
         "title": "inspekt\u00f6r",
         "skills": [
             "riskv\u00e4rdering",
-            "revisionsverksamhet",
-            "informationss\u00e4kerhet"
+            "revisionsverksamhet"
         ]
     },
     {
@@ -5434,14 +4297,11 @@
     },
     {
         "title": "konsulttj\u00e4nst",
-        "skills": [
-            "dokumentation"
-        ]
+        "skills": []
     },
     {
         "title": "ekonomichef",
         "skills": [
-            "pm3",
             "raindance",
             "redovisning"
         ]
@@ -5456,10 +4316,7 @@
     },
     {
         "title": "underh\u00e5llsingenj\u00f6r",
-        "skills": [
-            "drifting",
-            "driftansvar"
-        ]
+        "skills": []
     },
     {
         "title": "grafikprogrammerare",
@@ -5484,9 +4341,7 @@
     {
         "title": "implementationskonsult",
         "skills": [
-            "erp-system",
-            "crm",
-            "projektledning"
+            "crm"
         ]
     },
     {
@@ -5504,10 +4359,8 @@
     {
         "title": "information security manager",
         "skills": [
-            "informationss\u00e4kerhetsarbete",
             "certifieringar",
             "cissp",
-            "informationss\u00e4kerhet",
             "riskhantering",
             "riskanalys"
         ]
@@ -5515,16 +4368,9 @@
     {
         "title": "driftpartner",
         "skills": [
-            "projektledning",
             "cissp",
-            "virtualisering",
-            "linux",
-            "databaser",
-            "n\u00e4tverk",
             "sql",
-            "servrar",
-            "nosql",
-            "drifting"
+            "microsoft azure"
         ]
     },
     {
@@ -5534,16 +4380,12 @@
     {
         "title": "registrator",
         "skills": [
-            "datateknik",
-            "systemf\u00f6rvaltning",
             "riskanalys"
         ]
     },
     {
         "title": "metodingenj\u00f6r",
         "skills": [
-            "programmering",
-            "dataanalys",
             "javascript",
             "lua"
         ]
@@ -5551,29 +4393,22 @@
     {
         "title": "v\u00e4gledare",
         "skills": [
-            "r\u00e5dgivning",
-            "projektledning"
+            "r\u00e5dgivning"
         ]
     },
     {
         "title": "klimatstrateg",
         "skills": [
-            "r\u00e5dgivning",
-            "projektledning"
+            "r\u00e5dgivning"
         ]
     },
     {
         "title": "orderadministrat\u00f6r",
-        "skills": [
-            "sap"
-        ]
+        "skills": []
     },
     {
         "title": "scada-utvecklare",
-        "skills": [
-            "systemutveckling",
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "fiberplanerare",
@@ -5587,36 +4422,21 @@
         "title": "systemintegrationstestare",
         "skills": [
             "python",
-            "programmering",
             "java"
         ]
     },
     {
         "title": "drift\u00f6vervakare",
-        "skills": [
-            "vindkraftsbranschen",
-            "driftinformation"
-        ]
+        "skills": []
     },
     {
         "title": "digitaliseringssamordnare",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "automationstekniker",
         "skills": [
-            "dokumentation",
-            "linux",
-            "n\u00e4tverksunderh\u00e5ll",
-            "n\u00e4tverk",
-            "drifts\u00e4ttning",
-            "databas",
-            "automationsteknik",
-            "digitalisering",
-            "driftarbete",
-            "dokumentationsarbete",
+            "vmware",
             "can"
         ]
     },
@@ -5627,11 +4447,8 @@
     {
         "title": "dataarkitekt",
         "skills": [
-            "data",
             "sas",
-            "sql",
-            "datamodellering",
-            "informationsmodellering"
+            "sql"
         ]
     },
     {
@@ -5649,15 +4466,12 @@
     },
     {
         "title": "\u00e4ndringsledare",
-        "skills": [
-            "design"
-        ]
+        "skills": []
     },
     {
         "title": "it-infrastructure manager",
         "skills": [
-            "projektledning",
-            "anv\u00e4ndarsupport"
+            "microsoft azure"
         ]
     },
     {
@@ -5670,27 +4484,19 @@
     },
     {
         "title": "n\u00e4tverksledare",
-        "skills": [
-            "digitalisering"
-        ]
+        "skills": []
     },
     {
         "title": "verksamhetssamordnare",
-        "skills": [
-            "projektledning"
-        ]
+        "skills": []
     },
     {
         "title": "planeringshandl\u00e4ggare",
-        "skills": [
-            "datorvana"
-        ]
+        "skills": []
     },
     {
         "title": "producerande",
-        "skills": [
-            "programmering"
-        ]
+        "skills": []
     },
     {
         "title": "medicinteknisk ingenj\u00f6r",
@@ -5704,15 +4510,12 @@
     },
     {
         "title": "it-assistent",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "fels\u00f6kare",
         "skills": [
-            "sql",
-            "programmering"
+            "sql"
         ]
     },
     {
@@ -5721,15 +4524,11 @@
     },
     {
         "title": "brandlarmstekniker",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "servicechef",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "safety manager",
@@ -5745,37 +4544,27 @@
     },
     {
         "title": "integrationssamordnare",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "installationssamordnare",
-        "skills": [
-            "n\u00e4tverk"
-        ]
+        "skills": []
     },
     {
         "title": "massageterapeut",
         "skills": [
-            "pm3",
-            "crm",
-            "drifting"
+            "crm"
         ]
     },
     {
         "title": "byggstensansvarig",
         "skills": [
-            "confluence",
-            "data",
-            "jira"
+            "confluence"
         ]
     },
     {
         "title": "webbadministrat\u00f6r",
-        "skills": [
-            "webbutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "software quality assurance manager",
@@ -5816,7 +4605,7 @@
     {
         "title": "klientutvecklare",
         "skills": [
-            "design"
+            "qt"
         ]
     },
     {
@@ -5827,13 +4616,12 @@
         "title": "cms-utvecklare",
         "skills": [
             "css3",
+            "microsoft azure",
+            ".net",
             "typescript",
-            "webbutveckling",
-            "episerver",
             "sass",
             "c#",
             "javascript",
-            "html5",
             "asp.net"
         ]
     },
@@ -5845,40 +4633,24 @@
         "title": "f\u00f6rs\u00e4kringsf\u00f6rmedlare",
         "skills": [
             "javascript",
-            "html",
             "c#"
         ]
     },
     {
         "title": "stabschef",
         "skills": [
-            "datakommunikationsomr\u00e5det",
-            "design",
-            "dokumentation",
-            "vpn",
-            "wan",
-            "lan",
-            "tcp/ip"
+            "microsoft azure"
         ]
     },
     {
         "title": "n\u00e4ttekniker",
         "skills": [
-            "datakommunikationsomr\u00e5det",
-            "design",
-            "dokumentation",
-            "vpn",
-            "wan",
-            "lan",
-            "tcp/ip"
+            "microsoft azure"
         ]
     },
     {
         "title": "till\u00e4mpningsexpert",
-        "skills": [
-            "programmering",
-            "dokumentationsarbete"
-        ]
+        "skills": []
     },
     {
         "title": "teknikansvarig",
@@ -5904,15 +4676,11 @@
     },
     {
         "title": "teamcoach",
-        "skills": [
-            "systemutveckling"
-        ]
+        "skills": []
     },
     {
         "title": "informationss\u00e4kerhetsarkitekt",
         "skills": [
-            "informationss\u00e4kerhetsomr\u00e5det",
-            "informationss\u00e4kerhet",
             "r\u00f6r"
         ]
     },
@@ -5933,9 +4701,7 @@
     {
         "title": "embeddedkonsult",
         "skills": [
-            "data",
-            "rtos",
-            "jira"
+            "rtos"
         ]
     },
     {
@@ -5969,7 +4735,6 @@
     {
         "title": "datorlingvist",
         "skills": [
-            "unix",
             "python"
         ]
     },
@@ -5979,17 +4744,11 @@
     },
     {
         "title": "fibertekniker",
-        "skills": [
-            "dokumentationsarbete"
-        ]
+        "skills": []
     },
     {
         "title": "politiker",
         "skills": [
-            "datas\u00e4kerhet",
-            "digitalisering",
-            "projektledning",
-            "informationss\u00e4kerhet",
             "chefskap"
         ]
     },
@@ -5999,9 +4758,6 @@
     },
     {
         "title": "kreat\u00f6r",
-        "skills": [
-            "programmering",
-            "webbutveckling"
-        ]
+        "skills": []
     }
 ]
