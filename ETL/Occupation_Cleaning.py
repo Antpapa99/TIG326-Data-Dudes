@@ -1,38 +1,36 @@
-from collections import defaultdict
 import json
 
-# Load sample input dictionaries
-with open("Job_Dictionary.json", "r", encoding="utf-8") as file:
-    job_data = [json.loads(line) for line in file]
+def read_job_directory(file_path):
+    with open(file_path, 'r') as file:
+        job_data = [json.loads(line) for line in file]
 
-# Initialize dictionaries to store the occupations, their associated skills, and counts
-occupation_skills = defaultdict(lambda: defaultdict(int))
-occupation_counts = defaultdict(int)
+    return job_data
 
-# Iterate through each job data dictionary
-for job in job_data:
-    # Extract the occupations and skills
-    occupations = job["Occupation-AI_classify"]
-    skills = job["Skills"]
+def skills_by_occupation_type(job_data):
+    occupation_skills = {}
 
-    # Count the occurrences of each skill for each occupation
-    for occupation in occupations:
-        occupation_counts[occupation] += 1
-        for skill in skills:
-            occupation_skills[occupation][skill] += 1
+    for job in job_data:
+        occupation_type = job["Occupation-type"]
+        skills = job["Skills"]
 
-# Calculate the percentage of occurrence for each skill in each occupation
-percentage_threshold = 0.25  # Change this value to set the threshold
-desired_skills = {}
-for occupation, skills in occupation_skills.items():
-    desired_skills[occupation] = [
-        skill for skill, count in skills.items()
-        if (count / occupation_counts[occupation])  >= percentage_threshold
-    ]
+        if occupation_type not in occupation_skills:
+            occupation_skills[occupation_type] = set()
 
-# Create a list of dictionaries with occupation title and desired skills
-occupation_list = [{"title": occupation, "skills": skills} for occupation, skills in desired_skills.items()]
+        occupation_skills[occupation_type].update(skills)
 
-#Print the final dictionary containing occupations and their desired skills
-with open("occupation_list.json", "w", encoding="utf-8") as f:
-    json.dump(occupation_list, f, indent=4)
+    return occupation_skills
+
+def write_occupation_skills_to_json(occupation_skills, file_path):
+    # Convert sets to lists before writing to JSON
+    occupation_skills_lists = {k: list(v) for k, v in occupation_skills.items()}
+    
+    with open(file_path, "w") as file:
+        json.dump(occupation_skills_lists, file, ensure_ascii=False, indent=4)
+
+def main():
+    job_data = read_job_directory("/Users/anto/Data_Dudes/TIG326-Data-Dudes/ETL/Job_Dictionary.json")
+    occupation_skills = skills_by_occupation_type(job_data)
+    write_occupation_skills_to_json(occupation_skills, "occupation_list.json")
+
+if __name__ == "__main__":
+    main()

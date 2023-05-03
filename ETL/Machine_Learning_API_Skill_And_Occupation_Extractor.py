@@ -8,7 +8,7 @@ url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
 
-with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="utf-8") as f:
+with open (r'/Users/anto/JSON_DATA/filtered_data_IT_jobs.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 Job_Class = []
@@ -57,7 +57,7 @@ def send_request(i):
 
 #Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
-    indices = range(0, 15000)
+    indices = range(0, 1000)
     Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
@@ -69,22 +69,29 @@ Dict_List = []
 loop = 0
 #En loop som rensar Datan
 while loop < len(Job_Class):
-    Ai_Occupation = set()
     Skills = set()
-    #Här kan ni configuera prediction värde
+    max_prediction = 0
+    max_prediction_label = ""
+
+    # Finding max prediction value and its corresponding label
     for i in Job_Class[loop]["Occupation-AI_classify"]:
-        if i["prediction"] > 0.5:
-            Ai_Occupation.add(i["concept_label"].lower())
+        if i["prediction"] > max_prediction:
+            max_prediction = i["prediction"]
+            max_prediction_label = i["concept_label"].lower()
+
     for i in Job_Class[loop]["Skills"]:
-        if i["prediction"] > 0.95:
+        if i["prediction"] > 0.85:
             Skills.add(i["concept_label"].lower())
+
     Skills = list(Skills)
-    Ai_Occupation = list(Ai_Occupation)
-    output = {"Job Title": Job_Class[loop]["Job Title"].lower(),
-                "Occupation-type":  Job_Class[loop]["Occupation-type"].lower(),
-                "Occupation-AI_classify":  Ai_Occupation,
-                    "Skills": Skills
-                }
+
+    output = {
+        "Job Title": Job_Class[loop]["Job Title"].lower(),
+        "Occupation-type":  Job_Class[loop]["Occupation-type"].lower(),
+        "Occupation-AI_classify":  max_prediction_label,
+        "Skills": Skills,
+        "Max_prediction": max_prediction
+    }
     Dict_List.append(output)
     loop += 1
 
