@@ -1,4763 +1,618 @@
 [
     {
-        "title": "faktor",
-        "skills": []
-    },
-    {
-        "title": "it-specialist",
-        "skills": []
-    },
-    {
-        "title": "collector",
-        "skills": []
-    },
-    {
-        "title": "fullstack-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "teknisk projektledare",
-        "skills": []
-    },
-    {
-        "title": "resurskonsult",
-        "skills": []
-    },
-    {
-        "title": "first line support",
-        "skills": []
-    },
-    {
-        "title": "it-supporttekniker",
-        "skills": []
-    },
-    {
-        "title": "applikationsspecialist",
-        "skills": []
-    },
-    {
-        "title": "systemutvecklare",
-        "skills": []
-    },
-    {
-        "title": "konsultchef",
-        "skills": []
-    },
-    {
-        "title": "supporttekniker",
-        "skills": []
-    },
-    {
-        "title": "systemtekniker",
-        "skills": []
-    },
-    {
-        "title": "systemf\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "h\u00f6gskoleingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "software engineer",
-        "skills": []
-    },
-    {
-        "title": "tekniker",
-        "skills": []
-    },
-    {
-        "title": "mjukvaruutvecklare",
-        "skills": [
-            "c++"
-        ]
-    },
-    {
-        "title": "it-tekniker",
-        "skills": []
-    },
-    {
-        "title": "gruppchef",
-        "skills": []
-    },
-    {
-        "title": "3rd-line support",
-        "skills": []
-    },
-    {
-        "title": "operations specialist",
-        "skills": []
-    },
-    {
-        "title": "systemansvarig",
-        "skills": []
-    },
-    {
-        "title": "devops",
-        "skills": []
-    },
-    {
-        "title": "tech-lead",
-        "skills": []
-    },
-    {
-        "title": "systemadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "sw-utvecklare",
-        "skills": [
-            "c++"
-        ]
-    },
-    {
-        "title": "ios-utvecklare",
-        "skills": [
-            "swift"
-        ]
-    },
-    {
-        "title": "projektledare",
-        "skills": []
-    },
-    {
-        "title": "infrastrukturarkitekt",
-        "skills": [
-            "vmware",
-            "ansible",
-            "red hat"
-        ]
-    },
-    {
-        "title": "annonss\u00e4ljare",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rvaltningsledare",
-        "skills": []
-    },
-    {
-        "title": "kodare",
-        "skills": []
-    },
-    {
-        "title": "mjukvaruingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "ingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "h\u00e5rdvaruingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "ux-designer",
-        "skills": []
-    },
-    {
-        "title": "designer",
-        "skills": []
-    },
-    {
-        "title": "testingenj\u00f6r",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "supportmedarbetare",
-        "skills": []
-    },
-    {
-        "title": "devops-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "backend-utvecklare",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "applikationskonsult",
-        "skills": []
-    },
-    {
-        "title": "konsultteam",
-        "skills": []
-    },
-    {
-        "title": "utvecklingsledare",
-        "skills": []
-    },
-    {
-        "title": "site reliability engineer",
-        "skills": []
-    },
-    {
-        "title": "it-f\u00f6rvaltningsledare",
-        "skills": []
-    },
-    {
-        "title": "kommunikat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "uppdragsledare",
-        "skills": []
-    },
-    {
-        "title": "rekryterare",
-        "skills": []
-    },
-    {
-        "title": "installat\u00f6r",
-        "skills": [
-            "radio"
-        ]
-    },
-    {
-        "title": "drifts\u00e4ttare",
-        "skills": [
-            "radio",
-            "crm-system",
-            "citect"
-        ]
-    },
-    {
-        "title": "beslutsst\u00f6d",
-        "skills": [
-            "sql-server",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "bi-utvecklare",
-        "skills": [
-            "sql",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "verksamhetsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "processutvecklare",
-        "skills": []
-    },
-    {
-        "title": "frontend developer",
-        "skills": []
-    },
-    {
-        "title": "mentor",
-        "skills": []
-    },
-    {
-        "title": "servicetekniker",
-        "skills": [
-            "routrar"
-        ]
-    },
-    {
-        "title": "driftingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "plattformsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "linux-utvecklare",
-        "skills": [
-            "python",
-            "git",
-            "c++"
-        ]
-    },
-    {
-        "title": "databasadministrat\u00f6r",
-        "skills": [
-            "sql-server"
-        ]
-    },
-    {
-        "title": "systemarkitekt",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "l\u00f6sningsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "kravanalytiker",
-        "skills": []
-    },
-    {
-        "title": "verksamhetsst\u00f6d",
-        "skills": []
-    },
-    {
-        "title": "handl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "supportrar",
-        "skills": []
-    },
-    {
-        "title": "kundtj\u00e4nstmedarbetare",
-        "skills": []
-    },
-    {
-        "title": "digitaliseringschef",
-        "skills": []
-    },
-    {
-        "title": "civilingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "config manager",
-        "skills": []
-    },
-    {
-        "title": "systemvetare",
-        "skills": []
-    },
-    {
-        "title": "produktutvecklare",
-        "skills": []
-    },
-    {
-        "title": "installationstekniker",
-        "skills": []
-    },
-    {
-        "title": "supportroll",
-        "skills": []
-    },
-    {
-        "title": "it-samordnare",
-        "skills": []
-    },
-    {
-        "title": "koordinator",
-        "skills": []
-    },
-    {
-        "title": "systemkoordinator",
-        "skills": [
-            "cms",
-            "crm"
-        ]
-    },
-    {
-        "title": "it-drifttekniker",
-        "skills": [
-            "vmware",
-            "powershell",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "systemspecialist",
-        "skills": []
-    },
-    {
-        "title": "drifttekniker",
-        "skills": []
-    },
-    {
-        "title": "it-infrastrukturspecialist",
-        "skills": [
-            "powershell",
-            "microsoft azure",
-            "kubernetes"
-        ]
-    },
-    {
-        "title": "teknisk specialist",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetssamordnare",
-        "skills": [
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "embeddedutvecklare",
-        "skills": [
-            "c++"
-        ]
-    },
-    {
-        "title": "tj\u00e4nsteansvarig",
-        "skills": []
-    },
-    {
-        "title": "rekryteringskonsult",
-        "skills": []
-    },
-    {
-        "title": "enhetschef",
-        "skills": []
-    },
-    {
-        "title": "project manager",
-        "skills": []
-    },
-    {
-        "title": "data engineer",
-        "skills": []
-    },
-    {
-        "title": "cobol-utvecklare",
-        "skills": [
-            "cobol",
-            "sql"
-        ]
-    },
-    {
-        "title": "arkitekt",
-        "skills": []
-    },
-    {
-        "title": "it-arkitekt",
-        "skills": []
-    },
-    {
-        "title": "analytiker",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetsspecialist",
-        "skills": []
-    },
-    {
-        "title": "security manager",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetsansvarig",
-        "skills": [
-            "cissp",
-            "cism"
-        ]
-    },
-    {
-        "title": "customer support manager",
-        "skills": []
-    },
-    {
-        "title": "2nd-line support",
-        "skills": []
-    },
-    {
-        "title": "systemingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4krare",
-        "skills": []
-    },
-    {
-        "title": "ui-designer",
-        "skills": []
-    },
-    {
-        "title": "applikationsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "it-konsult",
-        "skills": []
-    },
-    {
-        "title": "trainee",
-        "skills": []
-    },
-    {
-        "title": "handledare",
-        "skills": []
-    },
-    {
-        "title": "systemdesigner",
-        "skills": [
-            "reglerteknik",
-            "powershell"
-        ]
-    },
-    {
-        "title": "n\u00e4tverkstekniker",
-        "skills": []
-    },
-    {
-        "title": "dom\u00e4narkitekt",
-        "skills": []
-    },
-    {
-        "title": "teknisk s\u00e4ljare",
-        "skills": [
-            "ccna",
-            "certifikat"
-        ]
-    },
-    {
-        "title": "art director",
-        "skills": []
-    },
-    {
-        "title": "it-projektledare",
-        "skills": []
-    },
-    {
-        "title": "diskrimineringsombudsman",
-        "skills": []
-    },
-    {
-        "title": "embedded software developer",
-        "skills": []
-    },
-    {
-        "title": "service manager",
-        "skills": []
-    },
-    {
-        "title": "integrationsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "modell",
-        "skills": []
-    },
-    {
-        "title": "utbildare",
-        "skills": []
-    },
-    {
-        "title": "mjukvarutestare",
-        "skills": []
-    },
-    {
-        "title": "produktspecialist",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tverkskonsult",
-        "skills": [
-            "cisco"
-        ]
-    },
-    {
-        "title": "javautvecklare",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "n\u00e4tverksingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "rekryteringsspecialist",
-        "skills": [
-            "civilingenj\u00f6rsutbildning",
-            "cybers\u00e4kerhet",
-            "sql",
-            "cissp"
-        ]
-    },
-    {
-        "title": "sektoransvarig",
-        "skills": []
-    },
-    {
-        "title": "supportperson",
-        "skills": []
-    },
-    {
-        "title": ".net-utvecklare",
-        "skills": [
-            ".net",
-            "c#"
-        ]
-    },
-    {
-        "title": "frontendutvecklare",
-        "skills": [
-            "react"
-        ]
-    },
-    {
-        "title": "produkt\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "systemkonsult",
-        "skills": [
-            "powershell"
-        ]
-    },
-    {
-        "title": "testare",
-        "skills": []
-    },
-    {
-        "title": "systemtestare",
-        "skills": []
-    },
-    {
-        "title": "rekryteringsansvarig",
-        "skills": []
-    },
-    {
-        "title": "kravst\u00e4llare",
-        "skills": []
-    },
-    {
-        "title": "system\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "kurschef",
-        "skills": []
-    },
-    {
-        "title": "l\u00e4rare",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "webbanalytiker",
-        "skills": []
-    },
-    {
-        "title": "informationsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "objektledare",
-        "skills": []
-    },
-    {
-        "title": "2nd line supporttekniker",
-        "skills": [
-            "microsoft azure",
-            "citrix"
-        ]
-    },
-    {
-        "title": "coach",
-        "skills": []
-    },
-    {
-        "title": "r\u00e5dgivare",
-        "skills": []
-    },
-    {
-        "title": "test engineer",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetsspecialist",
-        "skills": []
-    },
-    {
-        "title": "change manager",
-        "skills": [
-            "r\u00f6r"
-        ]
-    },
-    {
-        "title": "f\u00f6rs\u00e4ljare",
-        "skills": []
-    },
-    {
-        "title": "f\u00e4lts\u00e4ljare",
-        "skills": []
-    },
-    {
-        "title": "kvalitetss\u00e4krare",
-        "skills": [
-            "python",
-            "gitlab"
-        ]
-    },
-    {
-        "title": "kvalitetss\u00e4kringsansvarig",
-        "skills": [
-            "python",
-            "gitlab"
-        ]
-    },
-    {
-        "title": "365-utvecklare",
-        "skills": [
-            "microsoft azure",
-            "typescript",
+        "Occupation-type": "frontend-utvecklare",
+        "Skills": [
+            "java",
             "react",
-            "angularjs",
-            "css"
-        ]
-    },
-    {
-        "title": "marketing automation specialist",
-        "skills": []
-    },
-    {
-        "title": "datatekniker",
-        "skills": []
-    },
-    {
-        "title": "integrationsutvecklare",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "365-konsult",
-        "skills": [
-            "powershell",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "s\u00e4ljst\u00f6d",
-        "skills": [
-            "powershell",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "avdelningschef",
-        "skills": []
-    },
-    {
-        "title": "sektionschef",
-        "skills": []
-    },
-    {
-        "title": "cloud-specialist",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "pedagog",
-        "skills": [
-            "powershell"
-        ]
-    },
-    {
-        "title": "teknikspecialist",
-        "skills": []
-    },
-    {
-        "title": "team leader",
-        "skills": []
-    },
-    {
-        "title": "bas",
-        "skills": []
-    },
-    {
-        "title": "spinninginstrukt\u00f6r",
-        "skills": [
-            ".net",
-            "git"
-        ]
-    },
-    {
-        "title": "automationsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetskonsult",
-        "skills": [
-            "check point"
-        ]
-    },
-    {
-        "title": "webbutvecklare",
-        "skills": [
-            "css",
-            "javascript"
-        ]
-    },
-    {
-        "title": "linux-konsult",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "datasamordnare",
-        "skills": [
-            "ritningar"
-        ]
-    },
-    {
-        "title": "1st line supporttekniker",
-        "skills": []
-    },
-    {
-        "title": "kravspecialist",
-        "skills": []
-    },
-    {
-        "title": "kravledare",
-        "skills": []
-    },
-    {
-        "title": "technical support engineer",
-        "skills": []
-    },
-    {
-        "title": "major",
-        "skills": []
-    },
-    {
-        "title": "global director",
-        "skills": [
-            "cisco"
-        ]
-    },
-    {
-        "title": "dataskyddsombud",
-        "skills": []
-    },
-    {
-        "title": "r\u00e4ddningstj\u00e4nstpersonal",
-        "skills": [
-            "confluence"
-        ]
-    },
-    {
-        "title": "deltidsbrandman",
-        "skills": [
-            "confluence"
-        ]
-    },
-    {
-        "title": "teamchef",
-        "skills": []
-    },
-    {
-        "title": "product manager",
-        "skills": []
-    },
-    {
-        "title": "verifieringsingenj\u00f6r",
-        "skills": [
-            "python",
-            "cybers\u00e4kerhet",
-            "matlab",
-            "cloud"
-        ]
-    },
-    {
-        "title": "systemintegrationsingenj\u00f6r",
-        "skills": [
-            "python",
-            "cybers\u00e4kerhet",
-            "matlab",
-            "cloud"
-        ]
-    },
-    {
-        "title": "f\u00e4lttekniker",
-        "skills": []
-    },
-    {
-        "title": "servertekniker",
-        "skills": []
-    },
-    {
-        "title": "researcher",
-        "skills": []
-    },
-    {
-        "title": "scrum master",
-        "skills": []
-    },
-    {
-        "title": "operations engineer",
-        "skills": [
-            "powershell"
-        ]
-    },
-    {
-        "title": "aml",
-        "skills": []
-    },
-    {
-        "title": "bi-konsult",
-        "skills": []
-    },
-    {
-        "title": "backuptekniker",
-        "skills": [
-            "commvault"
-        ]
-    },
-    {
-        "title": "business analyst",
-        "skills": []
-    },
-    {
-        "title": "produktledare",
-        "skills": []
-    },
-    {
-        "title": "datalagerutvecklare",
-        "skills": [
-            "visual studio",
-            "sql-server",
-            "sql"
-        ]
-    },
-    {
-        "title": "riskkonsult",
-        "skills": []
-    },
-    {
-        "title": "aff\u00e4rscontroller",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetsstrateg",
-        "skills": []
-    },
-    {
-        "title": "coordinator",
-        "skills": []
-    },
-    {
-        "title": "konstn\u00e4r",
-        "skills": [
-            ".net",
-            "java",
-            "c#"
-        ]
-    },
-    {
-        "title": "forskare",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "f\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "it-f\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "delivery manager",
-        "skills": []
-    },
-    {
-        "title": "line-tekniker",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "c++-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "customer success manager",
-        "skills": []
-    },
-    {
-        "title": "postdoktor",
-        "skills": []
-    },
-    {
-        "title": "interaktionsdesigner",
-        "skills": []
-    },
-    {
-        "title": "driftansvarig",
-        "skills": [
-            "microsoft azure",
-            "powershell"
-        ]
-    },
-    {
-        "title": "devops-ingenj\u00f6r",
-        "skills": [
-            "kubernetes",
-            "ci"
-        ]
-    },
-    {
-        "title": "quality manager",
-        "skills": []
-    },
-    {
-        "title": "skribent",
-        "skills": [
-            "cosmic"
-        ]
-    },
-    {
-        "title": "objektspecialist",
-        "skills": []
-    },
-    {
-        "title": "agil coach",
-        "skills": []
-    },
-    {
-        "title": "testledare",
-        "skills": []
-    },
-    {
-        "title": "rekryteringspartner",
-        "skills": []
-    },
-    {
-        "title": "it-ansvarig",
-        "skills": []
-    },
-    {
-        "title": "infrastrukturtekniker",
-        "skills": []
-    },
-    {
-        "title": "e-commerce manager",
-        "skills": []
-    },
-    {
-        "title": "onsite-tekniker",
-        "skills": []
-    },
-    {
-        "title": "servicedeskmedarbetare",
-        "skills": []
-    },
-    {
-        "title": "personalansvarig",
-        "skills": []
-    },
-    {
-        "title": "it-manager",
-        "skills": [
-            "java",
-            "spring boot"
-        ]
-    },
-    {
-        "title": "windowstekniker",
-        "skills": [
-            "sql"
-        ]
-    },
-    {
-        "title": "chief product officer",
-        "skills": []
-    },
-    {
-        "title": "enterprisearkitekt",
-        "skills": []
-    },
-    {
-        "title": "hr-generalist",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetskonsult",
-        "skills": [
-            "regelverk"
-        ]
-    },
-    {
-        "title": "business unit manager",
-        "skills": [
-            "continuous integration"
-        ]
-    },
-    {
-        "title": "informationssamordnare",
-        "skills": [
-            "cad",
-            "revit"
-        ]
-    },
-    {
-        "title": "f\u00f6r\u00e4ndringsledare",
-        "skills": []
-    },
-    {
-        "title": "it-systemtekniker",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "implementationstekniker",
-        "skills": []
-    },
-    {
-        "title": "scala-utvecklare",
-        "skills": [
-            "ci/cd",
-            "git",
-            "kubernetes",
-            "docker",
-            "scala",
-            "apache spark"
-        ]
-    },
-    {
-        "title": "serviceledare",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "kundservicemedarbetare",
-        "skills": []
-    },
-    {
-        "title": "plattformsansvarig",
-        "skills": [
-            ".net",
-            "powershell",
-            "sql-server",
-            "vmware",
-            "kubernetes",
-            "docker",
-            "microsoft azure",
-            "chefserfarenhet"
-        ]
-    },
-    {
-        "title": "v\u00e5rdinformationsst\u00f6d",
-        "skills": [
-            "r\u00f6r",
-            "sql-server"
-        ]
-    },
-    {
-        "title": "teknisk r\u00e5dgivare",
-        "skills": []
-    },
-    {
-        "title": "administrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "servicedesktekniker",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "verkst\u00e4llande direkt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "cto",
-        "skills": []
-    },
-    {
-        "title": "mjukvaruarkitekt",
-        "skills": []
-    },
-    {
-        "title": "teknisk arkitekt",
-        "skills": [
-            "certifieringar",
-            "check point",
-            "cisco",
-            "cisco switchar",
-            "cisco nexus"
-        ]
-    },
-    {
-        "title": "bildanalytiker",
-        "skills": []
-    },
-    {
-        "title": "systemledare",
-        "skills": []
-    },
-    {
-        "title": "lead engineer",
-        "skills": []
-    },
-    {
-        "title": "noc-tekniker",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "produktionssupport",
-        "skills": [
-            "redaktionellt arbete"
-        ]
-    },
-    {
-        "title": "platform engineer",
-        "skills": []
-    },
-    {
-        "title": "devsecops engineer",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tverksspecialist",
-        "skills": [
-            "router",
-            "cisco"
-        ]
-    },
-    {
-        "title": "chefsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "utbildningskonsult",
-        "skills": []
-    },
-    {
-        "title": "hr-specialist",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "teknisk testare",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "virtualiseringstekniker",
-        "skills": [
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "qa-ingenj\u00f6r",
-        "skills": [
-            ".net",
-            "cloudtj\u00e4nster",
-            "ci",
-            "microsoft azure",
-            "python",
-            "certifieringar",
-            "rapportering",
-            "java",
-            "javascript",
-            "c#"
-        ]
-    },
-    {
-        "title": "forskningsingenj\u00f6r",
-        "skills": [
-            "docker",
-            "c++"
-        ]
-    },
-    {
-        "title": "delprojektledare",
-        "skills": []
-    },
-    {
-        "title": "initiativledare",
-        "skills": []
-    },
-    {
-        "title": "manager",
-        "skills": []
-    },
-    {
-        "title": "recruiting manager",
-        "skills": []
-    },
-    {
-        "title": "host",
-        "skills": []
-    },
-    {
-        "title": "data scientist",
-        "skills": []
-    },
-    {
-        "title": "integrationskonsult",
-        "skills": [
-            ".net",
-            "c#",
-            "java"
-        ]
-    },
-    {
-        "title": "consultant manager",
-        "skills": []
-    },
-    {
-        "title": "support-specialist",
-        "skills": []
-    },
-    {
-        "title": "traffic",
-        "skills": []
-    },
-    {
-        "title": "flygtrafikledare",
-        "skills": [
-            "realtidssystem"
-        ]
-    },
-    {
-        "title": "testutvecklare",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "driftchef",
-        "skills": [
-            "vmware",
-            "sql-server"
-        ]
-    },
-    {
-        "title": "producent",
-        "skills": [
-            "cms",
-            "css",
-            "google analytics"
-        ]
-    },
-    {
-        "title": "scripta",
-        "skills": [
-            "containrar",
-            "ci/cd",
-            "cloud",
-            "cucumber",
-            "git",
-            "groovy",
-            "java",
-            "microsoft azure",
-            "cms",
-            ".net",
-            "javascript",
-            "cloudtj\u00e4nster"
-        ]
-    },
-    {
-        "title": "tillverkare",
-        "skills": []
-    },
-    {
-        "title": "applikationstekniker",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetstekniker",
-        "skills": [
-            "certifieringar",
-            "router"
-        ]
-    },
-    {
-        "title": "systemoperat\u00f6r",
-        "skills": [
-            "vmware",
-            "cisco ios"
-        ]
-    },
-    {
-        "title": "informatiker",
-        "skills": [
-            "regelverk"
-        ]
-    },
-    {
-        "title": "linuxtekniker",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "strateg",
-        "skills": []
-    },
-    {
-        "title": "personnel manager",
-        "skills": []
-    },
-    {
-        "title": "aff\u00e4rssystemkonsult",
-        "skills": [
-            "crm"
-        ]
-    },
-    {
-        "title": "tj\u00e4nsteutvecklare",
-        "skills": [
-            "regelverk",
-            "confluence"
-        ]
-    },
-    {
-        "title": "qa-konsult",
-        "skills": []
-    },
-    {
-        "title": "it-personal",
-        "skills": []
-    },
-    {
-        "title": "it-forensiker",
-        "skills": []
-    },
-    {
-        "title": "hr-handl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "it-service manager",
-        "skills": []
-    },
-    {
-        "title": "teknikkonsult",
-        "skills": [
-            "c#",
-            "c++"
-        ]
-    },
-    {
-        "title": "komponentansvarig",
-        "skills": []
-    },
-    {
-        "title": "spelutvecklare",
-        "skills": [
-            "c++",
-            "c#"
-        ]
-    },
-    {
-        "title": "databasutvecklare",
-        "skills": [
-            "sql",
-            "sql-server"
-        ]
-    },
-    {
-        "title": "telefonoperat\u00f6r",
-        "skills": [
-            "cucumber"
-        ]
-    },
-    {
-        "title": "kundansvarig",
-        "skills": [
-            "vmware",
-            "citrix",
-            "powershell",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "programledare",
-        "skills": []
-    },
-    {
-        "title": "generalist",
-        "skills": []
-    },
-    {
-        "title": "testautomatiserare",
-        "skills": [
-            "python",
-            ".net"
-        ]
-    },
-    {
-        "title": "produktchef",
-        "skills": []
-    },
-    {
-        "title": "r d manager",
-        "skills": []
-    },
-    {
-        "title": "quality assurance",
-        "skills": []
-    },
-    {
-        "title": "people manager",
-        "skills": [
-            ".net"
-        ]
-    },
-    {
-        "title": ".net-arkitekt",
-        "skills": [
-            "css",
-            "javascript"
-        ]
-    },
-    {
-        "title": "aff\u00e4rskonsult",
-        "skills": []
-    },
-    {
-        "title": "integrat\u00f6r",
-        "skills": [
-            "microsoft azure",
-            "java"
-        ]
-    },
-    {
-        "title": "ledningsst\u00f6d",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "it-s\u00e4kerhetsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "chief information officer",
-        "skills": []
-    },
-    {
-        "title": "design engineer",
-        "skills": []
-    },
-    {
-        "title": "technical account manager",
-        "skills": []
-    },
-    {
-        "title": "sakkunnig",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetssamordnare",
-        "skills": [
-            "certifieringar",
-            "risk management",
-            "compliance"
-        ]
-    },
-    {
-        "title": "unix-tekniker",
-        "skills": []
-    },
-    {
-        "title": "it-operations manager",
-        "skills": [
-            "microsoft azure",
-            "cloud",
-            "sql-server"
-        ]
-    },
-    {
-        "title": "representative",
-        "skills": []
-    },
-    {
-        "title": "data architect",
-        "skills": [
-            "python",
-            "sql"
-        ]
-    },
-    {
-        "title": "dispatcher",
-        "skills": []
-    },
-    {
-        "title": "l\u00f6nechef",
-        "skills": []
-    },
-    {
-        "title": "hr-direkt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "system manager",
-        "skills": []
-    },
-    {
-        "title": "sharepoint-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetsspecialist",
-        "skills": []
-    },
-    {
-        "title": "it-supportmedarbetare",
-        "skills": [
-            "citrix"
-        ]
-    },
-    {
-        "title": "l\u00e4kare",
-        "skills": [
-            "react",
-            "python",
-            "c++"
-        ]
-    },
-    {
-        "title": "leveransansvarig",
-        "skills": []
-    },
-    {
-        "title": "technical lead",
-        "skills": []
-    },
-    {
-        "title": "systemanalytiker",
-        "skills": []
-    },
-    {
-        "title": "databasansvarig",
-        "skills": [
-            "javascript"
-        ]
-    },
-    {
-        "title": "webbansvarig",
-        "skills": [
-            "cms"
-        ]
-    },
-    {
-        "title": "administrator",
-        "skills": []
-    },
-    {
-        "title": "molntekniker",
-        "skills": []
-    },
-    {
-        "title": "talent acquisition partner",
-        "skills": []
-    },
-    {
-        "title": "crm-specialist",
-        "skills": []
-    },
-    {
-        "title": "copywriter",
-        "skills": []
-    },
-    {
-        "title": "crm-manager",
-        "skills": []
-    },
-    {
-        "title": "data analyst",
-        "skills": []
-    },
-    {
-        "title": "dataanalytiker",
-        "skills": [
-            "python",
-            "sql",
-            "c#"
-        ]
-    },
-    {
-        "title": "s\u00e4kerhetsskyddshandl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "dokumentationstekniker",
-        "skills": [
-            "relationshandlingar",
-            "cad"
-        ]
-    },
-    {
-        "title": "produktionschef",
-        "skills": [
-            "regler"
-        ]
-    },
-    {
-        "title": "php-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "projektkoordinator",
-        "skills": []
-    },
-    {
-        "title": "qa-specialist",
-        "skills": []
-    },
-    {
-        "title": "l\u00f6sningsspecialist",
-        "skills": [
-            "sql"
-        ]
-    },
-    {
-        "title": "it-administrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "certifierad it-arkitekt",
-        "skills": []
-    },
-    {
-        "title": "digital imaging technician",
-        "skills": []
-    },
-    {
-        "title": "e-handelsadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "helpdesktekniker",
-        "skills": []
-    },
-    {
-        "title": "android-utvecklare",
-        "skills": [
-            "java",
-            "kotlin"
-        ]
-    },
-    {
-        "title": "detektiv",
-        "skills": [
-            "sql",
-            "c#"
-        ]
-    },
-    {
-        "title": "business developer",
-        "skills": []
-    },
-    {
-        "title": "managementkonsult",
-        "skills": []
-    },
-    {
-        "title": "integrationstekniker",
-        "skills": [
-            "powershell",
-            "certifikat",
-            "sql"
-        ]
-    },
-    {
-        "title": "business manager",
-        "skills": []
-    },
-    {
-        "title": "it-strateg",
-        "skills": [
-            "certifieringar"
-        ]
-    },
-    {
-        "title": "driftsamordnare",
-        "skills": []
-    },
-    {
-        "title": "implementat\u00f6r",
-        "skills": [
-            ".net",
-            "javascript",
-            "sql-server",
-            "c#",
-            "redovisning"
-        ]
-    },
-    {
-        "title": "operat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "milit\u00e4r",
-        "skills": []
-    },
-    {
-        "title": "lead programmer",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tverksarkitekt",
-        "skills": [
-            "red hat",
-            "vmware",
-            "router"
-        ]
-    },
-    {
-        "title": "support manager",
-        "skills": []
-    },
-    {
-        "title": "teknisk koordinator",
-        "skills": []
-    },
-    {
-        "title": "projektst\u00f6d",
-        "skills": [
-            "rapportering"
-        ]
-    },
-    {
-        "title": "intelligence-konsult",
-        "skills": [
-            "cloudl\u00f6sningar",
-            "sql-server",
-            "microsoft azure",
-            "sql"
-        ]
-    },
-    {
-        "title": "it-s\u00e4kerhetschef",
-        "skills": []
-    },
-    {
-        "title": "service delivery manager",
-        "skills": []
-    },
-    {
-        "title": "kundserviceagent",
-        "skills": []
-    },
-    {
-        "title": "koncernarkitekt",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetsingenj\u00f6r",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "extrapersonal",
-        "skills": []
-    },
-    {
-        "title": "teknisk konsult",
-        "skills": []
-    },
-    {
-        "title": "controller",
-        "skills": []
-    },
-    {
-        "title": "produktdesigner",
-        "skills": []
-    },
-    {
-        "title": "dataingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "dba",
-        "skills": []
-    },
-    {
-        "title": "funktionsutvecklare",
-        "skills": [
-            "python",
-            "c++"
-        ]
-    },
-    {
-        "title": "infrastrukturutvecklare",
-        "skills": [
-            "red hat",
-            "vmware",
-            "centos",
-            "kubernetes",
-            "ansible",
-            "python",
-            "puppet",
-            "docker",
-            "ruby",
-            "java",
-            "c#",
-            "javascript"
-        ]
-    },
-    {
-        "title": "integrationsingenj\u00f6r",
-        "skills": [
-            "rapportering",
-            "kubernetes"
-        ]
-    },
-    {
-        "title": "teknisksupport",
-        "skills": []
-    },
-    {
-        "title": "telefonsupport",
-        "skills": [
-            "citrix"
-        ]
-    },
-    {
-        "title": "penetrationstestare",
-        "skills": []
-    },
-    {
-        "title": "specialistroll",
-        "skills": [
-            "regelverk",
-            "apl"
-        ]
-    },
-    {
-        "title": "cloud engineer",
-        "skills": [
-            "terraform"
-        ]
-    },
-    {
-        "title": "ict-tekniker",
-        "skills": []
-    },
-    {
-        "title": "gruppledare",
-        "skills": [
-            "centos"
-        ]
-    },
-    {
-        "title": "service desk manager",
-        "skills": []
-    },
-    {
-        "title": "teknisk systemf\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "studentkonsult",
-        "skills": []
-    },
-    {
-        "title": "projektassistent",
-        "skills": []
-    },
-    {
-        "title": "system engineer",
-        "skills": []
-    },
-    {
-        "title": "eln\u00e4tsprojekt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "beredare",
-        "skills": [
-            "rapportering"
-        ]
-    },
-    {
-        "title": "testspecialist",
-        "skills": [
-            "python",
-            "c++",
-            "regressionstestning"
-        ]
-    },
-    {
-        "title": "logistiktekniker",
-        "skills": []
-    },
-    {
-        "title": "creative director",
-        "skills": []
-    },
-    {
-        "title": "applikationssupport",
-        "skills": [
-            "sql",
-            "java"
-        ]
-    },
-    {
-        "title": "samordnare",
-        "skills": []
-    },
-    {
-        "title": "planerare",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetssamordnare",
-        "skills": [
-            "ramavtal",
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "software asset manager",
-        "skills": []
-    },
-    {
-        "title": "cybers\u00e4kerhetsspecialist",
-        "skills": [
-            "cybers\u00e4kerhet",
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "python-utvecklare",
-        "skills": [
-            "python",
-            "django"
-        ]
-    },
-    {
-        "title": "arkivarie",
-        "skills": [
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "iam-konsult",
-        "skills": [
-            "cybers\u00e4kerhet",
-            "cloud"
-        ]
-    },
-    {
-        "title": "kravingenj\u00f6r",
-        "skills": [
-            "r\u00f6r"
-        ]
-    },
-    {
-        "title": "rapportutvecklare",
-        "skills": [
-            "sql",
-            "rapportverktyg",
-            "regelverk"
-        ]
-    },
-    {
-        "title": "sales consultant manager",
-        "skills": []
-    },
-    {
-        "title": "infrastrukturspecialist",
-        "skills": [
-            "ansible",
-            "python"
-        ]
-    },
-    {
-        "title": "ambassad\u00f6r",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "v\u00e5rdsystemsamordnare",
-        "skills": []
-    },
-    {
-        "title": "product engineering manager",
-        "skills": [
-            "continuous integration"
-        ]
-    },
-    {
-        "title": "engineering manager",
-        "skills": []
-    },
-    {
-        "title": "talent acquisition manager",
-        "skills": []
-    },
-    {
-        "title": "vice president",
-        "skills": []
-    },
-    {
-        "title": "f\u00e4ltservicetekniker",
-        "skills": []
-    },
-    {
-        "title": "noc-operat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "produktionstekniker",
-        "skills": []
-    },
-    {
-        "title": "dw-utvecklare",
-        "skills": [
-            "sql-server"
-        ]
-    },
-    {
-        "title": "release manager",
-        "skills": []
-    },
-    {
-        "title": "uppdragsansvarig",
-        "skills": []
-    },
-    {
-        "title": "beslutsfattare",
-        "skills": [
-            "rapportering"
-        ]
-    },
-    {
-        "title": "webbredakt\u00f6r",
-        "skills": [
-            "css",
-            "connector",
-            "drupal"
-        ]
-    },
-    {
-        "title": "facility technician",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetstekniker",
-        "skills": [
-            "cybers\u00e4kerhet"
-        ]
-    },
-    {
-        "title": "supportingenj\u00f6r",
-        "skills": [
-            "python",
-            "c++"
-        ]
-    },
-    {
-        "title": "hr-koordinator",
-        "skills": []
-    },
-    {
-        "title": "helpdeskmedarbetare",
-        "skills": []
-    },
-    {
-        "title": "automationsprogrammerare",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetshandl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "it-systemadministrat\u00f6r",
-        "skills": [
-            "powershell",
-            "docker"
-        ]
-    },
-    {
-        "title": "utvecklingsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "iam-specialist",
-        "skills": []
-    },
-    {
-        "title": "licensadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "etl-utvecklare",
-        "skills": [
-            "sql",
-            "sql-server",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "kostekonom",
-        "skills": []
-    },
-    {
-        "title": "cad-ritare",
-        "skills": [
-            "creo"
-        ]
-    },
-    {
-        "title": "general",
-        "skills": []
-    },
-    {
-        "title": "verksamhetsledare",
-        "skills": []
-    },
-    {
-        "title": "informationsf\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "applikationsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "application engineer",
-        "skills": []
-    },
-    {
-        "title": "digital designer",
-        "skills": []
-    },
-    {
-        "title": "platschef",
-        "skills": []
-    },
-    {
-        "title": "personalchef",
-        "skills": []
-    },
-    {
-        "title": "produktionsledare",
-        "skills": []
-    },
-    {
-        "title": "produktansvarig",
-        "skills": []
-    },
-    {
-        "title": "solution manager",
-        "skills": []
-    },
-    {
-        "title": "konfigurationsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "compliance engineer",
-        "skills": [
-            "regelverk"
-        ]
-    },
-    {
-        "title": "recruiter",
-        "skills": []
-    },
-    {
-        "title": "artist",
-        "skills": []
-    },
-    {
-        "title": "technical artist",
-        "skills": []
-    },
-    {
-        "title": "it security architect",
-        "skills": []
-    },
-    {
-        "title": "customer support",
-        "skills": []
-    },
-    {
-        "title": "business controller",
-        "skills": [
-            "crm",
-            "sql-databaser"
-        ]
-    },
-    {
-        "title": "ber\u00e4kningsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "kommunikationstekniker",
-        "skills": [
-            "routrar"
-        ]
-    },
-    {
-        "title": "konstrukt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "fastighetstekniker",
-        "skills": [
-            "reglersystem"
-        ]
-    },
-    {
-        "title": "testtekniker",
-        "skills": [
-            "microsoft azure",
-            "c++",
-            "civilingenj\u00f6rsutbildning",
-            "c#"
-        ]
-    },
-    {
-        "title": "it-sekreterare",
-        "skills": []
-    },
-    {
-        "title": "kvalificerad handl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "cloud-arkitekt",
-        "skills": [
-            "certifieringar",
-            "cloud"
-        ]
-    },
-    {
-        "title": "software consultant",
-        "skills": [
-            ".net",
-            "java",
-            "c#"
-        ]
-    },
-    {
-        "title": "leveransledare",
-        "skills": [
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "kronofogden",
-        "skills": [
-            "certifieringar",
-            "cissp",
-            "r\u00e5dgivning",
-            "riskhantering",
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "teknikst\u00f6d",
-        "skills": [
-            "ciscos",
-            "router"
-        ]
-    },
-    {
-        "title": "fpga-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "omr\u00e5desarkitekt",
-        "skills": []
-    },
-    {
-        "title": "native-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "planner",
-        "skills": [
-            "python",
-            "sql",
-            "java",
-            "microsoft azure",
-            "rimlighetsbed\u00f6mningar"
-        ]
-    },
-    {
-        "title": "kryptolog",
-        "skills": [
-            "python",
-            "c++",
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "azure-specialist",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "co",
-        "skills": []
-    },
-    {
-        "title": "tj\u00e4nstedesigner",
-        "skills": [
-            "research",
-            "cms",
-            "cms-l\u00f6sningar"
-        ]
-    },
-    {
-        "title": "webbstrateg",
-        "skills": [
-            "cms",
-            "confluence",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "s\u00e4kerhetsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "major incident manager",
-        "skills": []
-    },
-    {
-        "title": "omr\u00e5deschef",
-        "skills": []
-    },
-    {
-        "title": "enterprise architect",
-        "skills": []
-    },
-    {
-        "title": "entrepren\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "projekt\u00f6r",
-        "skills": [
-            "radio"
-        ]
-    },
-    {
-        "title": "tj\u00e4nsteomr\u00e5desansvarig",
-        "skills": []
-    },
-    {
-        "title": "e-tj\u00e4nsteutvecklare",
-        "skills": [
-            "javascript"
-        ]
-    },
-    {
-        "title": "aff\u00e4rsprojektledare",
-        "skills": []
-    },
-    {
-        "title": "technical project manager",
-        "skills": []
-    },
-    {
-        "title": "tandl\u00e4kare",
-        "skills": []
-    },
-    {
-        "title": "trainer",
-        "skills": [
-            "java",
-            "c++"
-        ]
-    },
-    {
-        "title": "javascript-utvecklare",
-        "skills": [
-            "css"
-        ]
-    },
-    {
-        "title": "teknisk skribent",
-        "skills": []
-    },
-    {
-        "title": "technical writer",
-        "skills": []
-    },
-    {
-        "title": "it-utvecklare",
-        "skills": [
-            "c++",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "js-utvecklare",
-        "skills": [
-            "rest"
-        ]
-    },
-    {
-        "title": "specialistkonsult",
-        "skills": []
-    },
-    {
-        "title": "development engineer",
-        "skills": []
-    },
-    {
-        "title": "referent",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetskonsult",
-        "skills": []
-    },
-    {
-        "title": "incident manager",
-        "skills": []
-    },
-    {
-        "title": "chauff\u00f6r",
-        "skills": [
-            "kotlin",
-            "java"
-        ]
-    },
-    {
-        "title": "teknisk dokumentat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "teknisk administrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "konfigurationsledare",
-        "skills": []
-    },
-    {
-        "title": "konfigurationstekniker",
-        "skills": []
-    },
-    {
-        "title": "project manager officer",
-        "skills": []
-    },
-    {
-        "title": "jurist",
-        "skills": [
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "officer",
-        "skills": []
-    },
-    {
-        "title": "it-ingenj\u00f6r",
-        "skills": [
-            "oracle",
-            "vmware",
-            "sql",
-            "clustering"
-        ]
-    },
-    {
-        "title": "personalvetare",
-        "skills": []
-    },
-    {
-        "title": "software manager",
-        "skills": [
-            "redis",
-            "rust"
-        ]
-    },
-    {
-        "title": "teammanager",
-        "skills": []
-    },
-    {
-        "title": "rekryteringschef",
-        "skills": []
-    },
-    {
-        "title": "teknikledare",
-        "skills": []
-    },
-    {
-        "title": "it-tj\u00e4nsteansvarig",
-        "skills": []
-    },
-    {
-        "title": "aff\u00e4rsutvecklare",
-        "skills": [
-            "sql",
-            "java",
-            "javascript"
-        ]
-    },
-    {
-        "title": "c#-utvecklare",
-        "skills": [
-            "c#"
-        ]
-    },
-    {
-        "title": "applikationsansvarig",
-        "skills": [
-            "vba-programmering"
-        ]
-    },
-    {
-        "title": "it-infrastrukturtekniker",
-        "skills": [
-            "router",
-            "cisco switchar",
-            "certifikat",
-            "vmware",
-            "cloud",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "tolk",
-        "skills": [
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "testchef",
-        "skills": []
-    },
-    {
-        "title": "utvecklingsansvarig",
-        "skills": [
-            "javascript"
-        ]
-    },
-    {
-        "title": "f\u00f6rmedling",
-        "skills": []
-    },
-    {
-        "title": "dataansvarig",
-        "skills": []
-    },
-    {
-        "title": "analysansvarig",
-        "skills": []
-    },
-    {
-        "title": "quality engineer",
-        "skills": []
-    },
-    {
-        "title": "digitaliseringsledare",
-        "skills": []
-    },
-    {
-        "title": "windowsspecialist",
-        "skills": [
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "verksamhetskonsult",
-        "skills": []
-    },
-    {
-        "title": "operations manager",
-        "skills": []
-    },
-    {
-        "title": "enterprisekonsult",
-        "skills": []
-    },
-    {
-        "title": "biztalk-utvecklare",
-        "skills": [
-            "ramavtal"
-        ]
-    },
-    {
-        "title": "portf\u00f6ljadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "processledare",
-        "skills": []
-    },
-    {
-        "title": "elkraftsingenj\u00f6r",
-        "skills": [
-            "rapportskrivning"
-        ]
-    },
-    {
-        "title": "prestandatestare",
-        "skills": [
-            "python",
-            ".net",
-            "javascript"
-        ]
-    },
-    {
-        "title": "pilot",
-        "skills": []
-    },
-    {
-        "title": "guide",
-        "skills": []
-    },
-    {
-        "title": "agent",
-        "skills": []
-    },
-    {
-        "title": "knowledge manager",
-        "skills": []
-    },
-    {
-        "title": "stack-utvecklare",
-        "skills": [
-            "javascript"
-        ]
-    },
-    {
-        "title": "teknisk systemadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "biodlare",
-        "skills": []
-    },
-    {
-        "title": "it-driftchef",
-        "skills": [
-            "sql-server",
-            "csv"
-        ]
-    },
-    {
-        "title": "webbdesigner",
-        "skills": [
             "sass",
-            "javascript",
-            "css"
-        ]
-    },
-    {
-        "title": "driftoperat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "program manager",
-        "skills": []
-    },
-    {
-        "title": "it program manager",
-        "skills": []
-    },
-    {
-        "title": "mjukvarukonstrukt\u00f6r",
-        "skills": [
-            "c++",
-            "c#"
-        ]
-    },
-    {
-        "title": "driftkonsult",
-        "skills": []
-    },
-    {
-        "title": "infrastrukturkonsult",
-        "skills": [
-            "powershell"
-        ]
-    },
-    {
-        "title": "supportansvarig",
-        "skills": []
-    },
-    {
-        "title": "soldat",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tverksinstallat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "c-utvecklare",
-        "skills": [
-            "radio",
-            "realtidssystem",
-            "c++",
-            "civilingenj\u00f6rsutbildning",
-            "kubernetes",
-            "docker"
-        ]
-    },
-    {
-        "title": "multidiciplin\u00e4r projektledare",
-        "skills": [
-            "resor"
-        ]
-    },
-    {
-        "title": "section manager",
-        "skills": []
-    },
-    {
-        "title": "security engineer",
-        "skills": []
-    },
-    {
-        "title": "driftledare",
-        "skills": []
-    },
-    {
-        "title": "planeringschef",
-        "skills": []
-    },
-    {
-        "title": "projektkonsult",
-        "skills": [
-            "cloudtj\u00e4nster",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "utbildningssamordnare",
-        "skills": []
-    },
-    {
-        "title": "onsite-support",
-        "skills": []
-    },
-    {
-        "title": "teknikersupport",
-        "skills": []
-    },
-    {
-        "title": "projektspecialist",
-        "skills": []
-    },
-    {
-        "title": "inspirat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "ledningssoldat",
-        "skills": []
-    },
-    {
-        "title": "marknadskoordinator",
-        "skills": []
-    },
-    {
-        "title": "ikt-tekniker",
-        "skills": [
-            "reparation"
-        ]
-    },
-    {
-        "title": "butikss\u00e4ljare",
-        "skills": [
-            "reparation"
-        ]
-    },
-    {
-        "title": "butikschef",
-        "skills": [
-            "reparation"
-        ]
-    },
-    {
-        "title": "klienttekniker",
-        "skills": []
-    },
-    {
-        "title": "it-supportspecialist",
-        "skills": []
-    },
-    {
-        "title": "ui-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "sitevision-utvecklare",
-        "skills": [
             "cms",
-            "javascript",
-            "react"
-        ]
-    },
-    {
-        "title": "ceo",
-        "skills": []
-    },
-    {
-        "title": "tj\u00e4nste\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "test lead",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetsoperat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "j\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "musiker",
-        "skills": []
-    },
-    {
-        "title": "verksamhetsspecialist",
-        "skills": [
-            "confluence"
-        ]
-    },
-    {
-        "title": "key account manager",
-        "skills": []
-    },
-    {
-        "title": "cloudutvecklare",
-        "skills": []
-    },
-    {
-        "title": "forensiker",
-        "skills": []
-    },
-    {
-        "title": "projektadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "programadministrat\u00f6r",
-        "skills": [
-            "rapportering"
-        ]
-    },
-    {
-        "title": "verksamhetsansvarig",
-        "skills": [
-            "redovisning",
-            "radioteknik",
-            "sql-databaser"
-        ]
-    },
-    {
-        "title": "s\u00e4kerhetshandl\u00e4ggare",
-        "skills": [
-            "rapportering"
-        ]
-    },
-    {
-        "title": "arbetsledare",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetschef",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "mont\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "projekttekniker",
-        "skills": []
-    },
-    {
-        "title": "av-tekniker",
-        "skills": []
-    },
-    {
-        "title": "devops-konsult",
-        "skills": [
-            "ansible",
-            "microsoft azure",
-            "python",
-            "cloud",
-            "docker",
-            "puppet",
-            "mariadb",
-            "kubernetes",
-            "mongodb",
-            "oracle",
-            ".net",
-            "react"
-        ]
-    },
-    {
-        "title": "projektmedarbetare",
-        "skills": []
-    },
-    {
-        "title": "applikationspaketerare",
-        "skills": [
-            "vmware",
-            "powershell",
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "n\u00e4tanalytiker",
-        "skills": []
-    },
-    {
-        "title": "software development engineer",
-        "skills": []
-    },
-    {
-        "title": "group manager",
-        "skills": []
-    },
-    {
-        "title": "virtualiseringsspecialist",
-        "skills": [
-            "certifieringar",
-            "cisco",
-            "red hat",
-            "vmware"
-        ]
-    },
-    {
-        "title": "agile coach",
-        "skills": []
-    },
-    {
-        "title": "kvalitetsansvarig",
-        "skills": []
-    },
-    {
-        "title": "verksamhetsanalytiker",
-        "skills": []
-    },
-    {
-        "title": "delsystemtestare",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "utvecklingschef",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetsansvarig",
-        "skills": [
-            "r\u00f6r"
-        ]
-    },
-    {
-        "title": "linjechef",
-        "skills": [
-            "configuration management"
-        ]
-    },
-    {
-        "title": "teknisk ledare",
-        "skills": [
-            "matlab",
-            "python"
-        ]
-    },
-    {
-        "title": "digitaliseringsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "generaldirekt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "it-direkt\u00f6r",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "dokumentationsst\u00f6d",
-        "skills": []
-    },
-    {
-        "title": "system center configuration manager",
-        "skills": []
-    },
-    {
-        "title": "metodst\u00f6d",
-        "skills": []
-    },
-    {
-        "title": "digitaliseringsansvarig",
-        "skills": []
-    },
-    {
-        "title": "kontorschef",
-        "skills": []
-    },
-    {
-        "title": "desk-medarbetare",
-        "skills": []
-    },
-    {
-        "title": "hr-partner",
-        "skills": []
-    },
-    {
-        "title": "market area manager",
-        "skills": []
-    },
-    {
-        "title": "plc-programmerare",
-        "skills": []
-    },
-    {
-        "title": "support lead",
-        "skills": []
-    },
-    {
-        "title": "development manager",
-        "skills": []
-    },
-    {
-        "title": "verksamhetsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "grafisk designer",
-        "skills": []
-    },
-    {
-        "title": "utvecklingsprojektledare",
-        "skills": []
-    },
-    {
-        "title": "process manager",
-        "skills": []
-    },
-    {
-        "title": "tm",
-        "skills": []
-    },
-    {
-        "title": "talent acquisition specialist",
-        "skills": []
-    },
-    {
-        "title": "linuxadministrat\u00f6r",
-        "skills": [
-            "cloud",
-            "puppet",
-            "ansible",
-            "terraform",
-            "docker"
-        ]
-    },
-    {
-        "title": "business support manager",
-        "skills": []
-    },
-    {
-        "title": "grossist",
-        "skills": []
-    },
-    {
-        "title": "ux-lead",
-        "skills": [
-            "research"
-        ]
-    },
-    {
-        "title": "webmaster",
-        "skills": [
-            "cms"
-        ]
-    },
-    {
-        "title": "stj\u00e4rnkonsult",
-        "skills": []
-    },
-    {
-        "title": "testansvarig",
-        "skills": []
-    },
-    {
-        "title": "teststrateg",
-        "skills": []
-    },
-    {
-        "title": "testmilj\u00f6koordinator",
-        "skills": []
-    },
-    {
-        "title": "testarkitekt",
-        "skills": [
-            "r\u00f6r"
-        ]
-    },
-    {
-        "title": "tons\u00e4ttare",
-        "skills": []
-    },
-    {
-        "title": "test automation engineer",
-        "skills": []
-    },
-    {
-        "title": "\u00e4mnesexpert",
-        "skills": []
-    },
-    {
-        "title": "test manager",
-        "skills": []
-    },
-    {
-        "title": "api-utvecklare",
-        "skills": [
-            ".net",
-            "c#"
-        ]
-    },
-    {
-        "title": "apparatingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "systemekonom",
-        "skills": []
-    },
-    {
-        "title": "hr business partner",
-        "skills": []
-    },
-    {
-        "title": "m\u00e4tv\u00e4rdesoperat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "m\u00e4tv\u00e4rdesadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "klientsupport",
-        "skills": []
-    },
-    {
-        "title": "signalskyddshandl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "regleringenj\u00f6r",
-        "skills": [
-            "reglerteknik"
-        ]
-    },
-    {
-        "title": "styringenj\u00f6r",
-        "skills": [
-            "reglerteknik"
-        ]
-    },
-    {
-        "title": "database administrator",
-        "skills": [
-            "restore"
-        ]
-    },
-    {
-        "title": "generalagent",
-        "skills": []
-    },
-    {
-        "title": "provledare",
-        "skills": []
-    },
-    {
-        "title": "supply chain consultant",
-        "skills": []
-    },
-    {
-        "title": "stadsn\u00e4tstekniker",
-        "skills": [
-            "registrering"
-        ]
-    },
-    {
-        "title": "it-handl\u00e4ggare",
-        "skills": [
-            "callguide"
-        ]
-    },
-    {
-        "title": "elektronikingenj\u00f6r",
-        "skills": [
-            "rel\u00e4skydd"
-        ]
-    },
-    {
-        "title": "techsupport",
-        "skills": []
-    },
-    {
-        "title": "release train engineer",
-        "skills": []
-    },
-    {
-        "title": "licenssamordnare",
-        "skills": []
-    },
-    {
-        "title": "testdesigner",
-        "skills": [
-            "python",
-            "matlab simulink",
-            "c++",
-            "canoe"
-        ]
-    },
-    {
-        "title": "jobbagent",
-        "skills": []
-    },
-    {
-        "title": "line-support",
-        "skills": []
-    },
-    {
-        "title": "teknikinformat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "informationsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "teknisk produkt\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tplanerare",
-        "skills": []
-    },
-    {
-        "title": "embeddedprogrammerare",
-        "skills": [
-            "c++"
-        ]
-    },
-    {
-        "title": "styrsystemkonstrukt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "technical operation manager",
-        "skills": []
-    },
-    {
-        "title": "applikationsf\u00f6rvaltare",
-        "skills": [
-            "java",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "compliance officer",
-        "skills": [
-            "compliance"
-        ]
-    },
-    {
-        "title": "legal counsel",
-        "skills": [
-            "compliance"
-        ]
-    },
-    {
-        "title": "internkonsult",
-        "skills": []
-    },
-    {
-        "title": "hardware engineer",
-        "skills": []
-    },
-    {
-        "title": "kvalitetsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "rektor",
-        "skills": []
-    },
-    {
-        "title": "sportkoordinator",
-        "skills": []
-    },
-    {
-        "title": "verksamhetscontroller",
-        "skills": []
-    },
-    {
-        "title": "logistikutvecklare",
-        "skills": [
-            "python"
-        ]
-    },
-    {
-        "title": "dokumenthanterare",
-        "skills": []
-    },
-    {
-        "title": "dokumentkoordinator",
-        "skills": []
-    },
-    {
-        "title": "quality assurance manager",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "systemkonstrukt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "lantbrukare",
-        "skills": [
-            "react",
-            "python",
-            "matlab",
-            "c++"
-        ]
-    },
-    {
-        "title": "algoritmutvecklare",
-        "skills": [
-            "python",
-            "matlab",
-            "c++",
-            "react"
-        ]
-    },
-    {
-        "title": "elkonstrukt\u00f6r",
-        "skills": [
-            "cybers\u00e4kerhet",
-            "cloud",
-            "cadence"
-        ]
-    },
-    {
-        "title": "product analyst",
-        "skills": [
-            "research"
-        ]
-    },
-    {
-        "title": "teknikf\u00f6rvaltare",
-        "skills": []
-    },
-    {
-        "title": "teknisk kundtj\u00e4nst",
-        "skills": []
-    },
-    {
-        "title": "microsoftspecialist",
-        "skills": []
-    },
-    {
-        "title": "mekanikkonstrukt\u00f6r",
-        "skills": [
-            "creo"
-        ]
-    },
-    {
-        "title": "steward",
-        "skills": []
-    },
-    {
-        "title": "dokumentat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "larmtekniker",
-        "skills": []
-    },
-    {
-        "title": "larminstallat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "copy",
-        "skills": []
-    },
-    {
-        "title": "mallutvecklare",
-        "skills": []
-    },
-    {
-        "title": "backend engineer",
-        "skills": []
-    },
-    {
-        "title": "systemintegrat\u00f6r",
-        "skills": [
-            "docker",
-            "citect"
-        ]
-    },
-    {
-        "title": "webbtekniker",
-        "skills": [
-            "cms",
-            "google analytics"
-        ]
-    },
-    {
-        "title": "seo specialist",
-        "skills": [
-            "cms",
-            "google analytics",
-            "google ads"
-        ]
-    },
-    {
-        "title": "optimerare",
-        "skills": [
-            "cms",
-            "google analytics"
-        ]
-    },
-    {
-        "title": "director",
-        "skills": []
-    },
-    {
-        "title": "produktionsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "forskningsassistent",
-        "skills": []
-    },
-    {
-        "title": "teamansvarig",
-        "skills": []
-    },
-    {
-        "title": "service level manager",
-        "skills": [
-            "certifieringar"
-        ]
-    },
-    {
-        "title": "hr-ansvarig",
-        "skills": [
-            "google analytics"
-        ]
-    },
-    {
-        "title": "regionansvarig",
-        "skills": [
-            "google analytics"
-        ]
-    },
-    {
-        "title": "associate",
-        "skills": []
-    },
-    {
-        "title": "konsultenhetschef",
-        "skills": []
-    },
-    {
-        "title": "chefsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "dokumentansvarig",
-        "skills": []
-    },
-    {
-        "title": "ekonom",
-        "skills": []
-    },
-    {
-        "title": "sales support",
-        "skills": []
-    },
-    {
-        "title": "utredare",
-        "skills": []
-    },
-    {
-        "title": "it-generalist",
-        "skills": [
-            "vmware",
-            "cloud",
-            "citrix"
-        ]
-    },
-    {
-        "title": "teleingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "watch supervisor",
-        "skills": []
-    },
-    {
-        "title": "serviceingenj\u00f6r",
-        "skills": [
-            "radioteknik"
-        ]
-    },
-    {
-        "title": "s\u00e4kerhetsansvarig",
-        "skills": []
-    },
-    {
-        "title": "it-coach",
-        "skills": []
-    },
-    {
-        "title": "huvudprojektledare",
-        "skills": []
-    },
-    {
-        "title": "cloud-konsult",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "hr-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "driftspecialist",
-        "skills": [
-            "vmware",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "aktivitetsledare",
-        "skills": [
-            "radiol\u00e4nk",
-            "radioteknik",
-            "certifieringar"
-        ]
-    },
-    {
-        "title": "kommunikationsingenj\u00f6r",
-        "skills": [
-            "cisco",
-            "radio"
-        ]
-    },
-    {
-        "title": "kodutvecklare",
-        "skills": [
-            "eclipse",
-            "confluence",
-            "git",
-            "sql",
-            "intellij",
-            "java"
-        ]
-    },
-    {
-        "title": "datacentertekniker",
-        "skills": [
-            "microsoft azure",
-            "cisco"
-        ]
-    },
-    {
-        "title": "conversion specialist",
-        "skills": [
-            "google ads"
-        ]
-    },
-    {
-        "title": "chief technology officer",
-        "skills": []
-    },
-    {
-        "title": "it solution manager",
-        "skills": []
-    },
-    {
-        "title": "direkt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "kundprojektledare",
-        "skills": []
-    },
-    {
-        "title": "ikt-pedagog",
-        "skills": []
-    },
-    {
-        "title": "bildingenj\u00f6r",
-        "skills": [
-            "python",
-            "c++",
-            "civilingenj\u00f6rsexamen"
-        ]
-    },
-    {
-        "title": "teknisk kundservicemedarbetare",
-        "skills": []
-    },
-    {
-        "title": "arbetsf\u00f6rmedlare",
-        "skills": []
-    },
-    {
-        "title": "elingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "elektriker",
-        "skills": [
-            "routrar"
-        ]
-    },
-    {
-        "title": "vd-assistent",
-        "skills": []
-    },
-    {
-        "title": "produktomr\u00e5desansvarig",
-        "skills": []
-    },
-    {
-        "title": "sambandsassistent",
-        "skills": []
-    },
-    {
-        "title": "it-managementkonsult",
-        "skills": []
-    },
-    {
-        "title": "integrationsspecialist",
-        "skills": [
-            "ci/cd",
-            "git",
-            "powershell",
-            "certifikathantering",
-            "continuous integration",
-            "javascript",
-            "docker"
-        ]
-    },
-    {
-        "title": "marknadsanalytiker",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rhandlare",
-        "skills": []
-    },
-    {
-        "title": "tekniksystemledare",
-        "skills": []
-    },
-    {
-        "title": "simuleringsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetschef",
-        "skills": [
-            "resor"
-        ]
-    },
-    {
-        "title": "teknisk teamledare",
-        "skills": []
-    },
-    {
-        "title": "it service delivery manager",
-        "skills": []
-    },
-    {
-        "title": "elektronikkonstrukt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "microsoft-utvecklare",
-        "skills": [
-            ".net",
             "angularjs",
-            "react",
-            "c#"
-        ]
-    },
-    {
-        "title": "marknadsf\u00f6rare",
-        "skills": [
-            "google analytics",
-            "reklam"
-        ]
-    },
-    {
-        "title": "e-handelsansvarig",
-        "skills": [
-            "cms"
-        ]
-    },
-    {
-        "title": "civilekonom",
-        "skills": []
-    },
-    {
-        "title": "portfolio manager",
-        "skills": []
-    },
-    {
-        "title": "stj\u00e4rnutvecklare",
-        "skills": [
-            "c#",
-            "cns",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "information manager",
-        "skills": []
-    },
-    {
-        "title": "technical manager",
-        "skills": []
-    },
-    {
-        "title": "systemcontroller",
-        "skills": []
-    },
-    {
-        "title": "process\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "driftst\u00f6d",
-        "skills": [
-            "cisco",
-            "vmware",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "tj\u00e4nstespecialist",
-        "skills": []
-    },
-    {
-        "title": "it-s\u00e4kerhetsr\u00e5dgivare",
-        "skills": [
-            "registerkontroll"
-        ]
-    },
-    {
-        "title": "datavetare",
-        "skills": []
-    },
-    {
-        "title": "globetrotter",
-        "skills": []
-    },
-    {
-        "title": "organisat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "requirement manager",
-        "skills": []
-    },
-    {
-        "title": "service designer",
-        "skills": []
-    },
-    {
-        "title": "sap-specialist",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rs\u00e4ljningschef",
-        "skills": []
-    },
-    {
-        "title": "administrativ chef",
-        "skills": []
-    },
-    {
-        "title": "handl\u00e4ggande arkitekt",
-        "skills": []
-    },
-    {
-        "title": "integration architect",
-        "skills": []
-    },
-    {
-        "title": "lots",
-        "skills": []
-    },
-    {
-        "title": "informationsspecialist",
-        "skills": []
-    },
-    {
-        "title": "k\u00f6kspersonal",
-        "skills": [
-            "c#.net",
+            "git",
             "typescript",
-            "riskanalys",
-            "sql"
+            "css",
+            "javascript"
         ]
     },
     {
-        "title": "servicedeskagent",
-        "skills": [
-            "citrix",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "supportkonsult",
-        "skills": [
-            "sql-databaser",
-            "redovisning"
-        ]
-    },
-    {
-        "title": "testutvecklingsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "kvalitetssamordnare",
-        "skills": []
-    },
-    {
-        "title": "uppf\u00f6ljare",
-        "skills": []
-    },
-    {
-        "title": "dataskyddsspecialist",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "automationsutvecklare",
-        "skills": [
-            "python",
-            "cad",
-            ".net framework",
-            ".net",
-            "c#"
-        ]
-    },
-    {
-        "title": "skoladministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "dokumentcontroller",
-        "skills": []
-    },
-    {
-        "title": "portf\u00f6ljsamordnare",
-        "skills": []
-    },
-    {
-        "title": "first line it support",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4rst\u00f6d",
-        "skills": []
-    },
-    {
-        "title": "hr-manager",
-        "skills": []
-    },
-    {
-        "title": "tentamensvakt",
-        "skills": []
-    },
-    {
-        "title": "ink\u00f6psansvarig",
-        "skills": []
-    },
-    {
-        "title": "avtalsansvarig",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rste forskningsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "head of it",
-        "skills": []
-    },
-    {
-        "title": "service owner",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rvaltningsansvarig",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "application manager",
-        "skills": []
-    },
-    {
-        "title": "projektsupport",
-        "skills": [
-            "riskhantering"
-        ]
-    },
-    {
-        "title": "samh\u00e4llsplanerare",
-        "skills": []
-    },
-    {
-        "title": "gis-ingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "kulturgeograf",
-        "skills": []
-    },
-    {
-        "title": "gis-analytiker",
-        "skills": []
-    },
-    {
-        "title": "acquisition manager",
-        "skills": []
-    },
-    {
-        "title": "personlig assistent",
-        "skills": []
-    },
-    {
-        "title": "fastighets\u00e4gare",
-        "skills": []
-    },
-    {
-        "title": "gis-konsult",
-        "skills": []
-    },
-    {
-        "title": "huvudplanerare",
-        "skills": []
-    },
-    {
-        "title": "v\u00e5rdpersonal",
-        "skills": [
-            "certifieringar",
-            "cloudl\u00f6sningar",
-            "vmware",
-            "ansible",
-            "terraform",
-            "kubernetes",
-            "docker",
-            "router"
-        ]
-    },
-    {
-        "title": "sambandstekniker",
-        "skills": [
+        "Occupation-type": "helpdesktekniker/supporttekniker",
+        "Skills": [
             "reparation",
-            "radiosystem",
-            "radar"
-        ]
-    },
-    {
-        "title": "ekonomisupport",
-        "skills": []
-    },
-    {
-        "title": "processdesigner",
-        "skills": []
-    },
-    {
-        "title": "s\u00e4kerhetsanalytiker",
-        "skills": [
-            "registerkontroll",
-            "powershell"
-        ]
-    },
-    {
-        "title": "technical support manager",
-        "skills": [
+            "citrix",
+            "reparationsarbeten",
             "sql",
-            "csv"
-        ]
-    },
-    {
-        "title": "fiberprojekt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "stridspilot",
-        "skills": [
-            "c#"
-        ]
-    },
-    {
-        "title": "plattformsarkitekt",
-        "skills": []
-    },
-    {
-        "title": "regionchef",
-        "skills": []
-    },
-    {
-        "title": "mechanical engineer",
-        "skills": []
-    },
-    {
-        "title": "software configuration manager",
-        "skills": []
-    },
-    {
-        "title": "editor",
-        "skills": [
-            "c++"
-        ]
-    },
-    {
-        "title": "integration manager",
-        "skills": []
-    },
-    {
-        "title": "analytics manager",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "salesforce-utvecklare",
-        "skills": [
-            "java"
-        ]
-    },
-    {
-        "title": "f\u00f6rmedlare",
-        "skills": []
-    },
-    {
-        "title": "utredningsledare",
-        "skills": []
-    },
-    {
-        "title": "chief information security officer",
-        "skills": []
-    },
-    {
-        "title": "plattformsspecialist",
-        "skills": []
-    },
-    {
-        "title": "coo",
-        "skills": []
-    },
-    {
-        "title": "anl\u00e4ggningskonstrukt\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "systems engineering manager",
-        "skills": []
-    },
-    {
-        "title": "utrullningstekniker",
-        "skills": []
-    },
-    {
-        "title": "teletekniker",
-        "skills": []
-    },
-    {
-        "title": "sql-utvecklare",
-        "skills": [
-            "continuous integration",
-            "continuous delivery",
-            "sql",
-            "java"
-        ]
-    },
-    {
-        "title": "kundkoordinator",
-        "skills": []
-    },
-    {
-        "title": "applikationsdriftsansvarig",
-        "skills": [
-            "postgresql",
-            "sql-server",
-            "sql"
-        ]
-    },
-    {
-        "title": "funktionsansvarig",
-        "skills": [
-            "sql"
-        ]
-    },
-    {
-        "title": "m\u00f6teskoordinator",
-        "skills": []
-    },
-    {
-        "title": "fastighetsm\u00e4klare",
-        "skills": [
-            "javascript"
-        ]
-    },
-    {
-        "title": "solution expert",
-        "skills": []
-    },
-    {
-        "title": "ux-strateg",
-        "skills": []
-    },
-    {
-        "title": "helpdesk-support",
-        "skills": []
-    },
-    {
-        "title": "projektingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "processingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "it-l\u00f6sningsarkitekt",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "\u00e4mnesansvarig",
-        "skills": [
-            "resor"
-        ]
-    },
-    {
-        "title": "project controller",
-        "skills": []
-    },
-    {
-        "title": "inspekt\u00f6r",
-        "skills": [
-            "riskv\u00e4rdering",
-            "revisionsverksamhet"
-        ]
-    },
-    {
-        "title": "teknikchef",
-        "skills": []
-    },
-    {
-        "title": "konsulttj\u00e4nst",
-        "skills": []
-    },
-    {
-        "title": "ekonomichef",
-        "skills": [
-            "raindance",
-            "redovisning"
-        ]
-    },
-    {
-        "title": "kvalitetsanalytiker",
-        "skills": []
-    },
-    {
-        "title": "it-project manager",
-        "skills": []
-    },
-    {
-        "title": "underh\u00e5llsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "grafikprogrammerare",
-        "skills": []
-    },
-    {
-        "title": "maskiningenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "it-systemansvarig",
-        "skills": []
-    },
-    {
-        "title": "medium",
-        "skills": []
-    },
-    {
-        "title": "digital strateg",
-        "skills": []
-    },
-    {
-        "title": "implementationskonsult",
-        "skills": [
-            "crm"
-        ]
-    },
-    {
-        "title": "testkoordinator",
-        "skills": []
-    },
-    {
-        "title": "planeringsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "systems\u00e4kerhetsingenj\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "information security manager",
-        "skills": [
-            "certifieringar",
-            "cissp",
-            "riskhantering",
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "driftpartner",
-        "skills": [
-            "cissp",
-            "sql",
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "omv\u00e4rldsbevakare",
-        "skills": []
-    },
-    {
-        "title": "registrator",
-        "skills": [
-            "riskanalys"
-        ]
-    },
-    {
-        "title": "metodingenj\u00f6r",
-        "skills": [
-            "javascript",
-            "lua"
-        ]
-    },
-    {
-        "title": "v\u00e4gledare",
-        "skills": [
-            "r\u00e5dgivning"
-        ]
-    },
-    {
-        "title": "klimatstrateg",
-        "skills": [
-            "r\u00e5dgivning"
-        ]
-    },
-    {
-        "title": "orderadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "scada-utvecklare",
-        "skills": []
-    },
-    {
-        "title": "fiberplanerare",
-        "skills": []
-    },
-    {
-        "title": "agile project manager",
-        "skills": []
-    },
-    {
-        "title": "systemintegrationstestare",
-        "skills": [
-            "python",
-            "java"
-        ]
-    },
-    {
-        "title": "drift\u00f6vervakare",
-        "skills": []
-    },
-    {
-        "title": "digitaliseringssamordnare",
-        "skills": []
-    },
-    {
-        "title": "automationstekniker",
-        "skills": [
-            "vmware",
-            "can"
-        ]
-    },
-    {
-        "title": "consultant unit manager",
-        "skills": []
-    },
-    {
-        "title": "dataarkitekt",
-        "skills": [
-            "sas",
-            "sql"
-        ]
-    },
-    {
-        "title": "elektroingenj\u00f6r",
-        "skills": [
-            "python",
-            "c++"
-        ]
-    },
-    {
-        "title": "printtekniker",
-        "skills": [
-            "reparation"
-        ]
-    },
-    {
-        "title": "\u00e4ndringsledare",
-        "skills": []
-    },
-    {
-        "title": "it-infrastructure manager",
-        "skills": [
-            "microsoft azure"
-        ]
-    },
-    {
-        "title": "investerare",
-        "skills": []
-    },
-    {
-        "title": "verksamhetschef",
-        "skills": []
-    },
-    {
-        "title": "n\u00e4tverksledare",
-        "skills": []
-    },
-    {
-        "title": "verksamhetssamordnare",
-        "skills": []
-    },
-    {
-        "title": "planeringshandl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "producerande",
-        "skills": []
-    },
-    {
-        "title": "medicinteknisk ingenj\u00f6r",
-        "skills": [
-            "regelverk"
-        ]
-    },
-    {
-        "title": "byggare",
-        "skills": []
-    },
-    {
-        "title": "it-assistent",
-        "skills": []
-    },
-    {
-        "title": "fels\u00f6kare",
-        "skills": [
-            "sql"
-        ]
-    },
-    {
-        "title": "s\u00e4ljpersonal",
-        "skills": []
-    },
-    {
-        "title": "brandlarmstekniker",
-        "skills": []
-    },
-    {
-        "title": "servicechef",
-        "skills": []
-    },
-    {
-        "title": "safety manager",
-        "skills": []
-    },
-    {
-        "title": "sortimentsutvecklare",
-        "skills": []
-    },
-    {
-        "title": "vaktm\u00e4stare",
-        "skills": []
-    },
-    {
-        "title": "integrationssamordnare",
-        "skills": []
-    },
-    {
-        "title": "installationssamordnare",
-        "skills": []
-    },
-    {
-        "title": "massageterapeut",
-        "skills": [
-            "crm"
-        ]
-    },
-    {
-        "title": "byggstensansvarig",
-        "skills": [
-            "confluence"
-        ]
-    },
-    {
-        "title": "webbadministrat\u00f6r",
-        "skills": []
-    },
-    {
-        "title": "software quality assurance manager",
-        "skills": []
-    },
-    {
-        "title": "qa-manager",
-        "skills": []
-    },
-    {
-        "title": "testautomationsingenj\u00f6r",
-        "skills": [
-            "ci/cd",
-            "ranorex",
-            "javascript"
-        ]
-    },
-    {
-        "title": "testautomatiseringsingenj\u00f6r",
-        "skills": [
-            "ci/cd",
-            "ranorex",
-            "javascript"
-        ]
-    },
-    {
-        "title": "systemhandl\u00e4ggare",
-        "skills": []
-    },
-    {
-        "title": "modulansvarig",
-        "skills": []
-    },
-    {
-        "title": "kunddataanalytiker",
-        "skills": []
-    },
-    {
-        "title": "klientutvecklare",
-        "skills": [
-            "qt"
-        ]
-    },
-    {
-        "title": "game programmer",
-        "skills": []
-    },
-    {
-        "title": "cms-utvecklare",
-        "skills": [
-            "css3",
-            "microsoft azure",
-            ".net",
-            "typescript",
-            "sass",
+            "redovisning",
+            "confluence",
+            "restaurangbranschen",
             "c#",
-            "javascript",
-            "asp.net"
-        ]
-    },
-    {
-        "title": "c-programmerare",
-        "skills": []
-    },
-    {
-        "title": "f\u00f6rs\u00e4kringsf\u00f6rmedlare",
-        "skills": [
-            "javascript",
-            "c#"
-        ]
-    },
-    {
-        "title": "stabschef",
-        "skills": [
+            "relationsdatabaser",
+            "powershell",
+            "python",
+            "cloud",
             "microsoft azure"
         ]
     },
     {
-        "title": "n\u00e4ttekniker",
-        "skills": [
+        "Occupation-type": "systemutvecklare/programmerare",
+        "Skills": [
+            "ruby",
+            "reglerteknik",
+            "redux",
+            "kotlin",
+            "releasehantering",
+            ".net framework",
+            "angularjs",
+            "sql-server",
+            "sql",
+            "css",
+            "qt",
+            "redovisning",
+            "react",
+            "certifikat",
+            "crm",
+            "apache spark",
+            "ci/cd",
+            "cad",
+            "confluence",
+            "docker",
+            "c#",
+            "relationsdatabaser",
+            "asp.net",
+            "php",
+            "gitlab",
+            "powershell",
+            "kubernetes",
+            "css3",
+            "cobol",
+            "razor",
+            "c++",
+            "sql-databaser",
+            "spring boot",
+            "javascript",
+            "java",
+            ".net",
+            "laravel",
+            "civilingenj\u00f6rsexamen",
+            "c#.net",
+            "scala",
+            "python",
+            "oracle",
+            "fortran",
+            "ci",
+            "cms",
+            "visual studio",
+            "mongodb",
+            "cucumber",
+            "cloud",
+            "django",
+            "git",
+            "rhel",
+            "typescript",
+            "elasticsearch",
+            "rest",
+            "oracle pl",
             "microsoft azure"
         ]
     },
     {
-        "title": "till\u00e4mpningsexpert",
-        "skills": []
+        "Occupation-type": "systemtestare",
+        "Skills": [
+            "canoe",
+            "ci/cd",
+            "c#",
+            "gitlab",
+            "c++",
+            "ansible",
+            "javascript",
+            "java",
+            ".net",
+            "python",
+            "ci",
+            "canalyzer",
+            "redhat enterprise",
+            "git",
+            "microsoft azure"
+        ]
     },
     {
-        "title": "teknikansvarig",
-        "skills": []
+        "Occupation-type": "projektledare, it",
+        "Skills": [
+            "css",
+            "change management",
+            "retailbranschen",
+            "resursplanering",
+            "kubernetes",
+            "regelverk",
+            "javascript",
+            "riskhantering",
+            "registerkontroll"
+        ]
     },
     {
-        "title": "byggarbetsmilj\u00f6samordnare",
-        "skills": [
+        "Occupation-type": "it-samordnare",
+        "Skills": [
+            "crm",
+            "cms"
+        ]
+    },
+    {
+        "Occupation-type": "systemdesigner",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "systemansvarig",
+        "Skills": [
+            "java",
+            "riskhantering",
+            "rx"
+        ]
+    },
+    {
+        "Occupation-type": "applikationskonsult",
+        "Skills": [
+            "java",
+            "puppet",
+            ".net",
+            "python",
+            "kubernetes",
+            "ci/cd",
+            "docker",
+            "ansible",
+            "git",
+            "c#",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "it-tekniker/datatekniker",
+        "Skills": [
+            "reparation",
+            "sql-server",
+            "sql",
+            "vmware",
+            "client",
+            "ciscos",
+            "resor",
+            "vmware vsphere",
+            "changehantering",
+            "check point",
+            "powershell",
+            "router",
+            "sql-databaser",
+            "cybers\u00e4kerhet",
+            "r\u00f6r",
+            "apache kafka",
+            "commvault",
+            "cloud",
+            "routrar",
+            "cisco",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "mjukvaruutvecklare",
+        "Skills": [
+            "regressionstestning",
+            "spring framework",
+            "can",
+            "angularjs",
+            "sql-server",
+            "sql",
+            "react",
+            "resor",
+            "c#",
+            "kubernetes",
+            "cobol",
+            "c++",
+            "spring boot",
+            "javascript",
+            "java",
+            ".net",
+            "continuous integration",
+            "python",
+            "oracle",
+            "rtos",
+            "crm-system",
+            "terraform",
+            "git",
+            "typescript",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "aff\u00e4rskonsult, it",
+        "Skills": [
+            "confluence",
+            "sql"
+        ]
+    },
+    {
+        "Occupation-type": "verksamhetskonsult, it",
+        "Skills": [
+            "riskbed\u00f6mningar",
             "riskanalys"
         ]
     },
     {
-        "title": "kvalitetsledare",
-        "skills": []
+        "Occupation-type": "enterprise architect",
+        "Skills": []
     },
     {
-        "title": "servicemedarbetare",
-        "skills": []
-    },
-    {
-        "title": "s\u00f6kmotoroptimerare",
-        "skills": []
-    },
-    {
-        "title": "teamcoach",
-        "skills": []
-    },
-    {
-        "title": "informationss\u00e4kerhetsarkitekt",
-        "skills": [
-            "r\u00f6r"
+        "Occupation-type": "systemanalytiker/systemutredare",
+        "Skills": [
+            "rapportl\u00f6sningar",
+            "sql"
         ]
     },
     {
-        "title": "produktomr\u00e5deschef",
-        "skills": []
-    },
-    {
-        "title": "infrastructure service manager",
-        "skills": [
-            "restore"
+        "Occupation-type": "systemf\u00f6rvaltare",
+        "Skills": [
+            "sql-server",
+            "sql",
+            "swift",
+            "vmware",
+            "cad",
+            "regelverk",
+            "citect",
+            "clearing",
+            "python",
+            "microsoft azure"
         ]
     },
     {
-        "title": "huvudarkitekt",
-        "skills": []
-    },
-    {
-        "title": "embeddedkonsult",
-        "skills": [
-            "rtos"
+        "Occupation-type": "backend-utvecklare",
+        "Skills": [
+            "firebase",
+            "angularjs",
+            "resteasy",
+            "sql-server",
+            "sql",
+            "css",
+            "react",
+            "confluence",
+            "docker",
+            "tensorflow",
+            "c#",
+            "kubernetes",
+            "c++",
+            "spring boot",
+            "javascript",
+            "java",
+            ".net",
+            "c#.net",
+            "python",
+            "rabbitmq",
+            "mongodb",
+            "cloud",
+            "git",
+            "elasticsearch",
+            "rest",
+            "microsoft azure"
         ]
     },
     {
-        "title": "business process manager",
-        "skills": [
-            "vba-programmering"
+        "Occupation-type": "s\u00e4kerhetsadministrat\u00f6r, it",
+        "Skills": [
+            "cybers\u00e4kerhetsomr\u00e5det",
+            "sql"
         ]
     },
     {
-        "title": "verifierare",
-        "skills": []
+        "Occupation-type": "testledare",
+        "Skills": [
+            "regelverk",
+            "microsoft azure"
+        ]
     },
     {
-        "title": "cdo",
-        "skills": []
+        "Occupation-type": "n\u00e4tverksoperat\u00f6r",
+        "Skills": [
+            "rapportering",
+            "routrar",
+            "cisco",
+            "rds"
+        ]
     },
     {
-        "title": "cloud platform engineer",
-        "skills": []
+        "Occupation-type": "systemadministrat\u00f6r",
+        "Skills": [
+            "jquery",
+            "citrix",
+            "sql-server",
+            "vmware",
+            "reporting services",
+            "client",
+            "docker",
+            "c#",
+            "asp.net",
+            "powershell",
+            "kubernetes",
+            "python",
+            "centos",
+            "registerkontroll",
+            "cloud",
+            "rhel",
+            "microsoft azure"
+        ]
     },
     {
-        "title": "mac-tekniker",
-        "skills": []
+        "Occupation-type": "civilingenj\u00f6r, systemutveckling",
+        "Skills": [
+            ".net",
+            "cybers\u00e4kerhet",
+            "react",
+            "matlab",
+            "python",
+            "regelverk",
+            "c++",
+            "cloud",
+            "git",
+            "sql",
+            "c#"
+        ]
     },
     {
-        "title": "projektgenomf\u00f6rare",
-        "skills": [
+        "Occupation-type": "applikationsutvecklare/apputvecklare",
+        "Skills": [
+            "java",
+            ".net",
+            "xamarin",
+            "refactoring",
+            "kotlin",
+            "objective-c",
+            "react native",
+            "git",
+            "typescript",
+            "swift",
+            "javascript",
+            "c#",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "infrastrukturarkitekt",
+        "Skills": [
+            ".net",
+            "powershell",
+            "kubernetes",
+            "terraform",
+            "docker",
+            "vmware",
+            "c#",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "processansvarig, itil",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "it-strateg",
+        "Skills": [
+            "certifikathantering",
+            "sql-server",
+            "chefserfarenhet",
+            "ccna",
+            "certifikat",
+            "confluence",
+            "kubernetes",
+            "riskhantering"
+        ]
+    },
+    {
+        "Occupation-type": "drifttekniker, data",
+        "Skills": [
+            "puppet",
+            "powershell",
+            "python",
+            "kubernetes",
+            "centos",
+            "red hat",
+            "cloud",
+            "docker",
+            "ansible",
+            "sql-server",
+            "vmware",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "kravanalytiker",
+        "Skills": [
+            "risk management",
             "rapportering"
         ]
     },
     {
-        "title": "datorlingvist",
-        "skills": [
-            "python"
+        "Occupation-type": "metodanalytiker, it",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "it-arkitekt/l\u00f6sningsarkitekt",
+        "Skills": [
+            "cybers\u00e4kerhet",
+            "coachning",
+            "cloud",
+            "sql"
         ]
     },
     {
-        "title": "serviceassistent",
-        "skills": []
-    },
-    {
-        "title": "fibertekniker",
-        "skills": []
-    },
-    {
-        "title": "politiker",
-        "skills": [
-            "chefskap"
+        "Occupation-type": "kommunikationstekniker",
+        "Skills": [
+            "radio"
         ]
     },
     {
-        "title": "skiftledare",
-        "skills": []
+        "Occupation-type": "s\u00e4kerhetsansvarig, it",
+        "Skills": [
+            "powershell",
+            "riskhantering",
+            "regelverk",
+            "sql-server",
+            "javascript",
+            "c#",
+            "microsoft azure"
+        ]
     },
     {
-        "title": "kreat\u00f6r",
-        "skills": []
+        "Occupation-type": "driftledare, it",
+        "Skills": [
+            "regelverk",
+            "c++"
+        ]
+    },
+    {
+        "Occupation-type": "n\u00e4tverkstekniker",
+        "Skills": [
+            "check point",
+            "ciscos",
+            "ccnp routing",
+            "ccie",
+            "ccnp",
+            "router",
+            "cisco"
+        ]
+    },
+    {
+        "Occupation-type": "dataoperat\u00f6r",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "datas\u00e4kerhetsansvarig",
+        "Skills": [
+            "check point",
+            "routingprotokoll",
+            "certifieringar"
+        ]
+    },
+    {
+        "Occupation-type": "systemarkitekt",
+        "Skills": [
+            "java",
+            "react",
+            "kubernetes",
+            "visual studio",
+            "ci/cd",
+            "angularjs",
+            "sql-server",
+            "javascript"
+        ]
+    },
+    {
+        "Occupation-type": "forskare, it",
+        "Skills": [
+            "rymdfysik",
+            "c++"
+        ]
+    },
+    {
+        "Occupation-type": "it-s\u00e4kerhetschef",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "configuration manager/cm",
+        "Skills": [
+            "release management"
+        ]
+    },
+    {
+        "Occupation-type": "anv\u00e4ndbarhetsdesigner",
+        "Skills": [
+            "research"
+        ]
+    },
+    {
+        "Occupation-type": "datorlingvist/datalingvist",
+        "Skills": [
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "n\u00e4tverkskonstrukt\u00f6r",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "n\u00e4tverksansvarig",
+        "Skills": [
+            "cisco"
+        ]
+    },
+    {
+        "Occupation-type": "databasadministrat\u00f6r",
+        "Skills": [
+            "crm-system",
+            "sql-server",
+            "microsoft azure"
+        ]
+    },
+    {
+        "Occupation-type": "gis-utvecklare",
+        "Skills": [
+            "oracle",
+            "sql-server",
+            "angularjs",
+            "react",
+            "javascript"
+        ]
+    },
+    {
+        "Occupation-type": "s\u00e4kerhetsanalytiker, it",
+        "Skills": [
+            "civilingenj\u00f6rsutbildning"
+        ]
+    },
+    {
+        "Occupation-type": "webbansvarig/webbstrateg",
+        "Skills": [
+            "rapportering"
+        ]
+    },
+    {
+        "Occupation-type": "it-utredare",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "data warehouse specialist",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "databasutvecklare",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "anv\u00e4ndbarhetsexpert",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "n\u00e4tverksadministrat\u00f6r",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "it-metodansvarig",
+        "Skills": [
+            "riskhantering",
+            "risk management",
+            "compliance",
+            "cobit"
+        ]
+    },
+    {
+        "Occupation-type": "databastekniker",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "it-forensiker",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "dispatcher",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "interaktionsdesigner",
+        "Skills": []
+    },
+    {
+        "Occupation-type": "programmerare, onlinespel",
+        "Skills": []
     }
 ]

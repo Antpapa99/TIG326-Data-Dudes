@@ -57,7 +57,7 @@ def send_request(i):
 
 #Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
-    indices = range(0, 15000)
+    indices = range(0, 1000)
     Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
@@ -72,9 +72,8 @@ while loop < len(Job_Class):
     Ai_Occupation = set()
     Skills = set()
     #Här kan ni configuera prediction värde
-    for i in Job_Class[loop]["Occupation-AI_classify"]:
-        if i["prediction"] > 0.5:
-            Ai_Occupation.add(i["concept_label"].lower())
+    #for i in Job_Class[loop]["Occupation-type"]:
+        #Ai_Occupation.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Skills"]:
         if i["prediction"] > 0.95:
             Skills.add(i["concept_label"].lower())
@@ -82,7 +81,7 @@ while loop < len(Job_Class):
     Ai_Occupation = list(Ai_Occupation)
     output = {"Job Title": Job_Class[loop]["Job Title"].lower(),
                 "Occupation-type":  Job_Class[loop]["Occupation-type"].lower(),
-                "Occupation-AI_classify":  Ai_Occupation,
+                #"Occupation-AI_classify":  Ai_Occupation,
                     "Skills": Skills
                 }
     Dict_List.append(output)
