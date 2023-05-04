@@ -9,15 +9,15 @@ for item in data:
     occupation_type = item['Occupation-type']
     if occupation_type not in merged_data:
         merged_data[occupation_type] = {
-            'Occupation-type': occupation_type,
-            'Skills': item['Skills']
+            'title': occupation_type,
+            'skills': item['Skills']
         }
     else:
-        merged_data[occupation_type]['Skills'].extend(item['Skills'])
+        merged_data[occupation_type]['skills'].extend(item['Skills'])
 
 # Remove duplicates in skills list
 for occupation_type, item in merged_data.items():
-    item['Skills'] = list(set(item['Skills']))
+    item['skills'] = list(set(item['skills']))
 
 # Convert merged_data into a list of dictionaries
 merged_data_list = list(merged_data.values())

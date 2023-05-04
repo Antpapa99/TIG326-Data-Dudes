@@ -32,13 +32,13 @@ for occupation in occupation_list:
     # Create a new list to hold the valid skills
     valid_skills = []
     # Loop through each skill in the occupation's skill list
-    for skill in occupation['Skills']:
+    for skill in occupation['skills']:
         # Check if the skill is valid
         if is_valid_skill(skill):
             # If the skill is valid, add it to the list of valid skills
             valid_skills.append(skill)
     # Replace the occupation's skills with the list of valid skills
-    occupation['Skills'] = valid_skills
+    occupation['skills'] = valid_skills
 
 # Save the updated occupation list to a new JSON file
 with open('updated_occupation_list.json', 'w') as f:
@@ -51,7 +51,7 @@ valid_values = []
 # Loop through each occupation in the occupation list
 for occupation in occupation_list:
     # Loop through each skill in the occupation's skill list
-    for skill in occupation['Skills']:
+    for skill in occupation['skills']:
         # Check if the skill is valid
         if is_valid_skill(skill):
             # If the skill is valid, add its label and value to the corresponding lists

@@ -1,618 +1,618 @@
 [
     {
-        "Occupation-type": "frontend-utvecklare",
-        "Skills": [
-            "java",
-            "react",
+        "title": "frontend-utvecklare",
+        "skills": [
+            "javascript",
+            "typescript",
+            "angularjs",
             "sass",
-            "cms",
-            "angularjs",
             "git",
-            "typescript",
             "css",
-            "javascript"
-        ]
-    },
-    {
-        "Occupation-type": "helpdesktekniker/supporttekniker",
-        "Skills": [
-            "reparation",
-            "citrix",
-            "reparationsarbeten",
-            "sql",
-            "redovisning",
-            "confluence",
-            "restaurangbranschen",
-            "c#",
-            "relationsdatabaser",
-            "powershell",
-            "python",
-            "cloud",
-            "microsoft azure"
-        ]
-    },
-    {
-        "Occupation-type": "systemutvecklare/programmerare",
-        "Skills": [
-            "ruby",
-            "reglerteknik",
-            "redux",
-            "kotlin",
-            "releasehantering",
-            ".net framework",
-            "angularjs",
-            "sql-server",
-            "sql",
-            "css",
-            "qt",
-            "redovisning",
+            "java",
             "react",
-            "certifikat",
-            "crm",
-            "apache spark",
-            "ci/cd",
-            "cad",
+            "cms"
+        ]
+    },
+    {
+        "title": "helpdesktekniker/supporttekniker",
+        "skills": [
+            "microsoft azure",
+            "redovisning",
+            "restaurangbranschen",
+            "reparationsarbeten",
+            "c#",
+            "citrix",
+            "reparation",
+            "sql",
             "confluence",
-            "docker",
-            "c#",
             "relationsdatabaser",
-            "asp.net",
-            "php",
-            "gitlab",
             "powershell",
-            "kubernetes",
-            "css3",
-            "cobol",
-            "razor",
-            "c++",
-            "sql-databaser",
-            "spring boot",
-            "javascript",
-            "java",
-            ".net",
-            "laravel",
-            "civilingenj\u00f6rsexamen",
-            "c#.net",
-            "scala",
-            "python",
-            "oracle",
-            "fortran",
-            "ci",
-            "cms",
-            "visual studio",
-            "mongodb",
-            "cucumber",
             "cloud",
-            "django",
-            "git",
-            "rhel",
+            "python"
+        ]
+    },
+    {
+        "title": "systemutvecklare/programmerare",
+        "skills": [
+            "fortran",
+            "javascript",
             "typescript",
-            "elasticsearch",
-            "rest",
-            "oracle pl",
-            "microsoft azure"
-        ]
-    },
-    {
-        "Occupation-type": "systemtestare",
-        "Skills": [
-            "canoe",
-            "ci/cd",
-            "c#",
-            "gitlab",
-            "c++",
-            "ansible",
-            "javascript",
-            "java",
-            ".net",
-            "python",
-            "ci",
-            "canalyzer",
-            "redhat enterprise",
-            "git",
-            "microsoft azure"
-        ]
-    },
-    {
-        "Occupation-type": "projektledare, it",
-        "Skills": [
-            "css",
-            "change management",
-            "retailbranschen",
-            "resursplanering",
             "kubernetes",
-            "regelverk",
-            "javascript",
-            "riskhantering",
-            "registerkontroll"
+            "microsoft azure",
+            "asp.net",
+            "releasehantering",
+            "docker",
+            "redovisning",
+            "civilingenj\u00f6rsexamen",
+            "cucumber",
+            "c#",
+            "ruby",
+            "visual studio",
+            "angularjs",
+            "css3",
+            "gitlab",
+            "css",
+            "kotlin",
+            "redux",
+            "java",
+            "rhel",
+            "oracle pl",
+            "elasticsearch",
+            "sql-server",
+            "cms",
+            "mongodb",
+            ".net framework",
+            "ci",
+            "spring boot",
+            "git",
+            "sql",
+            "oracle",
+            ".net",
+            "react",
+            "relationsdatabaser",
+            "confluence",
+            "rest",
+            "c++",
+            "certifikat",
+            "reglerteknik",
+            "apache spark",
+            "powershell",
+            "razor",
+            "cloud",
+            "c#.net",
+            "django",
+            "ci/cd",
+            "cobol",
+            "laravel",
+            "crm",
+            "python",
+            "sql-databaser",
+            "php",
+            "scala",
+            "qt",
+            "cad"
         ]
     },
     {
-        "Occupation-type": "it-samordnare",
-        "Skills": [
+        "title": "systemtestare",
+        "skills": [
+            "javascript",
+            "microsoft azure",
+            "c#",
+            "canoe",
+            "canalyzer",
+            "gitlab",
+            "java",
+            "ci",
+            "git",
+            ".net",
+            "c++",
+            "ci/cd",
+            "python",
+            "redhat enterprise",
+            "ansible"
+        ]
+    },
+    {
+        "title": "projektledare, it",
+        "skills": [
+            "javascript",
+            "kubernetes",
+            "riskhantering",
+            "change management",
+            "resursplanering",
+            "retailbranschen",
+            "css",
+            "registerkontroll",
+            "regelverk"
+        ]
+    },
+    {
+        "title": "it-samordnare",
+        "skills": [
             "crm",
             "cms"
         ]
     },
     {
-        "Occupation-type": "systemdesigner",
-        "Skills": []
+        "title": "systemdesigner",
+        "skills": []
     },
     {
-        "Occupation-type": "systemansvarig",
-        "Skills": [
-            "java",
+        "title": "systemansvarig",
+        "skills": [
+            "rx",
             "riskhantering",
-            "rx"
+            "java"
         ]
     },
     {
-        "Occupation-type": "applikationskonsult",
-        "Skills": [
-            "java",
-            "puppet",
-            ".net",
-            "python",
+        "title": "applikationskonsult",
+        "skills": [
             "kubernetes",
+            "microsoft azure",
             "ci/cd",
+            "python",
             "docker",
-            "ansible",
             "git",
-            "c#",
-            "microsoft azure"
+            "puppet",
+            "java",
+            "ansible",
+            ".net",
+            "c#"
         ]
     },
     {
-        "Occupation-type": "it-tekniker/datatekniker",
-        "Skills": [
-            "reparation",
-            "sql-server",
-            "sql",
-            "vmware",
-            "client",
-            "ciscos",
-            "resor",
+        "title": "it-tekniker/datatekniker",
+        "skills": [
+            "microsoft azure",
             "vmware vsphere",
             "changehantering",
-            "check point",
-            "powershell",
-            "router",
-            "sql-databaser",
-            "cybers\u00e4kerhet",
-            "r\u00f6r",
-            "apache kafka",
-            "commvault",
-            "cloud",
-            "routrar",
             "cisco",
-            "microsoft azure"
-        ]
-    },
-    {
-        "Occupation-type": "mjukvaruutvecklare",
-        "Skills": [
-            "regressionstestning",
-            "spring framework",
-            "can",
-            "angularjs",
+            "apache kafka",
+            "ciscos",
+            "vmware",
             "sql-server",
-            "sql",
-            "react",
+            "commvault",
+            "reparation",
             "resor",
-            "c#",
-            "kubernetes",
-            "cobol",
-            "c++",
-            "spring boot",
+            "routrar",
+            "check point",
+            "sql",
+            "cybers\u00e4kerhet",
+            "client",
+            "powershell",
+            "cloud",
+            "r\u00f6r",
+            "sql-databaser",
+            "router"
+        ]
+    },
+    {
+        "title": "mjukvaruutvecklare",
+        "skills": [
             "javascript",
-            "java",
-            ".net",
-            "continuous integration",
-            "python",
-            "oracle",
-            "rtos",
-            "crm-system",
-            "terraform",
-            "git",
             "typescript",
-            "microsoft azure"
+            "kubernetes",
+            "microsoft azure",
+            "continuous integration",
+            "c#",
+            "angularjs",
+            "crm-system",
+            "rtos",
+            "java",
+            "sql-server",
+            "regressionstestning",
+            "resor",
+            "spring boot",
+            "git",
+            "sql",
+            "oracle",
+            ".net",
+            "react",
+            "c++",
+            "spring framework",
+            "cobol",
+            "python",
+            "terraform",
+            "can"
         ]
     },
     {
-        "Occupation-type": "aff\u00e4rskonsult, it",
-        "Skills": [
-            "confluence",
-            "sql"
+        "title": "aff\u00e4rskonsult, it",
+        "skills": [
+            "sql",
+            "confluence"
         ]
     },
     {
-        "Occupation-type": "verksamhetskonsult, it",
-        "Skills": [
-            "riskbed\u00f6mningar",
-            "riskanalys"
+        "title": "verksamhetskonsult, it",
+        "skills": [
+            "riskanalys",
+            "riskbed\u00f6mningar"
         ]
     },
     {
-        "Occupation-type": "enterprise architect",
-        "Skills": []
+        "title": "enterprise architect",
+        "skills": []
     },
     {
-        "Occupation-type": "systemanalytiker/systemutredare",
-        "Skills": [
+        "title": "systemanalytiker/systemutredare",
+        "skills": [
             "rapportl\u00f6sningar",
             "sql"
         ]
     },
     {
-        "Occupation-type": "systemf\u00f6rvaltare",
-        "Skills": [
+        "title": "systemf\u00f6rvaltare",
+        "skills": [
+            "microsoft azure",
+            "clearing",
+            "vmware",
             "sql-server",
             "sql",
             "swift",
-            "vmware",
-            "cad",
             "regelverk",
-            "citect",
-            "clearing",
             "python",
-            "microsoft azure"
+            "citect",
+            "cad"
         ]
     },
     {
-        "Occupation-type": "backend-utvecklare",
-        "Skills": [
-            "firebase",
+        "title": "backend-utvecklare",
+        "skills": [
+            "javascript",
+            "kubernetes",
+            "microsoft azure",
+            "docker",
+            "c#",
             "angularjs",
-            "resteasy",
-            "sql-server",
-            "sql",
+            "rabbitmq",
             "css",
+            "java",
+            "elasticsearch",
+            "sql-server",
+            "tensorflow",
+            "resteasy",
+            "mongodb",
+            "spring boot",
+            "git",
+            "sql",
+            ".net",
             "react",
             "confluence",
-            "docker",
-            "tensorflow",
-            "c#",
-            "kubernetes",
-            "c++",
-            "spring boot",
-            "javascript",
-            "java",
-            ".net",
-            "c#.net",
-            "python",
-            "rabbitmq",
-            "mongodb",
-            "cloud",
-            "git",
-            "elasticsearch",
             "rest",
-            "microsoft azure"
+            "c++",
+            "firebase",
+            "cloud",
+            "c#.net",
+            "python"
         ]
     },
     {
-        "Occupation-type": "s\u00e4kerhetsadministrat\u00f6r, it",
-        "Skills": [
+        "title": "s\u00e4kerhetsadministrat\u00f6r, it",
+        "skills": [
             "cybers\u00e4kerhetsomr\u00e5det",
             "sql"
         ]
     },
     {
-        "Occupation-type": "testledare",
-        "Skills": [
+        "title": "testledare",
+        "skills": [
             "regelverk",
             "microsoft azure"
         ]
     },
     {
-        "Occupation-type": "n\u00e4tverksoperat\u00f6r",
-        "Skills": [
-            "rapportering",
+        "title": "n\u00e4tverksoperat\u00f6r",
+        "skills": [
+            "rds",
             "routrar",
             "cisco",
-            "rds"
+            "rapportering"
         ]
     },
     {
-        "Occupation-type": "systemadministrat\u00f6r",
-        "Skills": [
-            "jquery",
-            "citrix",
-            "sql-server",
-            "vmware",
-            "reporting services",
-            "client",
+        "title": "systemadministrat\u00f6r",
+        "skills": [
+            "kubernetes",
+            "microsoft azure",
+            "asp.net",
             "docker",
             "c#",
-            "asp.net",
-            "powershell",
-            "kubernetes",
-            "python",
+            "reporting services",
             "centos",
-            "registerkontroll",
-            "cloud",
             "rhel",
-            "microsoft azure"
+            "vmware",
+            "sql-server",
+            "citrix",
+            "registerkontroll",
+            "jquery",
+            "client",
+            "powershell",
+            "cloud",
+            "python"
         ]
     },
     {
-        "Occupation-type": "civilingenj\u00f6r, systemutveckling",
-        "Skills": [
-            ".net",
-            "cybers\u00e4kerhet",
-            "react",
-            "matlab",
-            "python",
+        "title": "civilingenj\u00f6r, systemutveckling",
+        "skills": [
             "regelverk",
-            "c++",
             "cloud",
+            "python",
             "git",
+            "matlab",
             "sql",
+            ".net",
+            "react",
+            "c#",
+            "cybers\u00e4kerhet",
+            "c++"
+        ]
+    },
+    {
+        "title": "applikationsutvecklare/apputvecklare",
+        "skills": [
+            "javascript",
+            "typescript",
+            "microsoft azure",
+            "refactoring",
+            "git",
+            "react native",
+            "kotlin",
+            "java",
+            "xamarin",
+            ".net",
+            "objective-c",
+            "c#",
+            "swift"
+        ]
+    },
+    {
+        "title": "infrastrukturarkitekt",
+        "skills": [
+            "kubernetes",
+            "microsoft azure",
+            "powershell",
+            "docker",
+            "terraform",
+            ".net",
+            "vmware",
             "c#"
         ]
     },
     {
-        "Occupation-type": "applikationsutvecklare/apputvecklare",
-        "Skills": [
-            "java",
-            ".net",
-            "xamarin",
-            "refactoring",
-            "kotlin",
-            "objective-c",
-            "react native",
-            "git",
-            "typescript",
-            "swift",
-            "javascript",
-            "c#",
-            "microsoft azure"
-        ]
+        "title": "processansvarig, itil",
+        "skills": []
     },
     {
-        "Occupation-type": "infrastrukturarkitekt",
-        "Skills": [
-            ".net",
-            "powershell",
+        "title": "it-strateg",
+        "skills": [
             "kubernetes",
-            "terraform",
-            "docker",
-            "vmware",
-            "c#",
-            "microsoft azure"
-        ]
-    },
-    {
-        "Occupation-type": "processansvarig, itil",
-        "Skills": []
-    },
-    {
-        "Occupation-type": "it-strateg",
-        "Skills": [
+            "riskhantering",
             "certifikathantering",
             "sql-server",
-            "chefserfarenhet",
             "ccna",
-            "certifikat",
             "confluence",
-            "kubernetes",
-            "riskhantering"
+            "certifikat",
+            "chefserfarenhet"
         ]
     },
     {
-        "Occupation-type": "drifttekniker, data",
-        "Skills": [
-            "puppet",
-            "powershell",
-            "python",
+        "title": "drifttekniker, data",
+        "skills": [
             "kubernetes",
-            "centos",
+            "microsoft azure",
             "red hat",
+            "powershell",
+            "centos",
             "cloud",
+            "python",
             "docker",
+            "puppet",
             "ansible",
-            "sql-server",
             "vmware",
-            "microsoft azure"
+            "sql-server"
         ]
     },
     {
-        "Occupation-type": "kravanalytiker",
-        "Skills": [
+        "title": "kravanalytiker",
+        "skills": [
             "risk management",
             "rapportering"
         ]
     },
     {
-        "Occupation-type": "metodanalytiker, it",
-        "Skills": []
+        "title": "metodanalytiker, it",
+        "skills": []
     },
     {
-        "Occupation-type": "it-arkitekt/l\u00f6sningsarkitekt",
-        "Skills": [
-            "cybers\u00e4kerhet",
-            "coachning",
+        "title": "it-arkitekt/l\u00f6sningsarkitekt",
+        "skills": [
             "cloud",
-            "sql"
+            "sql",
+            "coachning",
+            "cybers\u00e4kerhet"
         ]
     },
     {
-        "Occupation-type": "kommunikationstekniker",
-        "Skills": [
+        "title": "kommunikationstekniker",
+        "skills": [
             "radio"
         ]
     },
     {
-        "Occupation-type": "s\u00e4kerhetsansvarig, it",
-        "Skills": [
+        "title": "s\u00e4kerhetsansvarig, it",
+        "skills": [
+            "javascript",
+            "regelverk",
+            "microsoft azure",
             "powershell",
             "riskhantering",
-            "regelverk",
-            "sql-server",
-            "javascript",
             "c#",
-            "microsoft azure"
+            "sql-server"
         ]
     },
     {
-        "Occupation-type": "driftledare, it",
-        "Skills": [
+        "title": "driftledare, it",
+        "skills": [
             "regelverk",
             "c++"
         ]
     },
     {
-        "Occupation-type": "n\u00e4tverkstekniker",
-        "Skills": [
-            "check point",
+        "title": "n\u00e4tverkstekniker",
+        "skills": [
             "ciscos",
-            "ccnp routing",
-            "ccie",
-            "ccnp",
             "router",
-            "cisco"
-        ]
-    },
-    {
-        "Occupation-type": "dataoperat\u00f6r",
-        "Skills": []
-    },
-    {
-        "Occupation-type": "datas\u00e4kerhetsansvarig",
-        "Skills": [
             "check point",
-            "routingprotokoll",
-            "certifieringar"
+            "cisco",
+            "ccnp",
+            "ccnp routing",
+            "ccie"
         ]
     },
     {
-        "Occupation-type": "systemarkitekt",
-        "Skills": [
+        "title": "dataoperat\u00f6r",
+        "skills": []
+    },
+    {
+        "title": "datas\u00e4kerhetsansvarig",
+        "skills": [
+            "certifieringar",
+            "check point",
+            "routingprotokoll"
+        ]
+    },
+    {
+        "title": "systemarkitekt",
+        "skills": [
+            "javascript",
+            "visual studio",
+            "angularjs",
+            "kubernetes",
+            "ci/cd",
             "java",
             "react",
-            "kubernetes",
-            "visual studio",
-            "ci/cd",
-            "angularjs",
-            "sql-server",
-            "javascript"
+            "sql-server"
         ]
     },
     {
-        "Occupation-type": "forskare, it",
-        "Skills": [
+        "title": "forskare, it",
+        "skills": [
             "rymdfysik",
             "c++"
         ]
     },
     {
-        "Occupation-type": "it-s\u00e4kerhetschef",
-        "Skills": []
+        "title": "it-s\u00e4kerhetschef",
+        "skills": []
     },
     {
-        "Occupation-type": "configuration manager/cm",
-        "Skills": [
+        "title": "configuration manager/cm",
+        "skills": [
             "release management"
         ]
     },
     {
-        "Occupation-type": "anv\u00e4ndbarhetsdesigner",
-        "Skills": [
+        "title": "anv\u00e4ndbarhetsdesigner",
+        "skills": [
             "research"
         ]
     },
     {
-        "Occupation-type": "datorlingvist/datalingvist",
-        "Skills": [
+        "title": "datorlingvist/datalingvist",
+        "skills": [
             "microsoft azure"
         ]
     },
     {
-        "Occupation-type": "n\u00e4tverkskonstrukt\u00f6r",
-        "Skills": []
+        "title": "n\u00e4tverkskonstrukt\u00f6r",
+        "skills": []
     },
     {
-        "Occupation-type": "n\u00e4tverksansvarig",
-        "Skills": [
+        "title": "n\u00e4tverksansvarig",
+        "skills": [
             "cisco"
         ]
     },
     {
-        "Occupation-type": "databasadministrat\u00f6r",
-        "Skills": [
+        "title": "databasadministrat\u00f6r",
+        "skills": [
+            "microsoft azure",
             "crm-system",
-            "sql-server",
-            "microsoft azure"
+            "sql-server"
         ]
     },
     {
-        "Occupation-type": "gis-utvecklare",
-        "Skills": [
-            "oracle",
-            "sql-server",
-            "angularjs",
+        "title": "gis-utvecklare",
+        "skills": [
             "react",
-            "javascript"
+            "javascript",
+            "angularjs",
+            "sql-server",
+            "oracle"
         ]
     },
     {
-        "Occupation-type": "s\u00e4kerhetsanalytiker, it",
-        "Skills": [
+        "title": "s\u00e4kerhetsanalytiker, it",
+        "skills": [
             "civilingenj\u00f6rsutbildning"
         ]
     },
     {
-        "Occupation-type": "webbansvarig/webbstrateg",
-        "Skills": [
+        "title": "webbansvarig/webbstrateg",
+        "skills": [
             "rapportering"
         ]
     },
     {
-        "Occupation-type": "it-utredare",
-        "Skills": []
+        "title": "it-utredare",
+        "skills": []
     },
     {
-        "Occupation-type": "data warehouse specialist",
-        "Skills": []
+        "title": "data warehouse specialist",
+        "skills": []
     },
     {
-        "Occupation-type": "databasutvecklare",
-        "Skills": []
+        "title": "databasutvecklare",
+        "skills": []
     },
     {
-        "Occupation-type": "anv\u00e4ndbarhetsexpert",
-        "Skills": []
+        "title": "anv\u00e4ndbarhetsexpert",
+        "skills": []
     },
     {
-        "Occupation-type": "n\u00e4tverksadministrat\u00f6r",
-        "Skills": []
+        "title": "n\u00e4tverksadministrat\u00f6r",
+        "skills": []
     },
     {
-        "Occupation-type": "it-metodansvarig",
-        "Skills": [
+        "title": "it-metodansvarig",
+        "skills": [
             "riskhantering",
+            "cobit",
             "risk management",
-            "compliance",
-            "cobit"
+            "compliance"
         ]
     },
     {
-        "Occupation-type": "databastekniker",
-        "Skills": []
+        "title": "databastekniker",
+        "skills": []
     },
     {
-        "Occupation-type": "it-forensiker",
-        "Skills": []
+        "title": "it-forensiker",
+        "skills": []
     },
     {
-        "Occupation-type": "dispatcher",
-        "Skills": []
+        "title": "dispatcher",
+        "skills": []
     },
     {
-        "Occupation-type": "interaktionsdesigner",
-        "Skills": []
+        "title": "interaktionsdesigner",
+        "skills": []
     },
     {
-        "Occupation-type": "programmerare, onlinespel",
-        "Skills": []
+        "title": "programmerare, onlinespel",
+        "skills": []
     }
 ]
