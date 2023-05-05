@@ -1,618 +1,1632 @@
 [
     {
-        "title": "frontend-utvecklare",
+        "label": "frontend-utvecklare",
         "skills": [
-            "javascript",
-            "typescript",
-            "angularjs",
-            "sass",
-            "git",
-            "css",
-            "java",
-            "react",
-            "cms"
+            {
+                "name": "react",
+                "count": 3
+            },
+            {
+                "name": "javascript",
+                "count": 2
+            },
+            {
+                "name": "css",
+                "count": 2
+            },
+            {
+                "name": "angularjs",
+                "count": 2
+            },
+            {
+                "name": "typescript",
+                "count": 2
+            },
+            {
+                "name": "sass",
+                "count": 1
+            },
+            {
+                "name": "cms",
+                "count": 1
+            },
+            {
+                "name": "java",
+                "count": 1
+            },
+            {
+                "name": "git",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "helpdesktekniker/supporttekniker",
+        "label": "helpdesktekniker/supporttekniker",
         "skills": [
-            "microsoft azure",
-            "redovisning",
-            "restaurangbranschen",
-            "reparationsarbeten",
-            "c#",
-            "citrix",
-            "reparation",
-            "sql",
-            "confluence",
-            "relationsdatabaser",
-            "powershell",
-            "cloud",
-            "python"
+            {
+                "name": "cloud",
+                "count": 9
+            },
+            {
+                "name": "citrix",
+                "count": 4
+            },
+            {
+                "name": "sql",
+                "count": 4
+            },
+            {
+                "name": "microsoft azure",
+                "count": 4
+            },
+            {
+                "name": "redovisning",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": "reparation",
+                "count": 1
+            },
+            {
+                "name": "powershell",
+                "count": 1
+            },
+            {
+                "name": "relationsdatabaser",
+                "count": 1
+            },
+            {
+                "name": "restaurangbranschen",
+                "count": 1
+            },
+            {
+                "name": "confluence",
+                "count": 1
+            },
+            {
+                "name": "reparationsarbeten",
+                "count": 1
+            },
+            {
+                "name": "python",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemutvecklare/programmerare",
+        "label": "systemutvecklare/programmerare",
         "skills": [
-            "fortran",
-            "javascript",
-            "typescript",
-            "kubernetes",
-            "microsoft azure",
-            "asp.net",
-            "releasehantering",
-            "docker",
-            "redovisning",
-            "civilingenj\u00f6rsexamen",
-            "cucumber",
-            "c#",
-            "ruby",
-            "visual studio",
-            "angularjs",
-            "css3",
-            "gitlab",
-            "css",
-            "kotlin",
-            "redux",
-            "java",
-            "rhel",
-            "oracle pl",
-            "elasticsearch",
-            "sql-server",
-            "cms",
-            "mongodb",
-            ".net framework",
-            "ci",
-            "spring boot",
-            "git",
-            "sql",
-            "oracle",
-            ".net",
-            "react",
-            "relationsdatabaser",
-            "confluence",
-            "rest",
-            "c++",
-            "certifikat",
-            "reglerteknik",
-            "apache spark",
-            "powershell",
-            "razor",
-            "cloud",
-            "c#.net",
-            "django",
-            "ci/cd",
-            "cobol",
-            "laravel",
-            "crm",
-            "python",
-            "sql-databaser",
-            "php",
-            "scala",
-            "qt",
-            "cad"
+            {
+                "name": ".net",
+                "count": 18
+            },
+            {
+                "name": "c#",
+                "count": 18
+            },
+            {
+                "name": "java",
+                "count": 16
+            },
+            {
+                "name": "microsoft azure",
+                "count": 15
+            },
+            {
+                "name": "python",
+                "count": 12
+            },
+            {
+                "name": "javascript",
+                "count": 11
+            },
+            {
+                "name": "react",
+                "count": 10
+            },
+            {
+                "name": "sql",
+                "count": 7
+            },
+            {
+                "name": "c++",
+                "count": 6
+            },
+            {
+                "name": "docker",
+                "count": 6
+            },
+            {
+                "name": "ci/cd",
+                "count": 6
+            },
+            {
+                "name": "kubernetes",
+                "count": 5
+            },
+            {
+                "name": "sql-server",
+                "count": 5
+            },
+            {
+                "name": "git",
+                "count": 4
+            },
+            {
+                "name": "cloud",
+                "count": 3
+            },
+            {
+                "name": "css",
+                "count": 3
+            },
+            {
+                "name": "angularjs",
+                "count": 3
+            },
+            {
+                "name": "typescript",
+                "count": 3
+            },
+            {
+                "name": "visual studio",
+                "count": 3
+            },
+            {
+                "name": "elasticsearch",
+                "count": 2
+            },
+            {
+                "name": "asp.net",
+                "count": 2
+            },
+            {
+                "name": "qt",
+                "count": 2
+            },
+            {
+                "name": "cms",
+                "count": 2
+            },
+            {
+                "name": "relationsdatabaser",
+                "count": 2
+            },
+            {
+                "name": "rest",
+                "count": 2
+            },
+            {
+                "name": "confluence",
+                "count": 2
+            },
+            {
+                "name": "powershell",
+                "count": 2
+            },
+            {
+                "name": "spring boot",
+                "count": 2
+            },
+            {
+                "name": "redux",
+                "count": 2
+            },
+            {
+                "name": "ruby",
+                "count": 1
+            },
+            {
+                "name": "c#.net",
+                "count": 1
+            },
+            {
+                "name": "cobol",
+                "count": 1
+            },
+            {
+                "name": "mongodb",
+                "count": 1
+            },
+            {
+                "name": "cucumber",
+                "count": 1
+            },
+            {
+                "name": "rhel",
+                "count": 1
+            },
+            {
+                "name": "redovisning",
+                "count": 1
+            },
+            {
+                "name": ".net framework",
+                "count": 1
+            },
+            {
+                "name": "django",
+                "count": 1
+            },
+            {
+                "name": "cad",
+                "count": 1
+            },
+            {
+                "name": "fortran",
+                "count": 1
+            },
+            {
+                "name": "oracle",
+                "count": 1
+            },
+            {
+                "name": "civilingenj\u00f6rsexamen",
+                "count": 1
+            },
+            {
+                "name": "certifikat",
+                "count": 1
+            },
+            {
+                "name": "crm",
+                "count": 1
+            },
+            {
+                "name": "gitlab",
+                "count": 1
+            },
+            {
+                "name": "ci",
+                "count": 1
+            },
+            {
+                "name": "css3",
+                "count": 1
+            },
+            {
+                "name": "php",
+                "count": 1
+            },
+            {
+                "name": "scala",
+                "count": 1
+            },
+            {
+                "name": "apache spark",
+                "count": 1
+            },
+            {
+                "name": "kotlin",
+                "count": 1
+            },
+            {
+                "name": "laravel",
+                "count": 1
+            },
+            {
+                "name": "sql-databaser",
+                "count": 1
+            },
+            {
+                "name": "razor",
+                "count": 1
+            },
+            {
+                "name": "releasehantering",
+                "count": 1
+            },
+            {
+                "name": "oracle pl",
+                "count": 1
+            },
+            {
+                "name": "reglerteknik",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemtestare",
+        "label": "systemtestare",
         "skills": [
-            "javascript",
-            "microsoft azure",
-            "c#",
-            "canoe",
-            "canalyzer",
-            "gitlab",
-            "java",
-            "ci",
-            "git",
-            ".net",
-            "c++",
-            "ci/cd",
-            "python",
-            "redhat enterprise",
-            "ansible"
+            {
+                "name": "python",
+                "count": 6
+            },
+            {
+                "name": "java",
+                "count": 5
+            },
+            {
+                "name": "c#",
+                "count": 3
+            },
+            {
+                "name": "ci/cd",
+                "count": 3
+            },
+            {
+                "name": "javascript",
+                "count": 2
+            },
+            {
+                "name": "git",
+                "count": 2
+            },
+            {
+                "name": "gitlab",
+                "count": 2
+            },
+            {
+                "name": "canalyzer",
+                "count": 1
+            },
+            {
+                "name": "canoe",
+                "count": 1
+            },
+            {
+                "name": "ci",
+                "count": 1
+            },
+            {
+                "name": "ansible",
+                "count": 1
+            },
+            {
+                "name": "redhat enterprise",
+                "count": 1
+            },
+            {
+                "name": "microsoft azure",
+                "count": 1
+            },
+            {
+                "name": "c++",
+                "count": 1
+            },
+            {
+                "name": ".net",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "projektledare, it",
+        "label": "projektledare, it",
         "skills": [
-            "javascript",
-            "kubernetes",
-            "riskhantering",
-            "change management",
-            "resursplanering",
-            "retailbranschen",
-            "css",
-            "registerkontroll",
-            "regelverk"
+            {
+                "name": "regelverk",
+                "count": 2
+            },
+            {
+                "name": "riskhantering",
+                "count": 2
+            },
+            {
+                "name": "kubernetes",
+                "count": 2
+            },
+            {
+                "name": "javascript",
+                "count": 2
+            },
+            {
+                "name": "css",
+                "count": 2
+            },
+            {
+                "name": "registerkontroll",
+                "count": 1
+            },
+            {
+                "name": "change management",
+                "count": 1
+            },
+            {
+                "name": "resursplanering",
+                "count": 1
+            },
+            {
+                "name": "retailbranschen",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "it-samordnare",
+        "label": "it-samordnare",
         "skills": [
-            "crm",
-            "cms"
+            {
+                "name": "crm",
+                "count": 1
+            },
+            {
+                "name": "cms",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemdesigner",
+        "label": "systemdesigner",
         "skills": []
     },
     {
-        "title": "systemansvarig",
+        "label": "systemansvarig",
         "skills": [
-            "rx",
-            "riskhantering",
-            "java"
+            {
+                "name": "riskhantering",
+                "count": 1
+            },
+            {
+                "name": "java",
+                "count": 1
+            },
+            {
+                "name": "rx",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "applikationskonsult",
+        "label": "applikationskonsult",
         "skills": [
-            "kubernetes",
-            "microsoft azure",
-            "ci/cd",
-            "python",
-            "docker",
-            "git",
-            "puppet",
-            "java",
-            "ansible",
-            ".net",
-            "c#"
+            {
+                "name": ".net",
+                "count": 1
+            },
+            {
+                "name": "python",
+                "count": 1
+            },
+            {
+                "name": "docker",
+                "count": 1
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "git",
+                "count": 1
+            },
+            {
+                "name": "ansible",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": "java",
+                "count": 1
+            },
+            {
+                "name": "ci/cd",
+                "count": 1
+            },
+            {
+                "name": "puppet",
+                "count": 1
+            },
+            {
+                "name": "microsoft azure",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "it-tekniker/datatekniker",
+        "label": "it-tekniker/datatekniker",
         "skills": [
-            "microsoft azure",
-            "vmware vsphere",
-            "changehantering",
-            "cisco",
-            "apache kafka",
-            "ciscos",
-            "vmware",
-            "sql-server",
-            "commvault",
-            "reparation",
-            "resor",
-            "routrar",
-            "check point",
-            "sql",
-            "cybers\u00e4kerhet",
-            "client",
-            "powershell",
-            "cloud",
-            "r\u00f6r",
-            "sql-databaser",
-            "router"
+            {
+                "name": "microsoft azure",
+                "count": 6
+            },
+            {
+                "name": "powershell",
+                "count": 5
+            },
+            {
+                "name": "vmware",
+                "count": 3
+            },
+            {
+                "name": "cloud",
+                "count": 2
+            },
+            {
+                "name": "sql",
+                "count": 2
+            },
+            {
+                "name": "routrar",
+                "count": 2
+            },
+            {
+                "name": "client",
+                "count": 1
+            },
+            {
+                "name": "changehantering",
+                "count": 1
+            },
+            {
+                "name": "vmware vsphere",
+                "count": 1
+            },
+            {
+                "name": "ciscos",
+                "count": 1
+            },
+            {
+                "name": "check point",
+                "count": 1
+            },
+            {
+                "name": "resor",
+                "count": 1
+            },
+            {
+                "name": "r\u00f6r",
+                "count": 1
+            },
+            {
+                "name": "cisco",
+                "count": 1
+            },
+            {
+                "name": "router",
+                "count": 1
+            },
+            {
+                "name": "cybers\u00e4kerhet",
+                "count": 1
+            },
+            {
+                "name": "sql-databaser",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "commvault",
+                "count": 1
+            },
+            {
+                "name": "reparation",
+                "count": 1
+            },
+            {
+                "name": "apache kafka",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "mjukvaruutvecklare",
+        "label": "mjukvaruutvecklare",
         "skills": [
-            "javascript",
-            "typescript",
-            "kubernetes",
-            "microsoft azure",
-            "continuous integration",
-            "c#",
-            "angularjs",
-            "crm-system",
-            "rtos",
-            "java",
-            "sql-server",
-            "regressionstestning",
-            "resor",
-            "spring boot",
-            "git",
-            "sql",
-            "oracle",
-            ".net",
-            "react",
-            "c++",
-            "spring framework",
-            "cobol",
-            "python",
-            "terraform",
-            "can"
+            {
+                "name": ".net",
+                "count": 5
+            },
+            {
+                "name": "microsoft azure",
+                "count": 5
+            },
+            {
+                "name": "c++",
+                "count": 5
+            },
+            {
+                "name": "git",
+                "count": 4
+            },
+            {
+                "name": "c#",
+                "count": 4
+            },
+            {
+                "name": "python",
+                "count": 3
+            },
+            {
+                "name": "java",
+                "count": 3
+            },
+            {
+                "name": "react",
+                "count": 3
+            },
+            {
+                "name": "sql",
+                "count": 2
+            },
+            {
+                "name": "can",
+                "count": 2
+            },
+            {
+                "name": "typescript",
+                "count": 2
+            },
+            {
+                "name": "javascript",
+                "count": 2
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "oracle",
+                "count": 1
+            },
+            {
+                "name": "continuous integration",
+                "count": 1
+            },
+            {
+                "name": "crm-system",
+                "count": 1
+            },
+            {
+                "name": "terraform",
+                "count": 1
+            },
+            {
+                "name": "cobol",
+                "count": 1
+            },
+            {
+                "name": "regressionstestning",
+                "count": 1
+            },
+            {
+                "name": "angularjs",
+                "count": 1
+            },
+            {
+                "name": "resor",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "spring framework",
+                "count": 1
+            },
+            {
+                "name": "spring boot",
+                "count": 1
+            },
+            {
+                "name": "rtos",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "aff\u00e4rskonsult, it",
+        "label": "aff\u00e4rskonsult, it",
         "skills": [
-            "sql",
-            "confluence"
+            {
+                "name": "sql",
+                "count": 1
+            },
+            {
+                "name": "confluence",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "verksamhetskonsult, it",
+        "label": "verksamhetskonsult, it",
         "skills": [
-            "riskanalys",
-            "riskbed\u00f6mningar"
+            {
+                "name": "riskbed\u00f6mningar",
+                "count": 1
+            },
+            {
+                "name": "riskanalys",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "enterprise architect",
+        "label": "enterprise architect",
         "skills": []
     },
     {
-        "title": "systemanalytiker/systemutredare",
+        "label": "systemanalytiker/systemutredare",
         "skills": [
-            "rapportl\u00f6sningar",
-            "sql"
+            {
+                "name": "sql",
+                "count": 1
+            },
+            {
+                "name": "rapportl\u00f6sningar",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemf\u00f6rvaltare",
+        "label": "systemf\u00f6rvaltare",
         "skills": [
-            "microsoft azure",
-            "clearing",
-            "vmware",
-            "sql-server",
-            "sql",
-            "swift",
-            "regelverk",
-            "python",
-            "citect",
-            "cad"
+            {
+                "name": "sql",
+                "count": 4
+            },
+            {
+                "name": "vmware",
+                "count": 2
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "python",
+                "count": 1
+            },
+            {
+                "name": "citect",
+                "count": 1
+            },
+            {
+                "name": "cad",
+                "count": 1
+            },
+            {
+                "name": "clearing",
+                "count": 1
+            },
+            {
+                "name": "swift",
+                "count": 1
+            },
+            {
+                "name": "microsoft azure",
+                "count": 1
+            },
+            {
+                "name": "regelverk",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "backend-utvecklare",
+        "label": "backend-utvecklare",
         "skills": [
-            "javascript",
-            "kubernetes",
-            "microsoft azure",
-            "docker",
-            "c#",
-            "angularjs",
-            "rabbitmq",
-            "css",
-            "java",
-            "elasticsearch",
-            "sql-server",
-            "tensorflow",
-            "resteasy",
-            "mongodb",
-            "spring boot",
-            "git",
-            "sql",
-            ".net",
-            "react",
-            "confluence",
-            "rest",
-            "c++",
-            "firebase",
-            "cloud",
-            "c#.net",
-            "python"
+            {
+                "name": ".net",
+                "count": 6
+            },
+            {
+                "name": "kubernetes",
+                "count": 5
+            },
+            {
+                "name": "java",
+                "count": 5
+            },
+            {
+                "name": "docker",
+                "count": 4
+            },
+            {
+                "name": "rest",
+                "count": 4
+            },
+            {
+                "name": "microsoft azure",
+                "count": 4
+            },
+            {
+                "name": "react",
+                "count": 4
+            },
+            {
+                "name": "c#",
+                "count": 3
+            },
+            {
+                "name": "spring boot",
+                "count": 3
+            },
+            {
+                "name": "c++",
+                "count": 3
+            },
+            {
+                "name": "javascript",
+                "count": 3
+            },
+            {
+                "name": "git",
+                "count": 3
+            },
+            {
+                "name": "sql",
+                "count": 3
+            },
+            {
+                "name": "cloud",
+                "count": 3
+            },
+            {
+                "name": "sql-server",
+                "count": 3
+            },
+            {
+                "name": "resteasy",
+                "count": 2
+            },
+            {
+                "name": "angularjs",
+                "count": 2
+            },
+            {
+                "name": "python",
+                "count": 2
+            },
+            {
+                "name": "rabbitmq",
+                "count": 2
+            },
+            {
+                "name": "mongodb",
+                "count": 2
+            },
+            {
+                "name": "c#.net",
+                "count": 2
+            },
+            {
+                "name": "elasticsearch",
+                "count": 2
+            },
+            {
+                "name": "firebase",
+                "count": 1
+            },
+            {
+                "name": "css",
+                "count": 1
+            },
+            {
+                "name": "tensorflow",
+                "count": 1
+            },
+            {
+                "name": "confluence",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "s\u00e4kerhetsadministrat\u00f6r, it",
+        "label": "s\u00e4kerhetsadministrat\u00f6r, it",
         "skills": [
-            "cybers\u00e4kerhetsomr\u00e5det",
-            "sql"
+            {
+                "name": "sql",
+                "count": 1
+            },
+            {
+                "name": "cybers\u00e4kerhetsomr\u00e5det",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "testledare",
+        "label": "testledare",
         "skills": [
-            "regelverk",
-            "microsoft azure"
+            {
+                "name": "microsoft azure",
+                "count": 2
+            },
+            {
+                "name": "regelverk",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "n\u00e4tverksoperat\u00f6r",
+        "label": "n\u00e4tverksoperat\u00f6r",
         "skills": [
-            "rds",
-            "routrar",
-            "cisco",
-            "rapportering"
+            {
+                "name": "rds",
+                "count": 1
+            },
+            {
+                "name": "routrar",
+                "count": 1
+            },
+            {
+                "name": "cisco",
+                "count": 1
+            },
+            {
+                "name": "rapportering",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemadministrat\u00f6r",
+        "label": "systemadministrat\u00f6r",
         "skills": [
-            "kubernetes",
-            "microsoft azure",
-            "asp.net",
-            "docker",
-            "c#",
-            "reporting services",
-            "centos",
-            "rhel",
-            "vmware",
-            "sql-server",
-            "citrix",
-            "registerkontroll",
-            "jquery",
-            "client",
-            "powershell",
-            "cloud",
-            "python"
+            {
+                "name": "microsoft azure",
+                "count": 3
+            },
+            {
+                "name": "powershell",
+                "count": 3
+            },
+            {
+                "name": "sql-server",
+                "count": 2
+            },
+            {
+                "name": "cloud",
+                "count": 2
+            },
+            {
+                "name": "client",
+                "count": 2
+            },
+            {
+                "name": "asp.net",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": "reporting services",
+                "count": 1
+            },
+            {
+                "name": "jquery",
+                "count": 1
+            },
+            {
+                "name": "vmware",
+                "count": 1
+            },
+            {
+                "name": "citrix",
+                "count": 1
+            },
+            {
+                "name": "registerkontroll",
+                "count": 1
+            },
+            {
+                "name": "rhel",
+                "count": 1
+            },
+            {
+                "name": "centos",
+                "count": 1
+            },
+            {
+                "name": "python",
+                "count": 1
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "docker",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "civilingenj\u00f6r, systemutveckling",
+        "label": "civilingenj\u00f6r, systemutveckling",
         "skills": [
-            "regelverk",
-            "cloud",
-            "python",
-            "git",
-            "matlab",
-            "sql",
-            ".net",
-            "react",
-            "c#",
-            "cybers\u00e4kerhet",
-            "c++"
+            {
+                "name": "python",
+                "count": 2
+            },
+            {
+                "name": "matlab",
+                "count": 2
+            },
+            {
+                "name": "c++",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": ".net",
+                "count": 1
+            },
+            {
+                "name": "react",
+                "count": 1
+            },
+            {
+                "name": "sql",
+                "count": 1
+            },
+            {
+                "name": "git",
+                "count": 1
+            },
+            {
+                "name": "regelverk",
+                "count": 1
+            },
+            {
+                "name": "cybers\u00e4kerhet",
+                "count": 1
+            },
+            {
+                "name": "cloud",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "applikationsutvecklare/apputvecklare",
+        "label": "applikationsutvecklare/apputvecklare",
         "skills": [
-            "javascript",
-            "typescript",
-            "microsoft azure",
-            "refactoring",
-            "git",
-            "react native",
-            "kotlin",
-            "java",
-            "xamarin",
-            ".net",
-            "objective-c",
-            "c#",
-            "swift"
+            {
+                "name": "react native",
+                "count": 3
+            },
+            {
+                "name": "kotlin",
+                "count": 2
+            },
+            {
+                "name": "java",
+                "count": 2
+            },
+            {
+                "name": "refactoring",
+                "count": 1
+            },
+            {
+                "name": "swift",
+                "count": 1
+            },
+            {
+                "name": "git",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": "microsoft azure",
+                "count": 1
+            },
+            {
+                "name": ".net",
+                "count": 1
+            },
+            {
+                "name": "xamarin",
+                "count": 1
+            },
+            {
+                "name": "objective-c",
+                "count": 1
+            },
+            {
+                "name": "javascript",
+                "count": 1
+            },
+            {
+                "name": "typescript",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "infrastrukturarkitekt",
+        "label": "infrastrukturarkitekt",
         "skills": [
-            "kubernetes",
-            "microsoft azure",
-            "powershell",
-            "docker",
-            "terraform",
-            ".net",
-            "vmware",
-            "c#"
+            {
+                "name": "microsoft azure",
+                "count": 2
+            },
+            {
+                "name": "vmware",
+                "count": 1
+            },
+            {
+                "name": "powershell",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": ".net",
+                "count": 1
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "docker",
+                "count": 1
+            },
+            {
+                "name": "terraform",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "processansvarig, itil",
+        "label": "processansvarig, itil",
         "skills": []
     },
     {
-        "title": "it-strateg",
+        "label": "it-strateg",
         "skills": [
-            "kubernetes",
-            "riskhantering",
-            "certifikathantering",
-            "sql-server",
-            "ccna",
-            "confluence",
-            "certifikat",
-            "chefserfarenhet"
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "certifikathantering",
+                "count": 1
+            },
+            {
+                "name": "ccna",
+                "count": 1
+            },
+            {
+                "name": "certifikat",
+                "count": 1
+            },
+            {
+                "name": "riskhantering",
+                "count": 1
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "confluence",
+                "count": 1
+            },
+            {
+                "name": "chefserfarenhet",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "drifttekniker, data",
+        "label": "drifttekniker, data",
         "skills": [
-            "kubernetes",
-            "microsoft azure",
-            "red hat",
-            "powershell",
-            "centos",
-            "cloud",
-            "python",
-            "docker",
-            "puppet",
-            "ansible",
-            "vmware",
-            "sql-server"
+            {
+                "name": "powershell",
+                "count": 5
+            },
+            {
+                "name": "vmware",
+                "count": 3
+            },
+            {
+                "name": "microsoft azure",
+                "count": 2
+            },
+            {
+                "name": "kubernetes",
+                "count": 2
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "centos",
+                "count": 1
+            },
+            {
+                "name": "python",
+                "count": 1
+            },
+            {
+                "name": "puppet",
+                "count": 1
+            },
+            {
+                "name": "red hat",
+                "count": 1
+            },
+            {
+                "name": "docker",
+                "count": 1
+            },
+            {
+                "name": "ansible",
+                "count": 1
+            },
+            {
+                "name": "cloud",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "kravanalytiker",
+        "label": "kravanalytiker",
         "skills": [
-            "risk management",
-            "rapportering"
+            {
+                "name": "rapportering",
+                "count": 1
+            },
+            {
+                "name": "risk management",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "metodanalytiker, it",
+        "label": "metodanalytiker, it",
         "skills": []
     },
     {
-        "title": "it-arkitekt/l\u00f6sningsarkitekt",
+        "label": "it-arkitekt/l\u00f6sningsarkitekt",
         "skills": [
-            "cloud",
-            "sql",
-            "coachning",
-            "cybers\u00e4kerhet"
+            {
+                "name": "cloud",
+                "count": 1
+            },
+            {
+                "name": "cybers\u00e4kerhet",
+                "count": 1
+            },
+            {
+                "name": "coachning",
+                "count": 1
+            },
+            {
+                "name": "sql",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "kommunikationstekniker",
+        "label": "kommunikationstekniker",
         "skills": [
-            "radio"
+            {
+                "name": "radio",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "s\u00e4kerhetsansvarig, it",
+        "label": "s\u00e4kerhetsansvarig, it",
         "skills": [
-            "javascript",
-            "regelverk",
-            "microsoft azure",
-            "powershell",
-            "riskhantering",
-            "c#",
-            "sql-server"
+            {
+                "name": "microsoft azure",
+                "count": 2
+            },
+            {
+                "name": "riskhantering",
+                "count": 1
+            },
+            {
+                "name": "regelverk",
+                "count": 1
+            },
+            {
+                "name": "javascript",
+                "count": 1
+            },
+            {
+                "name": "c#",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "powershell",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "driftledare, it",
+        "label": "driftledare, it",
         "skills": [
-            "regelverk",
-            "c++"
+            {
+                "name": "regelverk",
+                "count": 1
+            },
+            {
+                "name": "c++",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "n\u00e4tverkstekniker",
+        "label": "n\u00e4tverkstekniker",
         "skills": [
-            "ciscos",
-            "router",
-            "check point",
-            "cisco",
-            "ccnp",
-            "ccnp routing",
-            "ccie"
+            {
+                "name": "cisco",
+                "count": 4
+            },
+            {
+                "name": "ccnp",
+                "count": 2
+            },
+            {
+                "name": "check point",
+                "count": 2
+            },
+            {
+                "name": "ciscos",
+                "count": 1
+            },
+            {
+                "name": "ccie",
+                "count": 1
+            },
+            {
+                "name": "router",
+                "count": 1
+            },
+            {
+                "name": "ccnp routing",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "dataoperat\u00f6r",
+        "label": "dataoperat\u00f6r",
         "skills": []
     },
     {
-        "title": "datas\u00e4kerhetsansvarig",
+        "label": "datas\u00e4kerhetsansvarig",
         "skills": [
-            "certifieringar",
-            "check point",
-            "routingprotokoll"
+            {
+                "name": "routingprotokoll",
+                "count": 1
+            },
+            {
+                "name": "check point",
+                "count": 1
+            },
+            {
+                "name": "certifieringar",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "systemarkitekt",
+        "label": "systemarkitekt",
         "skills": [
-            "javascript",
-            "visual studio",
-            "angularjs",
-            "kubernetes",
-            "ci/cd",
-            "java",
-            "react",
-            "sql-server"
+            {
+                "name": "javascript",
+                "count": 1
+            },
+            {
+                "name": "java",
+                "count": 1
+            },
+            {
+                "name": "react",
+                "count": 1
+            },
+            {
+                "name": "kubernetes",
+                "count": 1
+            },
+            {
+                "name": "ci/cd",
+                "count": 1
+            },
+            {
+                "name": "angularjs",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            },
+            {
+                "name": "visual studio",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "forskare, it",
+        "label": "forskare, it",
         "skills": [
-            "rymdfysik",
-            "c++"
+            {
+                "name": "c++",
+                "count": 1
+            },
+            {
+                "name": "rymdfysik",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "it-s\u00e4kerhetschef",
+        "label": "it-s\u00e4kerhetschef",
         "skills": []
     },
     {
-        "title": "configuration manager/cm",
+        "label": "configuration manager/cm",
         "skills": [
-            "release management"
+            {
+                "name": "release management",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "anv\u00e4ndbarhetsdesigner",
+        "label": "anv\u00e4ndbarhetsdesigner",
         "skills": [
-            "research"
+            {
+                "name": "research",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "datorlingvist/datalingvist",
+        "label": "datorlingvist/datalingvist",
         "skills": [
-            "microsoft azure"
+            {
+                "name": "microsoft azure",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "n\u00e4tverkskonstrukt\u00f6r",
+        "label": "n\u00e4tverkskonstrukt\u00f6r",
         "skills": []
     },
     {
-        "title": "n\u00e4tverksansvarig",
+        "label": "n\u00e4tverksansvarig",
         "skills": [
-            "cisco"
+            {
+                "name": "cisco",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "databasadministrat\u00f6r",
+        "label": "databasadministrat\u00f6r",
         "skills": [
-            "microsoft azure",
-            "crm-system",
-            "sql-server"
+            {
+                "name": "microsoft azure",
+                "count": 1
+            },
+            {
+                "name": "crm-system",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "gis-utvecklare",
+        "label": "gis-utvecklare",
         "skills": [
-            "react",
-            "javascript",
-            "angularjs",
-            "sql-server",
-            "oracle"
+            {
+                "name": "javascript",
+                "count": 1
+            },
+            {
+                "name": "oracle",
+                "count": 1
+            },
+            {
+                "name": "react",
+                "count": 1
+            },
+            {
+                "name": "angularjs",
+                "count": 1
+            },
+            {
+                "name": "sql-server",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "s\u00e4kerhetsanalytiker, it",
+        "label": "s\u00e4kerhetsanalytiker, it",
         "skills": [
-            "civilingenj\u00f6rsutbildning"
+            {
+                "name": "civilingenj\u00f6rsutbildning",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "webbansvarig/webbstrateg",
+        "label": "webbansvarig/webbstrateg",
         "skills": [
-            "rapportering"
+            {
+                "name": "rapportering",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "it-utredare",
+        "label": "it-utredare",
         "skills": []
     },
     {
-        "title": "data warehouse specialist",
+        "label": "data warehouse specialist",
         "skills": []
     },
     {
-        "title": "databasutvecklare",
+        "label": "databasutvecklare",
         "skills": []
     },
     {
-        "title": "anv\u00e4ndbarhetsexpert",
+        "label": "anv\u00e4ndbarhetsexpert",
         "skills": []
     },
     {
-        "title": "n\u00e4tverksadministrat\u00f6r",
+        "label": "n\u00e4tverksadministrat\u00f6r",
         "skills": []
     },
     {
-        "title": "it-metodansvarig",
+        "label": "it-metodansvarig",
         "skills": [
-            "riskhantering",
-            "cobit",
-            "risk management",
-            "compliance"
+            {
+                "name": "riskhantering",
+                "count": 1
+            },
+            {
+                "name": "cobit",
+                "count": 1
+            },
+            {
+                "name": "compliance",
+                "count": 1
+            },
+            {
+                "name": "risk management",
+                "count": 1
+            }
         ]
     },
     {
-        "title": "databastekniker",
+        "label": "databastekniker",
         "skills": []
     },
     {
-        "title": "it-forensiker",
+        "label": "it-forensiker",
         "skills": []
     },
     {
-        "title": "dispatcher",
+        "label": "dispatcher",
         "skills": []
     },
     {
-        "title": "interaktionsdesigner",
+        "label": "interaktionsdesigner",
         "skills": []
     },
     {
-        "title": "programmerare, onlinespel",
+        "label": "programmerare, onlinespel",
         "skills": []
     }
 ]
