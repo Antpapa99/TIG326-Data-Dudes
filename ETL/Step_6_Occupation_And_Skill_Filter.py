@@ -11,36 +11,40 @@ skills_whitelist.update(dict2)
 
 # Define a function to check if a given skill is in the whitelist
 def is_valid_skill(skill):
-    # Check if the skill is in the whitelist
     if skill in skills_whitelist["label"]:
         return True
 
-    # Check if the skill is an abbreviation or misspelling of a valid skill
     for valid_skill in skills_whitelist["label"]:
         if skill.startswith(valid_skill):
             return True
 
-    # If the skill isn't valid or an abbreviation/misspelling, return False
     return False
 
 # Load the occupation list from the JSON file
 with open('merged_jobdictionary.json') as f:
     occupation_list = json.load(f)
 
-# Loop through each occupation in the occupation list
+filtered_skills_counts = {}
+
 for occupation in occupation_list:
-    # Create a new list to hold the valid skills
     valid_skills = []
-    # Loop through each skill in the occupation's skill list
+
     for skill in occupation['skills']:
-        # Check if the skill is valid
         if is_valid_skill(skill['name']):
-            # If the skill is valid, add it to the list of valid skills
             valid_skills.append(skill)
-    # Replace the occupation's skills with the list of valid skills
+        else:
+            if skill['name'] not in filtered_skills_counts:
+                filtered_skills_counts[skill['name']] = {'name': skill['name'], 'count': skill['count']}
+            else:
+                filtered_skills_counts[skill['name']]['count'] += skill['count']
+    
     occupation['skills'] = valid_skills
 
-# Save the updated occupation list to a new JSON file
 with open('updated_occupation_list.json', 'w') as f:
     json.dump(occupation_list, f, indent=4)
+
+filtered_skills_sorted = sorted(filtered_skills_counts.values(), key=lambda x: x['count'], reverse=True)
+
+with open('filtered_skills.json', 'w') as f:
+    json.dump(list(filtered_skills_sorted), f, indent=4)
 
