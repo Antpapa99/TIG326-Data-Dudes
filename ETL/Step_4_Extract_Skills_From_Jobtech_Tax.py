@@ -23,4 +23,4 @@ skills = {"label": [i.lower() for i in clean_duplicates],
 
 
 with open("Skills.json", "w", encoding="utf-8") as file:
-    file.write(json.dumps(skills) + "\n")  
+    file.write(json.dumps(skills))  
