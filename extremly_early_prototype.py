@@ -66,6 +66,7 @@ def display_job_skills(selected_job_label):
     [dash.dependencies.State('skills', 'value')]
 )
 def match_jobs(n_clicks, selected_skills):
+    print("test")
     if not selected_skills:
         return "no matches"
     matches = []
@@ -78,7 +79,6 @@ def match_jobs(n_clicks, selected_skills):
         return html.Ul([html.Li(match) for match in matches])
     else:
         return 'no Matches found'
-
 
 if __name__ == '__main__':
     server.run(debug=True)
