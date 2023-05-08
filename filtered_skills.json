@@ -20,11 +20,11 @@
         "count": 850
     },
     {
-        "name": "fels\u00c3\u00b6kning",
-        "count": 674
+        "name": "data",
+        "count": 754
     },
     {
-        "name": "microsoft windows",
+        "name": "fels\u00c3\u00b6kning",
         "count": 674
     },
     {
@@ -34,6 +34,10 @@
     {
         "name": "k\u00c3\u00b6rkort",
         "count": 579
+    },
+    {
+        "name": "drifting",
+        "count": 570
     },
     {
         "name": "f\u00c3\u00b6rvaltning",
@@ -56,6 +60,10 @@
         "count": 420
     },
     {
+        "name": "dokumentation",
+        "count": 401
+    },
+    {
         "name": "h\u00c3\u00a5rdvara",
         "count": 391
     },
@@ -76,6 +84,10 @@
         "count": 374
     },
     {
+        "name": "cloud",
+        "count": 372
+    },
+    {
         "name": "eftergymnasial utbildning",
         "count": 358
     },
@@ -86,6 +98,10 @@
     {
         "name": "svenskt medborgarskap",
         "count": 345
+    },
+    {
+        "name": "react",
+        "count": 342
     },
     {
         "name": "mjukvaruutveckling",
@@ -132,7 +148,7 @@
         "count": 267
     },
     {
-        "name": "amazon web services",
+        "name": "datorer",
         "count": 261
     },
     {
@@ -156,8 +172,16 @@
         "count": 248
     },
     {
+        "name": "databaser",
+        "count": 244
+    },
+    {
         "name": "milj\u00c3\u00b6",
         "count": 233
+    },
+    {
+        "name": "can",
+        "count": 228
     },
     {
         "name": "arkitektur",
@@ -180,6 +204,18 @@
         "count": 222
     },
     {
+        "name": "datavetenskap",
+        "count": 221
+    },
+    {
+        "name": "angularjs",
+        "count": 219
+    },
+    {
+        "name": "ci/cd",
+        "count": 213
+    },
+    {
         "name": "analys",
         "count": 200
     },
@@ -193,6 +229,10 @@
     },
     {
         "name": "systemf\u00c3\u00b6rvaltning",
+        "count": 191
+    },
+    {
+        "name": "digitalisering",
         "count": 191
     },
     {
@@ -244,8 +284,20 @@
         "count": 170
     },
     {
+        "name": "vidareutveckling",
+        "count": 169
+    },
+    {
         "name": "switch",
         "count": 168
+    },
+    {
+        "name": "programmeringsspr\u00c3\u00a5k",
+        "count": 164
+    },
+    {
+        "name": "datateknik",
+        "count": 163
     },
     {
         "name": "implementering",
@@ -254,6 +306,10 @@
     {
         "name": "ux",
         "count": 158
+    },
+    {
+        "name": "virtualisering",
+        "count": 157
     },
     {
         "name": "\u00c3\u00b6vervakning",
@@ -272,20 +328,20 @@
         "count": 148
     },
     {
-        "name": "sharepoint",
-        "count": 147
-    },
-    {
         "name": "teknisk support",
         "count": 147
     },
     {
-        "name": "testautomatisering",
-        "count": 146
-    },
-    {
         "name": "anv\u00c3\u00a4ndarsupport",
         "count": 142
+    },
+    {
+        "name": "certifieringar",
+        "count": 139
+    },
+    {
+        "name": "cisco",
+        "count": 136
     },
     {
         "name": "excel",
@@ -302,10 +358,6 @@
     {
         "name": "utvecklingsteam",
         "count": 131
-    },
-    {
-        "name": "embedded system",
-        "count": 129
     },
     {
         "name": "utvecklingsarbete",
@@ -344,6 +396,10 @@
         "count": 118
     },
     {
+        "name": "confluence",
+        "count": 116
+    },
+    {
         "name": "h\u00c3\u00b6gskola",
         "count": 113
     },
@@ -361,10 +417,6 @@
     },
     {
         "name": "innovation",
-        "count": 110
-    },
-    {
-        "name": "artificial intelligence",
         "count": 110
     },
     {
@@ -388,12 +440,20 @@
         "count": 103
     },
     {
+        "name": "deployment",
+        "count": 102
+    },
+    {
         "name": "molntj\u00c3\u00a4nster",
         "count": 102
     },
     {
         "name": "mac",
         "count": 102
+    },
+    {
+        "name": "r\u00c3\u00b6r",
+        "count": 100
     },
     {
         "name": "kringutrustning",
@@ -428,6 +488,10 @@
         "count": 94
     },
     {
+        "name": "datorvana",
+        "count": 94
+    },
+    {
         "name": "samverkan",
         "count": 92
     },
@@ -442,6 +506,10 @@
     {
         "name": "it-l\u00c3\u00b6sningar",
         "count": 92
+    },
+    {
+        "name": "regelverk",
+        "count": 91
     },
     {
         "name": "f\u00c3\u00b6rb\u00c3\u00a4ttringsarbete",
@@ -484,11 +552,23 @@
         "count": 86
     },
     {
+        "name": "dns",
+        "count": 86
+    },
+    {
         "name": "konfigurering",
         "count": 85
     },
     {
+        "name": "drifts\u00c3\u00a4ttning",
+        "count": 84
+    },
+    {
         "name": "kvalitetss\u00c3\u00a4kring",
+        "count": 83
+    },
+    {
+        "name": "spring boot",
         "count": 83
     },
     {
@@ -520,8 +600,16 @@
         "count": 80
     },
     {
+        "name": "linux-milj\u00c3\u00b6",
+        "count": 79
+    },
+    {
         "name": "not",
         "count": 79
+    },
+    {
+        "name": "cybers\u00c3\u00a4kerhet",
+        "count": 78
     },
     {
         "name": "tekniska kunskaper",
@@ -534,6 +622,14 @@
     {
         "name": "mobiltelefoni",
         "count": 74
+    },
+    {
+        "name": "databas",
+        "count": 73
+    },
+    {
+        "name": "rapportering",
+        "count": 72
     },
     {
         "name": "gcp",
@@ -552,7 +648,7 @@
         "count": 71
     },
     {
-        "name": "machine learning",
+        "name": "resor",
         "count": 71
     },
     {
@@ -588,16 +684,16 @@
         "count": 68
     },
     {
+        "name": "registerkontroll",
+        "count": 68
+    },
+    {
         "name": "support\u00c3\u00a4renden",
         "count": 68
     },
     {
         "name": "kundtj\u00c3\u00a4nst",
         "count": 67
-    },
-    {
-        "name": "automotive",
-        "count": 66
     },
     {
         "name": "n\u00c3\u00a4tverksteknik",
@@ -648,6 +744,10 @@
         "count": 61
     },
     {
+        "name": "vision",
+        "count": 61
+    },
+    {
         "name": "fl\u00c3\u00b6den",
         "count": 61
     },
@@ -672,6 +772,18 @@
         "count": 60
     },
     {
+        "name": "riskanalys",
+        "count": 60
+    },
+    {
+        "name": "certifikat",
+        "count": 60
+    },
+    {
+        "name": "routrar",
+        "count": 60
+    },
+    {
         "name": "servermilj\u00c3\u00b6",
         "count": 60
     },
@@ -689,10 +801,6 @@
     },
     {
         "name": "s\u00c3\u00a4kerhetsl\u00c3\u00b6sningar",
-        "count": 58
-    },
-    {
-        "name": "gdpr",
         "count": 58
     },
     {
@@ -720,6 +828,10 @@
         "count": 56
     },
     {
+        "name": "research",
+        "count": 56
+    },
+    {
         "name": "livscykelhantering",
         "count": 56
     },
@@ -729,10 +841,6 @@
     },
     {
         "name": "testverktyg",
-        "count": 55
-    },
-    {
-        "name": "iot",
         "count": 55
     },
     {
@@ -792,6 +900,14 @@
         "count": 52
     },
     {
+        "name": "driftmilj\u00c3\u00b6",
+        "count": 51
+    },
+    {
+        "name": "databashantering",
+        "count": 51
+    },
+    {
         "name": "lean",
         "count": 50
     },
@@ -813,6 +929,10 @@
     },
     {
         "name": "systemarkitektur",
+        "count": 47
+    },
+    {
+        "name": "r\u00c3\u00a5dgivning",
         "count": 47
     },
     {
@@ -840,6 +960,14 @@
         "count": 44
     },
     {
+        "name": "dhcp",
+        "count": 44
+    },
+    {
+        "name": "data warehouse",
+        "count": 44
+    },
+    {
         "name": "modellering",
         "count": 44
     },
@@ -857,6 +985,10 @@
     },
     {
         "name": "h\u00c3\u00a5rdvarun\u00c3\u00a4ra programmering",
+        "count": 43
+    },
+    {
+        "name": "red hat",
         "count": 43
     },
     {
@@ -885,6 +1017,10 @@
     },
     {
         "name": "processutveckling",
+        "count": 41
+    },
+    {
+        "name": "dataanalys",
         "count": 41
     },
     {
@@ -928,6 +1064,10 @@
         "count": 39
     },
     {
+        "name": "dataskydd",
+        "count": 39
+    },
+    {
         "name": "gymnasieexamen",
         "count": 39
     },
@@ -965,6 +1105,10 @@
     },
     {
         "name": "mobila enheter",
+        "count": 38
+    },
+    {
+        "name": "distribution",
         "count": 38
     },
     {
@@ -1008,6 +1152,10 @@
         "count": 37
     },
     {
+        "name": "configuration",
+        "count": 37
+    },
+    {
         "name": "matematik",
         "count": 37
     },
@@ -1017,6 +1165,10 @@
     },
     {
         "name": "verksamhetsomr\u00c3\u00a5den",
+        "count": 37
+    },
+    {
+        "name": "coachning",
         "count": 37
     },
     {
@@ -1048,10 +1200,6 @@
         "count": 36
     },
     {
-        "name": "ledningssystem",
-        "count": 36
-    },
-    {
         "name": "finska",
         "count": 36
     },
@@ -1060,11 +1208,19 @@
         "count": 36
     },
     {
+        "name": "cissp",
+        "count": 36
+    },
+    {
         "name": "mjukvarutestning",
         "count": 35
     },
     {
         "name": "qa",
+        "count": 35
+    },
+    {
+        "name": "gitlab",
         "count": 35
     },
     {
@@ -1077,6 +1233,14 @@
     },
     {
         "name": "systemvana",
+        "count": 35
+    },
+    {
+        "name": "change management",
+        "count": 35
+    },
+    {
+        "name": "registrering",
         "count": 35
     },
     {
@@ -1096,6 +1260,10 @@
         "count": 34
     },
     {
+        "name": "sql-databaser",
+        "count": 34
+    },
+    {
         "name": "json",
         "count": 34
     },
@@ -1108,7 +1276,19 @@
         "count": 34
     },
     {
+        "name": "civilingenj\u00c3\u00b6rsexamen",
+        "count": 34
+    },
+    {
+        "name": "cad",
+        "count": 34
+    },
+    {
         "name": "macos",
+        "count": 34
+    },
+    {
+        "name": "riskhantering",
         "count": 34
     },
     {
@@ -1124,7 +1304,15 @@
         "count": 33
     },
     {
+        "name": "datalager",
+        "count": 33
+    },
+    {
         "name": "gr\u00c3\u00a4nssnitt",
+        "count": 33
+    },
+    {
+        "name": "compliance",
         "count": 33
     },
     {
@@ -1152,6 +1340,10 @@
         "count": 32
     },
     {
+        "name": "html5",
+        "count": 32
+    },
+    {
         "name": "urvalsfr\u00c3\u00a5gor",
         "count": 32
     },
@@ -1169,6 +1361,14 @@
     },
     {
         "name": "material",
+        "count": 32
+    },
+    {
+        "name": "windowsmilj\u00c3\u00b6er",
+        "count": 32
+    },
+    {
+        "name": "desktop",
         "count": 32
     },
     {
@@ -1212,6 +1412,10 @@
         "count": 31
     },
     {
+        "name": "dokumenthantering",
+        "count": 31
+    },
+    {
         "name": "l\u00c3\u00b6sningsarkitektur",
         "count": 31
     },
@@ -1225,6 +1429,10 @@
     },
     {
         "name": "kontroll",
+        "count": 31
+    },
+    {
+        "name": "certifikathantering",
         "count": 31
     },
     {
@@ -1252,6 +1460,14 @@
         "count": 31
     },
     {
+        "name": "civilingenj\u00c3\u00b6rsutbildning",
+        "count": 30
+    },
+    {
+        "name": "deploy",
+        "count": 30
+    },
+    {
         "name": "kandidatexamen",
         "count": 30
     },
@@ -1264,7 +1480,7 @@
         "count": 30
     },
     {
-        "name": "open source",
+        "name": "visualisering",
         "count": 30
     },
     {
@@ -1273,14 +1489,6 @@
     },
     {
         "name": "istqb",
-        "count": 29
-    },
-    {
-        "name": "test automation",
-        "count": 29
-    },
-    {
-        "name": "web content accessibility guidelines",
         "count": 29
     },
     {
@@ -1312,6 +1520,18 @@
         "count": 29
     },
     {
+        "name": "dataskyddsf\u00c3\u00b6rordningen",
+        "count": 29
+    },
+    {
+        "name": "regler",
+        "count": 29
+    },
+    {
+        "name": "windows 7",
+        "count": 29
+    },
+    {
         "name": "kontohantering",
         "count": 29
     },
@@ -1324,7 +1544,7 @@
         "count": 29
     },
     {
-        "name": "pps",
+        "name": "datakommunikation",
         "count": 29
     },
     {
@@ -1337,6 +1557,10 @@
     },
     {
         "name": "postman",
+        "count": 28
+    },
+    {
+        "name": "shell script",
         "count": 28
     },
     {
@@ -1356,7 +1580,15 @@
         "count": 28
     },
     {
+        "name": "datahantering",
+        "count": 28
+    },
+    {
         "name": "adfs",
+        "count": 28
+    },
+    {
+        "name": "rds",
         "count": 28
     },
     {
@@ -1389,6 +1621,10 @@
     },
     {
         "name": "networking",
+        "count": 27
+    },
+    {
+        "name": "redovisning",
         "count": 27
     },
     {
@@ -1449,6 +1685,10 @@
     },
     {
         "name": "aff\u00c3\u00a4rsprocesser",
+        "count": 25
+    },
+    {
+        "name": "sass",
         "count": 25
     },
     {
@@ -1521,6 +1761,10 @@
     },
     {
         "name": "automatiseringsverktyg",
+        "count": 24
+    },
+    {
+        "name": "distribuerade system",
         "count": 24
     },
     {
@@ -1604,6 +1848,10 @@
         "count": 23
     },
     {
+        "name": "rekrytering",
+        "count": 23
+    },
+    {
         "name": "tableau",
         "count": 23
     },
@@ -1613,6 +1861,14 @@
     },
     {
         "name": "anpassning",
+        "count": 23
+    },
+    {
+        "name": "danska",
+        "count": 23
+    },
+    {
+        "name": "manualer",
         "count": 23
     },
     {
@@ -1648,10 +1904,6 @@
         "count": 22
     },
     {
-        "name": "gis",
-        "count": 22
-    },
-    {
         "name": "embedded linux",
         "count": 22
     },
@@ -1668,6 +1920,10 @@
         "count": 22
     },
     {
+        "name": "ciscos",
+        "count": 22
+    },
+    {
         "name": "junit",
         "count": 21
     },
@@ -1676,7 +1932,15 @@
         "count": 21
     },
     {
+        "name": ".net framework",
+        "count": 21
+    },
+    {
         "name": "mikrotj\u00c3\u00a4nster",
+        "count": 21
+    },
+    {
+        "name": "drogtest",
         "count": 21
     },
     {
@@ -1684,11 +1948,11 @@
         "count": 21
     },
     {
-        "name": "ip",
+        "name": "marknadsf\u00c3\u00b6ring",
         "count": 21
     },
     {
-        "name": "marknadsf\u00c3\u00b6ring",
+        "name": "rekryteringstj\u00c3\u00a4nster",
         "count": 21
     },
     {
@@ -1716,6 +1980,10 @@
         "count": 20
     },
     {
+        "name": "realtidssystem",
+        "count": 20
+    },
+    {
         "name": "plm",
         "count": 20
     },
@@ -1725,6 +1993,10 @@
     },
     {
         "name": "architectures",
+        "count": 20
+    },
+    {
+        "name": "continuous delivery",
         "count": 20
     },
     {
@@ -1768,6 +2040,10 @@
         "count": 20
     },
     {
+        "name": "cucumber",
+        "count": 19
+    },
+    {
         "name": "testutveckling",
         "count": 19
     },
@@ -1789,6 +2065,14 @@
     },
     {
         "name": "web api",
+        "count": 19
+    },
+    {
+        "name": "rhel",
+        "count": 19
+    },
+    {
+        "name": "centos",
         "count": 19
     },
     {
@@ -1816,6 +2100,10 @@
         "count": 19
     },
     {
+        "name": "devices",
+        "count": 19
+    },
+    {
         "name": "gymnasium",
         "count": 19
     },
@@ -1836,6 +2124,10 @@
         "count": 19
     },
     {
+        "name": "rekryteringssystem",
+        "count": 19
+    },
+    {
         "name": "utbildningsmaterial",
         "count": 19
     },
@@ -1852,6 +2144,10 @@
         "count": 19
     },
     {
+        "name": "check point",
+        "count": 19
+    },
+    {
         "name": "testomr\u00c3\u00a5det",
         "count": 18
     },
@@ -1861,6 +2157,10 @@
     },
     {
         "name": "testplaner",
+        "count": 18
+    },
+    {
+        "name": "canoe",
         "count": 18
     },
     {
@@ -1884,7 +2184,15 @@
         "count": 18
     },
     {
+        "name": "datalagring",
+        "count": 18
+    },
+    {
         "name": "event",
+        "count": 18
+    },
+    {
+        "name": "virtuella milj\u00c3\u00b6er",
         "count": 18
     },
     {
@@ -1904,11 +2212,19 @@
         "count": 18
     },
     {
+        "name": "datainriktning",
+        "count": 18
+    },
+    {
         "name": "sociala medier",
         "count": 18
     },
     {
         "name": "utredning",
+        "count": 18
+    },
+    {
+        "name": "datorer och kringutrustning",
         "count": 18
     },
     {
@@ -1921,6 +2237,10 @@
     },
     {
         "name": "f\u00c3\u00b6rvaltningsplaner",
+        "count": 18
+    },
+    {
+        "name": "resursplanering",
         "count": 18
     },
     {
@@ -1968,6 +2288,14 @@
         "count": 17
     },
     {
+        "name": "c#.net",
+        "count": 17
+    },
+    {
+        "name": "redux",
+        "count": 17
+    },
+    {
         "name": "e-tj\u00c3\u00a4nster",
         "count": 17
     },
@@ -1985,6 +2313,10 @@
     },
     {
         "name": "internet",
+        "count": 17
+    },
+    {
+        "name": "radio",
         "count": 17
     },
     {
@@ -2016,6 +2348,14 @@
         "count": 17
     },
     {
+        "name": "databasadministration",
+        "count": 17
+    },
+    {
+        "name": "dataskyddsfr\u00c3\u00a5gor",
+        "count": 17
+    },
+    {
         "name": "ledarerfarenhet",
         "count": 17
     },
@@ -2040,6 +2380,10 @@
         "count": 16
     },
     {
+        "name": "reglerteknik",
+        "count": 16
+    },
+    {
         "name": "autocad",
         "count": 16
     },
@@ -2056,11 +2400,19 @@
         "count": 16
     },
     {
+        "name": "css3",
+        "count": 16
+    },
+    {
         "name": "bi-verktyg",
         "count": 16
     },
     {
         "name": "spel",
+        "count": 16
+    },
+    {
+        "name": "data warehousing",
         "count": 16
     },
     {
@@ -2100,6 +2452,14 @@
         "count": 16
     },
     {
+        "name": "doktorsexamen",
+        "count": 16
+    },
+    {
+        "name": "designsystem",
+        "count": 16
+    },
+    {
         "name": "kommunikationsl\u00c3\u00b6sningar",
         "count": 16
     },
@@ -2116,6 +2476,10 @@
         "count": 16
     },
     {
+        "name": "managering",
+        "count": 16
+    },
+    {
         "name": "it-organisation",
         "count": 16
     },
@@ -2128,12 +2492,20 @@
         "count": 16
     },
     {
+        "name": "dna",
+        "count": 16
+    },
+    {
         "name": "instrument",
         "count": 16
     },
     {
         "name": "offentlighetslagstiftning",
         "count": 16
+    },
+    {
+        "name": "regressionstestning",
+        "count": 15
     },
     {
         "name": "prestandatester",
@@ -2145,6 +2517,14 @@
     },
     {
         "name": "mechatronics",
+        "count": 15
+    },
+    {
+        "name": "robotik",
+        "count": 15
+    },
+    {
+        "name": "drivrutin",
         "count": 15
     },
     {
@@ -2173,6 +2553,10 @@
     },
     {
         "name": "inventering",
+        "count": 15
+    },
+    {
+        "name": "video",
         "count": 15
     },
     {
@@ -2208,6 +2592,10 @@
         "count": 15
     },
     {
+        "name": "windows os",
+        "count": 15
+    },
+    {
         "name": "fiber",
         "count": 15
     },
@@ -2228,6 +2616,10 @@
         "count": 15
     },
     {
+        "name": "risk management",
+        "count": 15
+    },
+    {
         "name": "n\u00c3\u00a4tverkstj\u00c3\u00a4nster",
         "count": 15
     },
@@ -2237,6 +2629,10 @@
     },
     {
         "name": "funktionstest",
+        "count": 14
+    },
+    {
+        "name": "soapui",
         "count": 14
     },
     {
@@ -2268,6 +2664,10 @@
         "count": 14
     },
     {
+        "name": "cloudl\u00c3\u00b6sningar",
+        "count": 14
+    },
+    {
         "name": "prestationsprogram",
         "count": 14
     },
@@ -2281,6 +2681,10 @@
     },
     {
         "name": "firmware",
+        "count": 14
+    },
+    {
+        "name": "distansarbete",
         "count": 14
     },
     {
@@ -2312,11 +2716,19 @@
         "count": 14
     },
     {
+        "name": "dw",
+        "count": 14
+    },
+    {
         "name": "integrationsplattformar",
         "count": 14
     },
     {
         "name": "fj\u00c3\u00a4rrsupport",
+        "count": 14
+    },
+    {
+        "name": "reparation",
         "count": 14
     },
     {
@@ -2420,6 +2832,14 @@
         "count": 13
     },
     {
+        "name": "riskbed\u00c3\u00b6mningar",
+        "count": 13
+    },
+    {
+        "name": "digital marknadsf\u00c3\u00b6ring",
+        "count": 13
+    },
+    {
         "name": "adobe illustrator",
         "count": 13
     },
@@ -2437,6 +2857,10 @@
     },
     {
         "name": "logistikbranschen",
+        "count": 13
+    },
+    {
+        "name": "digitaliseringsprojekt",
         "count": 13
     },
     {
@@ -2460,6 +2884,10 @@
         "count": 13
     },
     {
+        "name": "driftarbete",
+        "count": 13
+    },
+    {
         "name": "wlan",
         "count": 13
     },
@@ -2469,6 +2897,10 @@
     },
     {
         "name": "problemhantering",
+        "count": 13
+    },
+    {
+        "name": "remedy",
         "count": 13
     },
     {
@@ -2504,11 +2936,23 @@
         "count": 13
     },
     {
+        "name": "designprocessen",
+        "count": 13
+    },
+    {
         "name": "arkitekturarbete",
         "count": 13
     },
     {
+        "name": "restore",
+        "count": 13
+    },
+    {
         "name": "h\u00c3\u00a4rdning",
+        "count": 13
+    },
+    {
+        "name": "cism",
         "count": 13
     },
     {
@@ -2548,11 +2992,23 @@
         "count": 12
     },
     {
+        "name": "debugger",
+        "count": 12
+    },
+    {
         "name": "standardisering",
         "count": 12
     },
     {
+        "name": "spring framework",
+        "count": 12
+    },
+    {
         "name": "fpga",
+        "count": 12
+    },
+    {
+        "name": "datavisualisering",
         "count": 12
     },
     {
@@ -2632,7 +3088,15 @@
         "count": 12
     },
     {
+        "name": "vidareutbildning",
+        "count": 12
+    },
+    {
         "name": "leveransprojekt",
+        "count": 12
+    },
+    {
+        "name": "crm-system",
         "count": 12
     },
     {
@@ -2692,6 +3156,10 @@
         "count": 12
     },
     {
+        "name": "landskap",
+        "count": 12
+    },
+    {
         "name": "infrastrukturprojekt",
         "count": 12
     },
@@ -2701,6 +3169,10 @@
     },
     {
         "name": "uppdragsledning",
+        "count": 12
+    },
+    {
+        "name": "digitala arbetss\u00c3\u00a4tt",
         "count": 12
     },
     {
@@ -2736,10 +3208,6 @@
         "count": 11
     },
     {
-        "name": "tcp",
-        "count": 11
-    },
-    {
         "name": "h\u00c3\u00b6gskoleingenj\u00c3\u00b6rsexamen",
         "count": 11
     },
@@ -2760,11 +3228,19 @@
         "count": 11
     },
     {
+        "name": "capl",
+        "count": 11
+    },
+    {
         "name": "umbraco",
         "count": 11
     },
     {
         "name": "yocto",
+        "count": 11
+    },
+    {
+        "name": "e-handelsl\u00c3\u00b6sningar",
         "count": 11
     },
     {
@@ -2804,6 +3280,10 @@
         "count": 11
     },
     {
+        "name": "linux-system",
+        "count": 11
+    },
+    {
         "name": "ecu",
         "count": 11
     },
@@ -2837,6 +3317,10 @@
     },
     {
         "name": "v\u00c3\u00a5rdsektorn",
+        "count": 11
+    },
+    {
+        "name": "datas\u00c3\u00a4kerhet",
         "count": 11
     },
     {
@@ -2881,6 +3365,10 @@
     },
     {
         "name": "xlpm",
+        "count": 11
+    },
+    {
+        "name": "dokumenthanteringssystem",
         "count": 11
     },
     {
@@ -2940,7 +3428,15 @@
         "count": 10
     },
     {
+        "name": "rx",
+        "count": 10
+    },
+    {
         "name": "webpack",
+        "count": 10
+    },
+    {
+        "name": "debian",
         "count": 10
     },
     {
@@ -2949,6 +3445,10 @@
     },
     {
         "name": "tr\u00c3\u00a4ning",
+        "count": 10
+    },
+    {
+        "name": "driftorganisation",
         "count": 10
     },
     {
@@ -2968,7 +3468,15 @@
         "count": 10
     },
     {
+        "name": "dokumentationsarbete",
+        "count": 10
+    },
+    {
         "name": "integrationsm\u00c3\u00b6nster",
+        "count": 10
+    },
+    {
+        "name": "code review",
         "count": 10
     },
     {
@@ -3001,6 +3509,14 @@
     },
     {
         "name": "teknikplattformar",
+        "count": 10
+    },
+    {
+        "name": "designm\u00c3\u00b6nster",
+        "count": 10
+    },
+    {
+        "name": "datorteknik",
         "count": 10
     },
     {
@@ -3056,6 +3572,10 @@
         "count": 10
     },
     {
+        "name": "cosmic",
+        "count": 10
+    },
+    {
         "name": "systemuppdateringar",
         "count": 10
     },
@@ -3068,6 +3588,14 @@
         "count": 10
     },
     {
+        "name": "digitala projekt",
+        "count": 10
+    },
+    {
+        "name": "systemutvecklingsprojekt",
+        "count": 10
+    },
+    {
         "name": "kontinuitetsplanering",
         "count": 10
     },
@@ -3077,6 +3605,10 @@
     },
     {
         "name": "ledningsst\u00c3\u00b6dsystem",
+        "count": 10
+    },
+    {
+        "name": "driftansvar",
         "count": 10
     },
     {
@@ -3100,7 +3632,23 @@
         "count": 10
     },
     {
+        "name": "defektering",
+        "count": 9
+    },
+    {
+        "name": "virtualization",
+        "count": 9
+    },
+    {
         "name": "mobila applikationer",
+        "count": 9
+    },
+    {
+        "name": "releasehantering",
+        "count": 9
+    },
+    {
+        "name": "canalyzer",
         "count": 9
     },
     {
@@ -3113,6 +3661,10 @@
     },
     {
         "name": "mission",
+        "count": 9
+    },
+    {
+        "name": "chefskap",
         "count": 9
     },
     {
@@ -3140,6 +3692,10 @@
         "count": 9
     },
     {
+        "name": "cli",
+        "count": 9
+    },
+    {
         "name": "fordonsbranschen",
         "count": 9
     },
@@ -3149,6 +3705,10 @@
     },
     {
         "name": "kodgranskning",
+        "count": 9
+    },
+    {
+        "name": "dimensionsmodellering",
         "count": 9
     },
     {
@@ -3176,6 +3736,10 @@
         "count": 9
     },
     {
+        "name": "matlab simulink",
+        "count": 9
+    },
+    {
         "name": "va",
         "count": 9
     },
@@ -3184,7 +3748,15 @@
         "count": 9
     },
     {
+        "name": "detaljhandel",
+        "count": 9
+    },
+    {
         "name": "flygbranschen",
+        "count": 9
+    },
+    {
+        "name": "radiosystem",
         "count": 9
     },
     {
@@ -3212,6 +3784,10 @@
         "count": 9
     },
     {
+        "name": "rtos",
+        "count": 9
+    },
+    {
         "name": "workshopledning",
         "count": 9
     },
@@ -3225,6 +3801,10 @@
     },
     {
         "name": "tillverkningsindustrin",
+        "count": 9
+    },
+    {
+        "name": "creo",
         "count": 9
     },
     {
@@ -3260,11 +3840,19 @@
         "count": 9
     },
     {
+        "name": "datorkunskaper",
+        "count": 9
+    },
+    {
         "name": "teknisk r\u00c3\u00a5dgivning",
         "count": 9
     },
     {
         "name": "montering",
+        "count": 9
+    },
+    {
+        "name": "windows klient",
         "count": 9
     },
     {
@@ -3285,6 +3873,10 @@
     },
     {
         "name": "leveransfr\u00c3\u00a5gor",
+        "count": 9
+    },
+    {
+        "name": "routingprotokoll",
         "count": 9
     },
     {
@@ -3309,10 +3901,6 @@
     },
     {
         "name": "verksamhetsansvar",
-        "count": 9
-    },
-    {
-        "name": "ar",
         "count": 9
     },
     {
@@ -3360,7 +3948,11 @@
         "count": 8
     },
     {
-        "name": "gui",
+        "name": "manuell testning",
+        "count": 8
+    },
+    {
+        "name": "testning av mjukvara",
         "count": 8
     },
     {
@@ -3396,6 +3988,10 @@
         "count": 8
     },
     {
+        "name": "composer",
+        "count": 8
+    },
+    {
         "name": "autentiseringsl\u00c3\u00b6sningar",
         "count": 8
     },
@@ -3405,6 +4001,10 @@
     },
     {
         "name": "apache camel",
+        "count": 8
+    },
+    {
+        "name": "vba-programmering",
         "count": 8
     },
     {
@@ -3428,6 +4028,10 @@
         "count": 8
     },
     {
+        "name": "rabbitmq",
+        "count": 8
+    },
+    {
         "name": "tredjepartsprodukter",
         "count": 8
     },
@@ -3440,19 +4044,19 @@
         "count": 8
     },
     {
-        "name": "http",
-        "count": 8
-    },
-    {
         "name": "masterexamen",
         "count": 8
     },
     {
-        "name": "activemq",
+        "name": "c-programmering",
         "count": 8
     },
     {
-        "name": "soa",
+        "name": "visualisation",
+        "count": 8
+    },
+    {
+        "name": "activemq",
         "count": 8
     },
     {
@@ -3476,7 +4080,15 @@
         "count": 8
     },
     {
+        "name": "datasystem",
+        "count": 8
+    },
+    {
         "name": "oauth",
+        "count": 8
+    },
+    {
+        "name": "datorsystem",
         "count": 8
     },
     {
@@ -3489,6 +4101,10 @@
     },
     {
         "name": "vbscript",
+        "count": 8
+    },
+    {
+        "name": "relational",
         "count": 8
     },
     {
@@ -3525,6 +4141,10 @@
     },
     {
         "name": "till\u00c3\u00a4mpningar",
+        "count": 8
+    },
+    {
+        "name": "designl\u00c3\u00b6sningar",
         "count": 8
     },
     {
@@ -3624,7 +4244,15 @@
         "count": 8
     },
     {
+        "name": "digitaliseringsfr\u00c3\u00a5gor",
+        "count": 8
+    },
+    {
         "name": "sensor fusion",
+        "count": 8
+    },
+    {
+        "name": "adas",
         "count": 8
     },
     {
@@ -3644,11 +4272,19 @@
         "count": 8
     },
     {
+        "name": "virtualiserade milj\u00c3\u00b6er",
+        "count": 8
+    },
+    {
         "name": "forefront",
         "count": 8
     },
     {
         "name": "energibolag",
+        "count": 8
+    },
+    {
+        "name": "doors",
         "count": 8
     },
     {
@@ -3664,7 +4300,15 @@
         "count": 8
     },
     {
+        "name": "programmeringserfarenhet",
+        "count": 7
+    },
+    {
         "name": "feature",
+        "count": 7
+    },
+    {
+        "name": "dokumentdatabaser",
         "count": 7
     },
     {
@@ -3681,6 +4325,10 @@
     },
     {
         "name": "transaktionsintensiva system",
+        "count": 7
+    },
+    {
+        "name": "e-handelsplattformar",
         "count": 7
     },
     {
@@ -3701,6 +4349,14 @@
     },
     {
         "name": "stored procedures",
+        "count": 7
+    },
+    {
+        "name": "dom\u00c3\u00a4ndriven design",
+        "count": 7
+    },
+    {
+        "name": "e-handelssystem",
         "count": 7
     },
     {
@@ -3728,7 +4384,19 @@
         "count": 7
     },
     {
+        "name": "ceremonier",
+        "count": 7
+    },
+    {
+        "name": "debug",
+        "count": 7
+    },
+    {
         "name": "verksamhetskunskap",
+        "count": 7
+    },
+    {
+        "name": "datalogi",
         "count": 7
     },
     {
@@ -3740,7 +4408,19 @@
         "count": 7
     },
     {
+        "name": "catia",
+        "count": 7
+    },
+    {
         "name": "leveransmodell",
+        "count": 7
+    },
+    {
+        "name": "restful",
+        "count": 7
+    },
+    {
+        "name": "radiokommunikation",
         "count": 7
     },
     {
@@ -3749,6 +4429,10 @@
     },
     {
         "name": "kommunikationsn\u00c3\u00a4t",
+        "count": 7
+    },
+    {
+        "name": "ritningar",
         "count": 7
     },
     {
@@ -3776,6 +4460,10 @@
         "count": 7
     },
     {
+        "name": "connectivity",
+        "count": 7
+    },
+    {
         "name": "prognoser",
         "count": 7
     },
@@ -3788,6 +4476,10 @@
         "count": 7
     },
     {
+        "name": "dbt",
+        "count": 7
+    },
+    {
         "name": "os x",
         "count": 7
     },
@@ -3796,7 +4488,15 @@
         "count": 7
     },
     {
+        "name": "databehandling",
+        "count": 7
+    },
+    {
         "name": "openid",
+        "count": 7
+    },
+    {
+        "name": "content management",
         "count": 7
     },
     {
@@ -3836,11 +4536,19 @@
         "count": 7
     },
     {
+        "name": "videokonferenssystem",
+        "count": 7
+    },
+    {
         "name": "l\u00c3\u00b6senordshantering",
         "count": 7
     },
     {
         "name": "ominstallationer",
+        "count": 7
+    },
+    {
+        "name": "customer service",
         "count": 7
     },
     {
@@ -3912,6 +4620,14 @@
         "count": 7
     },
     {
+        "name": "dokumentationsvana",
+        "count": 7
+    },
+    {
+        "name": "vmware vsphere",
+        "count": 7
+    },
+    {
         "name": "tj\u00c3\u00a4nsteomr\u00c3\u00a5den",
         "count": 7
     },
@@ -3976,6 +4692,10 @@
         "count": 7
     },
     {
+        "name": "digital design",
+        "count": 7
+    },
+    {
         "name": "microsoft visio",
         "count": 7
     },
@@ -4016,6 +4736,10 @@
         "count": 7
     },
     {
+        "name": "datorseende",
+        "count": 7
+    },
+    {
         "name": "tls",
         "count": 7
     },
@@ -4033,6 +4757,10 @@
     },
     {
         "name": "testverksamhet",
+        "count": 6
+    },
+    {
+        "name": "linux operativsystem",
         "count": 6
     },
     {
@@ -4116,6 +4844,10 @@
         "count": 6
     },
     {
+        "name": "robotisering",
+        "count": 6
+    },
+    {
         "name": "elektronikkonstruktion",
         "count": 6
     },
@@ -4125,6 +4857,10 @@
     },
     {
         "name": "unit tests",
+        "count": 6
+    },
+    {
+        "name": "rf",
         "count": 6
     },
     {
@@ -4148,11 +4884,19 @@
         "count": 6
     },
     {
+        "name": "datasystemvetenskap",
+        "count": 6
+    },
+    {
         "name": "aff\u00c3\u00a4rslogik",
         "count": 6
     },
     {
         "name": "serverteknik",
+        "count": 6
+    },
+    {
+        "name": "data mining",
         "count": 6
     },
     {
@@ -4165,6 +4909,10 @@
     },
     {
         "name": "linjeorganisation",
+        "count": 6
+    },
+    {
+        "name": "design patterns",
         "count": 6
     },
     {
@@ -4184,6 +4932,10 @@
         "count": 6
     },
     {
+        "name": "databasmodellering",
+        "count": 6
+    },
+    {
         "name": "anl\u00c3\u00a4ggningsinformation",
         "count": 6
     },
@@ -4196,11 +4948,23 @@
         "count": 6
     },
     {
+        "name": "configuring",
+        "count": 6
+    },
+    {
         "name": "mjukvaruprodukter",
         "count": 6
     },
     {
+        "name": "djupintervjuer",
+        "count": 6
+    },
+    {
         "name": "integrationsomr\u00c3\u00a5det",
+        "count": 6
+    },
+    {
+        "name": "reservdelar",
         "count": 6
     },
     {
@@ -4244,6 +5008,10 @@
         "count": 6
     },
     {
+        "name": "refactoring",
+        "count": 6
+    },
+    {
         "name": "integrationsarbete",
         "count": 6
     },
@@ -4261,6 +5029,10 @@
     },
     {
         "name": "av-teknik",
+        "count": 6
+    },
+    {
+        "name": "vpn-l\u00c3\u00b6sningar",
         "count": 6
     },
     {
@@ -4293,6 +5065,14 @@
     },
     {
         "name": "tillverkningsindustri",
+        "count": 6
+    },
+    {
+        "name": "windowsprodukter",
+        "count": 6
+    },
+    {
+        "name": "coachande ledarskap",
         "count": 6
     },
     {
@@ -4364,6 +5144,10 @@
         "count": 6
     },
     {
+        "name": "registerv\u00c3\u00a5rd",
+        "count": 6
+    },
+    {
         "name": "six sigma",
         "count": 6
     },
@@ -4372,7 +5156,15 @@
         "count": 6
     },
     {
+        "name": "revision",
+        "count": 6
+    },
+    {
         "name": "migreringsprojekt",
+        "count": 6
+    },
+    {
+        "name": "datan",
         "count": 6
     },
     {
@@ -4389,6 +5181,10 @@
     },
     {
         "name": "systemf\u00c3\u00b6r\u00c3\u00a4ndringar",
+        "count": 6
+    },
+    {
+        "name": "datainsamling",
         "count": 6
     },
     {
@@ -4436,11 +5232,23 @@
         "count": 6
     },
     {
+        "name": "radioteknik",
+        "count": 6
+    },
+    {
         "name": "operativsystemet linux",
         "count": 6
     },
     {
         "name": "prototype",
+        "count": 6
+    },
+    {
+        "name": "raindance",
+        "count": 6
+    },
+    {
+        "name": "release management",
         "count": 6
     },
     {
@@ -4488,8 +5296,12 @@
         "count": 6
     },
     {
-        "name": "utforskande testning",
-        "count": 5
+        "name": "accessn\u00c3\u00a4tverk",
+        "count": 6
+    },
+    {
+        "name": "oracles",
+        "count": 6
     },
     {
         "name": "funktionella tester",
@@ -4516,6 +5328,10 @@
         "count": 5
     },
     {
+        "name": ".net-plattformen",
+        "count": 5
+    },
+    {
         "name": "konsultf\u00c3\u00b6retag",
         "count": 5
     },
@@ -4524,7 +5340,19 @@
         "count": 5
     },
     {
+        "name": "realtidsoperativsystem",
+        "count": 5
+    },
+    {
+        "name": "digitaliseringsomr\u00c3\u00a5det",
+        "count": 5
+    },
+    {
         "name": "kvalitetsfr\u00c3\u00a5gor",
+        "count": 5
+    },
+    {
+        "name": "reverse engineering",
         "count": 5
     },
     {
@@ -4548,6 +5376,10 @@
         "count": 5
     },
     {
+        "name": "dspace",
+        "count": 5
+    },
+    {
         "name": "st\u00c3\u00b6dverktyg",
         "count": 5
     },
@@ -4557,6 +5389,10 @@
     },
     {
         "name": "kaffe",
+        "count": 5
+    },
+    {
+        "name": "retention",
         "count": 5
     },
     {
@@ -4573,6 +5409,10 @@
     },
     {
         "name": "aix",
+        "count": 5
+    },
+    {
+        "name": "dataintegration",
         "count": 5
     },
     {
@@ -4608,11 +5448,19 @@
         "count": 5
     },
     {
+        "name": "systemutvecklingsarbete",
+        "count": 5
+    },
+    {
         "name": "utbildningssektorn",
         "count": 5
     },
     {
         "name": "barn",
+        "count": 5
+    },
+    {
+        "name": "containrar",
         "count": 5
     },
     {
@@ -4656,7 +5504,19 @@
         "count": 5
     },
     {
+        "name": "reporting services",
+        "count": 5
+    },
+    {
+        "name": "device drivers",
+        "count": 5
+    },
+    {
         "name": "qgis",
+        "count": 5
+    },
+    {
+        "name": "visualiseringsverktyg",
         "count": 5
     },
     {
@@ -4673,6 +5533,10 @@
     },
     {
         "name": "fortnox",
+        "count": 5
+    },
+    {
+        "name": "designprinciper",
         "count": 5
     },
     {
@@ -4708,6 +5572,10 @@
         "count": 5
     },
     {
+        "name": "rock",
+        "count": 5
+    },
+    {
         "name": "prestandaoptimering",
         "count": 5
     },
@@ -4737,10 +5605,6 @@
     },
     {
         "name": "microsoft dynamics nav",
-        "count": 5
-    },
-    {
-        "name": "vr",
         "count": 5
     },
     {
@@ -4780,6 +5644,10 @@
         "count": 5
     },
     {
+        "name": "react js",
+        "count": 5
+    },
+    {
         "name": "upphandlingsarbete",
         "count": 5
     },
@@ -4801,6 +5669,10 @@
     },
     {
         "name": "mac-milj\u00c3\u00b6",
+        "count": 5
+    },
+    {
+        "name": "rutinbeskrivningar",
         "count": 5
     },
     {
@@ -4901,6 +5773,10 @@
     },
     {
         "name": "processtyrning",
+        "count": 5
+    },
+    {
+        "name": "radius",
         "count": 5
     },
     {
@@ -5012,11 +5888,23 @@
         "count": 5
     },
     {
+        "name": "dataprogram",
+        "count": 5
+    },
+    {
+        "name": "access control",
+        "count": 5
+    },
+    {
         "name": "behovsf\u00c3\u00a5ngst",
         "count": 5
     },
     {
         "name": "arkitekturstyrning",
+        "count": 5
+    },
+    {
+        "name": "digitaliseringsarbete",
         "count": 5
     },
     {
@@ -5068,6 +5956,10 @@
         "count": 5
     },
     {
+        "name": "chefserfarenhet",
+        "count": 5
+    },
+    {
         "name": "kravspecificering",
         "count": 5
     },
@@ -5096,6 +5988,10 @@
         "count": 5
     },
     {
+        "name": "videokonferensutrustning",
+        "count": 5
+    },
+    {
         "name": "audioutrustning",
         "count": 5
     },
@@ -5105,6 +6001,10 @@
     },
     {
         "name": "ssl",
+        "count": 5
+    },
+    {
+        "name": "drift\u00c3\u00b6vervakning",
         "count": 5
     },
     {
@@ -5121,6 +6021,10 @@
     },
     {
         "name": "n\u00c3\u00a4tverks\u00c3\u00b6vervakning",
+        "count": 5
+    },
+    {
+        "name": "bash-scripting",
         "count": 5
     },
     {
@@ -5180,6 +6084,18 @@
         "count": 5
     },
     {
+        "name": "programmeringsteknik",
+        "count": 5
+    },
+    {
+        "name": "visual design",
+        "count": 5
+    },
+    {
+        "name": "cybers\u00c3\u00a4kerhetsomr\u00c3\u00a5det",
+        "count": 5
+    },
+    {
         "name": "fysisk s\u00c3\u00a4kerhet",
         "count": 5
     },
@@ -5196,11 +6112,23 @@
         "count": 5
     },
     {
+        "name": "relational databases",
+        "count": 5
+    },
+    {
+        "name": "datacentern\u00c3\u00a4tverk",
+        "count": 5
+    },
+    {
         "name": "skisser",
         "count": 5
     },
     {
-        "name": "sem",
+        "name": "designverktyg",
+        "count": 5
+    },
+    {
+        "name": "cisa",
         "count": 5
     },
     {
@@ -5308,6 +6236,10 @@
         "count": 4
     },
     {
+        "name": "javascriptramverk",
+        "count": 4
+    },
+    {
         "name": "integrationsverktyg",
         "count": 4
     },
@@ -5360,6 +6292,10 @@
         "count": 4
     },
     {
+        "name": "oracle db",
+        "count": 4
+    },
+    {
         "name": "industribranschen",
         "count": 4
     },
@@ -5380,7 +6316,15 @@
         "count": 4
     },
     {
+        "name": "derivat",
+        "count": 4
+    },
+    {
         "name": "inh\u00c3\u00a4mtning",
+        "count": 4
+    },
+    {
+        "name": "citect",
         "count": 4
     },
     {
@@ -5392,6 +6336,10 @@
         "count": 4
     },
     {
+        "name": "radarsystem",
+        "count": 4
+    },
+    {
         "name": "arbetsgrupp",
         "count": 4
     },
@@ -5400,7 +6348,19 @@
         "count": 4
     },
     {
+        "name": "linuxadministration",
+        "count": 4
+    },
+    {
         "name": "bankomr\u00c3\u00a5det",
+        "count": 4
+    },
+    {
+        "name": "databasteknik",
+        "count": 4
+    },
+    {
+        "name": "dimensionering",
         "count": 4
     },
     {
@@ -5409,6 +6369,10 @@
     },
     {
         "name": "analysomr\u00c3\u00a5det",
+        "count": 4
+    },
+    {
+        "name": "dataomr\u00c3\u00a5det",
         "count": 4
     },
     {
@@ -5437,6 +6401,10 @@
     },
     {
         "name": "id\u00c3\u00a9generering",
+        "count": 4
+    },
+    {
+        "name": "redshift",
         "count": 4
     },
     {
@@ -5473,6 +6441,10 @@
     },
     {
         "name": "arp",
+        "count": 4
+    },
+    {
+        "name": "sql databases",
         "count": 4
     },
     {
@@ -5520,11 +6492,39 @@
         "count": 4
     },
     {
+        "name": "civilexamen",
+        "count": 4
+    },
+    {
+        "name": "dataspel",
+        "count": 4
+    },
+    {
         "name": "konsultverksamhet",
         "count": 4
     },
     {
+        "name": "elmarknad",
+        "count": 4
+    },
+    {
+        "name": "reparationsarbeten",
+        "count": 4
+    },
+    {
         "name": "supportfr\u00c3\u00a5gor",
+        "count": 4
+    },
+    {
+        "name": "videoutrustning",
+        "count": 4
+    },
+    {
+        "name": "redaktionellt arbete",
+        "count": 4
+    },
+    {
+        "name": "driftavdelning",
         "count": 4
     },
     {
@@ -5596,6 +6596,10 @@
         "count": 4
     },
     {
+        "name": "redigering",
+        "count": 4
+    },
+    {
         "name": "sam",
         "count": 4
     },
@@ -5624,11 +6628,23 @@
         "count": 4
     },
     {
+        "name": "databasmotor",
+        "count": 4
+    },
+    {
         "name": "projektuppdrag",
         "count": 4
     },
     {
         "name": "ip-n\u00c3\u00a4t",
+        "count": 4
+    },
+    {
+        "name": "visningar",
+        "count": 4
+    },
+    {
+        "name": "videokamera",
         "count": 4
     },
     {
@@ -5652,6 +6668,10 @@
         "count": 4
     },
     {
+        "name": "rondering",
+        "count": 4
+    },
+    {
         "name": "bildhantering",
         "count": 4
     },
@@ -5669,6 +6689,10 @@
     },
     {
         "name": "behandling",
+        "count": 4
+    },
+    {
+        "name": "cloudtj\u00c3\u00a4nster",
         "count": 4
     },
     {
@@ -5704,7 +6728,15 @@
         "count": 4
     },
     {
+        "name": "rotorsaksanalyser",
+        "count": 4
+    },
+    {
         "name": "utv\u00c3\u00a4rderingar",
+        "count": 4
+    },
+    {
+        "name": "dokumentationssystem",
         "count": 4
     },
     {
@@ -5725,6 +6757,14 @@
     },
     {
         "name": "teknikinformation",
+        "count": 4
+    },
+    {
+        "name": "diarief\u00c3\u00b6ring",
+        "count": 4
+    },
+    {
+        "name": "lantbruk",
         "count": 4
     },
     {
@@ -5776,6 +6816,10 @@
         "count": 4
     },
     {
+        "name": "revit",
+        "count": 4
+    },
+    {
         "name": "it-styrning",
         "count": 4
     },
@@ -5789,6 +6833,10 @@
     },
     {
         "name": "personuppgiftslagen",
+        "count": 4
+    },
+    {
+        "name": "datasamordning",
         "count": 4
     },
     {
@@ -5824,10 +6872,6 @@
         "count": 4
     },
     {
-        "name": "augmented reality",
-        "count": 4
-    },
-    {
         "name": "voip",
         "count": 4
     },
@@ -5837,6 +6881,10 @@
     },
     {
         "name": "parameters\u00c3\u00a4ttning",
+        "count": 4
+    },
+    {
+        "name": "vidareutvecklingsprojekt",
         "count": 4
     },
     {
@@ -5885,6 +6933,10 @@
     },
     {
         "name": "tyngre lyft",
+        "count": 4
+    },
+    {
+        "name": "managementsystem",
         "count": 4
     },
     {
@@ -5948,11 +7000,19 @@
         "count": 4
     },
     {
+        "name": "cisco ios",
+        "count": 4
+    },
+    {
         "name": "serverutrustning",
         "count": 4
     },
     {
         "name": "infrastrukturomr\u00c3\u00a5det",
+        "count": 4
+    },
+    {
+        "name": "ciscoprodukter",
         "count": 4
     },
     {
@@ -6000,11 +7060,27 @@
         "count": 4
     },
     {
+        "name": "radar",
+        "count": 4
+    },
+    {
         "name": "modellbaserad utveckling",
         "count": 4
     },
     {
+        "name": "cns",
+        "count": 4
+    },
+    {
+        "name": "reglersystem",
+        "count": 4
+    },
+    {
         "name": "hybridl\u00c3\u00b6sningar",
+        "count": 4
+    },
+    {
+        "name": "kravhanteringsverktyg",
         "count": 4
     },
     {
@@ -6040,7 +7116,15 @@
         "count": 4
     },
     {
+        "name": "datan\u00c3\u00a4t",
+        "count": 4
+    },
+    {
         "name": "netflow",
+        "count": 4
+    },
+    {
+        "name": "databasprodukter",
         "count": 4
     },
     {
@@ -6064,7 +7148,19 @@
         "count": 3
     },
     {
+        "name": "landing",
+        "count": 3
+    },
+    {
         "name": "formulas",
+        "count": 3
+    },
+    {
+        "name": "revidering",
+        "count": 3
+    },
+    {
+        "name": "datorspel",
         "count": 3
     },
     {
@@ -6077,6 +7173,14 @@
     },
     {
         "name": "wireshark",
+        "count": 3
+    },
+    {
+        "name": "definiering",
+        "count": 3
+    },
+    {
+        "name": "ce-m\u00c3\u00a4rkning",
         "count": 3
     },
     {
@@ -6192,11 +7296,19 @@
         "count": 3
     },
     {
+        "name": "cancer",
+        "count": 3
+    },
+    {
         "name": "gr\u00c3\u00a4nssnittsutveckling",
         "count": 3
     },
     {
         "name": "gulp",
+        "count": 3
+    },
+    {
+        "name": "ddd",
         "count": 3
     },
     {
@@ -6240,7 +7352,27 @@
         "count": 3
     },
     {
+        "name": "cms-l\u00c3\u00b6sningar",
+        "count": 3
+    },
+    {
+        "name": "rdbms",
+        "count": 3
+    },
+    {
+        "name": "rapportutveckling",
+        "count": 3
+    },
+    {
         "name": "nhibernate",
+        "count": 3
+    },
+    {
+        "name": "dapper",
+        "count": 3
+    },
+    {
+        "name": "digital elektronik",
         "count": 3
     },
     {
@@ -6260,7 +7392,15 @@
         "count": 3
     },
     {
+        "name": "oracle pl",
+        "count": 3
+    },
+    {
         "name": "gruvindustrin",
+        "count": 3
+    },
+    {
+        "name": "rapporteringsverktyg",
         "count": 3
     },
     {
@@ -6273,6 +7413,14 @@
     },
     {
         "name": "korrigeringar",
+        "count": 3
+    },
+    {
+        "name": "drivrutinshantering",
+        "count": 3
+    },
+    {
+        "name": "razor",
         "count": 3
     },
     {
@@ -6316,6 +7464,10 @@
         "count": 3
     },
     {
+        "name": "datorh\u00c3\u00a5rdvara",
+        "count": 3
+    },
+    {
         "name": "mom",
         "count": 3
     },
@@ -6325,6 +7477,10 @@
     },
     {
         "name": "planeringsverktyg",
+        "count": 3
+    },
+    {
+        "name": "systemutvecklingsomr\u00c3\u00a5det",
         "count": 3
     },
     {
@@ -6344,11 +7500,19 @@
         "count": 3
     },
     {
+        "name": "rendering",
+        "count": 3
+    },
+    {
         "name": "websockets",
         "count": 3
     },
     {
         "name": "utbyggnad",
+        "count": 3
+    },
+    {
+        "name": "ritningsl\u00c3\u00a4sning",
         "count": 3
     },
     {
@@ -6408,6 +7572,10 @@
         "count": 3
     },
     {
+        "name": "cloud computing",
+        "count": 3
+    },
+    {
         "name": "patching",
         "count": 3
     },
@@ -6437,6 +7605,10 @@
     },
     {
         "name": "s\u00c3\u00a4kerhetsverktyg",
+        "count": 3
+    },
+    {
+        "name": "visionsystem",
         "count": 3
     },
     {
@@ -6472,6 +7644,14 @@
         "count": 3
     },
     {
+        "name": "sql-script",
+        "count": 3
+    },
+    {
+        "name": "dokumentationsverktyg",
+        "count": 3
+    },
+    {
         "name": "webbyr\u00c3\u00a5",
         "count": 3
     },
@@ -6481,10 +7661,6 @@
     },
     {
         "name": "funktionsomr\u00c3\u00a5den",
-        "count": 3
-    },
-    {
-        "name": "tcl",
         "count": 3
     },
     {
@@ -6568,11 +7744,31 @@
         "count": 3
     },
     {
+        "name": "datorst\u00c3\u00b6d",
+        "count": 3
+    },
+    {
+        "name": "cnc",
+        "count": 3
+    },
+    {
+        "name": "cad-program",
+        "count": 3
+    },
+    {
         "name": "betalsystem",
         "count": 3
     },
     {
         "name": "samh\u00c3\u00a4llsplanering",
+        "count": 3
+    },
+    {
+        "name": "driftinformation",
+        "count": 3
+    },
+    {
+        "name": "vindkraftsbranschen",
         "count": 3
     },
     {
@@ -6601,6 +7797,14 @@
     },
     {
         "name": "str\u00c3\u00b6mf\u00c3\u00b6rs\u00c3\u00b6rjning",
+        "count": 3
+    },
+    {
+        "name": "regi",
+        "count": 3
+    },
+    {
+        "name": "videoredigering",
         "count": 3
     },
     {
@@ -6644,6 +7848,10 @@
         "count": 3
     },
     {
+        "name": "clustering",
+        "count": 3
+    },
+    {
         "name": "v\u00c3\u00a4rme",
         "count": 3
     },
@@ -6657,6 +7865,10 @@
     },
     {
         "name": "tillg\u00c3\u00a5ngsf\u00c3\u00b6rvaltning",
+        "count": 3
+    },
+    {
+        "name": "resursf\u00c3\u00b6rdelning",
         "count": 3
     },
     {
@@ -6676,7 +7888,19 @@
         "count": 3
     },
     {
+        "name": "projektledningsmetodik",
+        "count": 3
+    },
+    {
         "name": "elkraftteknik",
+        "count": 3
+    },
+    {
+        "name": "resursallokering",
+        "count": 3
+    },
+    {
+        "name": "digitaliseringsutvecklingsprojekt",
         "count": 3
     },
     {
@@ -6736,6 +7960,10 @@
         "count": 3
     },
     {
+        "name": "driftavtal",
+        "count": 3
+    },
+    {
         "name": "fastighetssystem",
         "count": 3
     },
@@ -6792,6 +8020,10 @@
         "count": 3
     },
     {
+        "name": "customer journey",
+        "count": 3
+    },
+    {
         "name": "marknadsavdelning",
         "count": 3
     },
@@ -6816,6 +8048,10 @@
         "count": 3
     },
     {
+        "name": "r\u00c3\u00b6ntgen",
+        "count": 3
+    },
+    {
         "name": "microstation",
         "count": 3
     },
@@ -6825,6 +8061,10 @@
     },
     {
         "name": "stabsarbete",
+        "count": 3
+    },
+    {
+        "name": "rel\u00c3\u00a4skydd",
         "count": 3
     },
     {
@@ -6864,6 +8104,10 @@
         "count": 3
     },
     {
+        "name": "responsive design",
+        "count": 3
+    },
+    {
         "name": "webgl",
         "count": 3
     },
@@ -6888,6 +8132,10 @@
         "count": 3
     },
     {
+        "name": "cam",
+        "count": 3
+    },
+    {
         "name": "f\u00c3\u00b6r\u00c3\u00a4ndringsuppdrag",
         "count": 3
     },
@@ -6901,6 +8149,10 @@
     },
     {
         "name": "marknadsanalys",
+        "count": 3
+    },
+    {
+        "name": "cognos",
         "count": 3
     },
     {
@@ -6928,6 +8180,14 @@
         "count": 3
     },
     {
+        "name": "datacenterl\u00c3\u00b6sningar",
+        "count": 3
+    },
+    {
+        "name": "cisco ucs",
+        "count": 3
+    },
+    {
         "name": "investment",
         "count": 3
     },
@@ -6941,6 +8201,10 @@
     },
     {
         "name": "skrivarl\u00c3\u00b6sningar",
+        "count": 3
+    },
+    {
+        "name": "videosystem",
         "count": 3
     },
     {
@@ -6968,11 +8232,19 @@
         "count": 3
     },
     {
+        "name": "changehantering",
+        "count": 3
+    },
+    {
         "name": "applikations\u00c3\u00b6vervakning",
         "count": 3
     },
     {
         "name": "exadata",
+        "count": 3
+    },
+    {
+        "name": "databasmilj\u00c3\u00b6er",
         "count": 3
     },
     {
@@ -7004,6 +8276,10 @@
         "count": 3
     },
     {
+        "name": "connector",
+        "count": 3
+    },
+    {
         "name": "tuning",
         "count": 3
     },
@@ -7021,6 +8297,10 @@
     },
     {
         "name": "processystem",
+        "count": 3
+    },
+    {
+        "name": "ramavtal",
         "count": 3
     },
     {
@@ -7084,6 +8364,10 @@
         "count": 3
     },
     {
+        "name": "dataskyddslagstiftning",
+        "count": 3
+    },
+    {
         "name": "t\u00c3\u00a5gbranschen",
         "count": 3
     },
@@ -7092,11 +8376,19 @@
         "count": 3
     },
     {
+        "name": "rdf",
+        "count": 3
+    },
+    {
         "name": "spelmotor",
         "count": 3
     },
     {
         "name": "emulator",
+        "count": 3
+    },
+    {
+        "name": "dataingenj\u00c3\u00b6rsutbildning",
         "count": 3
     },
     {
@@ -7156,6 +8448,10 @@
         "count": 3
     },
     {
+        "name": "nosql-databaser",
+        "count": 3
+    },
+    {
         "name": "sakfr\u00c3\u00a5gor",
         "count": 3
     },
@@ -7205,6 +8501,10 @@
     },
     {
         "name": "processtyrsystem",
+        "count": 3
+    },
+    {
+        "name": "designfr\u00c3\u00a5gor",
         "count": 3
     },
     {
@@ -7268,6 +8568,10 @@
         "count": 3
     },
     {
+        "name": "dnssec",
+        "count": 3
+    },
+    {
         "name": "branschkunskap",
         "count": 3
     },
@@ -7284,7 +8588,15 @@
         "count": 3
     },
     {
+        "name": "designarbete",
+        "count": 3
+    },
+    {
         "name": "a/b testing",
+        "count": 3
+    },
+    {
+        "name": "copywriting",
         "count": 3
     },
     {
@@ -7317,6 +8629,10 @@
     },
     {
         "name": "arkitekturbeskrivningar",
+        "count": 3
+    },
+    {
+        "name": "nodes",
         "count": 3
     },
     {
@@ -7360,7 +8676,19 @@
         "count": 3
     },
     {
+        "name": "data guard",
+        "count": 3
+    },
+    {
         "name": "iptables",
+        "count": 3
+    },
+    {
+        "name": "ccnp routing",
+        "count": 3
+    },
+    {
+        "name": "cisco certified",
         "count": 3
     },
     {
@@ -7377,6 +8705,10 @@
     },
     {
         "name": "film",
+        "count": 3
+    },
+    {
+        "name": "cubes",
         "count": 3
     },
     {
@@ -7420,11 +8752,11 @@
         "count": 2
     },
     {
-        "name": "exploratory testing",
+        "name": "browserstack",
         "count": 2
     },
     {
-        "name": "browserstack",
+        "name": "ranorex",
         "count": 2
     },
     {
@@ -7441,6 +8773,10 @@
     },
     {
         "name": "logstash",
+        "count": 2
+    },
+    {
+        "name": "redhat enterprise",
         "count": 2
     },
     {
@@ -7560,6 +8896,10 @@
         "count": 2
     },
     {
+        "name": "regression",
+        "count": 2
+    },
+    {
         "name": "flexray",
         "count": 2
     },
@@ -7581,6 +8921,10 @@
     },
     {
         "name": "taxametrar",
+        "count": 2
+    },
+    {
+        "name": "designspecifikationer",
         "count": 2
     },
     {
@@ -7620,6 +8964,10 @@
         "count": 2
     },
     {
+        "name": "rabbit mq",
+        "count": 2
+    },
+    {
         "name": "l\u00c3\u00a4romedel",
         "count": 2
     },
@@ -7636,11 +8984,19 @@
         "count": 2
     },
     {
+        "name": "rapportverktyg",
+        "count": 2
+    },
+    {
         "name": "pdm-system",
         "count": 2
     },
     {
         "name": "abaqus",
+        "count": 2
+    },
+    {
+        "name": "dokumenthanteringsl\u00c3\u00b6sningar",
         "count": 2
     },
     {
@@ -7668,6 +9024,10 @@
         "count": 2
     },
     {
+        "name": "databass\u00c3\u00b6kningar",
+        "count": 2
+    },
+    {
         "name": "transaktionsl\u00c3\u00b6sningar",
         "count": 2
     },
@@ -7676,11 +9036,11 @@
         "count": 2
     },
     {
-        "name": "terminering",
+        "name": "robotl\u00c3\u00b6sningar",
         "count": 2
     },
     {
-        "name": "aem",
+        "name": "terminering",
         "count": 2
     },
     {
@@ -7700,7 +9060,15 @@
         "count": 2
     },
     {
+        "name": "nosql databases",
+        "count": 2
+    },
+    {
         "name": "ifix",
+        "count": 2
+    },
+    {
+        "name": "source control",
         "count": 2
     },
     {
@@ -7729,6 +9097,18 @@
     },
     {
         "name": "backendsystem",
+        "count": 2
+    },
+    {
+        "name": "episerver cms",
+        "count": 2
+    },
+    {
+        "name": "episerver commerce",
+        "count": 2
+    },
+    {
+        "name": "curling",
         "count": 2
     },
     {
@@ -7769,6 +9149,10 @@
     },
     {
         "name": "exploitutveckling",
+        "count": 2
+    },
+    {
+        "name": "videoprodukter",
         "count": 2
     },
     {
@@ -7836,7 +9220,15 @@
         "count": 2
     },
     {
+        "name": "digitala medier",
+        "count": 2
+    },
+    {
         "name": "simatic",
+        "count": 2
+    },
+    {
+        "name": "rac",
         "count": 2
     },
     {
@@ -7896,6 +9288,10 @@
         "count": 2
     },
     {
+        "name": "responsiv webbdesign",
+        "count": 2
+    },
+    {
         "name": "sdlc",
         "count": 2
     },
@@ -7928,6 +9324,10 @@
         "count": 2
     },
     {
+        "name": "datorn\u00c3\u00a4tverk",
+        "count": 2
+    },
+    {
         "name": "underr\u00c3\u00a4ttelseverksamhet",
         "count": 2
     },
@@ -7949,6 +9349,10 @@
     },
     {
         "name": "sj\u00c3\u00a4lvbetj\u00c3\u00a4ningssystem",
+        "count": 2
+    },
+    {
+        "name": "datapower",
         "count": 2
     },
     {
@@ -8028,6 +9432,10 @@
         "count": 2
     },
     {
+        "name": "css-ramverk",
+        "count": 2
+    },
+    {
         "name": "integrationsprojekt",
         "count": 2
     },
@@ -8064,6 +9472,10 @@
         "count": 2
     },
     {
+        "name": "dom\u00c3\u00a4nmodellering",
+        "count": 2
+    },
+    {
         "name": "optik",
         "count": 2
     },
@@ -8085,6 +9497,10 @@
     },
     {
         "name": "s\u00c3\u00a4ljorganisation",
+        "count": 2
+    },
+    {
+        "name": "rma-hantering",
         "count": 2
     },
     {
@@ -8120,7 +9536,19 @@
         "count": 2
     },
     {
+        "name": "resebranschen",
+        "count": 2
+    },
+    {
+        "name": "resebyr\u00c3\u00a5erfarenhet",
+        "count": 2
+    },
+    {
         "name": "gds",
+        "count": 2
+    },
+    {
+        "name": "remoteverktyg",
         "count": 2
     },
     {
@@ -8128,11 +9556,23 @@
         "count": 2
     },
     {
+        "name": "datasupport",
+        "count": 2
+    },
+    {
         "name": "skatt",
         "count": 2
     },
     {
+        "name": "diagnostisering",
+        "count": 2
+    },
+    {
         "name": "kylbranschen",
+        "count": 2
+    },
+    {
+        "name": "videokonferensl\u00c3\u00b6sningar",
         "count": 2
     },
     {
@@ -8181,6 +9621,10 @@
     },
     {
         "name": "ticketing",
+        "count": 2
+    },
+    {
+        "name": "dataadministration",
         "count": 2
     },
     {
@@ -8284,6 +9728,10 @@
         "count": 2
     },
     {
+        "name": "client/server",
+        "count": 2
+    },
+    {
         "name": "utleveranser",
         "count": 2
     },
@@ -8312,6 +9760,10 @@
         "count": 2
     },
     {
+        "name": "restaurang",
+        "count": 2
+    },
+    {
         "name": "n\u00c3\u00a4tverkssupport",
         "count": 2
     },
@@ -8336,6 +9788,10 @@
         "count": 2
     },
     {
+        "name": "cad-verktyg",
+        "count": 2
+    },
+    {
         "name": "s\u00c3\u00a4kerhetsbed\u00c3\u00b6mningar",
         "count": 2
     },
@@ -8353,6 +9809,14 @@
     },
     {
         "name": "industrimilj\u00c3\u00b6",
+        "count": 2
+    },
+    {
+        "name": "rimlighetsbed\u00c3\u00b6mningar",
+        "count": 2
+    },
+    {
+        "name": "cisco asa",
         "count": 2
     },
     {
@@ -8388,6 +9852,10 @@
         "count": 2
     },
     {
+        "name": "csv",
+        "count": 2
+    },
+    {
         "name": "l\u00c3\u00b6pande bokf\u00c3\u00b6ring",
         "count": 2
     },
@@ -8408,6 +9876,10 @@
         "count": 2
     },
     {
+        "name": "datautbildning",
+        "count": 2
+    },
+    {
         "name": "telefonifr\u00c3\u00a5gor",
         "count": 2
     },
@@ -8417,6 +9889,14 @@
     },
     {
         "name": "tj\u00c3\u00a4nstehantering",
+        "count": 2
+    },
+    {
+        "name": "detaljplaner",
+        "count": 2
+    },
+    {
+        "name": "cad-system",
         "count": 2
     },
     {
@@ -8440,6 +9920,10 @@
         "count": 2
     },
     {
+        "name": "reservdelsbest\u00c3\u00a4llningar",
+        "count": 2
+    },
+    {
         "name": "ordrar",
         "count": 2
     },
@@ -8448,7 +9932,15 @@
         "count": 2
     },
     {
+        "name": "ryska",
+        "count": 2
+    },
+    {
         "name": "fastighetsinformation",
+        "count": 2
+    },
+    {
+        "name": "videokonferens",
         "count": 2
     },
     {
@@ -8628,7 +10120,15 @@
         "count": 2
     },
     {
+        "name": "resurshantering",
+        "count": 2
+    },
+    {
         "name": "aff\u00c3\u00a4rsprojekt",
+        "count": 2
+    },
+    {
+        "name": "rapportskrivning",
         "count": 2
     },
     {
@@ -8648,6 +10148,10 @@
         "count": 2
     },
     {
+        "name": "cobit",
+        "count": 2
+    },
+    {
         "name": "brottsf\u00c3\u00b6rebyggande verksamhet",
         "count": 2
     },
@@ -8664,6 +10168,10 @@
         "count": 2
     },
     {
+        "name": "reservofficersutbildning",
+        "count": 2
+    },
+    {
         "name": "slutdokumentation",
         "count": 2
     },
@@ -8672,7 +10180,19 @@
         "count": 2
     },
     {
+        "name": "reception",
+        "count": 2
+    },
+    {
         "name": "beslutsst\u00c3\u00b6dssystem",
+        "count": 2
+    },
+    {
+        "name": "delprojektledning",
+        "count": 2
+    },
+    {
+        "name": "retailbranschen",
         "count": 2
     },
     {
@@ -8685,6 +10205,14 @@
     },
     {
         "name": "projektverksamhet",
+        "count": 2
+    },
+    {
+        "name": "rapporteringsl\u00c3\u00b6sningar",
+        "count": 2
+    },
+    {
+        "name": "designf\u00c3\u00b6r\u00c3\u00a4ndringar",
         "count": 2
     },
     {
@@ -8716,7 +10244,15 @@
         "count": 2
     },
     {
+        "name": "driftstruktur",
+        "count": 2
+    },
+    {
         "name": "verksamhetsl\u00c3\u00b6sningar",
+        "count": 2
+    },
+    {
+        "name": "catia v5",
         "count": 2
     },
     {
@@ -8748,6 +10284,10 @@
         "count": 2
     },
     {
+        "name": "webbutvecklingsprojekt",
+        "count": 2
+    },
+    {
         "name": "microsoft bi",
         "count": 2
     },
@@ -8756,7 +10296,15 @@
         "count": 2
     },
     {
+        "name": "cadritning",
+        "count": 2
+    },
+    {
         "name": "installationssystem",
+        "count": 2
+    },
+    {
+        "name": "datakomtj\u00c3\u00a4nster",
         "count": 2
     },
     {
@@ -8765,6 +10313,10 @@
     },
     {
         "name": "fortbildning",
+        "count": 2
+    },
+    {
+        "name": "redovisningssystem",
         "count": 2
     },
     {
@@ -8809,6 +10361,14 @@
     },
     {
         "name": "bildbearbetning",
+        "count": 2
+    },
+    {
+        "name": "relationshandlingar",
+        "count": 2
+    },
+    {
+        "name": "ritningsunderlag",
         "count": 2
     },
     {
@@ -8904,7 +10464,23 @@
         "count": 2
     },
     {
+        "name": "dwdm",
+        "count": 2
+    },
+    {
+        "name": "ddos",
+        "count": 2
+    },
+    {
+        "name": "cwdm",
+        "count": 2
+    },
+    {
         "name": "lag\u00c3\u00a4ndringar",
+        "count": 2
+    },
+    {
+        "name": "redovisningsfr\u00c3\u00a5gor",
         "count": 2
     },
     {
@@ -8925,6 +10501,10 @@
     },
     {
         "name": "f\u00c3\u00b6rvaltningsprogrammet",
+        "count": 2
+    },
+    {
+        "name": "dynamics crm",
         "count": 2
     },
     {
@@ -9012,6 +10592,10 @@
         "count": 2
     },
     {
+        "name": "rapportdesign",
+        "count": 2
+    },
+    {
         "name": "livscykelanalys",
         "count": 2
     },
@@ -9032,7 +10616,15 @@
         "count": 2
     },
     {
+        "name": "rekryteringsarbete",
+        "count": 2
+    },
+    {
         "name": "truckkort",
+        "count": 2
+    },
+    {
+        "name": "routingteknik",
         "count": 2
     },
     {
@@ -9057,6 +10649,14 @@
     },
     {
         "name": "problemutredningar",
+        "count": 2
+    },
+    {
+        "name": "rivning",
+        "count": 2
+    },
+    {
+        "name": "replikering",
         "count": 2
     },
     {
@@ -9120,10 +10720,6 @@
         "count": 2
     },
     {
-        "name": "microsoft certified system engineer",
-        "count": 2
-    },
-    {
         "name": "mcsa",
         "count": 2
     },
@@ -9133,6 +10729,10 @@
     },
     {
         "name": "va-omr\u00c3\u00a5det",
+        "count": 2
+    },
+    {
+        "name": "databasdrift",
         "count": 2
     },
     {
@@ -9276,7 +10876,15 @@
         "count": 2
     },
     {
+        "name": "databearbetning",
+        "count": 2
+    },
+    {
         "name": "bilddiagnostik",
+        "count": 2
+    },
+    {
+        "name": "databassystem",
         "count": 2
     },
     {
@@ -9384,11 +10992,19 @@
         "count": 2
     },
     {
+        "name": "country",
+        "count": 2
+    },
+    {
         "name": "partitionering",
         "count": 2
     },
     {
         "name": "sw-utveckling",
+        "count": 2
+    },
+    {
+        "name": "videoanalys",
         "count": 2
     },
     {
@@ -9405,6 +11021,10 @@
     },
     {
         "name": "mobilapplikationsutveckling",
+        "count": 2
+    },
+    {
+        "name": "databaskopplingar",
         "count": 2
     },
     {
@@ -9428,7 +11048,15 @@
         "count": 2
     },
     {
+        "name": "delmia",
+        "count": 2
+    },
+    {
         "name": "far",
+        "count": 2
+    },
+    {
+        "name": "cocoa",
         "count": 2
     },
     {
@@ -9436,11 +11064,15 @@
         "count": 2
     },
     {
-        "name": "https",
+        "name": "distributed computing",
         "count": 2
     },
     {
         "name": "targetlink",
+        "count": 2
+    },
+    {
+        "name": "realtids-os",
         "count": 2
     },
     {
@@ -9508,6 +11140,10 @@
         "count": 2
     },
     {
+        "name": "drivsystem",
+        "count": 2
+    },
+    {
         "name": "edtech",
         "count": 2
     },
@@ -9521,6 +11157,10 @@
     },
     {
         "name": "statistikanalys",
+        "count": 2
+    },
+    {
+        "name": "registerh\u00c3\u00a5llning",
         "count": 2
     },
     {
@@ -9552,6 +11192,10 @@
         "count": 2
     },
     {
+        "name": "cisco certifiering",
+        "count": 2
+    },
+    {
         "name": "utbildningsf\u00c3\u00b6rvaltningen",
         "count": 2
     },
@@ -9572,7 +11216,19 @@
         "count": 2
     },
     {
+        "name": "dokumentsystem",
+        "count": 2
+    },
+    {
         "name": "organisationsdata",
+        "count": 2
+    },
+    {
+        "name": "canvas",
+        "count": 2
+    },
+    {
+        "name": "redovisningsprocesser",
         "count": 2
     },
     {
@@ -9600,7 +11256,15 @@
         "count": 2
     },
     {
+        "name": "driftledning",
+        "count": 2
+    },
+    {
         "name": "forskarutbildning",
+        "count": 2
+    },
+    {
+        "name": "drifts\u00c3\u00a4kerhet",
         "count": 2
     },
     {
@@ -9620,11 +11284,23 @@
         "count": 2
     },
     {
+        "name": "realtid",
+        "count": 2
+    },
+    {
         "name": "arkivfr\u00c3\u00a5gor",
         "count": 2
     },
     {
+        "name": "cisco switchar",
+        "count": 2
+    },
+    {
         "name": "infrastrukturarkitektur",
+        "count": 2
+    },
+    {
+        "name": "resteasy",
         "count": 2
     },
     {
@@ -9656,11 +11332,19 @@
         "count": 2
     },
     {
+        "name": "virtualiseringsteknik",
+        "count": 2
+    },
+    {
         "name": "finansiell rapportering",
         "count": 2
     },
     {
         "name": "uppf\u00c3\u00b6ljningsarbete",
+        "count": 2
+    },
+    {
+        "name": "datan\u00c3\u00a4tverk",
         "count": 2
     },
     {
@@ -9716,6 +11400,10 @@
         "count": 2
     },
     {
+        "name": "racf",
+        "count": 2
+    },
+    {
         "name": "hybridteknik",
         "count": 2
     },
@@ -9760,11 +11448,11 @@
         "count": 2
     },
     {
-        "name": "internet of things",
+        "name": "switchade n\u00c3\u00a4t",
         "count": 2
     },
     {
-        "name": "switchade n\u00c3\u00a4t",
+        "name": "distributionsverktyg",
         "count": 2
     },
     {
@@ -9828,6 +11516,14 @@
         "count": 2
     },
     {
+        "name": "windows-servermilj\u00c3\u00b6er",
+        "count": 2
+    },
+    {
+        "name": "linuxprodukter",
+        "count": 2
+    },
+    {
         "name": "egenkontroll",
         "count": 2
     },
@@ -9876,6 +11572,14 @@
         "count": 2
     },
     {
+        "name": "dataskyddsarbete",
+        "count": 2
+    },
+    {
+        "name": "csf",
+        "count": 2
+    },
+    {
         "name": "wmi",
         "count": 2
     },
@@ -9916,7 +11620,23 @@
         "count": 2
     },
     {
+        "name": "datan\u00c3\u00a4tstj\u00c3\u00a4nster",
+        "count": 2
+    },
+    {
         "name": "teknikutbildning",
+        "count": 2
+    },
+    {
+        "name": "r\u00c3\u00a4ttsgenetik",
+        "count": 2
+    },
+    {
+        "name": "reflektion",
+        "count": 2
+    },
+    {
+        "name": "r\u00c3\u00a4ttskemi",
         "count": 2
     },
     {
@@ -9929,6 +11649,10 @@
     },
     {
         "name": "gallring",
+        "count": 2
+    },
+    {
+        "name": "rman",
         "count": 2
     },
     {
@@ -9949,6 +11673,10 @@
     },
     {
         "name": "s\u00c3\u00a5rbarhetsscanningar",
+        "count": 2
+    },
+    {
+        "name": "detektion",
         "count": 2
     },
     {
@@ -9989,6 +11717,10 @@
     },
     {
         "name": "anv\u00c3\u00a4ndarresor",
+        "count": 2
+    },
+    {
+        "name": "debuggers",
         "count": 2
     },
     {
@@ -10064,6 +11796,10 @@
         "count": 1
     },
     {
+        "name": "designutformning",
+        "count": 1
+    },
+    {
         "name": "testdatahantering",
         "count": 1
     },
@@ -10080,6 +11816,10 @@
         "count": 1
     },
     {
+        "name": "datakommunikationsprotokoll",
+        "count": 1
+    },
+    {
         "name": "j\u00c3\u00a4rnv\u00c3\u00a4gssignalteknik",
         "count": 1
     },
@@ -10089,6 +11829,10 @@
     },
     {
         "name": "gr\u00c3\u00a4vmaskin",
+        "count": 1
+    },
+    {
+        "name": "cpus",
         "count": 1
     },
     {
@@ -10108,11 +11852,19 @@
         "count": 1
     },
     {
+        "name": "realtidsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "bugghantering",
         "count": 1
     },
     {
         "name": "testmjukvara",
+        "count": 1
+    },
+    {
+        "name": "dft",
         "count": 1
     },
     {
@@ -10172,6 +11924,10 @@
         "count": 1
     },
     {
+        "name": "systemutvecklingsmetoder",
+        "count": 1
+    },
+    {
         "name": "personbilar",
         "count": 1
     },
@@ -10180,11 +11936,19 @@
         "count": 1
     },
     {
+        "name": "datainsamlingssystem",
+        "count": 1
+    },
+    {
         "name": "medicinteknisk utrustning",
         "count": 1
     },
     {
         "name": "intervjuteknik",
+        "count": 1
+    },
+    {
+        "name": "diagnosverktyg",
         "count": 1
     },
     {
@@ -10220,6 +11984,10 @@
         "count": 1
     },
     {
+        "name": "oracle spatial",
+        "count": 1
+    },
+    {
         "name": "avioniksystem",
         "count": 1
     },
@@ -10248,6 +12016,10 @@
         "count": 1
     },
     {
+        "name": "dataingenj\u00c3\u00b6rsexamen",
+        "count": 1
+    },
+    {
         "name": "grafikhantering",
         "count": 1
     },
@@ -10257,6 +12029,10 @@
     },
     {
         "name": "motorstyrning",
+        "count": 1
+    },
+    {
+        "name": "dsp",
         "count": 1
     },
     {
@@ -10332,6 +12108,10 @@
         "count": 1
     },
     {
+        "name": "dators\u00c3\u00a4kerhet",
+        "count": 1
+    },
+    {
         "name": "grupputveckling",
         "count": 1
     },
@@ -10384,6 +12164,10 @@
         "count": 1
     },
     {
+        "name": "religion",
+        "count": 1
+    },
+    {
         "name": "sp\u00c3\u00a5rsystem",
         "count": 1
     },
@@ -10409,6 +12193,10 @@
     },
     {
         "name": "transact-sql",
+        "count": 1
+    },
+    {
+        "name": "windows-applikationer",
         "count": 1
     },
     {
@@ -10444,6 +12232,10 @@
         "count": 1
     },
     {
+        "name": "ios-applikationer",
+        "count": 1
+    },
+    {
         "name": "fordonsdiagnostik",
         "count": 1
     },
@@ -10476,6 +12268,10 @@
         "count": 1
     },
     {
+        "name": "r\u00c3\u00b6relseplanering",
+        "count": 1
+    },
+    {
         "name": "multiagentsystem",
         "count": 1
     },
@@ -10496,6 +12292,10 @@
         "count": 1
     },
     {
+        "name": "cloudformation",
+        "count": 1
+    },
+    {
         "name": "styrsystemskonstruktion",
         "count": 1
     },
@@ -10513,6 +12313,10 @@
     },
     {
         "name": "labdatasystem",
+        "count": 1
+    },
+    {
+        "name": "reservrutiner",
         "count": 1
     },
     {
@@ -10568,6 +12372,10 @@
         "count": 1
     },
     {
+        "name": "radiosignaler",
+        "count": 1
+    },
+    {
         "name": "biblioteksverksamhet",
         "count": 1
     },
@@ -10605,6 +12413,10 @@
     },
     {
         "name": "interaktionsteknik",
+        "count": 1
+    },
+    {
+        "name": "datorgrafik",
         "count": 1
     },
     {
@@ -10660,6 +12472,10 @@
         "count": 1
     },
     {
+        "name": "coda",
+        "count": 1
+    },
+    {
         "name": "postsystem",
         "count": 1
     },
@@ -10668,7 +12484,15 @@
         "count": 1
     },
     {
+        "name": "ddl",
+        "count": 1
+    },
+    {
         "name": "plattformsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
+        "name": "nosql database",
         "count": 1
     },
     {
@@ -10704,6 +12528,14 @@
         "count": 1
     },
     {
+        "name": "clearance",
+        "count": 1
+    },
+    {
+        "name": "carmenta",
+        "count": 1
+    },
+    {
         "name": "guld",
         "count": 1
     },
@@ -10712,7 +12544,19 @@
         "count": 1
     },
     {
+        "name": "designdokumentation",
+        "count": 1
+    },
+    {
+        "name": "masterdatahantering",
+        "count": 1
+    },
+    {
         "name": "vvs-teknik",
+        "count": 1
+    },
+    {
+        "name": "duc",
         "count": 1
     },
     {
@@ -10753,10 +12597,6 @@
     },
     {
         "name": "vlookup",
-        "count": 1
-    },
-    {
-        "name": "ocp",
         "count": 1
     },
     {
@@ -10808,6 +12648,10 @@
         "count": 1
     },
     {
+        "name": "cisco cucm",
+        "count": 1
+    },
+    {
         "name": "bilindustrin",
         "count": 1
     },
@@ -10844,6 +12688,10 @@
         "count": 1
     },
     {
+        "name": "windowsutveckling",
+        "count": 1
+    },
+    {
         "name": "vb6",
         "count": 1
     },
@@ -10853,6 +12701,18 @@
     },
     {
         "name": "l\u00c3\u00b6sningsf\u00c3\u00b6rs\u00c3\u00a4ljning",
+        "count": 1
+    },
+    {
+        "name": "ccms",
+        "count": 1
+    },
+    {
+        "name": "dita",
+        "count": 1
+    },
+    {
+        "name": "cdc",
         "count": 1
     },
     {
@@ -10892,6 +12752,22 @@
         "count": 1
     },
     {
+        "name": "directx",
+        "count": 1
+    },
+    {
+        "name": "linuxvana",
+        "count": 1
+    },
+    {
+        "name": "gitlab ci",
+        "count": 1
+    },
+    {
+        "name": "dataarkitektur",
+        "count": 1
+    },
+    {
         "name": "webbsystem",
         "count": 1
     },
@@ -10900,7 +12776,23 @@
         "count": 1
     },
     {
+        "name": "driftteknik",
+        "count": 1
+    },
+    {
+        "name": "javascript framework",
+        "count": 1
+    },
+    {
         "name": "formula",
+        "count": 1
+    },
+    {
+        "name": "cdp",
+        "count": 1
+    },
+    {
+        "name": "robotsystem",
         "count": 1
     },
     {
@@ -10932,6 +12824,10 @@
         "count": 1
     },
     {
+        "name": "robotteknik",
+        "count": 1
+    },
+    {
         "name": "byggteknik",
         "count": 1
     },
@@ -10948,7 +12844,19 @@
         "count": 1
     },
     {
+        "name": "datateknisk utbildning",
+        "count": 1
+    },
+    {
         "name": "hantverk",
+        "count": 1
+    },
+    {
+        "name": "retailsystem",
+        "count": 1
+    },
+    {
+        "name": "remisshantering",
         "count": 1
     },
     {
@@ -10992,6 +12900,10 @@
         "count": 1
     },
     {
+        "name": "video\u00c3\u00b6vervakning",
+        "count": 1
+    },
+    {
         "name": "konfigurationsfiler",
         "count": 1
     },
@@ -11020,6 +12932,10 @@
         "count": 1
     },
     {
+        "name": "ductus",
+        "count": 1
+    },
+    {
         "name": "l\u00c3\u00b6senordsfr\u00c3\u00a5gor",
         "count": 1
     },
@@ -11044,6 +12960,10 @@
         "count": 1
     },
     {
+        "name": "coreldraw",
+        "count": 1
+    },
+    {
         "name": "elutbildning",
         "count": 1
     },
@@ -11052,7 +12972,15 @@
         "count": 1
     },
     {
+        "name": "testning av h\u00c3\u00a5rdvara",
+        "count": 1
+    },
+    {
         "name": "serviceplanering",
+        "count": 1
+    },
+    {
+        "name": "restaurangbranschen",
         "count": 1
     },
     {
@@ -11132,7 +13060,15 @@
         "count": 1
     },
     {
+        "name": "videotj\u00c3\u00a4nster",
+        "count": 1
+    },
+    {
         "name": "telefonteknik",
+        "count": 1
+    },
+    {
+        "name": "replication",
         "count": 1
     },
     {
@@ -11148,6 +13084,10 @@
         "count": 1
     },
     {
+        "name": "videokonferensanl\u00c3\u00a4ggningar",
+        "count": 1
+    },
+    {
         "name": "leveranss\u00c3\u00a4kerhet",
         "count": 1
     },
@@ -11160,7 +13100,15 @@
         "count": 1
     },
     {
+        "name": "datortillbeh\u00c3\u00b6r",
+        "count": 1
+    },
+    {
         "name": "vardagsbruk",
+        "count": 1
+    },
+    {
+        "name": "delansvar",
         "count": 1
     },
     {
@@ -11180,7 +13128,15 @@
         "count": 1
     },
     {
+        "name": "cpanel",
+        "count": 1
+    },
+    {
         "name": "exchange-milj\u00c3\u00b6",
+        "count": 1
+    },
+    {
+        "name": "relaterade teknologier",
         "count": 1
     },
     {
@@ -11252,6 +13208,10 @@
         "count": 1
     },
     {
+        "name": "r\u00c3\u00a4ddningstj\u00c3\u00a4nst",
+        "count": 1
+    },
+    {
         "name": "aff\u00c3\u00a4rsst\u00c3\u00b6d",
         "count": 1
     },
@@ -11284,6 +13244,10 @@
         "count": 1
     },
     {
+        "name": "rutinarbete",
+        "count": 1
+    },
+    {
         "name": "pappersindustri",
         "count": 1
     },
@@ -11308,7 +13272,15 @@
         "count": 1
     },
     {
+        "name": "dect-telefoner",
+        "count": 1
+    },
+    {
         "name": "third line",
+        "count": 1
+    },
+    {
+        "name": "renovering",
         "count": 1
     },
     {
@@ -11356,6 +13328,10 @@
         "count": 1
     },
     {
+        "name": "ritprogram",
+        "count": 1
+    },
+    {
         "name": "byggnadskonstruktion",
         "count": 1
     },
@@ -11369,6 +13345,10 @@
     },
     {
         "name": "effektivitetsanalys",
+        "count": 1
+    },
+    {
+        "name": "reklamationer",
         "count": 1
     },
     {
@@ -11388,6 +13368,10 @@
         "count": 1
     },
     {
+        "name": "datoradministration",
+        "count": 1
+    },
+    {
         "name": "uppm\u00c3\u00a4rkning",
         "count": 1
     },
@@ -11396,7 +13380,15 @@
         "count": 1
     },
     {
+        "name": "datorutrustning",
+        "count": 1
+    },
+    {
         "name": "kundsupportsystem",
+        "count": 1
+    },
+    {
+        "name": "cms-verktyg",
         "count": 1
     },
     {
@@ -11432,11 +13424,23 @@
         "count": 1
     },
     {
+        "name": "r360",
+        "count": 1
+    },
+    {
+        "name": "ritningshantering",
+        "count": 1
+    },
+    {
         "name": "programpaketering",
         "count": 1
     },
     {
         "name": "kollektivtrafikbranschen",
+        "count": 1
+    },
+    {
+        "name": "rdp",
         "count": 1
     },
     {
@@ -11453,6 +13457,10 @@
     },
     {
         "name": "kundmottagning",
+        "count": 1
+    },
+    {
+        "name": "datorarbete",
         "count": 1
     },
     {
@@ -11477,6 +13485,10 @@
     },
     {
         "name": "tr\u00c3\u00a4dv\u00c3\u00a5rd",
+        "count": 1
+    },
+    {
+        "name": "landskapsarkitektur",
         "count": 1
     },
     {
@@ -11528,6 +13540,10 @@
         "count": 1
     },
     {
+        "name": "digital signage",
+        "count": 1
+    },
+    {
         "name": "presentationsvana",
         "count": 1
     },
@@ -11536,11 +13552,19 @@
         "count": 1
     },
     {
+        "name": "rumsfunktionsprogram",
+        "count": 1
+    },
+    {
         "name": "produktframtagning",
         "count": 1
     },
     {
         "name": "kundreskontra",
+        "count": 1
+    },
+    {
+        "name": "driftst\u00c3\u00b6dsystem",
         "count": 1
     },
     {
@@ -11625,6 +13649,10 @@
     },
     {
         "name": "projektutveckling",
+        "count": 1
+    },
+    {
+        "name": "resursstyrning",
         "count": 1
     },
     {
@@ -11748,6 +13776,10 @@
         "count": 1
     },
     {
+        "name": "cmmi",
+        "count": 1
+    },
+    {
         "name": "j\u00c3\u00a4rnv\u00c3\u00a4gsindustrin",
         "count": 1
     },
@@ -11796,6 +13828,10 @@
         "count": 1
     },
     {
+        "name": "dagligvaruhandel",
+        "count": 1
+    },
+    {
         "name": "l\u00c3\u00b6nesamtal",
         "count": 1
     },
@@ -11804,11 +13840,19 @@
         "count": 1
     },
     {
+        "name": "driftprocesser",
+        "count": 1
+    },
+    {
         "name": "grossistbranschen",
         "count": 1
     },
     {
         "name": "process\u00c3\u00b6vervakningssystem",
+        "count": 1
+    },
+    {
+        "name": "man\u00c3\u00b6versystem",
         "count": 1
     },
     {
@@ -11833,6 +13877,10 @@
     },
     {
         "name": "projektstyrningsmodellen pejl",
+        "count": 1
+    },
+    {
+        "name": "digital byr\u00c3\u00a5",
         "count": 1
     },
     {
@@ -11864,11 +13912,19 @@
         "count": 1
     },
     {
+        "name": "rehabilitering",
+        "count": 1
+    },
+    {
         "name": "missbruk",
         "count": 1
     },
     {
         "name": "habilitering",
+        "count": 1
+    },
+    {
+        "name": "projektledningsuppdrag",
         "count": 1
     },
     {
@@ -11880,7 +13936,15 @@
         "count": 1
     },
     {
+        "name": "datorvetenskap",
+        "count": 1
+    },
+    {
         "name": "pilotprojekt",
+        "count": 1
+    },
+    {
+        "name": "dokumentdelning",
         "count": 1
     },
     {
@@ -11893,6 +13957,10 @@
     },
     {
         "name": "bemanningsplaneringssystem",
+        "count": 1
+    },
+    {
+        "name": "projektledningssystem",
         "count": 1
     },
     {
@@ -11924,6 +13992,10 @@
         "count": 1
     },
     {
+        "name": "god fysik",
+        "count": 1
+    },
+    {
         "name": "ambulanstransporter",
         "count": 1
     },
@@ -11933,6 +14005,10 @@
     },
     {
         "name": "ekonomiuppf\u00c3\u00b6ljning",
+        "count": 1
+    },
+    {
+        "name": "programmeringsmetodik",
         "count": 1
     },
     {
@@ -12048,6 +14124,10 @@
         "count": 1
     },
     {
+        "name": "projektledningsverktyg",
+        "count": 1
+    },
+    {
         "name": "tidshantering",
         "count": 1
     },
@@ -12060,7 +14140,15 @@
         "count": 1
     },
     {
+        "name": "datamigrering",
+        "count": 1
+    },
+    {
         "name": "inbrottssystem",
+        "count": 1
+    },
+    {
+        "name": "deltagarhantering",
         "count": 1
     },
     {
@@ -12069,6 +14157,10 @@
     },
     {
         "name": "forskningsutrustning",
+        "count": 1
+    },
+    {
+        "name": "rna",
         "count": 1
     },
     {
@@ -12141,6 +14233,10 @@
     },
     {
         "name": "it-samordning",
+        "count": 1
+    },
+    {
+        "name": "driftprojekt",
         "count": 1
     },
     {
@@ -12236,6 +14332,10 @@
         "count": 1
     },
     {
+        "name": "callguide",
+        "count": 1
+    },
+    {
         "name": "h\u00c3\u00a5llbarhetsarbete",
         "count": 1
     },
@@ -12248,6 +14348,10 @@
         "count": 1
     },
     {
+        "name": "dom\u00c3\u00a4nhantering",
+        "count": 1
+    },
+    {
         "name": "telefonisamordning",
         "count": 1
     },
@@ -12256,11 +14360,19 @@
         "count": 1
     },
     {
+        "name": "compartment",
+        "count": 1
+    },
+    {
         "name": "eagle",
         "count": 1
     },
     {
         "name": "m\u00c3\u00b6nsterkort",
+        "count": 1
+    },
+    {
+        "name": "cadence allegro",
         "count": 1
     },
     {
@@ -12296,6 +14408,10 @@
         "count": 1
     },
     {
+        "name": "dom\u00c3\u00a4nkompetens",
+        "count": 1
+    },
+    {
         "name": "breddkompetens",
         "count": 1
     },
@@ -12305,6 +14421,10 @@
     },
     {
         "name": "nyckelhantering",
+        "count": 1
+    },
+    {
+        "name": "civilekonomexamen",
         "count": 1
     },
     {
@@ -12324,7 +14444,15 @@
         "count": 1
     },
     {
+        "name": "accesshantering",
+        "count": 1
+    },
+    {
         "name": "f\u00c3\u00b6rs\u00c3\u00a4krings\u00c3\u00a4renden",
+        "count": 1
+    },
+    {
+        "name": "dokumentf\u00c3\u00b6rvaring",
         "count": 1
     },
     {
@@ -12345,6 +14473,10 @@
     },
     {
         "name": "n\u00c3\u00a4treglering",
+        "count": 1
+    },
+    {
+        "name": "driftl\u00c3\u00b6sningar",
         "count": 1
     },
     {
@@ -12400,6 +14532,10 @@
         "count": 1
     },
     {
+        "name": "reparationsinstruktioner",
+        "count": 1
+    },
+    {
         "name": "kostnadshantering",
         "count": 1
     },
@@ -12420,6 +14556,14 @@
         "count": 1
     },
     {
+        "name": "resultatorientering",
+        "count": 1
+    },
+    {
+        "name": "repeatersystem",
+        "count": 1
+    },
+    {
         "name": "mikrov\u00c3\u00a5gskonstruktion",
         "count": 1
     },
@@ -12436,11 +14580,19 @@
         "count": 1
     },
     {
+        "name": "datamaterial",
+        "count": 1
+    },
+    {
         "name": "vokabul\u00c3\u00a4rer",
         "count": 1
     },
     {
         "name": "forskningsst\u00c3\u00b6d",
+        "count": 1
+    },
+    {
+        "name": "delning",
         "count": 1
     },
     {
@@ -12464,6 +14616,10 @@
         "count": 1
     },
     {
+        "name": "datavetenskaplig utbildning",
+        "count": 1
+    },
+    {
         "name": "filhantering",
         "count": 1
     },
@@ -12484,11 +14640,19 @@
         "count": 1
     },
     {
+        "name": "datalagringsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "\u00c3\u00a5rsplanering",
         "count": 1
     },
     {
         "name": "its-l\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
+        "name": "redovisningsomr\u00c3\u00a5det",
         "count": 1
     },
     {
@@ -12532,6 +14696,10 @@
         "count": 1
     },
     {
+        "name": "casino",
+        "count": 1
+    },
+    {
         "name": "pollution",
         "count": 1
     },
@@ -12561,6 +14729,10 @@
     },
     {
         "name": "skadehantering",
+        "count": 1
+    },
+    {
+        "name": "renh\u00c3\u00a5llningsbranschen",
         "count": 1
     },
     {
@@ -12604,11 +14776,19 @@
         "count": 1
     },
     {
+        "name": "realtidsinformation",
+        "count": 1
+    },
+    {
         "name": "utvecklingssamtal",
         "count": 1
     },
     {
         "name": "v\u00c3\u00a4ginfrastruktur",
+        "count": 1
+    },
+    {
+        "name": "drawing",
         "count": 1
     },
     {
@@ -12621,6 +14801,10 @@
     },
     {
         "name": "vuxenutbildning",
+        "count": 1
+    },
+    {
+        "name": "reskontrahantering",
         "count": 1
     },
     {
@@ -12704,6 +14888,10 @@
         "count": 1
     },
     {
+        "name": "sap-system",
+        "count": 1
+    },
+    {
         "name": "kapacitetshantering",
         "count": 1
     },
@@ -12728,11 +14916,31 @@
         "count": 1
     },
     {
+        "name": "commvault",
+        "count": 1
+    },
+    {
+        "name": "dataservrar",
+        "count": 1
+    },
+    {
+        "name": "datahall",
+        "count": 1
+    },
+    {
         "name": "prtg",
         "count": 1
     },
     {
         "name": "inventariehantering",
+        "count": 1
+    },
+    {
+        "name": "codecs",
+        "count": 1
+    },
+    {
+        "name": "cvi",
         "count": 1
     },
     {
@@ -12804,6 +15012,10 @@
         "count": 1
     },
     {
+        "name": "virtualiseringsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "underr\u00c3\u00a4ttelseproduktion",
         "count": 1
     },
@@ -12821,6 +15033,10 @@
     },
     {
         "name": "produktionsn\u00c3\u00a4rasystem",
+        "count": 1
+    },
+    {
+        "name": "containerhantering",
         "count": 1
     },
     {
@@ -12848,6 +15064,10 @@
         "count": 1
     },
     {
+        "name": "cisco switches",
+        "count": 1
+    },
+    {
         "name": "openvms",
         "count": 1
     },
@@ -12864,7 +15084,19 @@
         "count": 1
     },
     {
+        "name": "dokumenterad s\u00c3\u00a4kerhetsteknikutbildning",
+        "count": 1
+    },
+    {
+        "name": "cctv-system",
+        "count": 1
+    },
+    {
         "name": "utbyggnadsprojekt",
+        "count": 1
+    },
+    {
+        "name": "visma control",
         "count": 1
     },
     {
@@ -12873,6 +15105,10 @@
     },
     {
         "name": "socialf\u00c3\u00b6rvaltning",
+        "count": 1
+    },
+    {
+        "name": "reng\u00c3\u00b6ring",
         "count": 1
     },
     {
@@ -12948,6 +15184,10 @@
         "count": 1
     },
     {
+        "name": "vikariebemanning",
+        "count": 1
+    },
+    {
         "name": "fastighetsservice",
         "count": 1
     },
@@ -12968,11 +15208,19 @@
         "count": 1
     },
     {
+        "name": "routers",
+        "count": 1
+    },
+    {
         "name": "otdr",
         "count": 1
     },
     {
         "name": "kontaktsystem",
+        "count": 1
+    },
+    {
+        "name": "receivers",
         "count": 1
     },
     {
@@ -13021,6 +15269,18 @@
     },
     {
         "name": "xenapp",
+        "count": 1
+    },
+    {
+        "name": "windows-plattformar",
+        "count": 1
+    },
+    {
+        "name": "csp",
+        "count": 1
+    },
+    {
+        "name": "datoranv\u00c3\u00a4ndning",
         "count": 1
     },
     {
@@ -13128,6 +15388,10 @@
         "count": 1
     },
     {
+        "name": "sql-kunskaper",
+        "count": 1
+    },
+    {
         "name": "kreditriskmodeller",
         "count": 1
     },
@@ -13141,6 +15405,10 @@
     },
     {
         "name": "underh\u00c3\u00a5llsberedning",
+        "count": 1
+    },
+    {
+        "name": "rapportskapande",
         "count": 1
     },
     {
@@ -13160,6 +15428,10 @@
         "count": 1
     },
     {
+        "name": "rapportl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "ekonomirapportering",
         "count": 1
     },
@@ -13173,6 +15445,10 @@
     },
     {
         "name": "utbildningsbevis",
+        "count": 1
+    },
+    {
+        "name": "datakommunikationsn\u00c3\u00a4t",
         "count": 1
     },
     {
@@ -13192,7 +15468,15 @@
         "count": 1
     },
     {
+        "name": "clearing",
+        "count": 1
+    },
+    {
         "name": "aff\u00c3\u00a4rsst\u00c3\u00b6djande",
+        "count": 1
+    },
+    {
+        "name": "managementkonsulting",
         "count": 1
     },
     {
@@ -13228,6 +15512,10 @@
         "count": 1
     },
     {
+        "name": "dokumentfr\u00c3\u00a5gor",
+        "count": 1
+    },
+    {
         "name": "omsorgsf\u00c3\u00b6rvaltningen",
         "count": 1
     },
@@ -13256,7 +15544,19 @@
         "count": 1
     },
     {
+        "name": "digitaliseringsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
+        "name": "rollhantering",
+        "count": 1
+    },
+    {
         "name": "socionomutbildning",
+        "count": 1
+    },
+    {
+        "name": "debiteringsunderlag",
         "count": 1
     },
     {
@@ -13281,6 +15581,10 @@
     },
     {
         "name": "filintegrationer",
+        "count": 1
+    },
+    {
+        "name": "projektledningsarbete",
         "count": 1
     },
     {
@@ -13341,6 +15645,10 @@
     },
     {
         "name": "projektekonomi",
+        "count": 1
+    },
+    {
+        "name": "accessfr\u00c3\u00a5gor",
         "count": 1
     },
     {
@@ -13464,6 +15772,10 @@
         "count": 1
     },
     {
+        "name": "driftrutiner",
+        "count": 1
+    },
+    {
         "name": "yrkeslegitimation",
         "count": 1
     },
@@ -13524,6 +15836,10 @@
         "count": 1
     },
     {
+        "name": "cadett elsa",
+        "count": 1
+    },
+    {
         "name": "trio",
         "count": 1
     },
@@ -13552,6 +15868,14 @@
         "count": 1
     },
     {
+        "name": "datal\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
+        "name": "databasl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "specialistst\u00c3\u00b6d",
         "count": 1
     },
@@ -13568,7 +15892,19 @@
         "count": 1
     },
     {
+        "name": "drifttillst\u00c3\u00a5nd",
+        "count": 1
+    },
+    {
         "name": "elkraftsindustrin",
+        "count": 1
+    },
+    {
+        "name": "deklaration",
+        "count": 1
+    },
+    {
+        "name": "adaptation",
         "count": 1
     },
     {
@@ -13581,6 +15917,10 @@
     },
     {
         "name": "testl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
+        "name": "digitalteknik",
         "count": 1
     },
     {
@@ -13605,6 +15945,18 @@
     },
     {
         "name": "grafikkort",
+        "count": 1
+    },
+    {
+        "name": "cvs",
+        "count": 1
+    },
+    {
+        "name": "runtime",
+        "count": 1
+    },
+    {
+        "name": "cmake",
         "count": 1
     },
     {
@@ -13660,6 +16012,10 @@
         "count": 1
     },
     {
+        "name": "radarsensorer",
+        "count": 1
+    },
+    {
         "name": "ant",
         "count": 1
     },
@@ -13672,15 +16028,19 @@
         "count": 1
     },
     {
+        "name": "demomilj\u00c3\u00b6er",
+        "count": 1
+    },
+    {
         "name": "transformationsarbete",
         "count": 1
     },
     {
-        "name": "fordonsindustri",
+        "name": "f\u00c3\u00b6rsvarsindustri",
         "count": 1
     },
     {
-        "name": "f\u00c3\u00b6rsvarsindustri",
+        "name": "rekryteringsuppdrag",
         "count": 1
     },
     {
@@ -13693,6 +16053,14 @@
     },
     {
         "name": "applikationsprogramvara",
+        "count": 1
+    },
+    {
+        "name": "dagligvarubranschen",
+        "count": 1
+    },
+    {
+        "name": "diagnostikl\u00c3\u00b6sningar",
         "count": 1
     },
     {
@@ -13728,7 +16096,15 @@
         "count": 1
     },
     {
+        "name": "visionteknik",
+        "count": 1
+    },
+    {
         "name": "maskininvestering",
+        "count": 1
+    },
+    {
+        "name": "dfx",
         "count": 1
     },
     {
@@ -13753,6 +16129,10 @@
     },
     {
         "name": "fotolitografi",
+        "count": 1
+    },
+    {
+        "name": "nanoteknologi",
         "count": 1
     },
     {
@@ -13784,6 +16164,14 @@
         "count": 1
     },
     {
+        "name": "djur",
+        "count": 1
+    },
+    {
+        "name": "cellodlingsarbete",
+        "count": 1
+    },
+    {
         "name": "polymerer",
         "count": 1
     },
@@ -13793,6 +16181,10 @@
     },
     {
         "name": "mikrostruktur",
+        "count": 1
+    },
+    {
+        "name": "cancerterapi",
         "count": 1
     },
     {
@@ -13860,6 +16252,10 @@
         "count": 1
     },
     {
+        "name": "rhce",
+        "count": 1
+    },
+    {
         "name": "projekteringsverktyg",
         "count": 1
     },
@@ -13884,7 +16280,15 @@
         "count": 1
     },
     {
+        "name": "displaysystem",
+        "count": 1
+    },
+    {
         "name": "forskningskommunikation",
+        "count": 1
+    },
+    {
+        "name": "data\u00c3\u00b6verf\u00c3\u00b6ring",
         "count": 1
     },
     {
@@ -13909,6 +16313,10 @@
     },
     {
         "name": "simuleringsverktyg",
+        "count": 1
+    },
+    {
+        "name": "designprogram",
         "count": 1
     },
     {
@@ -13972,6 +16380,10 @@
         "count": 1
     },
     {
+        "name": "rails",
+        "count": 1
+    },
+    {
         "name": "konst",
         "count": 1
     },
@@ -13992,6 +16404,14 @@
         "count": 1
     },
     {
+        "name": "crypto",
+        "count": 1
+    },
+    {
+        "name": "systemutredningar",
+        "count": 1
+    },
+    {
         "name": "industrirobot",
         "count": 1
     },
@@ -14001,6 +16421,14 @@
     },
     {
         "name": "systemspecifikationer",
+        "count": 1
+    },
+    {
+        "name": "sap bi",
+        "count": 1
+    },
+    {
+        "name": "sap pi",
         "count": 1
     },
     {
@@ -14024,7 +16452,15 @@
         "count": 1
     },
     {
+        "name": "linux kernel",
+        "count": 1
+    },
+    {
         "name": "kommunal f\u00c3\u00b6rvaltning",
+        "count": 1
+    },
+    {
+        "name": "rymdomr\u00c3\u00a5det",
         "count": 1
     },
     {
@@ -14049,6 +16485,10 @@
     },
     {
         "name": "vas",
+        "count": 1
+    },
+    {
+        "name": "programmeringsf\u00c3\u00a4rdigheter",
         "count": 1
     },
     {
@@ -14120,6 +16560,10 @@
         "count": 1
     },
     {
+        "name": "adato",
+        "count": 1
+    },
+    {
         "name": "sjukhusv\u00c3\u00a5rd",
         "count": 1
     },
@@ -14164,6 +16608,10 @@
         "count": 1
     },
     {
+        "name": "accessl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "beh\u00c3\u00b6righetstilldelning",
         "count": 1
     },
@@ -14177,6 +16625,10 @@
     },
     {
         "name": "prestanda\u00c3\u00b6vervakning",
+        "count": 1
+    },
+    {
+        "name": "ritningshanteringssystem",
         "count": 1
     },
     {
@@ -14272,6 +16724,10 @@
         "count": 1
     },
     {
+        "name": "sap r3",
+        "count": 1
+    },
+    {
         "name": "klinisk patologi",
         "count": 1
     },
@@ -14280,7 +16736,19 @@
         "count": 1
     },
     {
+        "name": "dac",
+        "count": 1
+    },
+    {
         "name": "v\u00c3\u00a5rdsystemfr\u00c3\u00a5gor",
+        "count": 1
+    },
+    {
+        "name": "ritningsl\u00c3\u00a4ra",
+        "count": 1
+    },
+    {
+        "name": "rts",
         "count": 1
     },
     {
@@ -14289,6 +16757,10 @@
     },
     {
         "name": "biobanksfr\u00c3\u00a5gor",
+        "count": 1
+    },
+    {
+        "name": "datautrustning",
         "count": 1
     },
     {
@@ -14313,6 +16785,10 @@
     },
     {
         "name": "tj\u00c3\u00a4nsteavtal",
+        "count": 1
+    },
+    {
+        "name": "resebokningar",
         "count": 1
     },
     {
@@ -14344,6 +16820,10 @@
         "count": 1
     },
     {
+        "name": "visualiseringsl\u00c3\u00b6sningar",
+        "count": 1
+    },
+    {
         "name": "biblioteksarbete",
         "count": 1
     },
@@ -14361,6 +16841,10 @@
     },
     {
         "name": "lvm",
+        "count": 1
+    },
+    {
+        "name": "detektivarbete",
         "count": 1
     },
     {
@@ -14440,11 +16924,19 @@
         "count": 1
     },
     {
+        "name": "riggmilj\u00c3\u00b6",
+        "count": 1
+    },
+    {
         "name": "fordonsmilj\u00c3\u00b6",
         "count": 1
     },
     {
         "name": "signalbehandlingsomr\u00c3\u00a5det",
+        "count": 1
+    },
+    {
+        "name": "radiokommunikationsl\u00c3\u00b6sningar",
         "count": 1
     },
     {
@@ -14488,6 +16980,10 @@
         "count": 1
     },
     {
+        "name": "demontage",
+        "count": 1
+    },
+    {
         "name": "obsolethantering",
         "count": 1
     },
@@ -14508,6 +17004,10 @@
         "count": 1
     },
     {
+        "name": "codesys",
+        "count": 1
+    },
+    {
         "name": "ingenj\u00c3\u00b6rsarbete",
         "count": 1
     },
@@ -14516,11 +17016,19 @@
         "count": 1
     },
     {
+        "name": "programmeringsarbete",
+        "count": 1
+    },
+    {
         "name": "experimentdesign",
         "count": 1
     },
     {
         "name": "sekretariat",
+        "count": 1
+    },
+    {
+        "name": "radiol\u00c3\u00a4nk",
         "count": 1
     },
     {
@@ -14552,6 +17060,10 @@
         "count": 1
     },
     {
+        "name": "windows desktop",
+        "count": 1
+    },
+    {
         "name": "tekla",
         "count": 1
     },
@@ -14573,6 +17085,14 @@
     },
     {
         "name": "flygs\u00c3\u00a4kerhetsarbete",
+        "count": 1
+    },
+    {
+        "name": "dokumentframtagning",
+        "count": 1
+    },
+    {
+        "name": "certifieringsarbete",
         "count": 1
     },
     {
@@ -14601,6 +17121,10 @@
     },
     {
         "name": "elektromagnetiska f\u00c3\u00a4lt",
+        "count": 1
+    },
+    {
+        "name": "rymdteknik",
         "count": 1
     },
     {
@@ -14636,11 +17160,19 @@
         "count": 1
     },
     {
+        "name": "diagnoskodning",
+        "count": 1
+    },
+    {
         "name": "proteinrening",
         "count": 1
     },
     {
         "name": "produktutvecklingsarbete",
+        "count": 1
+    },
+    {
+        "name": "c-k\u00c3\u00b6rkort",
         "count": 1
     },
     {
@@ -14656,11 +17188,27 @@
         "count": 1
     },
     {
+        "name": "vidareutvecklingsfr\u00c3\u00a5gor",
+        "count": 1
+    },
+    {
+        "name": "dropwizard",
+        "count": 1
+    },
+    {
         "name": "n\u00c3\u00a4mndadministration",
         "count": 1
     },
     {
+        "name": "oracle fusion",
+        "count": 1
+    },
+    {
         "name": "behovsbed\u00c3\u00b6mningar",
+        "count": 1
+    },
+    {
+        "name": "android sdk",
         "count": 1
     },
     {
@@ -14681,6 +17229,18 @@
     },
     {
         "name": "gymnasieskolekompetens",
+        "count": 1
+    },
+    {
+        "name": "cisco nexus",
+        "count": 1
+    },
+    {
+        "name": "redundans",
+        "count": 1
+    },
+    {
+        "name": "dmz",
         "count": 1
     },
     {
@@ -14744,6 +17304,10 @@
         "count": 1
     },
     {
+        "name": "databasfr\u00c3\u00a5gor",
+        "count": 1
+    },
+    {
         "name": "objektorientering",
         "count": 1
     },
@@ -14756,7 +17320,15 @@
         "count": 1
     },
     {
+        "name": "r\u00c3\u00a4ttighetshantering",
+        "count": 1
+    },
+    {
         "name": "jaxb",
+        "count": 1
+    },
+    {
+        "name": "cdi",
         "count": 1
     },
     {
@@ -14788,7 +17360,19 @@
         "count": 1
     },
     {
+        "name": "windows forms",
+        "count": 1
+    },
+    {
+        "name": "masterdatasystem",
+        "count": 1
+    },
+    {
         "name": "ejb",
+        "count": 1
+    },
+    {
+        "name": "java beans",
         "count": 1
     },
     {
@@ -14816,6 +17400,18 @@
         "count": 1
     },
     {
+        "name": "designmetoder",
+        "count": 1
+    },
+    {
+        "name": "researcharbete",
+        "count": 1
+    },
+    {
+        "name": "detaljdesign",
+        "count": 1
+    },
+    {
         "name": "anv\u00c3\u00a4ndbarhetsutv\u00c3\u00a4rderingar",
         "count": 1
     },
@@ -14833,6 +17429,14 @@
     },
     {
         "name": "unders\u00c3\u00b6kningsarbete",
+        "count": 1
+    },
+    {
+        "name": "designmetodik",
+        "count": 1
+    },
+    {
+        "name": "designa m\u00c3\u00b6nsterkort",
         "count": 1
     },
     {
@@ -14873,6 +17477,10 @@
     },
     {
         "name": "folkbildningsarbete",
+        "count": 1
+    },
+    {
+        "name": "rapporteringssystem",
         "count": 1
     },
     {
@@ -14984,6 +17592,10 @@
         "count": 1
     },
     {
+        "name": "lan-produkter",
+        "count": 1
+    },
+    {
         "name": "f\u00c3\u00b6rnyelsearbete",
         "count": 1
     },
@@ -15028,6 +17640,10 @@
         "count": 1
     },
     {
+        "name": "content marketing",
+        "count": 1
+    },
+    {
         "name": "e-sourcing",
         "count": 1
     },
@@ -15064,6 +17680,10 @@
         "count": 1
     },
     {
+        "name": "sap netweaver",
+        "count": 1
+    },
+    {
         "name": "eai",
         "count": 1
     },
@@ -15084,11 +17704,23 @@
         "count": 1
     },
     {
+        "name": "custody",
+        "count": 1
+    },
+    {
+        "name": "dataservice",
+        "count": 1
+    },
+    {
         "name": "v\u00c3\u00a4rdeanalyser",
         "count": 1
     },
     {
         "name": "financial services",
+        "count": 1
+    },
+    {
+        "name": "cash management",
         "count": 1
     },
     {
@@ -15100,11 +17732,23 @@
         "count": 1
     },
     {
+        "name": "datastage",
+        "count": 1
+    },
+    {
         "name": "integrationsprodukter",
         "count": 1
     },
     {
         "name": "konstruktionsm\u00c3\u00b6nster",
+        "count": 1
+    },
+    {
+        "name": "designprojekt",
+        "count": 1
+    },
+    {
+        "name": "config",
         "count": 1
     },
     {
@@ -15124,15 +17768,15 @@
         "count": 1
     },
     {
-        "name": "adobe analytics",
-        "count": 1
-    },
-    {
         "name": "tj\u00c3\u00a4nstemannaledning",
         "count": 1
     },
     {
         "name": "scenariobeskrivningar",
+        "count": 1
+    },
+    {
+        "name": "regulation",
         "count": 1
     },
     {
@@ -15148,7 +17792,15 @@
         "count": 1
     },
     {
+        "name": "detektionsmetoder",
+        "count": 1
+    },
+    {
         "name": "bam",
+        "count": 1
+    },
+    {
+        "name": "communication foundation",
         "count": 1
     },
     {
@@ -15264,6 +17916,10 @@
         "count": 1
     },
     {
+        "name": "google earth",
+        "count": 1
+    },
+    {
         "name": "koncernledning",
         "count": 1
     },
@@ -15328,6 +17984,10 @@
         "count": 1
     },
     {
+        "name": "r\u00c3\u00a4nteber\u00c3\u00a4kningar",
+        "count": 1
+    },
+    {
         "name": "skuldhantering",
         "count": 1
     },
@@ -15337,6 +17997,10 @@
     },
     {
         "name": "skripthantering",
+        "count": 1
+    },
+    {
+        "name": "kravhanteringssystem",
         "count": 1
     },
     {
@@ -15361,6 +18025,10 @@
     },
     {
         "name": "plasma",
+        "count": 1
+    },
+    {
+        "name": "rymdfysik",
         "count": 1
     },
     {
@@ -15393,6 +18061,10 @@
     },
     {
         "name": "studenthandledning",
+        "count": 1
+    },
+    {
+        "name": "cmos",
         "count": 1
     },
     {
@@ -15433,6 +18105,10 @@
     },
     {
         "name": "publicera forskningsresultat",
+        "count": 1
+    },
+    {
+        "name": "ran",
         "count": 1
     },
     {
@@ -15532,6 +18208,10 @@
         "count": 1
     },
     {
+        "name": "driftteknikerutbildning",
+        "count": 1
+    },
+    {
         "name": "n\u00c3\u00a4tverkstrafik",
         "count": 1
     },
@@ -15540,11 +18220,19 @@
         "count": 1
     },
     {
+        "name": "driftf\u00c3\u00b6rvaltning",
+        "count": 1
+    },
+    {
         "name": "utvecklingsst\u00c3\u00b6d",
         "count": 1
     },
     {
         "name": "verkstadsarbete",
+        "count": 1
+    },
+    {
+        "name": "ce-k\u00c3\u00b6rkort",
         "count": 1
     },
     {
@@ -15616,6 +18304,14 @@
         "count": 1
     },
     {
+        "name": "rapportgenerering",
+        "count": 1
+    },
+    {
+        "name": "rdms",
+        "count": 1
+    },
+    {
         "name": "spr\u00c3\u00a5kvetenskap",
         "count": 1
     },
@@ -15625,6 +18321,10 @@
     },
     {
         "name": "arkivsystem",
+        "count": 1
+    },
+    {
+        "name": "diariesystem",
         "count": 1
     },
     {
@@ -15660,6 +18360,22 @@
         "count": 1
     },
     {
+        "name": "riskv\u00c3\u00a4rdering",
+        "count": 1
+    },
+    {
+        "name": "revisionsverksamhet",
+        "count": 1
+    },
+    {
+        "name": "windowsn\u00c3\u00a4tverk",
+        "count": 1
+    },
+    {
+        "name": "revisionsteknik",
+        "count": 1
+    },
+    {
         "name": "verksamhetsutvecklingsarbete",
         "count": 1
     },
@@ -15685,6 +18401,10 @@
     },
     {
         "name": "transportprocesser",
+        "count": 1
+    },
+    {
+        "name": "dr\u00c3\u00b6narteknik",
         "count": 1
     },
     {
@@ -15728,6 +18448,10 @@
         "count": 1
     },
     {
+        "name": "cadence",
+        "count": 1
+    },
+    {
         "name": "systembeskrivningar",
         "count": 1
     },
@@ -15737,6 +18461,10 @@
     },
     {
         "name": "mastutbildning",
+        "count": 1
+    },
+    {
+        "name": "datakom",
         "count": 1
     },
     {
@@ -15776,6 +18504,10 @@
         "count": 1
     },
     {
+        "name": "datorinriktning",
+        "count": 1
+    },
+    {
         "name": "garantibesiktningar",
         "count": 1
     },
@@ -15784,7 +18516,15 @@
         "count": 1
     },
     {
+        "name": "cvp",
+        "count": 1
+    },
+    {
         "name": "samh\u00c3\u00a4llsomvandling",
+        "count": 1
+    },
+    {
+        "name": "radarteknik",
         "count": 1
     },
     {
@@ -15797,6 +18537,10 @@
     },
     {
         "name": "konsolideringsprojekt",
+        "count": 1
+    },
+    {
+        "name": "lan-tj\u00c3\u00a4nster",
         "count": 1
     },
     {
@@ -15836,6 +18580,10 @@
         "count": 1
     },
     {
+        "name": "distributionsn\u00c3\u00a4t",
+        "count": 1
+    },
+    {
         "name": "eldistribution",
         "count": 1
     },
@@ -15852,7 +18600,15 @@
         "count": 1
     },
     {
+        "name": "drifttj\u00c3\u00a4nster",
+        "count": 1
+    },
+    {
         "name": "ombyggnadsprojekt",
+        "count": 1
+    },
+    {
+        "name": "drivteknik",
         "count": 1
     },
     {
@@ -15888,7 +18644,15 @@
         "count": 1
     },
     {
+        "name": "datakommunikationsomr\u00c3\u00a5det",
+        "count": 1
+    },
+    {
         "name": "wifi-n\u00c3\u00a4t",
+        "count": 1
+    },
+    {
+        "name": "drifterfarenhet",
         "count": 1
     },
     {
@@ -15940,11 +18704,31 @@
         "count": 1
     },
     {
+        "name": "datawarehousing",
+        "count": 1
+    },
+    {
+        "name": "crystal reports",
+        "count": 1
+    },
+    {
+        "name": "databasapplikationer",
+        "count": 1
+    },
+    {
         "name": "expeditionstj\u00c3\u00a4nst",
         "count": 1
     },
     {
         "name": "trendanalyser",
+        "count": 1
+    },
+    {
+        "name": "dokumenthanteringsomr\u00c3\u00a5det",
+        "count": 1
+    },
+    {
+        "name": "ritningsrevidering",
         "count": 1
     },
     {
@@ -15996,6 +18780,10 @@
         "count": 1
     },
     {
+        "name": "cad-samordning",
+        "count": 1
+    },
+    {
         "name": "projektorganisation",
         "count": 1
     },
@@ -16008,6 +18796,10 @@
         "count": 1
     },
     {
+        "name": "unix-milj\u00c3\u00b6er",
+        "count": 1
+    },
+    {
         "name": "leverant\u00c3\u00b6rsuppf\u00c3\u00b6ljning",
         "count": 1
     },
@@ -16017,6 +18809,14 @@
     },
     {
         "name": "hypervisors",
+        "count": 1
+    },
+    {
+        "name": "datorarkitektur",
+        "count": 1
+    },
+    {
+        "name": "databasspr\u00c3\u00a5k",
         "count": 1
     },
     {
@@ -16036,6 +18836,10 @@
         "count": 1
     },
     {
+        "name": "gof",
+        "count": 1
+    },
+    {
         "name": "produktionsavdelning",
         "count": 1
     },
@@ -16048,7 +18852,19 @@
         "count": 1
     },
     {
+        "name": "r\u00c3\u00a4ttsvetenskap",
+        "count": 1
+    },
+    {
         "name": "beredskapsarbete",
+        "count": 1
+    },
+    {
+        "name": "riskanalysarbete",
+        "count": 1
+    },
+    {
+        "name": "dokumentationshanteringssystem",
         "count": 1
     },
     {
@@ -16184,11 +19000,19 @@
         "count": 1
     },
     {
+        "name": "mandarin",
+        "count": 1
+    },
+    {
         "name": "hotbildsanalyser",
         "count": 1
     },
     {
         "name": "s\u00c3\u00a4kerhetsregelverk",
+        "count": 1
+    },
+    {
+        "name": "videohantering",
         "count": 1
     },
     {
@@ -16264,7 +19088,15 @@
         "count": 1
     },
     {
+        "name": "displayn\u00c3\u00a4tverk",
+        "count": 1
+    },
+    {
         "name": "analytiska verktyg",
+        "count": 1
+    },
+    {
+        "name": "reklam",
         "count": 1
     },
     {
@@ -16285,6 +19117,10 @@
     },
     {
         "name": "storformat",
+        "count": 1
+    },
+    {
+        "name": "digitaltryck",
         "count": 1
     },
     {
@@ -16309,6 +19145,14 @@
     },
     {
         "name": "wrapping",
+        "count": 1
+    },
+    {
+        "name": "sql server integration services",
+        "count": 1
+    },
+    {
+        "name": "datalagringssystem",
         "count": 1
     },
     {
@@ -16344,6 +19188,10 @@
         "count": 1
     },
     {
+        "name": "manus",
+        "count": 1
+    },
+    {
         "name": "instruktionsmaterial",
         "count": 1
     },
@@ -16352,11 +19200,23 @@
         "count": 1
     },
     {
+        "name": "unix-system",
+        "count": 1
+    },
+    {
         "name": "n\u00c3\u00a4tprojektering",
         "count": 1
     },
     {
+        "name": "dpcom",
+        "count": 1
+    },
+    {
         "name": "mapinfo",
+        "count": 1
+    },
+    {
+        "name": "certifierad fibertekniker",
         "count": 1
     },
     {
@@ -16369,6 +19229,14 @@
     },
     {
         "name": "latin",
+        "count": 1
+    },
+    {
+        "name": "dokumentationsprojekt",
+        "count": 1
+    },
+    {
+        "name": "cadra",
         "count": 1
     },
     {
@@ -16392,6 +19260,10 @@
         "count": 1
     },
     {
+        "name": "dokumentationsteknik",
+        "count": 1
+    },
+    {
         "name": "ledaransvar",
         "count": 1
     },
@@ -16405,6 +19277,14 @@
     },
     {
         "name": "biometri",
+        "count": 1
+    },
+    {
+        "name": "domstolsf\u00c3\u00b6rhandlingar",
+        "count": 1
+    },
+    {
+        "name": "videobearbetning",
         "count": 1
     },
     {
@@ -16452,6 +19332,18 @@
         "count": 1
     },
     {
+        "name": "datavalidering",
+        "count": 1
+    },
+    {
+        "name": "dataunderh\u00c3\u00a5ll",
+        "count": 1
+    },
+    {
+        "name": "e-postmarknadsf\u00c3\u00b6ring",
+        "count": 1
+    },
+    {
         "name": "pim-system",
         "count": 1
     },
@@ -16464,15 +19356,31 @@
         "count": 1
     },
     {
-        "name": "game design",
-        "count": 1
-    },
-    {
         "name": "hud",
         "count": 1
     },
     {
+        "name": "iis webbserver",
+        "count": 1
+    },
+    {
+        "name": "ciscomilj\u00c3\u00b6er",
+        "count": 1
+    },
+    {
         "name": "systemtj\u00c3\u00a4nster",
+        "count": 1
+    },
+    {
+        "name": "linuxtj\u00c3\u00a4nster",
+        "count": 1
+    },
+    {
+        "name": "windowstj\u00c3\u00a4nster",
+        "count": 1
+    },
+    {
+        "name": "datatj\u00c3\u00a4nster",
         "count": 1
     },
     {
@@ -16485,6 +19393,10 @@
     },
     {
         "name": "formgivning",
+        "count": 1
+    },
+    {
+        "name": "e-postutskick",
         "count": 1
     },
     {
