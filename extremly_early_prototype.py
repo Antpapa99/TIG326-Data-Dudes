@@ -16,11 +16,6 @@ app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/")
 
 #Test lista av jobb här, vi kommer nog behöva köra en databas här
 new_Jobs = jobs()
-print(new_Jobs)
-
-
-
-
 new_skills = select_skills()
 new_list = new_skills
 
@@ -45,19 +40,20 @@ app.layout = html.Div([
 )
 
 def match_jobs(n_clicks, selected_skills):
+    print("test")
     if not selected_skills:
         return "no matches"
     matches = []
     for job in new_Jobs:
-        required_skills = set(job['skills'])
+        required_skills = []
+        required_skills = [skill['name'] for skill in job['skills']]
         seeker_skills = set(selected_skills)
-        if required_skills and required_skills.issubset(seeker_skills):
-            matches.append(job['title'])
+        if set(seeker_skills).issubset(required_skills):
+            matches.append(job['label'])
     if matches:
         return html.Ul([html.Li(match) for match in matches])
     else:
         return 'no Matches found'
-
 
 if __name__ == '__main__':
     server.run(debug=True)
