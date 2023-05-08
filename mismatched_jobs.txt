@@ -1,0 +1,297 @@
+Name: supporttekniker
+Skills:
+- citrix, Count: 17
+- nätverk, Count: 12
+- windows server, Count: 9
+- användarsupport, Count: 7
+- sccm, Count: 6
+- sql, Count: 2
+- php, Count: 1
+- jira, Count: 1
+- design, Count: 1
+- skrivare, Count: 1
+
+Name: projektledare
+Skills:
+- scrum, Count: 6
+- pm3, Count: 4
+- progress, Count: 3
+- projektledning, Count: 3
+- pps, Count: 3
+- budgetansvar, Count: 2
+- gdpr, Count: 1
+- itil foundation, Count: 1
+- kravhantering, Count: 1
+- förändringsledning, Count: 1
+- systemutveckling, Count: 1
+- kvalitetssäkring, Count: 1
+- c++, Count: 1
+- design, Count: 1
+- facilitera workshops, Count: 1
+- automotive, Count: 1
+- erp-system, Count: 1
+
+Name: it-tekniker
+Skills:
+- nätverk, Count: 15
+- windows server, Count: 9
+- sccm, Count: 7
+- citrix, Count: 3
+- skrivare, Count: 10
+- wan, Count: 2
+- användarsupport, Count: 8
+- erp-system, Count: 2
+- nätverksprogrammering, Count: 1
+- kvalitetssäkring, Count: 1
+- nätverksteknik, Count: 1
+- systemförvaltning, Count: 1
+- wordpress, Count: 1
+- microsoft windows, Count: 1
+
+Name: konsultchef
+Skills:
+- citrix, Count: 9
+- nätverk, Count: 6
+- sccm, Count: 6
+- windows server, Count: 4
+- wan, Count: 2
+- användarsupport, Count: 1
+- design, Count: 1
+- skrivare, Count: 1
+
+Name: fullstack-utvecklare
+Skills:
+- java, Count: 5
+- css, Count: 5
+- scrum, Count: 5
+- design, Count: 3
+- node, Count: 2
+- c#, Count: 2
+- bitbucket, Count: 2
+- javascript, Count: 2
+- cms, Count: 1
+- informationssäkerhet, Count: 1
+- testledning, Count: 1
+- ci, Count: 1
+- matlab, Count: 1
+- microsoft azure, Count: 1
+- sql, Count: 1
+- typescript, Count: 1
+- webbutveckling, Count: 1
+- c++, Count: 1
+- swift, Count: 1
+- asp.net core, Count: 1
+
+Name: testare
+Skills:
+- testautomatisering, Count: 6
+- scrum, Count: 3
+- sql, Count: 3
+- selenium, Count: 2
+- gui, Count: 1
+- microsoft azure, Count: 1
+- programmering, Count: 1
+- ci, Count: 1
+- java, Count: 1
+- automotive, Count: 1
+- continuous integration, Count: 1
+
+Name: tekniker
+Skills:
+- windows server, Count: 9
+- nätverk, Count: 3
+- användarsupport, Count: 2
+- sccm, Count: 4
+- wan, Count: 2
+- php, Count: 1
+- design, Count: 1
+- skrivare, Count: 1
+- java, Count: 2
+- maskininlärning, Count: 1
+
+Name: frontendutvecklare
+Skills:
+- bitbucket, Count: 2
+- scrum, Count: 2
+- c++, Count: 2
+- css, Count: 2
+- ci, Count: 1
+- javascript, Count: 1
+- php, Count: 1
+- node, Count: 1
+- jquery, Count: 1
+- design, Count: 1
+
+Name: it-supporttekniker
+Skills:
+- windows server, Count: 2
+- nätverk, Count: 2
+
+Name: first line support
+Skills:
+- nätverk, Count: 2
+- citrix, Count: 2
+- windows server, Count: 2
+- användarsupport, Count: 1
+- servrar, Count: 1
+- sccm, Count: 1
+- microsoft windows, Count: 1
+
+Name: lösningsarkitekt
+Skills:
+- systemförvaltning, Count: 2
+- sql, Count: 1
+- design, Count: 1
+- sccm, Count: 1
+- amazon web services, Count: 1
+
+Name: scrum master
+Skills:
+- scrum, Count: 6
+- jira, Count: 6
+- testledning, Count: 1
+- programmering, Count: 1
+- automotive, Count: 1
+
+Name: .net-utvecklare
+Skills:
+- sql, Count: 6
+- scrum, Count: 3
+- visual studio, Count: 3
+- c#, Count: 2
+- google cloud platform, Count: 1
+- php, Count: 1
+- testautomatisering, Count: 1
+- c++, Count: 1
+
+Name: javautvecklare
+Skills:
+- java, Count: 9
+- bitbucket, Count: 2
+- amazon web services, Count: 2
+- sql, Count: 2
+- programmering, Count: 1
+- continuous integration, Count: 1
+- c++, Count: 1
+- ml, Count: 1
+- systemutveckling, Count: 1
+- scrum, Count: 1
+- objektorienterad programmering, Count: 1
+
+Name: systemutvecklare
+Skills:
+- java, Count: 57
+- bitbucket, Count: 6
+- scrum, Count: 44
+- css, Count: 6
+- visual studio, Count: 9
+- javascript, Count: 2
+- programmering, Count: 8
+- c++, Count: 52
+- design, Count: 15
+- sql, Count: 28
+- systemutveckling, Count: 16
+- c#, Count: 15
+- php, Count: 15
+- .net, Count: 5
+- node, Count: 5
+- selenium, Count: 4
+- testautomatisering, Count: 4
+- bash, Count: 3
+- ci, Count: 3
+- sharepoint, Count: 2
+- microsoft azure, Count: 2
+- civilingenjörsexamen, Count: 3
+- amazon web services, Count: 4
+- maskininlärning, Count: 6
+- cms, Count: 1
+- sql-server, Count: 1
+- continuous integration, Count: 4
+- delphi, Count: 1
+- python, Count: 1
+- django, Count: 1
+- swift, Count: 1
+- användarsupport, Count: 1
+- ml, Count: 1
+- citrix, Count: 1
+- visual studio code, Count: 1
+- episerver, Count: 2
+- vms, Count: 1
+- prototyping, Count: 1
+- webbutveckling, Count: 1
+- hårdvarunära programmering, Count: 2
+- ledningssystem, Count: 2
+- automotive, Count: 1
+- logic, Count: 2
+- laravel, Count: 1
+- terraform, Count: 3
+- ada, Count: 1
+- bootstrap, Count: 1
+- google cloud platform, Count: 1
+- systemförvaltning, Count: 3
+- jpa, Count: 2
+- matlab, Count: 2
+- nätverk, Count: 2
+- postgresql, Count: 1
+- sccm, Count: 1
+- apache tomcat, Count: 1
+- jira, Count: 1
+- android, Count: 1
+- linux, Count: 1
+- abap, Count: 1
+- e-handel, Count: 1
+- typescript, Count: 1
+- litium, Count: 1
+
+Name: devops
+Skills:
+- terraform, Count: 3
+- scrum, Count: 2
+- bash, Count: 2
+- c#, Count: 2
+- kubernetes, Count: 1
+- java, Count: 1
+- sql, Count: 1
+
+Name: it-arkitekt
+Skills:
+- systemutveckling, Count: 4
+- design, Count: 3
+- java, Count: 1
+- pm3, Count: 1
+- systemförvaltning, Count: 1
+- amazon web services, Count: 1
+
+Name: onsite-tekniker
+Skills:
+- windows server, Count: 4
+- skrivare, Count: 1
+- användarsupport, Count: 1
+- nätverk, Count: 1
+- sccm, Count: 1
+- wan, Count: 1
+
+Name: förvaltningsledare
+Skills:
+- pm3, Count: 8
+- scrum, Count: 2
+- budgetansvar, Count: 1
+
+Name: mjukvaruutvecklare
+Skills:
+- c++, Count: 4
+- hårdvarunära programmering, Count: 3
+- java, Count: 2
+- bash, Count: 1
+- civilingenjörsexamen, Count: 1
+- sql, Count: 1
+- visual studio, Count: 1
+- ada, Count: 1
+- selenium, Count: 1
+
+Name: it-konsult
+Skills:
+- nätverk, Count: 2
+- windows server, Count: 1
+- sccm, Count: 1
+
