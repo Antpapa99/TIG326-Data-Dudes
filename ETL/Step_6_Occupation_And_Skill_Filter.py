@@ -1,3 +1,4 @@
+import re
 import json
 
 # Load the skills whitelist from the JSON file
@@ -7,61 +8,82 @@ with open('Skills.json') as file1:
 with open('Stack_Overflow_Skills.json') as file2:
     dict2 = json.load(file2)
 
-skills_whitelist.update(dict2)
+# Combine the skills from both JSON files
+combined_skills = set(skills_whitelist["label"] + dict2["label"])
+
+# Create a new dictionary with the combined skills
+skills_combined = {
+    "label": list(combined_skills),
+    "value": list(combined_skills)
+}
+
+print(skills_combined)
+
+with open('skills_combined.json', 'w') as f:
+    json.dump(skills_combined, f)
 
 # Define a function to check if a given skill is in the whitelist
+
 def is_valid_skill(skill):
-    # Check if the skill is in the whitelist
-    if skill in skills_whitelist["label"]:
+    # Check if the skill is in the list
+    if skill in skills_combined["label"]:
+        print(f"{skill} found directly in the list")
         return True
-    
-    # Check if the skill is an abbreviation or misspelling of a valid skill
-    for valid_skill in skills_whitelist["label"]:
-        if skill.startswith(valid_skill):
+
+    # Check if the skill has an abbreviation within parentheses
+    abbreviation_match = re.search(r'\(([^)]+)\)', skill)
+    if abbreviation_match:
+        abbreviation = abbreviation_match.group(1)
+        skill_without_abbreviation = re.sub(r'\s*\([^)]+\)', '', skill).strip()
+
+        # Check if the skill without abbreviation or the abbreviation itself is in the list
+        if skill_without_abbreviation in skills_combined["label"] or abbreviation in skills_combined["label"]:
+            print(f"{skill} or {abbreviation} found in the list")
             return True
-    
-    # If the skill isn't valid or an abbreviation/misspelling, return False
+
+    # Check if the skill matches any valid skill in the list
+    found_match = False
+    for valid_skill in skills_combined["label"]:
+        # Check for full skill name, skill name without abbreviation, and skill name separated by a slash
+        valid_skill_without_abbreviation = re.sub(r'\s*\([^)]+\)', '', valid_skill).strip()
+        valid_skill_parts = valid_skill_without_abbreviation.split('/')
+
+        if skill == valid_skill or skill == valid_skill_without_abbreviation or skill in valid_skill_parts:
+            print(f"{skill} matches {valid_skill}")
+            found_match = True
+
+    if found_match:
+        return True
+
+    print(f"{skill} not found")
     return False
+
 
 # Load the occupation list from the JSON file
 with open('merged_jobdictionary.json') as f:
     occupation_list = json.load(f)
 
-# Loop through each occupation in the occupation list
+filtered_skills_counts = {}
+
 for occupation in occupation_list:
-    # Create a new list to hold the valid skills
     valid_skills = []
-    # Loop through each skill in the occupation's skill list
+
     for skill in occupation['skills']:
-        # Check if the skill is valid
-        if is_valid_skill(skill):
-            # If the skill is valid, add it to the list of valid skills
+        if is_valid_skill(skill['name']):
             valid_skills.append(skill)
-    # Replace the occupation's skills with the list of valid skills
+        else:
+            if skill['name'] not in filtered_skills_counts:
+                filtered_skills_counts[skill['name']] = {'name': skill['name'], 'count': skill['count']}
+            else:
+                filtered_skills_counts[skill['name']]['count'] += skill['count']
+    
     occupation['skills'] = valid_skills
 
-# Save the updated occupation list to a new JSON file
 with open('updated_occupation_list.json', 'w') as f:
     json.dump(occupation_list, f, indent=4)
 
-# Create empty lists to hold the labels and values of valid skills
-valid_labels = []
-valid_values = []
+filtered_skills_sorted = sorted(filtered_skills_counts.values(), key=lambda x: x['count'], reverse=True)
 
-# Loop through each occupation in the occupation list
-for occupation in occupation_list:
-    # Loop through each skill in the occupation's skill list
-    for skill in occupation['skills']:
-        # Check if the skill is valid
-        if is_valid_skill(skill):
-            # If the skill is valid, add its label and value to the corresponding lists
-            valid_labels.append(skill)
+with open('filtered_skills.json', 'w') as f:
+    json.dump(list(filtered_skills_sorted), f, indent=4)
 
-# Create a dictionary with the valid labels and values
-valid_labels = set(valid_labels)
-valid_labels = list(valid_labels)
-valid_skills_dict = {"label": valid_labels, "value": valid_labels}
-
-# Save the valid skills to a new JSON file
-with open('valid_skills.json', 'w') as f:
-    json.dump(valid_skills_dict, f, indent=4)

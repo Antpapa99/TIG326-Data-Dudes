@@ -8,7 +8,7 @@ url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
 
-with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="utf-8") as f:
+with open (r'/Users/anto/JSON_DATA/filtered_data_IT_jobs.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 Job_Class = []
@@ -57,7 +57,7 @@ def send_request(i):
 
 #Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
-    indices = range(0, 1000)
+    indices = range(0, 17000)
     Job_Class = list(executor.map(send_request, indices))
 
 Keywords = []
@@ -75,7 +75,7 @@ while loop < len(Job_Class):
     #for i in Job_Class[loop]["Occupation-type"]:
         #Ai_Occupation.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Skills"]:
-        if i["prediction"] > 0.95:
+        if i["prediction"] > 0.80:
             Skills.add(i["concept_label"].lower())
     Skills = list(Skills)
     Ai_Occupation = list(Ai_Occupation)
