@@ -8,7 +8,7 @@ url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
 
-with open (r'/Users/anto/JSON_DATA/filtered_data_IT_jobs.json', 'r', encoding="utf-8") as f:
+with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 Job_Class = []
@@ -77,11 +77,15 @@ while loop < len(Job_Class):
     for i in Job_Class[loop]["Skills"]:
         if i["prediction"] > 0.80:
             Skills.add(i["concept_label"].lower())
+    for i in Job_Class[loop]["Occupation-AI_classify"]:
+        if i["prediction"] > 0.80:
+            Ai_Occupation.add(i["concept_label"].lower())
+    
     Skills = list(Skills)
     Ai_Occupation = list(Ai_Occupation)
     output = {"Job Title": Job_Class[loop]["Job Title"].lower(),
                 "Occupation-type":  Job_Class[loop]["Occupation-type"].lower(),
-                #"Occupation-AI_classify":  Ai_Occupation,
+                "Occupation-AI_classify":  Ai_Occupation,
                     "Skills": Skills
                 }
     Dict_List.append(output)
