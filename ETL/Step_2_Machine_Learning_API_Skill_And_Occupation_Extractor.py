@@ -3,7 +3,7 @@ import json
 from concurrent.futures import ThreadPoolExecutor
 import time
 
-#Vår AI API
+# Vår AI API
 url = "https://jobad-enrichments-api.jobtechdev.se/enrichtextdocuments"
 
 start_time = time.time()
@@ -14,39 +14,57 @@ with open (r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'r', encod
 Job_Class = []
 occupation_list = []
 
-#funktionen som gör att programmet skicker en request till APIn med de olika json filerna som input
 def send_request(i):
     sample = data[i]
-    params = {
+
+    params_occupation = {
         "documents_input": [
             {
                 "doc_id": data[i]["id"],
                 "doc_headline": data[i]["headline"],
-                "doc_text": data[i]["annonstext"], 
-                "doc_text": data[i]["description"]["text"]
             }
-            
         ]
     }
+
+    params_skills = {
+        "documents_input": [
+            {
+                "doc_id": data[i]["id"],
+                "doc_headline": data[i]["headline"],
+                "doc_text": data[i]["description"]["text"]
+            }
+        ]
+    }
+
     max_retries = 3
     retries = 0
     occupation_list.append(data[i]["occupation"]["label"])
+
+    enriched_candidates_occupation = None
+    enriched_candidates_skills = None
+
     while retries < max_retries:
         try:
-            response = requests.post(url, json=params,timeout=15)
-            if response.status_code == 200:
-                json_response = response.json()
-                enriched_candidates_skills = json_response[0]["enriched_candidates"]["competencies"]
-                enriched_candidates_occupation = json_response[0]["enriched_candidates"]["occupations"]
-                output = {"Job Title": data[i]["headline"],
-                "Occupation-type":  (data[i]["occupation"]["label"]),
-                "Occupation-AI_classify":  enriched_candidates_occupation,
+            response_occupation = requests.post(url, json=params_occupation, timeout=15)
+            response_skills = requests.post(url, json=params_skills, timeout=15)
+
+            if response_occupation.status_code == 200 and response_skills.status_code == 200:
+                json_response_occupation = response_occupation.json()
+                json_response_skills = response_skills.json()
+
+                enriched_candidates_occupation = json_response_occupation[0]["enriched_candidates"]["occupations"]
+                enriched_candidates_skills = json_response_skills[0]["enriched_candidates"]["competencies"]
+
+                output = {
+                    "Job Title": data[i]["headline"],
+                    "Occupation-type":  (data[i]["occupation"]["label"]),
+                    "Occupation-AI_classify":  enriched_candidates_occupation,
                     "Skills": enriched_candidates_skills
                 }
                 return output
             else:
-                print(f"Request {i} failed with status code:", response.status_code)
-                print("Error message:", response.text)
+                print(f"Request {i} failed with status code:", response_occupation.status_code, response_skills.status_code)
+                print("Error message:", response_occupation.text, response_skills.text)
                 retries += 1
                 time.sleep(10)  # You can adjust the sleep duration based on your needs
         except requests.exceptions.RequestException as e:
@@ -55,10 +73,10 @@ def send_request(i):
             time.sleep(5)  # You can adjust the sleep duration based on your needs
     print(f"Request {i} failed after {max_retries} retries")
 
-#Gör så att programmet skickar mer än ett request åt gången
 with ThreadPoolExecutor(max_workers=100) as executor:
     indices = range(0, 17000)
     Job_Class = list(executor.map(send_request, indices))
+
 
 Keywords = []
 loop = 0
@@ -78,7 +96,7 @@ while loop < len(Job_Class):
         if i["prediction"] > 0.80:
             Skills.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Occupation-AI_classify"]:
-        if i["prediction"] > 0.80:
+        if i["prediction"] > 0.1:
             Ai_Occupation.add(i["concept_label"].lower())
     
     Skills = list(Skills)
