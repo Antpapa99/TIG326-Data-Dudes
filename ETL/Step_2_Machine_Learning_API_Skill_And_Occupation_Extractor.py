@@ -96,7 +96,7 @@ while loop < len(Job_Class):
         if i["prediction"] > 0.80:
             Skills.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Occupation-AI_classify"]:
-        if i["prediction"] > 0.1:
+        if i["prediction"] > 0.05:
             Ai_Occupation.add(i["concept_label"].lower())
     
     Skills = list(Skills)
