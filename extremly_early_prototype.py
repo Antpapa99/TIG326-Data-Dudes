@@ -20,6 +20,7 @@ app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/",
 
 new_Jobs = jobs()
 new_skills = select_skills()
+print(new_skills)
 
 app.layout = dbc.Container([
     dbc.Row(

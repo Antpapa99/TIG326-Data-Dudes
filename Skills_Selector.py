@@ -1,8 +1,20 @@
 import json
+
 def select_skills():
-    with open("valid_skills.json", "r", encoding="utf-8") as file1:
+    with open("updated_occupation_list.json", "r", encoding="utf-8") as file1:
         data = json.load(file1)
 
-        skills_select = [{"label": label, "value": value} for label, value in zip(data["label"], data["value"])]
+    skills_select = []
+    for job in data:
+        skills_select.extend([skill['name'] for skill in job['skills']])
 
-        return skills_select
+    exact_skills = list(set(skills_select))
+
+    result = []
+    for skill in exact_skills:
+        result.append({"label": skill, "value": skill})
+
+    return result
+
+# Call the function and print the result
+
