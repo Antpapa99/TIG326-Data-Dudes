@@ -10,11 +10,3 @@ def select_skills():
         
     exact_skills = list(set(skills_select))
 
-    result = []
-    for skill in exact_skills:
-        result.append({"label": skill, "value": skill})
-
-    return result
-
-# Call the function and print the result
-
