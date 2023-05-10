@@ -8,6 +8,3 @@ def select_skills():
         skills_select.extend([skill['name'] for skill in job['skills']])
 
     return list(set(skills_select))
-
-test = select_skills()
-print(test)
