@@ -15,6 +15,3 @@ def select_skills():
         result.append({"label": skill, "value": skill})
 
     return result
-
-# Call the function and print the result
-

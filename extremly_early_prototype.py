@@ -79,6 +79,5 @@ def match_jobs(n_clicks, selected_skills):
     else:
         return 'no Matches found'
 
-
 if __name__ == '__main__':
     server.run(debug=True)
