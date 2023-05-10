@@ -3,6 +3,7 @@ import dash
 import dash_html_components as html
 import dash_core_components as dcc
 import dash_bootstrap_components as dbc
+import plotly.graph_objs as go
 from Skills_Selector import select_skills
 from Job_Selector import jobs
 
@@ -42,9 +43,11 @@ app.layout = dbc.Container([
                          ),
             dbc.Button('Match jobs', id='submit-button', className="mt-3"),
             html.Div(id='job-matches', className="my-3"),
+            dcc.Graph(id='skills-barchart'),
         ], width={'size': 6, 'offset': 3}),
     )
 ], fluid=True)
+
 
 
 @app.callback(
@@ -78,6 +81,35 @@ def match_jobs(n_clicks, selected_skills):
         return html.Ul([html.Li(match) for match in matches])
     else:
         return 'no Matches found'
+
+def get_job_skills_counts(selected_job_label):
+    job = next((job for job in new_Jobs if job['label'] == selected_job_label), None)
+    if job:
+        return job['skills']
+    return []
+
+
+@app.callback(
+    dash.dependencies.Output('skills-barchart', 'figure'),
+    [dash.dependencies.Input('jobs-dropdown', 'value')]
+)
+def update_skills_barchart(selected_job_label):
+    if selected_job_label:
+        # Get the skills and their counts for the selected job
+        job_skills_counts = get_job_skills_counts(selected_job_label)
+
+        # Create the bar chart
+        figure = go.Figure(data=[
+            go.Bar(x=[skill['name'] for skill in job_skills_counts],
+                   y=[skill['count'] for skill in job_skills_counts])
+        ])
+        figure.update_layout(title=f"Skills and Counts for {selected_job_label}",
+                             xaxis_title="Skills",
+                             yaxis_title="Count",
+                             showlegend=False)
+        return figure
+    else:
+        return go.Figure()
 
 
 if __name__ == '__main__':
