@@ -8,14 +8,11 @@ import plotly.graph_objs as go
 from Skills_Selector import select_skills
 from Job_Selector import jobs
 
-
-from flask import Flask, render_template, url_for
-
 server = Flask(__name__, static_folder='static/style')
 
 @server.route('/', methods=['GET', 'POST'])
 def home():
-    image_path = url_for('static/style', filename='img/skillflair.PNG')
+    image_path = url_for('static', filename='img/skillflair.PNG')
     return render_template('home.html', image_path=image_path)
 
 
