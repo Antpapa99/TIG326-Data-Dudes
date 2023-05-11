@@ -386,7 +386,8 @@
                 "name": "installation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 21
     },
     {
         "label": "technical project manager",
@@ -451,7 +452,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "it-specialist",
@@ -1844,7 +1846,8 @@
                 "name": "organisationer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 61
     },
     {
         "label": "fullstack-utvecklare",
@@ -3437,7 +3440,8 @@
                 "name": "utvecklingsplaner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 189
     },
     {
         "label": "designer",
@@ -4066,7 +4070,8 @@
                 "name": "scada",
                 "count": 1
             }
-        ]
+        ],
+        "count": 44
     },
     {
         "label": "teknisk projektledare",
@@ -5047,7 +5052,8 @@
                 "name": "förvaltningsmodell",
                 "count": 1
             }
-        ]
+        ],
+        "count": 37
     },
     {
         "label": "ux-designer",
@@ -5680,7 +5686,8 @@
                 "name": "arbetsverktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 64
     },
     {
         "label": "scrum master",
@@ -6517,7 +6524,8 @@
                 "name": "universitetsexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 118
     },
     {
         "label": "systemutvecklare",
@@ -13222,7 +13230,8 @@
                 "name": "java8",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1641
     },
     {
         "label": "it-supporttekniker",
@@ -14071,7 +14080,8 @@
                 "name": "användarhantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 65
     },
     {
         "label": "projektledare",
@@ -16892,7 +16902,8 @@
                 "name": "nyckelfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 245
     },
     {
         "label": "applikationsspecialist",
@@ -17813,7 +17824,8 @@
                 "name": "finska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 30
     },
     {
         "label": "php-utvecklare",
@@ -18054,7 +18066,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "test engineer",
@@ -18555,7 +18568,8 @@
                 "name": "gcp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 47
     },
     {
         "label": "supporttekniker",
@@ -20444,7 +20458,8 @@
                 "name": "installering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 219
     },
     {
         "label": "systemtekniker",
@@ -22625,7 +22640,8 @@
                 "name": "migreringar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 113
     },
     {
         "label": "systemförvaltare",
@@ -24550,7 +24566,8 @@
                 "name": "användarmanualer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 116
     },
     {
         "label": "tekniker",
@@ -26195,7 +26212,8 @@
                 "name": "instrument",
                 "count": 1
             }
-        ]
+        ],
+        "count": 105
     },
     {
         "label": "c++-utvecklare",
@@ -26552,7 +26570,8 @@
                 "name": "tester",
                 "count": 1
             }
-        ]
+        ],
+        "count": 28
     },
     {
         "label": "bim-samordnare",
@@ -26569,7 +26588,8 @@
                 "name": "engelska",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "mjukvaruutvecklare",
@@ -28282,7 +28302,8 @@
                 "name": "användargränssnitt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 148
     },
     {
         "label": "test automation engineer",
@@ -28687,7 +28708,8 @@
                 "name": "apis",
                 "count": 1
             }
-        ]
+        ],
+        "count": 21
     },
     {
         "label": "it-tekniker",
@@ -31736,7 +31758,8 @@
                 "name": "påbyggnadsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 360
     },
     {
         "label": "operations specialist",
@@ -32025,7 +32048,8 @@
                 "name": "produktionsstopp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "devops",
@@ -33790,7 +33814,8 @@
                 "name": "broadcast",
                 "count": 1
             }
-        ]
+        ],
+        "count": 183
     },
     {
         "label": "tech-lead",
@@ -34607,7 +34632,8 @@
                 "name": "civilingenjörsexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 54
     },
     {
         "label": "systemadministratör",
@@ -36372,7 +36398,8 @@
                 "name": "hyresadministration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 101
     },
     {
         "label": "sw-utvecklare",
@@ -36457,7 +36484,8 @@
                 "name": "elektrifieringslösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "infrastrukturarkitekt",
@@ -36562,7 +36590,8 @@
                 "name": "ansible",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "förvaltningsledare",
@@ -37527,7 +37556,8 @@
                 "name": "telefoniområdet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 58
     },
     {
         "label": "webbutvecklare",
@@ -38440,7 +38470,8 @@
                 "name": "ledning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 44
     },
     {
         "label": "testingenjör",
@@ -39089,7 +39120,8 @@
                 "name": "elektroniska komponenter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 24
     },
     {
         "label": "ingenjör",
@@ -40058,7 +40090,8 @@
                 "name": "utvecklingsteam",
                 "count": 1
             }
-        ]
+        ],
+        "count": 36
     },
     {
         "label": "first line support",
@@ -40751,7 +40784,8 @@
                 "name": "gymnasieexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 54
     },
     {
         "label": "devops-utvecklare",
@@ -40920,7 +40954,8 @@
                 "name": "vidareutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "bim-strateg",
@@ -40945,7 +40980,8 @@
                 "name": "strategisk planering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "datasamordnare",
@@ -41158,7 +41194,8 @@
                 "name": "skinn",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "embedded software developer",
@@ -41703,7 +41740,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 57
     },
     {
         "label": "frontend developer",
@@ -42232,7 +42270,8 @@
                 "name": "libraries",
                 "count": 1
             }
-        ]
+        ],
+        "count": 60
     },
     {
         "label": "site reliability engineer",
@@ -42497,7 +42536,8 @@
                 "name": "compliance",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "service manager",
@@ -42750,7 +42790,8 @@
                 "name": "ekonomisk uppföljning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "technical support engineer",
@@ -42811,7 +42852,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "it-förvaltningsledare",
@@ -42904,7 +42946,8 @@
                 "name": "urvalsfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "supportmedarbetare",
@@ -43213,7 +43256,8 @@
                 "name": "printer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "uppdragsledare",
@@ -43566,7 +43610,8 @@
                 "name": "datakomtjänster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "data manager",
@@ -43651,7 +43696,8 @@
                 "name": "frameworks",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "bi-utvecklare",
@@ -44184,7 +44230,8 @@
                 "name": "kimball",
                 "count": 1
             }
-        ]
+        ],
+        "count": 23
     },
     {
         "label": "verksamhetsutvecklare",
@@ -45017,7 +45064,8 @@
                 "name": "it-tjänster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 37
     },
     {
         "label": "frontendutvecklare",
@@ -45986,7 +46034,8 @@
                 "name": "mobil",
                 "count": 1
             }
-        ]
+        ],
+        "count": 79
     },
     {
         "label": "software engineer",
@@ -47799,7 +47848,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 312
     },
     {
         "label": "applikationskonsult",
@@ -48340,7 +48390,8 @@
                 "name": "serverprodukter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 34
     },
     {
         "label": "databasadministratör",
@@ -49009,7 +49060,8 @@
                 "name": "linux-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 21
     },
     {
         "label": "konfigurationsledare",
@@ -49130,7 +49182,8 @@
                 "name": "design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "systemarkitekt",
@@ -49515,7 +49568,8 @@
                 "name": "systemkonstruktion",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "kravanalytiker",
@@ -50260,7 +50314,8 @@
                 "name": "hjälpmedel",
                 "count": 1
             }
-        ]
+        ],
+        "count": 36
     },
     {
         "label": "application developer",
@@ -50469,7 +50524,8 @@
                 "name": "c#",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "handläggare",
@@ -50886,7 +50942,8 @@
                 "name": "fysisk säkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "kundtjänstmedarbetare",
@@ -50991,7 +51048,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "digitaliseringschef",
@@ -51064,7 +51122,8 @@
                 "name": "verksamhetsprogram",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "config manager",
@@ -51505,7 +51564,8 @@
                 "name": "utvecklingsenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 15
     },
     {
         "label": "produktutvecklare",
@@ -51622,7 +51682,8 @@
                 "name": "arbetsliv",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "installationstekniker",
@@ -51851,7 +51912,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "it-service manager",
@@ -52016,7 +52078,8 @@
                 "name": "it strategy",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "systemkoordinator",
@@ -52157,7 +52220,8 @@
                 "name": "personaladministration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it-samordnare",
@@ -53198,7 +53262,8 @@
                 "name": "säkerhetsfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 53
     },
     {
         "label": "system engineer",
@@ -53827,7 +53892,8 @@
                 "name": "emc",
                 "count": 1
             }
-        ]
+        ],
+        "count": 56
     },
     {
         "label": "systemspecialist",
@@ -55504,7 +55570,8 @@
                 "name": "områdesnät",
                 "count": 1
             }
-        ]
+        ],
+        "count": 62
     },
     {
         "label": "it-infrastrukturspecialist",
@@ -55885,7 +55952,8 @@
                 "name": "citrix",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "teknisk specialist",
@@ -56358,7 +56426,8 @@
                 "name": "microsoft-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "tjänsteansvarig",
@@ -56643,7 +56712,8 @@
                 "name": "servicedesk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "backend-utvecklare",
@@ -57556,7 +57626,8 @@
                 "name": "gitlab",
                 "count": 1
             }
-        ]
+        ],
+        "count": 67
     },
     {
         "label": "it-arkitekt",
@@ -58645,7 +58716,8 @@
                 "name": "ledarskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 51
     },
     {
         "label": "servicedeskmedarbetare",
@@ -58866,7 +58938,8 @@
                 "name": "butik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "it service delivery manager",
@@ -58935,7 +59008,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-säkerhetsspecialist",
@@ -59756,7 +59830,8 @@
                 "name": "script",
                 "count": 1
             }
-        ]
+        ],
+        "count": 26
     },
     {
         "label": "informationssäkerhetssamordnare",
@@ -60097,7 +60172,8 @@
                 "name": "ledningssystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "dba",
@@ -60602,7 +60678,8 @@
                 "name": "bash",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "it-säkerhetsansvarig",
@@ -60999,7 +61076,8 @@
                 "name": "it-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "customer support manager",
@@ -61052,7 +61130,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "translator",
@@ -61081,7 +61160,8 @@
                 "name": "vision",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "systemingenjör",
@@ -63062,7 +63142,8 @@
                 "name": "systemverifiering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 111
     },
     {
         "label": "ui-designer",
@@ -63423,11 +63504,13 @@
                 "name": "velocity",
                 "count": 1
             }
-        ]
+        ],
+        "count": 20
     },
     {
         "label": "platform manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "applikationsutvecklare",
@@ -63752,7 +63835,8 @@
                 "name": "cloudlösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "researcher",
@@ -63809,7 +63893,8 @@
                 "name": "most",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "trainee",
@@ -64606,7 +64691,8 @@
                 "name": "frontutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 31
     },
     {
         "label": "systemdesigner",
@@ -64723,7 +64809,8 @@
                 "name": "systemlösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "nätverkstekniker",
@@ -66324,7 +66411,8 @@
                 "name": "hyper-v",
                 "count": 1
             }
-        ]
+        ],
+        "count": 114
     },
     {
         "label": "domänarkitekt",
@@ -66445,7 +66533,8 @@
                 "name": "togaf",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "software architect",
@@ -66594,7 +66683,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "it-projektledare",
@@ -67291,7 +67381,8 @@
                 "name": "ekonomisk uppföljning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 45
     },
     {
         "label": "product manager",
@@ -67572,7 +67663,8 @@
                 "name": "sql",
                 "count": 1
             }
-        ]
+        ],
+        "count": 26
     },
     {
         "label": "integrationsarkitekt",
@@ -67957,7 +68049,8 @@
                 "name": "utvecklingsprocesser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "utbildare",
@@ -68134,7 +68227,8 @@
                 "name": "tandvård",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "mjukvarutestare",
@@ -68651,7 +68745,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 19
     },
     {
         "label": "produktspecialist",
@@ -69100,7 +69195,8 @@
                 "name": "samordning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "nätverkskonsult",
@@ -69345,7 +69441,8 @@
                 "name": "ip",
                 "count": 1
             }
-        ]
+        ],
+        "count": 17
     },
     {
         "label": "javautvecklare",
@@ -70750,7 +70847,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 152
     },
     {
         "label": "nätverksingenjör",
@@ -71003,7 +71101,8 @@
                 "name": "devices",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "produktägare",
@@ -72164,7 +72263,8 @@
                 "name": "konsultföretag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 138
     },
     {
         "label": "supportperson",
@@ -72205,7 +72305,8 @@
                 "name": "kundvård",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": ".net-utvecklare",
@@ -73378,7 +73479,8 @@
                 "name": "rabbitmq",
                 "count": 1
             }
-        ]
+        ],
+        "count": 118
     },
     {
         "label": "lösningsarkitekt",
@@ -74871,7 +74973,8 @@
                 "name": "tekniska kunskaper",
                 "count": 1
             }
-        ]
+        ],
+        "count": 71
     },
     {
         "label": "testare",
@@ -76152,7 +76255,8 @@
                 "name": "testområdet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 95
     },
     {
         "label": "data engineer",
@@ -77217,7 +77321,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 86
     },
     {
         "label": "systemägare",
@@ -77562,7 +77667,8 @@
                 "name": "säkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "platform engineer",
@@ -77963,7 +78069,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 17
     },
     {
         "label": "lärare",
@@ -78076,7 +78183,8 @@
                 "name": "it-program",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "verifieringsingenjör",
@@ -78305,7 +78413,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "manager",
@@ -78842,7 +78951,8 @@
                 "name": "endpoint",
                 "count": 1
             }
-        ]
+        ],
+        "count": 32
     },
     {
         "label": "webbanalytiker",
@@ -78947,7 +79057,8 @@
                 "name": "analysområdet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "informationsarkitekt",
@@ -79184,7 +79295,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "android software developer",
@@ -79253,7 +79365,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "2nd line supporttekniker",
@@ -79446,7 +79559,8 @@
                 "name": "hyper-v",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "3rd-line support",
@@ -79675,7 +79789,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "informationssäkerhetsspecialist",
@@ -80136,7 +80251,8 @@
                 "name": "säkerhetsprogram",
                 "count": 1
             }
-        ]
+        ],
+        "count": 22
     },
     {
         "label": "fältsäljare",
@@ -80165,7 +80281,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kvalitetssäkrare",
@@ -80290,7 +80407,8 @@
                 "name": "anbudsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "personlig assistent",
@@ -80347,7 +80465,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "systemansvarig",
@@ -80724,7 +80843,8 @@
                 "name": "processarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "utvecklingsledare",
@@ -81093,7 +81213,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "software development engineer",
@@ -81210,7 +81331,8 @@
                 "name": "css",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "marketing automation specialist",
@@ -81295,7 +81417,8 @@
                 "name": "implementering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "datatekniker",
@@ -81332,7 +81455,8 @@
                 "name": "yrkesskicklighet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "integrationsutvecklare",
@@ -81761,7 +81885,8 @@
                 "name": "utredning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "team leader",
@@ -82494,7 +82619,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 43
     },
     {
         "label": "embeddedutvecklare",
@@ -83155,7 +83281,8 @@
                 "name": "medtech",
                 "count": 1
             }
-        ]
+        ],
+        "count": 42
     },
     {
         "label": "automationsingenjör",
@@ -83332,7 +83459,8 @@
                 "name": "automationslösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "säkerhetskonsult",
@@ -83501,7 +83629,8 @@
                 "name": "linux-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "project manager",
@@ -84046,7 +84175,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 73
     },
     {
         "label": "linux-konsult",
@@ -84099,7 +84229,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kravledare",
@@ -84168,7 +84299,8 @@
                 "name": "industri",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "kravspecialist",
@@ -84229,7 +84361,8 @@
                 "name": "tester",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "servicetekniker",
@@ -84446,7 +84579,8 @@
                 "name": "servicearbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "cloud security engineer",
@@ -84523,7 +84657,8 @@
                 "name": "linux-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "fälttekniker",
@@ -84672,7 +84807,8 @@
                 "name": "parker",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "operations engineer",
@@ -85033,7 +85169,8 @@
                 "name": "cisco",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "data analyst",
@@ -85570,7 +85707,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 44
     },
     {
         "label": "drifttekniker",
@@ -86847,7 +86985,8 @@
                 "name": "leveransteam",
                 "count": 1
             }
-        ]
+        ],
+        "count": 58
     },
     {
         "label": "aml",
@@ -86884,7 +87023,8 @@
                 "name": "finansbranschen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "security engineer",
@@ -87069,7 +87209,8 @@
                 "name": "network security",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "backuptekniker",
@@ -87126,7 +87267,8 @@
                 "name": "övervakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "frontend-lead",
@@ -87139,7 +87281,8 @@
                 "name": "react native",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "administrator",
@@ -87684,7 +87827,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 29
     },
     {
         "label": "produktledare",
@@ -87777,7 +87921,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "arkitekt",
@@ -88378,7 +88523,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 22
     },
     {
         "label": "riskkonsult",
@@ -88391,7 +88537,8 @@
                 "name": "it-inriktning",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "affärscontroller",
@@ -88436,7 +88583,8 @@
                 "name": "försäljningsprocessen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationssäkerhetsstrateg",
@@ -88481,7 +88629,8 @@
                 "name": "informationssäkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "coordinator",
@@ -88866,7 +89015,8 @@
                 "name": "mi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 29
     },
     {
         "label": "förvaltare",
@@ -89243,7 +89393,8 @@
                 "name": "träning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "delivery manager",
@@ -89308,7 +89459,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "it-supportspecialist",
@@ -89541,7 +89693,8 @@
                 "name": "ärendehantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "postdoktor",
@@ -90190,7 +90343,8 @@
                 "name": "maskinteknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 25
     },
     {
         "label": "interaktionsdesigner",
@@ -90267,7 +90421,8 @@
                 "name": "mätverktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "driftansvarig",
@@ -90532,7 +90687,8 @@
                 "name": "sanering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "gameplay engineer",
@@ -90541,7 +90697,8 @@
                 "name": "game engines",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "objektledare",
@@ -90946,7 +91103,8 @@
                 "name": "progress",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "agil coach",
@@ -91207,7 +91365,8 @@
                 "name": "utvecklingsprojekt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 18
     },
     {
         "label": "teknisk testare",
@@ -91852,7 +92011,8 @@
                 "name": "masterdata",
                 "count": 1
             }
-        ]
+        ],
+        "count": 31
     },
     {
         "label": "testledare",
@@ -92885,7 +93045,8 @@
                 "name": "kravfångst",
                 "count": 1
             }
-        ]
+        ],
+        "count": 77
     },
     {
         "label": "it-ansvarig",
@@ -93350,7 +93511,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "infrastrukturtekniker",
@@ -93743,7 +93905,8 @@
                 "name": "nätverksteknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "e-commerce manager",
@@ -93872,7 +94035,8 @@
                 "name": "finska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "cyber security engineer",
@@ -93981,7 +94145,8 @@
                 "name": "protocols",
                 "count": 1
             }
-        ]
+        ],
+        "count": 15
     },
     {
         "label": "information security officer",
@@ -94018,7 +94183,8 @@
                 "name": "artificial intelligence",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "onsite-tekniker",
@@ -94451,7 +94617,8 @@
                 "name": "trådlösa nätverk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 34
     },
     {
         "label": "lead programmer",
@@ -94708,7 +94875,8 @@
                 "name": "rekrytering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "function owner",
@@ -94729,7 +94897,8 @@
                 "name": "protocols",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "windowstekniker",
@@ -95006,7 +95175,8 @@
                 "name": "organisationer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "chief product officer",
@@ -95071,7 +95241,8 @@
                 "name": "mjukvaruprodukter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "enterprisearkitekt",
@@ -95284,7 +95455,8 @@
                 "name": "informationsarkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "informationssamordnare",
@@ -95309,7 +95481,8 @@
                 "name": "informationshantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "implementationstekniker",
@@ -95386,7 +95559,8 @@
                 "name": "övervakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "scala-utvecklare",
@@ -95503,7 +95677,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "plattformsansvarig",
@@ -95684,7 +95859,8 @@
                 "name": "systemutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "konsultchef",
@@ -95833,7 +96009,8 @@
                 "name": "personalutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "administratör",
@@ -96594,7 +96771,8 @@
                 "name": "vårdsektorn",
                 "count": 1
             }
-        ]
+        ],
+        "count": 34
     },
     {
         "label": "systemvetare",
@@ -96755,7 +96933,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "it-support manager",
@@ -96796,7 +96975,8 @@
                 "name": "slack",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "servicedesktekniker",
@@ -97057,7 +97237,8 @@
                 "name": "ständiga förbättringar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "teknisk arkitekt",
@@ -97130,7 +97311,8 @@
                 "name": "cisco",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "mjukvaruingenjör",
@@ -97547,7 +97729,8 @@
                 "name": "front end",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "bildanalytiker",
@@ -97648,7 +97831,8 @@
                 "name": "videohantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "systemledare",
@@ -97757,7 +97941,8 @@
                 "name": "larm",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "noc-tekniker",
@@ -98046,7 +98231,8 @@
                 "name": "ärendehantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "analytiker",
@@ -98431,7 +98617,8 @@
                 "name": "försvarspolitik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "devsecops engineer",
@@ -98660,7 +98847,8 @@
                 "name": "terraform",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teamchef",
@@ -98701,7 +98889,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "nätverksspecialist",
@@ -99354,7 +99543,8 @@
                 "name": "ntp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "chefsingenjör",
@@ -99379,7 +99569,8 @@
                 "name": "designfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "utbildningskonsult",
@@ -99428,7 +99619,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "inventory manager",
@@ -99469,11 +99661,13 @@
                 "name": "reservdelsplanering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "study manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "virtualiseringstekniker",
@@ -99566,7 +99760,8 @@
                 "name": "installation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "qa-ingenjör",
@@ -99847,7 +100042,8 @@
                 "name": "javascript",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "forskningsingenjör",
@@ -100320,7 +100516,8 @@
                 "name": "nätverkskommunikation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "initiativledare",
@@ -100453,7 +100650,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "integrationskonsult",
@@ -100626,7 +100824,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "support-specialist",
@@ -101119,7 +101318,8 @@
                 "name": "införandeprojekt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 24
     },
     {
         "label": "traffic",
@@ -101356,7 +101556,8 @@
                 "name": "artifactory",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "agile coach",
@@ -101429,7 +101630,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "mjukvaruarkitekt",
@@ -101782,7 +101984,8 @@
                 "name": "asp.net core",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "design engineer",
@@ -101923,7 +102126,8 @@
                 "name": "catia v5",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "data scientist",
@@ -102428,7 +102632,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 37
     },
     {
         "label": "it-säkerhetsadministratör",
@@ -102497,7 +102702,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "applikationstekniker",
@@ -102694,7 +102900,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "it-säkerhetstekniker",
@@ -102827,7 +103034,8 @@
                 "name": "brandvägg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "systemoperatör",
@@ -102996,7 +103204,8 @@
                 "name": "nginx",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "informatiker",
@@ -103109,7 +103318,8 @@
                 "name": "unified modeling language",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "sharepoint-utvecklare",
@@ -103186,7 +103396,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "365-konsult",
@@ -103207,7 +103418,8 @@
                 "name": "microsoft azure",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "tjänsteutvecklare",
@@ -103376,7 +103588,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it-personal",
@@ -103417,7 +103630,8 @@
                 "name": "kringutrustning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-forensiker",
@@ -103634,7 +103848,8 @@
                 "name": "arbetsliv",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "engineering manager",
@@ -103727,7 +103942,8 @@
                 "name": "customer journey",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "generalist",
@@ -103792,7 +104008,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "vdc-developer",
@@ -103801,7 +104018,8 @@
                 "name": "vdc",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "servertekniker",
@@ -104194,7 +104412,8 @@
                 "name": "behörigheter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "komponentansvarig",
@@ -104259,7 +104478,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kundansvarig",
@@ -104572,7 +104792,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "teknisk rådgivare",
@@ -104661,7 +104882,8 @@
                 "name": "arbetslivserfarenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "programledare",
@@ -104838,7 +105060,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "testautomatiserare",
@@ -105207,7 +105430,8 @@
                 "name": "e-handel",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "produktchef",
@@ -105244,7 +105468,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "quality assurance",
@@ -105485,7 +105710,8 @@
                 "name": "testplaner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 17
     },
     {
         "label": "cloud engineer",
@@ -105934,7 +106160,8 @@
                 "name": "brandvägg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 29
     },
     {
         "label": "system design engineer",
@@ -106035,7 +106262,8 @@
                 "name": "automotive",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "affärskonsult",
@@ -106160,7 +106388,8 @@
                 "name": "asfalt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "it-säkerhetsarkitekt",
@@ -106685,7 +106914,8 @@
                 "name": "energisystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 17
     },
     {
         "label": "affärssystemkonsult",
@@ -106778,7 +107008,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "it-säkerhetssamordnare",
@@ -106983,7 +107214,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "linuxtekniker",
@@ -107328,7 +107560,8 @@
                 "name": "arbetsmetoder",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "unix-tekniker",
@@ -107401,7 +107634,8 @@
                 "name": "arbetsmetoder",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-operations manager",
@@ -107478,7 +107712,8 @@
                 "name": "it-tjänster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "testutvecklare",
@@ -108155,7 +108390,8 @@
                 "name": "försvarsindustri",
                 "count": 1
             }
-        ]
+        ],
+        "count": 21
     },
     {
         "label": "dispatcher",
@@ -108236,7 +108472,8 @@
                 "name": "garantifrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "system manager",
@@ -108441,7 +108678,8 @@
                 "name": "show",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "säkerhetsspecialist",
@@ -108758,7 +108996,8 @@
                 "name": "regelverk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "leveransansvarig",
@@ -108975,7 +109214,8 @@
                 "name": "b2b",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "installatör",
@@ -109052,7 +109292,8 @@
                 "name": "driftsättning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "technical lead",
@@ -109505,7 +109746,8 @@
                 "name": "cms",
                 "count": 1
             }
-        ]
+        ],
+        "count": 25
     },
     {
         "label": "databasansvarig",
@@ -109546,7 +109788,8 @@
                 "name": "stata",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "webbansvarig",
@@ -109683,7 +109926,8 @@
                 "name": "kundtjänst",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "technical expert",
@@ -109692,7 +109936,8 @@
                 "name": "most",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "crm-specialist",
@@ -109729,7 +109974,8 @@
                 "name": "templating",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "art director",
@@ -109970,7 +110216,8 @@
                 "name": "innovation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "lead engineer",
@@ -110159,7 +110406,8 @@
                 "name": "jenkins",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "service designer",
@@ -110252,7 +110500,8 @@
                 "name": "workflows",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "dataanalytiker",
@@ -110481,7 +110730,8 @@
                 "name": "material",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "säkerhetsskyddshandläggare",
@@ -110542,7 +110792,8 @@
                 "name": "försvarsmakten",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumentationstekniker",
@@ -110651,7 +110902,8 @@
                 "name": "dokumentationsteknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "android-utvecklare",
@@ -111072,7 +111324,8 @@
                 "name": "nyutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 21
     },
     {
         "label": "qa-specialist",
@@ -111269,7 +111522,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "customer success manager",
@@ -111406,7 +111660,8 @@
                 "name": "compliance",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "lösningsspecialist",
@@ -111563,7 +111818,8 @@
                 "name": "databaser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-administratör",
@@ -111840,7 +112096,8 @@
                 "name": "inventariehantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "certifierad it-arkitekt",
@@ -111901,7 +112158,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "e-handelsadministratör",
@@ -111942,7 +112200,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "release train engineer",
@@ -112011,7 +112270,8 @@
                 "name": "automation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "helpdesktekniker",
@@ -112348,7 +112608,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "diskrimineringsombudsman",
@@ -112405,7 +112666,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "managementkonsult",
@@ -112698,7 +112960,8 @@
                 "name": "konsultuppdrag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "business analyst",
@@ -113511,7 +113774,8 @@
                 "name": "verksamhetsprocesser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 77
     },
     {
         "label": "it-konsult",
@@ -114336,7 +114600,8 @@
                 "name": "qa",
                 "count": 1
             }
-        ]
+        ],
+        "count": 56
     },
     {
         "label": "it-strateg",
@@ -114525,7 +114790,8 @@
                 "name": "strategiskt arbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "serviceadministratör",
@@ -114538,7 +114804,8 @@
                 "name": "office 365",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "driftsamordnare",
@@ -114595,7 +114862,8 @@
                 "name": "leveransteam",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "implementatör",
@@ -114636,7 +114904,8 @@
                 "name": "programmering",
                 "count": 3
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "operatör",
@@ -114713,7 +114982,8 @@
                 "name": "urvalsfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "nätverksarkitekt",
@@ -114838,7 +115108,8 @@
                 "name": "säkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "test lead",
@@ -114947,7 +115218,8 @@
                 "name": "verifiering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "web analyst",
@@ -115040,7 +115312,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "support manager",
@@ -115113,7 +115386,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teknisk koordinator",
@@ -115514,7 +115788,8 @@
                 "name": "instrument",
                 "count": 1
             }
-        ]
+        ],
+        "count": 15
     },
     {
         "label": "projektstöd",
@@ -115651,7 +115926,8 @@
                 "name": "ekonomiutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "intelligence-konsult",
@@ -115756,7 +116032,8 @@
                 "name": "högskoleutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "service delivery manager",
@@ -116029,7 +116306,8 @@
                 "name": "restore",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "kundserviceagent",
@@ -116074,7 +116352,8 @@
                 "name": "växeltjänster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "koncernarkitekt",
@@ -116095,7 +116374,8 @@
                 "name": "arkitekturmönster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk konsult",
@@ -116280,7 +116560,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "produktdesigner",
@@ -116349,7 +116630,8 @@
                 "name": "fintech",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "infrastrukturutvecklare",
@@ -116534,7 +116816,8 @@
                 "name": "iscsi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "integrationsingenjör",
@@ -116707,7 +116990,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teknisksupport",
@@ -116756,7 +117040,8 @@
                 "name": "b2b",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "product analyst",
@@ -116809,7 +117094,8 @@
                 "name": "sales",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "mätvärdesoperatör",
@@ -116894,7 +117180,8 @@
                 "name": "mätning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "koordinator",
@@ -117187,7 +117474,8 @@
                 "name": "flödesscheman",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "penetrationstestare",
@@ -117376,7 +117664,8 @@
                 "name": "databaser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "systemtestare",
@@ -117773,7 +118062,8 @@
                 "name": "kravanalys",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "java backend developer",
@@ -117922,7 +118212,8 @@
                 "name": "api",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "verification engineer",
@@ -118055,7 +118346,8 @@
                 "name": "exploratory testing",
                 "count": 1
             }
-        ]
+        ],
+        "count": 14
     },
     {
         "label": "ict-tekniker",
@@ -118148,7 +118440,8 @@
                 "name": "fiber",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "gruppledare",
@@ -118161,7 +118454,8 @@
                 "name": "budgetansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "python-utvecklare",
@@ -118354,7 +118648,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "service desk manager",
@@ -118491,7 +118786,8 @@
                 "name": "utvecklingssamtal",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "teknisk systemförvaltare",
@@ -118816,7 +119112,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "it-drifttekniker",
@@ -119121,7 +119418,8 @@
                 "name": "it-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "projektassistent",
@@ -119134,7 +119432,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "elnätsprojektör",
@@ -119199,7 +119498,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "beredare",
@@ -119300,7 +119600,8 @@
                 "name": "arbetsinstruktioner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "teammanager",
@@ -119349,7 +119650,8 @@
                 "name": "act",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "testspecialist",
@@ -119474,7 +119776,8 @@
                 "name": "systemtest",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "logistiktekniker",
@@ -119539,7 +119842,8 @@
                 "name": "arbetsinstruktioner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "fpga-utvecklare",
@@ -119660,7 +119964,8 @@
                 "name": "elektroteknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "applikationssupport",
@@ -119745,7 +120050,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "samordnare",
@@ -120118,7 +120424,8 @@
                 "name": "databaser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "kundtjänstansvarig",
@@ -120155,7 +120462,8 @@
                 "name": "kundtjänst",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "konsultenhetschef",
@@ -120200,7 +120508,8 @@
                 "name": "konsultuppdrag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "planerare",
@@ -120265,7 +120574,8 @@
                 "name": "försvarsmakten",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkerhetssamordnare",
@@ -120410,7 +120720,8 @@
                 "name": "säkerhetsfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "software asset manager",
@@ -120519,7 +120830,8 @@
                 "name": "cloud",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-manager",
@@ -120576,7 +120888,8 @@
                 "name": "lean",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "cybersäkerhetsspecialist",
@@ -120809,7 +121122,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "iam-konsult",
@@ -120934,7 +121248,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "rapportutvecklare",
@@ -121007,7 +121322,8 @@
                 "name": "utvecklingsenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationssäkerhetskonsult",
@@ -121116,7 +121432,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "associate",
@@ -121305,7 +121622,8 @@
                 "name": "ip",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "infrastrukturspecialist",
@@ -121798,11 +122116,13 @@
                 "name": "terraform",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "collector",
-        "skills": []
+        "skills": [],
+        "count": 6
     },
     {
         "label": "vårdsystemsamordnare",
@@ -121863,7 +122183,8 @@
                 "name": "vårdsystemfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "game programmer",
@@ -121932,7 +122253,8 @@
                 "name": "game design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "fältservicetekniker",
@@ -122041,7 +122363,8 @@
                 "name": "butiksinstallationer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "backend engineer",
@@ -122306,7 +122629,8 @@
                 "name": "terraform",
                 "count": 1
             }
-        ]
+        ],
+        "count": 24
     },
     {
         "label": "extrapersonal",
@@ -122375,7 +122699,8 @@
                 "name": "sortering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "produktionstekniker",
@@ -122544,11 +122869,13 @@
                 "name": "javascript",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "product marketing manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "release manager",
@@ -122649,7 +122976,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "uppdragsansvarig",
@@ -122670,11 +122998,13 @@
                 "name": "svenska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "hardware test engineer",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "webbredaktör",
@@ -122807,7 +123137,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "sales engineer",
@@ -122816,7 +123147,8 @@
                 "name": "access control",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "facility technician",
@@ -122857,7 +123189,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-project manager",
@@ -123030,7 +123363,8 @@
                 "name": "gcp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "supportingenjör",
@@ -123135,7 +123469,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "helpdeskmedarbetare",
@@ -123352,7 +123687,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "automationsprogrammerare",
@@ -123397,7 +123733,8 @@
                 "name": "automation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "operations manager",
@@ -123430,7 +123767,8 @@
                 "name": "offshore",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it-säkerhetshandläggare",
@@ -123499,11 +123837,13 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-säljare",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "it-systemadministratör",
@@ -123672,7 +124012,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "utvecklingsingenjör",
@@ -124021,7 +124362,8 @@
                 "name": "produktionsstopp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "it-säkerhetsingenjör",
@@ -124086,7 +124428,8 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "iam-specialist",
@@ -124135,7 +124478,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "licensadministratör",
@@ -124188,7 +124532,8 @@
                 "name": "ledarskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "verksamhetsstöd",
@@ -124393,7 +124738,8 @@
                 "name": "kvalitetsfrågor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "databasutvecklare",
@@ -124606,7 +124952,8 @@
                 "name": "versionshantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "etl-utvecklare",
@@ -124703,7 +125050,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk produktägare",
@@ -124752,7 +125100,8 @@
                 "name": "arbetslivserfarenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "quality engineer",
@@ -124769,7 +125118,8 @@
                 "name": "scrum",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "verksamhetsledare",
@@ -124818,7 +125168,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationsförvaltare",
@@ -124855,7 +125206,8 @@
                 "name": "kvalitetsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "applikationsingenjör",
@@ -124960,7 +125312,8 @@
                 "name": "expertkunskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "digital designer",
@@ -124989,7 +125342,8 @@
                 "name": "digital design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "strategist",
@@ -125022,7 +125376,8 @@
                 "name": "konsultverksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "produktionsledare",
@@ -125143,7 +125498,8 @@
                 "name": "systemutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "produktansvarig",
@@ -125212,7 +125568,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "solution manager",
@@ -125321,7 +125678,8 @@
                 "name": "mission",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "dw-utvecklare",
@@ -125402,7 +125760,8 @@
                 "name": "analys",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "business intelligence analyst",
@@ -125459,7 +125818,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "funktionsutvecklare",
@@ -125600,7 +125960,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "compliance engineer",
@@ -125609,7 +125970,8 @@
                 "name": "regelverk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "software project manager",
@@ -125622,7 +125984,8 @@
                 "name": "budget",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical artist",
@@ -125691,7 +126054,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it security architect",
@@ -125740,7 +126104,8 @@
                 "name": "design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "officer",
@@ -125885,7 +126250,8 @@
                 "name": "risk management",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "development engineer",
@@ -126050,7 +126416,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "buyer",
@@ -126079,7 +126446,8 @@
                 "name": "e-sourcing",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "customer support",
@@ -126256,7 +126624,8 @@
                 "name": "api",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "agent",
@@ -126573,7 +126942,8 @@
                 "name": "word",
                 "count": 1
             }
-        ]
+        ],
+        "count": 22
     },
     {
         "label": "qa lead",
@@ -126678,7 +127048,8 @@
                 "name": "scripts",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "bi-konsult",
@@ -126923,7 +127294,8 @@
                 "name": "api",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "driftsättare",
@@ -126980,7 +127352,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "fastighetstekniker",
@@ -127025,7 +127398,8 @@
                 "name": "it-kunskaper",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "seo specialist",
@@ -127070,7 +127444,8 @@
                 "name": "content marketing",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "marknadsförare",
@@ -127179,7 +127554,8 @@
                 "name": "copywriting",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "dataskyddsombud",
@@ -127356,7 +127732,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "objektspecialist",
@@ -127757,7 +128134,8 @@
                 "name": "konfigurering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 18
     },
     {
         "label": "process manager",
@@ -127850,7 +128228,8 @@
                 "name": "smart",
                 "count": 1
             }
-        ]
+        ],
+        "count": 8
     },
     {
         "label": "managing director",
@@ -127859,7 +128238,8 @@
                 "name": "sales",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-sekreterare",
@@ -127908,7 +128288,8 @@
                 "name": "systemlösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "speldesigner",
@@ -127945,7 +128326,8 @@
                 "name": "game design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kvalificerad handläggare",
@@ -127990,7 +128372,8 @@
                 "name": "försvarsmakten",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "solution leader",
@@ -128011,7 +128394,8 @@
                 "name": "lean",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "cloud-arkitekt",
@@ -128136,7 +128520,8 @@
                 "name": "kanban",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "kommunikationstekniker",
@@ -128285,7 +128670,8 @@
                 "name": "ciscos",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "leveransledare",
@@ -128438,7 +128824,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "enhetschef",
@@ -128655,7 +129042,8 @@
                 "name": "serviceorganisation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "teknikspecialist",
@@ -129136,7 +129524,8 @@
                 "name": "tester",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "native-utvecklare",
@@ -129161,7 +129550,8 @@
                 "name": "android",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "planner",
@@ -129234,7 +129624,8 @@
                 "name": "client",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "kryptolog",
@@ -129307,7 +129698,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-controller",
@@ -129316,7 +129708,8 @@
                 "name": "svenska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "tjänstedesigner",
@@ -129437,7 +129830,8 @@
                 "name": "cms",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "webbstrateg",
@@ -129594,7 +129988,8 @@
                 "name": "episerver",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "integratör",
@@ -129763,7 +130158,8 @@
                 "name": "molnmiljöer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "säkerhetsarkitekt",
@@ -129800,7 +130196,8 @@
                 "name": "säkerhetslösningar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "change manager",
@@ -129865,7 +130262,8 @@
                 "name": "förändringsledning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "1st line supporttekniker",
@@ -130202,7 +130600,8 @@
                 "name": "lag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 15
     },
     {
         "label": "projektör",
@@ -130271,7 +130670,8 @@
                 "name": "telekommunikation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "e-tjänsteutvecklare",
@@ -130364,7 +130764,8 @@
                 "name": "privatliv",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "accountant",
@@ -130377,7 +130778,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "affärsprojektledare",
@@ -130434,7 +130836,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "artist",
@@ -130479,7 +130882,8 @@
                 "name": "shaders",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "trainer",
@@ -130520,7 +130924,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "application support specialist",
@@ -130529,7 +130934,8 @@
                 "name": "e-commerce",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical writer",
@@ -130630,7 +131036,8 @@
                 "name": "videoredigering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "it-utvecklare",
@@ -130683,7 +131090,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "delprojektledare",
@@ -130808,7 +131216,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "teknisk administratör",
@@ -130905,7 +131314,8 @@
                 "name": "administration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "js-utvecklare",
@@ -130998,7 +131408,8 @@
                 "name": "html5",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "program manager",
@@ -131103,7 +131514,8 @@
                 "name": "projektstyrning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 13
     },
     {
         "label": "incident manager",
@@ -131204,7 +131616,8 @@
                 "name": "processutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teknisk dokumentatör",
@@ -131257,7 +131670,8 @@
                 "name": "ils",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "cloud-specialist",
@@ -131342,7 +131756,8 @@
                 "name": "automation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "integration architect",
@@ -131411,7 +131826,8 @@
                 "name": "content management",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "konfigurationstekniker",
@@ -131468,7 +131884,8 @@
                 "name": "utleveranser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "project manager officer",
@@ -131513,7 +131930,8 @@
                 "name": "universitetsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "projektkoordinator",
@@ -132078,7 +132496,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 19
     },
     {
         "label": "producent",
@@ -132115,7 +132534,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "cloud platform engineer",
@@ -132236,7 +132656,8 @@
                 "name": "ml",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "processpecialist",
@@ -132285,7 +132706,8 @@
                 "name": "mätning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-tjänsteansvarig",
@@ -132378,7 +132800,8 @@
                 "name": "engelska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teknisk designer",
@@ -132391,7 +132814,8 @@
                 "name": "nx",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "beslutsstöd",
@@ -132452,7 +132876,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-infrastrukturtekniker",
@@ -132705,7 +133130,8 @@
                 "name": "behörigheter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "testchef",
@@ -132730,7 +133156,8 @@
                 "name": "mjukvarutestning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dataansvarig",
@@ -132751,7 +133178,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "analysansvarig",
@@ -132772,7 +133200,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "processutvecklare",
@@ -133021,7 +133450,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "verksamhetskonsult",
@@ -133202,7 +133632,8 @@
                 "name": "vuxenutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "chief information officer",
@@ -133247,7 +133678,8 @@
                 "name": "sql-server",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "enterprisekonsult",
@@ -133280,7 +133712,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "portföljadministratör",
@@ -133333,7 +133766,8 @@
                 "name": "konsultverksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "processledare",
@@ -133574,11 +134008,13 @@
                 "name": "agil metodik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "datainsamlare",
-        "skills": []
+        "skills": [],
+        "count": 6
     },
     {
         "label": "systemkonsult",
@@ -133859,7 +134295,8 @@
                 "name": "leveransteam",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "tm",
@@ -133872,7 +134309,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "servicekoordinator",
@@ -133885,7 +134323,8 @@
                 "name": "registrering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "prestandatestare",
@@ -133970,7 +134409,8 @@
                 "name": "enhetstester",
                 "count": 3
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "365-utvecklare",
@@ -134043,7 +134483,8 @@
                 "name": "bi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "compliance officer",
@@ -134068,7 +134509,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "cto",
@@ -134253,7 +134695,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "validation engineer",
@@ -134322,7 +134765,8 @@
                 "name": "on-site",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "group manager",
@@ -134355,7 +134799,8 @@
                 "name": "transport",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "knowledge manager",
@@ -134392,7 +134837,8 @@
                 "name": "personuppgifter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "gruppchef",
@@ -134565,7 +135011,8 @@
                 "name": "ledarutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "it-driftchef",
@@ -134714,7 +135161,8 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "mechatronics engineer",
@@ -134727,7 +135175,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "technical account manager",
@@ -134836,7 +135285,8 @@
                 "name": "huvudansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "transformation manager",
@@ -134857,7 +135307,8 @@
                 "name": "innovation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "software configuration manager",
@@ -134910,7 +135361,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "webbdesigner",
@@ -134995,7 +135447,8 @@
                 "name": "javascript",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "driftoperatör",
@@ -135076,7 +135529,8 @@
                 "name": "teknikområden",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "unit manager",
@@ -135089,7 +135543,8 @@
                 "name": "operativsystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it program manager",
@@ -135110,7 +135565,8 @@
                 "name": "kundansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "tjänsteområdesansvarig",
@@ -135359,11 +135815,13 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "product development project manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "supportansvarig",
@@ -135504,7 +135962,8 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "nätverksinstallatör",
@@ -135541,7 +136000,8 @@
                 "name": "wi-fi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "c-utvecklare",
@@ -135702,7 +136162,8 @@
                 "name": "civilingenjörsexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "projektadministratör",
@@ -135923,7 +136384,8 @@
                 "name": "ekonomi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "multidiciplinär projektledare",
@@ -135956,7 +136418,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "driftledare",
@@ -136081,11 +136544,13 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "section manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "data architect",
@@ -136222,7 +136687,8 @@
                 "name": "forefront",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "utbildningssamordnare",
@@ -136299,7 +136765,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "teknikersupport",
@@ -136316,7 +136783,8 @@
                 "name": "supportärenden",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "ledningssoldat",
@@ -136381,7 +136849,8 @@
                 "name": "försvarsmakten",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ikt-tekniker",
@@ -136474,7 +136943,8 @@
                 "name": "av-produkter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "butikssäljare",
@@ -136519,7 +136989,8 @@
                 "name": "butiksarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ui-utvecklare",
@@ -136548,7 +137019,8 @@
                 "name": "svenska",
                 "count": 3
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "linux-utvecklare",
@@ -136709,7 +137181,8 @@
                 "name": "bash",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "affärsanalytiker",
@@ -136726,7 +137199,8 @@
                 "name": "produktledning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systems manager",
@@ -136735,7 +137209,8 @@
                 "name": "inventor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkerhetsoperatör",
@@ -136796,7 +137271,8 @@
                 "name": "tester",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "verksamhetsspecialist",
@@ -136909,7 +137385,8 @@
                 "name": "vidareutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "cloudutvecklare",
@@ -137074,7 +137551,8 @@
                 "name": "linux-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "process owner",
@@ -137103,7 +137581,8 @@
                 "name": "ip",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "forensiker",
@@ -137156,7 +137635,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "firmware developer",
@@ -137197,7 +137677,8 @@
                 "name": "boot",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "säkerhetshandläggare",
@@ -137270,7 +137751,8 @@
                 "name": "föreskrifter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-förvaltare",
@@ -137395,7 +137877,8 @@
                 "name": "optioner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "informationssäkerhetschef",
@@ -137472,7 +137955,8 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "business support manager",
@@ -137553,7 +138037,8 @@
                 "name": "ledarskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "applikationspaketerare",
@@ -137746,7 +138231,8 @@
                 "name": "hyper-v",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "nätanalytiker",
@@ -137855,7 +138341,8 @@
                 "name": "energibolag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "virtualiseringsspecialist",
@@ -137916,7 +138403,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kvalitetsansvarig",
@@ -137981,7 +138469,8 @@
                 "name": "kravställan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "verksamhetsanalytiker",
@@ -138066,7 +138555,8 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "utvecklingschef",
@@ -138087,7 +138577,8 @@
                 "name": "utvecklingsteam",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationssäkerhetsansvarig",
@@ -138264,7 +138755,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "datavetare",
@@ -138313,7 +138805,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "digitaliseringsutvecklare",
@@ -138362,7 +138855,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "dokumentationsstöd",
@@ -138439,7 +138933,8 @@
                 "name": "dokumentationssystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "line-tekniker",
@@ -138520,7 +139015,8 @@
                 "name": "migreringar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "digitaliseringsansvarig",
@@ -138545,7 +139041,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "vice president",
@@ -138586,7 +139083,8 @@
                 "name": "hybris",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "faktureringsansvarig",
@@ -138667,7 +139165,8 @@
                 "name": "systemadministration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "application engineer",
@@ -138832,7 +139331,8 @@
                 "name": "ammunition",
                 "count": 1
             }
-        ]
+        ],
+        "count": 11
     },
     {
         "label": "backend software engineer",
@@ -138893,7 +139393,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "plc-programmerare",
@@ -139142,7 +139643,8 @@
                 "name": "scada",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "grafisk designer",
@@ -139235,7 +139737,8 @@
                 "name": "grafik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "linuxadministratör",
@@ -139340,7 +139843,8 @@
                 "name": "linux-miljö",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "enterprise architect",
@@ -139541,7 +140045,8 @@
                 "name": "microsoft azure",
                 "count": 1
             }
-        ]
+        ],
+        "count": 16
     },
     {
         "label": "förändringsledare",
@@ -139702,7 +140207,8 @@
                 "name": "strategiskt stöd",
                 "count": 1
             }
-        ]
+        ],
+        "count": 12
     },
     {
         "label": "ux-lead",
@@ -139787,7 +140293,8 @@
                 "name": "ui-design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "ios-utvecklare",
@@ -139936,7 +140443,8 @@
                 "name": "vidareutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 9
     },
     {
         "label": "systemanalytiker",
@@ -140069,7 +140577,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "testdesigner",
@@ -140174,7 +140683,8 @@
                 "name": "embedded system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "testarkitekt",
@@ -140199,7 +140709,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "co",
@@ -140344,7 +140855,8 @@
                 "name": "operativsystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "test manager",
@@ -140465,7 +140977,8 @@
                 "name": "brandvägg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 10
     },
     {
         "label": "tjänsteägare",
@@ -140578,7 +141091,8 @@
                 "name": "informationssäkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "api-utvecklare",
@@ -140651,7 +141165,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "devops-ingenjör",
@@ -140808,7 +141323,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "mätvärdesadministratör",
@@ -140853,7 +141369,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "grossist",
@@ -140886,7 +141403,8 @@
                 "name": "expertkunskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sitevision-utvecklare",
@@ -140951,7 +141469,8 @@
                 "name": "sitevision",
                 "count": 3
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "business developer",
@@ -141048,7 +141567,8 @@
                 "name": "prospektering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "driftsättningsingenjör",
@@ -141069,7 +141589,8 @@
                 "name": "driftsättning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "database administrator",
@@ -141170,7 +141691,8 @@
                 "name": "sql-server",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "digitaliseringsledare",
@@ -141283,7 +141805,8 @@
                 "name": "systemutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "provledare",
@@ -141344,7 +141867,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "kommunikatör",
@@ -141397,7 +141921,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "stadsnätstekniker",
@@ -141446,7 +141971,8 @@
                 "name": "fiber",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "supply chain-konsult",
@@ -141463,7 +141989,8 @@
                 "name": "engelska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "service reliability engineer",
@@ -141516,7 +142043,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-handläggare",
@@ -141737,7 +142265,8 @@
                 "name": "inventering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "techsupport",
@@ -141782,7 +142311,8 @@
                 "name": "norska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "c#-utvecklare",
@@ -141935,7 +142465,8 @@
                 "name": "mjukvara",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "cobol-utvecklare",
@@ -141956,7 +142487,8 @@
                 "name": "ibm mainframe",
                 "count": 3
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "licenssamordnare",
@@ -142021,7 +142553,8 @@
                 "name": "avtalsförhandlingar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "c++ software engineer",
@@ -142038,7 +142571,8 @@
                 "name": "design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "plattformsarkitekt",
@@ -142131,7 +142665,8 @@
                 "name": "processtöd",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "nätplanerare",
@@ -142160,7 +142695,8 @@
                 "name": "nätinformation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "styrsystemkonstruktör",
@@ -142201,7 +142737,8 @@
                 "name": "styrsystemskonstruktion",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "hardware engineer",
@@ -142270,7 +142807,8 @@
                 "name": "felsökningsinstruktioner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "affärsutvecklare",
@@ -142303,7 +142841,8 @@
                 "name": "försäljning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "kvalitetsutvecklare",
@@ -142360,7 +142899,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sportkoordinator",
@@ -142389,11 +142929,13 @@
                 "name": "tekniska kunskaper",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "funktionsägare",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "logistikutvecklare",
@@ -142446,7 +142988,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumenthanterare",
@@ -142463,7 +143006,8 @@
                 "name": "systemvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumentkoordinator",
@@ -142492,7 +143036,8 @@
                 "name": "branscherfarenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "quality assurance manager",
@@ -142569,7 +143114,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "systemkonstruktör",
@@ -142658,7 +143204,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk skribent",
@@ -142735,7 +143282,8 @@
                 "name": "produktinformation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "printtekniker",
@@ -142780,7 +143328,8 @@
                 "name": "installationsuppdrag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "algoritmutvecklare",
@@ -142893,7 +143442,8 @@
                 "name": "elektroteknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "elkonstruktör",
@@ -142950,7 +143500,8 @@
                 "name": "verifiering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "information security specialist",
@@ -143007,7 +143558,8 @@
                 "name": "agile",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "teknikförvaltare",
@@ -143036,7 +143588,8 @@
                 "name": "säkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chaufför",
@@ -143061,7 +143614,8 @@
                 "name": "art",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "microsoftspecialist",
@@ -143078,7 +143632,8 @@
                 "name": "engelska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "master data manager",
@@ -143127,7 +143682,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "safety manager",
@@ -143224,7 +143780,8 @@
                 "name": "fordon",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "partner manager",
@@ -143237,7 +143794,8 @@
                 "name": "media",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "steward",
@@ -143290,7 +143848,8 @@
                 "name": "databearbetning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "larmtekniker",
@@ -143323,7 +143882,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "larminstallatör",
@@ -143356,7 +143916,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "innovation manager",
@@ -143369,7 +143930,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "mallutvecklare",
@@ -143414,7 +143976,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "rådgivare",
@@ -143443,7 +144006,8 @@
                 "name": "butiksarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "försäljare",
@@ -143468,7 +144032,8 @@
                 "name": "portalverktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-supportmedarbetare",
@@ -143509,7 +144074,8 @@
                 "name": "kollektivavtal",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "optimerare",
@@ -143574,7 +144140,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "director",
@@ -143587,7 +144154,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "producer",
@@ -143632,7 +144200,8 @@
                 "name": "act",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "produktionsutvecklare",
@@ -143697,7 +144266,8 @@
                 "name": "automatisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "product director",
@@ -143730,7 +144300,8 @@
                 "name": "podcast",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "forskningsassistent",
@@ -143807,7 +144378,8 @@
                 "name": "inmatning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "verksamhetsansvarig",
@@ -143884,7 +144456,8 @@
                 "name": "masterdata",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "teamansvarig",
@@ -143925,7 +144498,8 @@
                 "name": "budget",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "leveranskoordinator",
@@ -143958,7 +144532,8 @@
                 "name": "engelska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "supportkoordinator",
@@ -143979,7 +144554,8 @@
                 "name": "accessnätverk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "service level manager",
@@ -144020,7 +144596,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "infrastructure developer",
@@ -144065,7 +144642,8 @@
                 "name": "json",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-säkerhetschef",
@@ -144242,7 +144820,8 @@
                 "name": "arbetslivserfarenhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "site manager",
@@ -144251,7 +144830,8 @@
                 "name": "event",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kundcentermedarbetare",
@@ -144312,7 +144892,8 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "onsite-support",
@@ -144333,7 +144914,8 @@
                 "name": "jira",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "integrationsledare",
@@ -144374,7 +144956,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chefsarkitekt",
@@ -144423,7 +145006,8 @@
                 "name": "arkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "webbgrafiker",
@@ -144456,7 +145040,8 @@
                 "name": "jquery",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "electrical engineer",
@@ -144485,7 +145070,8 @@
                 "name": "smart",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumentansvarig",
@@ -144534,7 +145120,8 @@
                 "name": "synkronisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "sales support",
@@ -144663,7 +145250,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it-generalist",
@@ -144820,7 +145408,8 @@
                 "name": "konsultföretag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "säkerhetstekniker",
@@ -145005,7 +145594,8 @@
                 "name": "ip",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "infrastructure specialist",
@@ -145050,7 +145640,8 @@
                 "name": "storage",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "verksamhetsarkitekt",
@@ -145275,7 +145866,8 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 7
     },
     {
         "label": "driftingenjör",
@@ -145460,7 +146052,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it infrastructure specialist",
@@ -145485,7 +146078,8 @@
                 "name": "automation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "demand manager",
@@ -145502,7 +146096,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkerhetsansvarig",
@@ -145535,11 +146130,13 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chief architect",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "handledare",
@@ -145568,7 +146165,8 @@
                 "name": "tandvård",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "webmaster",
@@ -145605,7 +146203,8 @@
                 "name": "cms",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "cloud-konsult",
@@ -145650,7 +146249,8 @@
                 "name": "automatisering",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "hr-utvecklare",
@@ -145711,7 +146311,8 @@
                 "name": "beteendevetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "programadministratör",
@@ -145800,7 +146401,8 @@
                 "name": "utvecklingsprojekt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "concept artist",
@@ -145825,7 +146427,8 @@
                 "name": "art",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "kommunikationsingenjör",
@@ -145978,7 +146581,8 @@
                 "name": "specialistkompetens",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "requirement manager",
@@ -146051,7 +146655,8 @@
                 "name": "processutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "datacentertekniker",
@@ -146164,7 +146769,8 @@
                 "name": "cisco",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "sambandstekniker",
@@ -146297,7 +146903,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "conversion specialist",
@@ -146338,7 +146945,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "vfx-artist",
@@ -146347,7 +146955,8 @@
                 "name": "workflows",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it solution manager",
@@ -146416,7 +147025,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ikt-pedagog",
@@ -146457,7 +147067,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "service delivery specialist",
@@ -146470,7 +147081,8 @@
                 "name": "web",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk kundservicemedarbetare",
@@ -146479,11 +147091,13 @@
                 "name": "energi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it development manager",
-        "skills": []
+        "skills": [],
+        "count": 2
     },
     {
         "label": "vd-assistent",
@@ -146508,7 +147122,8 @@
                 "name": "svea",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "hyresexpert",
@@ -146525,7 +147140,8 @@
                 "name": "fastighetsekonomi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "produktområdesansvarig",
@@ -146554,7 +147170,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sambandsassistent",
@@ -146615,7 +147232,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-managementkonsult",
@@ -146660,7 +147278,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sakkunnig",
@@ -146741,7 +147360,8 @@
                 "name": "regelverk",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "ledarskapskonsult",
@@ -146762,7 +147382,8 @@
                 "name": "agilt arbetssätt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "integrationsspecialist",
@@ -146875,7 +147496,8 @@
                 "name": "pki",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "marknadsanalytiker",
@@ -146928,7 +147550,8 @@
                 "name": "registrering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "tekniksystemledare",
@@ -146969,7 +147592,8 @@
                 "name": "it-tjänster",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "simuleringsingenjör",
@@ -146998,7 +147622,8 @@
                 "name": "arbetsliv",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "utredare",
@@ -147175,7 +147800,8 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "elektronikkonstruktör",
@@ -147264,7 +147890,8 @@
                 "name": "hårdvarukonstruktion",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "microsoft-utvecklare",
@@ -147321,7 +147948,8 @@
                 "name": "systemutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "e-handelsansvarig",
@@ -147338,7 +147966,8 @@
                 "name": "cms",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "portfolio manager",
@@ -147455,7 +148084,8 @@
                 "name": "agile",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "stjärnutvecklare",
@@ -147484,7 +148114,8 @@
                 "name": "api",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "information manager",
@@ -147513,7 +148144,8 @@
                 "name": "revit",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systemcontroller",
@@ -147558,7 +148190,8 @@
                 "name": "digitalisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "tjänstespecialist",
@@ -147651,7 +148284,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-säkerhetsrådgivare",
@@ -147760,7 +148394,8 @@
                 "name": "molnmiljöer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "business unit manager",
@@ -147821,7 +148456,8 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "product engineer",
@@ -147830,7 +148466,8 @@
                 "name": "embedded",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk ingenjör",
@@ -147887,7 +148524,8 @@
                 "name": "verifiering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "serviceleverantör",
@@ -147928,7 +148566,8 @@
                 "name": "programvara",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "sap-specialist",
@@ -147981,7 +148620,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "systemintegratör",
@@ -148146,7 +148786,8 @@
                 "name": "nätverkssäkerhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "head of operations",
@@ -148155,7 +148796,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "apparatingenjör",
@@ -148200,7 +148842,8 @@
                 "name": "svenska",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "civilingenjör",
@@ -148437,7 +149080,8 @@
                 "name": "högskoleexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 6
     },
     {
         "label": "servicedeskagent",
@@ -148562,7 +149206,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "supportkonsult",
@@ -148603,11 +149248,13 @@
                 "name": "affärssystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "major incident manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "dataskyddsspecialist",
@@ -148680,7 +149327,8 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "automationsutvecklare",
@@ -148813,7 +149461,8 @@
                 "name": ".net framework",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical director",
@@ -148830,7 +149479,8 @@
                 "name": "vision",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "technical manager",
@@ -148851,7 +149501,8 @@
                 "name": "client",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "utrullningstekniker",
@@ -148896,7 +149547,8 @@
                 "name": "microsoft office",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "dokumentcontroller",
@@ -148921,7 +149573,8 @@
                 "name": "dokumentation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "portföljsamordnare",
@@ -148954,7 +149607,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "närstöd",
@@ -148995,7 +149649,8 @@
                 "name": "operativsystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "front-end engineer",
@@ -149032,7 +149687,8 @@
                 "name": "bi",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chief project manager",
@@ -149041,7 +149697,8 @@
                 "name": "performance",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "regulatory affairs specialist",
@@ -149054,7 +149711,8 @@
                 "name": "not",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "tentamensvakt",
@@ -149095,7 +149753,8 @@
                 "name": "film",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "inköpsansvarig",
@@ -149120,7 +149779,8 @@
                 "name": "lager",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "avtalsansvarig",
@@ -149161,7 +149821,8 @@
                 "name": "verksamhetsprojekt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "förste forskningsingenjör",
@@ -149202,7 +149863,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "design manager",
@@ -149223,7 +149885,8 @@
                 "name": "design",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "head of it",
@@ -149328,7 +149991,8 @@
                 "name": "vägledning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "dataingenjör",
@@ -149437,7 +150101,8 @@
                 "name": "förvaltning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systemekonom",
@@ -149502,7 +150167,8 @@
                 "name": "jakt",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "service owner",
@@ -149559,7 +150225,8 @@
                 "name": "landskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "applikationsansvarig",
@@ -149692,7 +150359,8 @@
                 "name": "vba-programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "projektsupport",
@@ -149721,7 +150389,8 @@
                 "name": "projektstyrning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "gis-analytiker",
@@ -149758,7 +150427,8 @@
                 "name": "utvecklingsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "automation engineer",
@@ -149851,7 +150521,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 5
     },
     {
         "label": "strateg",
@@ -149980,7 +150651,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "it-ingenjör",
@@ -149993,7 +150665,8 @@
                 "name": "cloud",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "mechanical engineer",
@@ -150066,7 +150739,8 @@
                 "name": "creo",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "business solutions manager",
@@ -150087,7 +150761,8 @@
                 "name": "devices",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-systemtekniker",
@@ -150160,7 +150835,8 @@
                 "name": "cisco",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "webbtekniker",
@@ -150201,7 +150877,8 @@
                 "name": "insamling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "gis-konsult",
@@ -150254,7 +150931,8 @@
                 "name": "anläggningsinformation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "huvudplanerare",
@@ -150295,7 +150973,8 @@
                 "name": "lean production",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkrare",
@@ -150348,7 +151027,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical product manager",
@@ -150401,7 +151081,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "ekonomisupport",
@@ -150446,7 +151127,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "head of digital",
@@ -150455,7 +151137,8 @@
                 "name": "adoption",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkerhetsanalytiker",
@@ -150632,7 +151315,8 @@
                 "name": "detektion",
                 "count": 1
             }
-        ]
+        ],
+        "count": 4
     },
     {
         "label": "technical support manager",
@@ -150693,7 +151377,8 @@
                 "name": "b2b",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "aktivitetsledare",
@@ -150726,7 +151411,8 @@
                 "name": "universitetsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "fiberprojektör",
@@ -150767,7 +151453,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "regionchef",
@@ -150792,7 +151479,8 @@
                 "name": "konsultuppdrag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "beräkningsingenjör",
@@ -150825,7 +151513,8 @@
                 "name": "utvecklingsprocesser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "fullstack software engineer",
@@ -150838,7 +151527,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "controller",
@@ -150899,7 +151589,8 @@
                 "name": "back end",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "säkerhetschef",
@@ -150988,7 +151679,8 @@
                 "name": "kontrollverksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "integration manager",
@@ -151037,7 +151729,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "verifierare",
@@ -151054,7 +151747,8 @@
                 "name": "verifiering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "analytics manager",
@@ -151091,7 +151785,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "embedded sw engineer",
@@ -151136,7 +151831,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "development manager",
@@ -151149,7 +151845,8 @@
                 "name": "adobe analytics",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chief information security officer",
@@ -151218,7 +151915,8 @@
                 "name": "informationssäkerhetsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "plattformsspecialist",
@@ -151339,7 +152037,8 @@
                 "name": "medarbetarskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "application manager",
@@ -151408,7 +152107,8 @@
                 "name": "compliance",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "ledningsstöd",
@@ -151525,11 +152225,13 @@
                 "name": "samverkan",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "strategy manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "anläggningskonstruktör",
@@ -151578,7 +152280,8 @@
                 "name": "högskoleingenjörsexamen",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teletekniker",
@@ -151671,7 +152374,8 @@
                 "name": "fordon",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "applikationsdriftsansvarig",
@@ -151780,7 +152484,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "frontend web developer",
@@ -151809,7 +152514,8 @@
                 "name": "web",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "funktionsansvarig",
@@ -151906,7 +152612,8 @@
                 "name": "databaser",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "möteskoordinator",
@@ -151935,7 +152642,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "solution expert",
@@ -151976,7 +152684,8 @@
                 "name": "kollektivavtal",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ux-strateg",
@@ -152033,7 +152742,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "service engineer",
@@ -152050,7 +152760,8 @@
                 "name": "scripts",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "it-lösningsarkitekt",
@@ -152139,7 +152850,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "project controller",
@@ -152164,7 +152876,8 @@
                 "name": "konsultföretag",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "inspektör",
@@ -152221,11 +152934,13 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "utbildningsskapare",
-        "skills": []
+        "skills": [],
+        "count": 11
     },
     {
         "label": "kvalitetsanalytiker",
@@ -152250,7 +152965,8 @@
                 "name": "systemvetenskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "global program manager",
@@ -152263,7 +152979,8 @@
                 "name": "microsoft office",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "underhållsingenjör",
@@ -152304,7 +153021,8 @@
                 "name": "ils",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "grafikprogrammerare",
@@ -152329,7 +153047,8 @@
                 "name": "svenskt medborgarskap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "engine programmer",
@@ -152342,11 +153061,13 @@
                 "name": "microsoft windows",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "facilitator",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "web manager",
@@ -152367,11 +153088,13 @@
                 "name": "e-commerce",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "sourcing specialist",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "sektionschef",
@@ -152440,7 +153163,8 @@
                 "name": "larm",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "copy",
@@ -152509,7 +153233,8 @@
                 "name": "web",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "digital strateg",
@@ -152530,7 +153255,8 @@
                 "name": "utvecklingsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "implementationskonsult",
@@ -152587,11 +153313,13 @@
                 "name": "kollektivavtal",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "hr business partner",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "testkoordinator",
@@ -152612,7 +153340,8 @@
                 "name": "catia",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "planeringsingenjör",
@@ -152697,7 +153426,8 @@
                 "name": "arbetsmiljöansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dealer",
@@ -152710,7 +153440,8 @@
                 "name": "cloud",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systemsäkerhetsingenjör",
@@ -152803,7 +153534,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "information security manager",
@@ -152868,7 +153600,8 @@
                 "name": "informationssäkerhetsarbete",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "digital product manager",
@@ -152901,7 +153634,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "coach",
@@ -152934,7 +153668,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "omvärldsbevakare",
@@ -152959,7 +153694,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "metodingenjör",
@@ -153012,7 +153748,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "klientsupport",
@@ -153053,7 +153790,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "klimatstrateg",
@@ -153098,7 +153836,8 @@
                 "name": "klimatrapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sourcing manager",
@@ -153107,7 +153846,8 @@
                 "name": "rock",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "testanalytiker",
@@ -153148,7 +153888,8 @@
                 "name": "api",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "affärsansvarig",
@@ -153157,7 +153898,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "scada-utvecklare",
@@ -153198,7 +153940,8 @@
                 "name": "nätverkskommunikation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "fiberplanerare",
@@ -153227,15 +153970,18 @@
                 "name": "fiber",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "merchandiser",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "it test manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "head of crm",
@@ -153248,7 +153994,8 @@
                 "name": "erp",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "gameplay programmer",
@@ -153265,7 +154012,8 @@
                 "name": "animation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "driftövervakare",
@@ -153330,7 +154078,8 @@
                 "name": "vägunderhåll",
                 "count": 2
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "digitaliseringssamordnare",
@@ -153403,7 +154152,8 @@
                 "name": "kvalitetsplaner",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "consultant unit manager",
@@ -153432,7 +154182,8 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknisk ledare",
@@ -153457,11 +154208,13 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "security manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "dataarkitekt",
@@ -153598,7 +154351,8 @@
                 "name": "vårdverksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "automationstekniker",
@@ -153691,11 +154445,13 @@
                 "name": "motorer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "recruiter",
-        "skills": []
+        "skills": [],
+        "count": 3
     },
     {
         "label": "ändringsledare",
@@ -153744,7 +154500,8 @@
                 "name": "produktutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "support lead",
@@ -153765,7 +154522,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "utvecklingsansvarig",
@@ -153854,7 +154612,8 @@
                 "name": "teknik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "forskare",
@@ -153983,7 +154742,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "verksamhetssamordnare",
@@ -154024,7 +154784,8 @@
                 "name": "kundvård",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "planeringshandläggare",
@@ -154073,7 +154834,8 @@
                 "name": "anslutningsärenden",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "embedded software architect",
@@ -154146,11 +154908,13 @@
                 "name": "polarion",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "product area manager",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "software engineering manager",
@@ -154159,7 +154923,8 @@
                 "name": "embedded",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "editor",
@@ -154168,7 +154933,8 @@
                 "name": "c++",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "user experience manager",
@@ -154189,7 +154955,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-assistent",
@@ -154222,7 +154989,8 @@
                 "name": "it-system",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "range manager",
@@ -154235,7 +155003,8 @@
                 "name": "user experience",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sales project manager",
@@ -154244,7 +155013,8 @@
                 "name": "sales",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "infrastrukturkonsult",
@@ -154313,7 +155083,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "sortimentsutvecklare",
@@ -154350,7 +155121,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "vaktmästare",
@@ -154467,7 +155239,8 @@
                 "name": "truckkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "teknisk systemadministratör",
@@ -154536,7 +155309,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "byggstensansvarig",
@@ -154613,7 +155387,8 @@
                 "name": "masterdata",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "webbadministratör",
@@ -154662,7 +155437,8 @@
                 "name": "cms",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "software quality assurance manager",
@@ -154699,7 +155475,8 @@
                 "name": "kodanalys",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "testautomatiseringsingenjör",
@@ -154772,7 +155549,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "testautomationsingenjör",
@@ -154845,7 +155623,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kundservicemedarbetare",
@@ -154926,7 +155705,8 @@
                 "name": "reklamationer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "tech manager",
@@ -155007,7 +155787,8 @@
                 "name": "agile",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systemhandläggare",
@@ -155052,7 +155833,8 @@
                 "name": "förbättringsområden",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "orderadministratör",
@@ -155093,7 +155875,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "modulansvarig",
@@ -155122,7 +155905,8 @@
                 "name": "verktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "förvaltningsansvarig",
@@ -155207,7 +155991,8 @@
                 "name": "leverantörsstyrning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "kunddataanalytiker",
@@ -155224,7 +156009,8 @@
                 "name": "kunddata",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical solutions architect",
@@ -155253,7 +156039,8 @@
                 "name": "programming languages",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "cad-ritare",
@@ -155266,7 +156053,8 @@
                 "name": "projektering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "project portfolio manager",
@@ -155275,7 +156063,8 @@
                 "name": "budget",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationssäkerhetsarkitekt",
@@ -155404,7 +156193,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "tillämpningsexpert",
@@ -155513,7 +156303,8 @@
                 "name": "supportverksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknikansvarig",
@@ -155662,7 +156453,8 @@
                 "name": "brandväggsprodukter",
                 "count": 1
             }
-        ]
+        ],
+        "count": 3
     },
     {
         "label": "kvalitetsledare",
@@ -155719,7 +156511,8 @@
                 "name": "ledningssystem",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "arbetsledare",
@@ -155736,7 +156529,8 @@
                 "name": "arbetsledning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "project engineer",
@@ -155769,7 +156563,8 @@
                 "name": "mekanik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "sökmotoroptimerare",
@@ -155782,7 +156577,8 @@
                 "name": "sökmotoroptimering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "outsourcing manager",
@@ -155799,7 +156595,8 @@
                 "name": "blender",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "software manager",
@@ -155808,7 +156605,8 @@
                 "name": "automotive",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "produktområdeschef",
@@ -155829,7 +156627,8 @@
                 "name": "personalansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "content manager",
@@ -155846,7 +156645,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "infrastructure service manager",
@@ -155887,7 +156687,8 @@
                 "name": "storage",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "huvudarkitekt",
@@ -155936,7 +156737,8 @@
                 "name": "universitetsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technology manager",
@@ -155949,7 +156751,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "desk-medarbetare",
@@ -156006,7 +156809,8 @@
                 "name": "vpn",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "business process manager",
@@ -156111,11 +156915,13 @@
                 "name": "förvaltning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "entreprenör",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "representative",
@@ -156168,7 +156974,8 @@
                 "name": "api",
                 "count": 1
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "riskanalytiker",
@@ -156209,7 +157016,8 @@
                 "name": "monitor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "business manager",
@@ -156234,7 +157042,8 @@
                 "name": "säljansvar",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "global it manager",
@@ -156243,7 +157052,8 @@
                 "name": "innovation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "datorlingvist",
@@ -156296,7 +157106,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumentationsansvarig",
@@ -156337,7 +157148,8 @@
                 "name": "mjukvaruutveckling",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "bas",
@@ -156370,7 +157182,8 @@
                 "name": "universitetsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "computer vision specialist",
@@ -156379,7 +157192,8 @@
                 "name": "vision",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "technical trainer",
@@ -156396,7 +157210,8 @@
                 "name": "cisco",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "incidenthanterare",
@@ -156453,7 +157268,8 @@
                 "name": "körkort",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "windowsspecialist",
@@ -156558,7 +157374,8 @@
                 "name": "pki",
                 "count": 2
             }
-        ]
+        ],
+        "count": 2
     },
     {
         "label": "driftchef",
@@ -156599,7 +157416,8 @@
                 "name": "vpn",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "supportchef",
@@ -156640,7 +157458,8 @@
                 "name": "vpn",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "underrättelseanalytiker",
@@ -156733,7 +157552,8 @@
                 "name": "ip",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "informationstekniker",
@@ -156810,7 +157630,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "mekatronikingenjör",
@@ -156875,7 +157696,8 @@
                 "name": "elscheman",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "serviceassistent",
@@ -156948,7 +157770,8 @@
                 "name": "butik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "hardware design engineer",
@@ -156973,7 +157796,8 @@
                 "name": "firmware",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "techops engineer",
@@ -156982,7 +157806,8 @@
                 "name": "web",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "klientutvecklare",
@@ -157035,7 +157860,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "områdesarkitekt",
@@ -157056,7 +157882,8 @@
                 "name": "organisationer",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "head of performance",
@@ -157069,7 +157896,8 @@
                 "name": "data",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kravingenjör",
@@ -157134,7 +157962,8 @@
                 "name": "rör",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "postdoc",
@@ -157147,7 +157976,8 @@
                 "name": "sensor",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "robotutvecklare",
@@ -157200,7 +158030,8 @@
                 "name": "automation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "teknikkonsult",
@@ -157277,7 +158108,8 @@
                 "name": "cli",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ceremonimästare",
@@ -157318,7 +158150,8 @@
                 "name": "universitetsutbildning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "nätarkitekt",
@@ -157367,7 +158200,8 @@
                 "name": "brandvägg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "sw configuration manager",
@@ -157376,7 +158210,8 @@
                 "name": "networking",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "skiftledare",
@@ -157441,7 +158276,8 @@
                 "name": "rapportering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "skoladministratör",
@@ -157490,7 +158326,8 @@
                 "name": "administrativt stöd",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "integrationssamordnare",
@@ -157527,7 +158364,8 @@
                 "name": "integration",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "javascript-utvecklare",
@@ -157584,7 +158422,8 @@
                 "name": "python",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "quality specialist",
@@ -157617,7 +158456,8 @@
                 "name": "compliance",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "programvarukonstruktör",
@@ -157690,7 +158530,8 @@
                 "name": "tekniska kunskaper",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "dokumentatör",
@@ -157735,7 +158576,8 @@
                 "name": "telekommunikation",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "upphandlare",
@@ -157784,7 +158626,8 @@
                 "name": "högskola",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "oracleutvecklare",
@@ -157809,7 +158652,8 @@
                 "name": "sql",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "systemtestingenjör",
@@ -157842,7 +158686,8 @@
                 "name": "programmering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "verksamhetssupport",
@@ -157883,7 +158728,8 @@
                 "name": "konfigurering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "anslutningsingenjör",
@@ -157928,7 +158774,8 @@
                 "name": "sap",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "va-projektör",
@@ -157945,7 +158792,8 @@
                 "name": "va-verksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "va-utredare",
@@ -157962,7 +158810,8 @@
                 "name": "va-verksamhet",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-säkerhetskonsult",
@@ -158019,7 +158868,8 @@
                 "name": "tekniska kunskaper",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "testansvarig",
@@ -158096,7 +158946,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "it-infrastrukturkonsult",
@@ -158213,7 +159064,8 @@
                 "name": "hyper-v",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "studieledare",
@@ -158250,11 +159102,13 @@
                 "name": "sociala medier",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "kontorsassistent",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "molnarkitekt",
@@ -158323,7 +159177,8 @@
                 "name": "molnarkitektur",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "chief technology officer",
@@ -158340,7 +159195,8 @@
                 "name": "can",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ekonom",
@@ -158393,7 +159249,8 @@
                 "name": "digitalisering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "testförare",
@@ -158430,7 +159287,8 @@
                 "name": "diagnosverktyg",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "redovisningsekonom",
@@ -158491,7 +159349,8 @@
                 "name": "utläggshantering",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "klienttekniker",
@@ -158568,7 +159427,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "digital marketing specialist",
@@ -158641,7 +159501,8 @@
                 "name": "omvärldsbevakning",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "ux researcher",
@@ -158650,11 +159511,13 @@
                 "name": "user experience",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "evangelist",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "watch supervisor",
@@ -158715,7 +159578,8 @@
                 "name": "datorvana",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "serviceingenjör",
@@ -158780,11 +159644,13 @@
                 "name": "instrument",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     },
     {
         "label": "surface designer",
-        "skills": []
+        "skills": [],
+        "count": 1
     },
     {
         "label": "konverteringsspecialist",
@@ -158805,6 +159671,7 @@
                 "name": "statistik",
                 "count": 1
             }
-        ]
+        ],
+        "count": 1
     }
 ]
