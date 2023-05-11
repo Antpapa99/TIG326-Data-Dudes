@@ -31,16 +31,20 @@ app.layout = dbc.Container([
 
     dbc.Row(
         dbc.Col([
+            dcc.Dropdown(id='search-dropdown',
+                         options=[{'label': 'Jobs', 'value': 'Jobs'}, {'label': 'Skills', 'value': 'Skills'}],
+                         placeholder="Search by jobs or skills",
+                         ),
             dcc.Dropdown(id='jobs-dropdown',
                          options=[{'label': job['label'], 'value': job['label']} for job in new_Jobs],
                          placeholder="Select a job",
-                         ),
-            html.Div(id='job-skills', className="my-3"),
-            dcc.Dropdown(id='skills',
+                         style={'display': 'none'}),
+            dcc.Dropdown(id='skills-dropdown',
                          options=new_skills,
                          value=[],
                          multi=True,
-                         ),
+                         style={'display': 'none'}),
+            html.Div(id='job-skills', className="my-3"),
             dbc.Button('Match jobs', id='submit-button', className="mt-3"),
             html.Div(id='job-matches', className="my-3"),
             dcc.Graph(id='skills-barchart'),
@@ -48,6 +52,19 @@ app.layout = dbc.Container([
     )
 ], fluid=True)
 
+
+@app.callback(
+    dash.dependencies.Output('jobs-dropdown', 'style'),
+    dash.dependencies.Output('skills-dropdown', 'style'),
+    [dash.dependencies.Input('search-dropdown', 'value')]
+)
+def toggle_dropdowns(search_type):
+    if search_type == 'Jobs':
+        return {'display': 'block'}, {'display': 'none'}
+    elif search_type == 'Skills':
+        return {'display': 'none'}, {'display': 'block'}
+    else:
+        return {'display': 'none'}, {'display': 'none'}
 
 
 @app.callback(
@@ -66,7 +83,7 @@ def display_job_skills(selected_job_label):
 @app.callback(
     dash.dependencies.Output('job-matches', 'children'),
     [dash.dependencies.Input('submit-button', 'n_clicks')],
-    [dash.dependencies.State('skills', 'value')]
+    [dash.dependencies.State('skills-dropdown', 'value')]
 )
 def match_jobs(n_clicks, selected_skills):
     if not selected_skills:
@@ -114,3 +131,4 @@ def update_skills_barchart(selected_job_label):
 
 if __name__ == '__main__':
     server.run(debug=True)
+
