@@ -1,4 +1,5 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, url_for, send_from_directory
+import os
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
@@ -8,12 +9,14 @@ from Skills_Selector import select_skills
 from Job_Selector import jobs
 
 
-server = Flask(__name__)
+from flask import Flask, render_template, url_for
 
+server = Flask(__name__, static_folder='static/style')
 
-@server.route('/')
-def hello():
-    return render_template("home.html")
+@server.route('/', methods=['GET', 'POST'])
+def home():
+    image_path = url_for('static/style', filename='img/skillflair.PNG')
+    return render_template('home.html', image_path=image_path)
 
 
 app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/",
@@ -130,5 +133,5 @@ def update_skills_barchart(selected_job_label):
 
 
 if __name__ == '__main__':
-    server.run(debug=True)
+    server.run(debug=True, port=9000)
 

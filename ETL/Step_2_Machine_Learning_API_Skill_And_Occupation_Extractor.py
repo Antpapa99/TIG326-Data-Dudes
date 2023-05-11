@@ -93,7 +93,7 @@ while loop < len(Job_Class):
     #for i in Job_Class[loop]["Occupation-type"]:
         #Ai_Occupation.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Skills"]:
-        if i["prediction"] > 0.80:
+        if i["prediction"] > 0.3:
             Skills.add(i["concept_label"].lower())
     for i in Job_Class[loop]["Occupation-AI_classify"]:
         if i["prediction"] > 0.05:
