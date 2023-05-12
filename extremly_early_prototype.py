@@ -100,10 +100,6 @@ def match_jobs(n_clicks, selected_skills):
     else:
         return 'no Matches found'
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 084b12b4d1f7ff258ad34a72e18aa5260a49e95c
 if __name__ == '__main__':
     server.run(debug=True, port=9000)
 
