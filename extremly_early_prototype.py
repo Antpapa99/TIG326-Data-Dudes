@@ -115,12 +115,11 @@ def update_graph(n_clicks, selected_job):
     [dash.dependencies.State('skills-dropdown', 'value')]
 )
 def match_jobs(n_clicks, selected_skills):
-    print("test")
     if not selected_skills:
         return "no matches"
     matches = []
     for job in new_Jobs:
-        required_skills = set(job['skills'])
+        required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills and seeker_skills.issubset(required_skills):
             matches.append(job['label'])
