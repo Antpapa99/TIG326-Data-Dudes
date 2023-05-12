@@ -9,12 +9,7 @@ def select_skills():
         skills_select.extend([skill['name'] for skill in job['skills']])
 
     exact_skills = list(set(skills_select))
-
-    result = []
-    for skill in exact_skills:
-        result.append({"label": skill, "value": skill})
-
-    return result
+    return exact_skills
 
 # Call the function and print the result
 
