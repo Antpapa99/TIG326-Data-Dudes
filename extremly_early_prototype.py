@@ -8,14 +8,11 @@ import plotly.graph_objs as go
 from Skills_Selector import select_skills
 from Job_Selector import jobs
 
-
-from flask import Flask, render_template, url_for
-
 server = Flask(__name__, static_folder='static/style')
 
 @server.route('/', methods=['GET', 'POST'])
 def home():
-    image_path = url_for('static/style', filename='img/skillflair.PNG')
+    image_path = url_for('static', filename='img/skillflair.PNG')
     return render_template('home.html', image_path=image_path)
 
 
@@ -103,6 +100,10 @@ def match_jobs(n_clicks, selected_skills):
     else:
         return 'no Matches found'
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 084b12b4d1f7ff258ad34a72e18aa5260a49e95c
 if __name__ == '__main__':
     server.run(debug=True, port=9000)
 
