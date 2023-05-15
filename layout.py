@@ -33,6 +33,8 @@ app.layout = dbc.Container([
             dbc.Button('Match jobs', id='submit-button', className="mt-3"),
             html.Div(id='job-matches', className="my-3"),
             dcc.Graph(id='skills-barchart'),
+            html.Div(id='hidden-div', style={'display': 'none'}),
+            html.Div(id='selected-job', style={'display': 'none'}),
         ], width={'size': 6, 'offset': 3}),
     )
 ], fluid=True)

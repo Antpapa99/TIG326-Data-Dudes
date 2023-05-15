@@ -1,7 +1,7 @@
 import json
 
 def select_skills():
-    with open("updated_occupation_list.json", "r", encoding="utf-8") as file1:
+    with open("data/updated_occupation_list.json", "r", encoding="utf-8") as file1:
         data = json.load(file1)
 
     skills_select = []
