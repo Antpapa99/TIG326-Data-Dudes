@@ -62,7 +62,6 @@ def match_jobs(n_clicks, selected_skills, selected_job):
         return "No matches"
     matches = []
     for job in new_Jobs:
-        global seeker_skills
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills and seeker_skills.issubset(required_skills):
@@ -84,7 +83,7 @@ def match_jobs(n_clicks, selected_skills, selected_job):
     [dash.dependencies.Input('jobs-dropdown', 'value'),
      dash.dependencies.Input('hidden-div', 'children')]
 )
-def display_job_skills(dropdown_value, clicked_job):
+def display_job_skills(dropdown_value, clicked_job,):
     ctx = dash.callback_context
     if not ctx.triggered:
         return "No job selected"
