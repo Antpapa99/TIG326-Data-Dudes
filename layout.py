@@ -18,8 +18,7 @@ app.layout = dbc.Container([
         dbc.Col([
             dcc.Dropdown(id='search-dropdown',
                          options=[{'label': 'Jobs', 'value': 'Jobs'}, {'label': 'Skills', 'value': 'Skills'}],
-                         placeholder="Search by jobs or skills",
-                         ),
+                         placeholder="Search by jobs or skills"),
             dcc.Dropdown(id='jobs-dropdown',
                          options=[{'label': job['label'], 'value': job['label']} for job in new_Jobs],
                          placeholder="Select a job",
@@ -30,6 +29,7 @@ app.layout = dbc.Container([
                          multi=True,
                          style={'display': 'none'}),
             html.Div(id='job-skills', className="my-3"),
+            html.Div(id='hidden-skills', style={'display': 'none'}),
             dbc.Button('Match jobs', id='submit-button', className="mt-3"),
             html.Div(id='job-matches', className="my-3"),
             dcc.Graph(id='skills-barchart'),
