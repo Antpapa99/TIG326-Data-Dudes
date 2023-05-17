@@ -18,14 +18,22 @@ def toggle_dropdowns(search_type):
     else:
         return {'display': 'none'}, {'display': 'none'}
 
+@app.callback(
+    dash.dependencies.Output('match-skills-button', 'style'),
+    [dash.dependencies.Input('skills-dropdown', 'style')]
+)
+def toggle_match_skills_button(skills_dropdown_style):
+    if skills_dropdown_style['display'] == 'block':
+        return {'display': 'block'}  # If skills dropdown is visible, show the button
+    else:
+        return {'display': 'none'}  # If skills dropdown is not visible, hide the button
 
 #Graphs
 @app.callback(
     dash.dependencies.Output('skills-barchart', 'figure'),
-    [dash.dependencies.Input('submit-button', 'n_clicks')],
-    [dash.dependencies.State('jobs-dropdown', 'value')]
+    [dash.dependencies.Input('jobs-dropdown', 'value')]
 )
-def update_graph(n_clicks, selected_job):
+def update_graph(selected_job):
     if not selected_job:
         return go.Figure()  # return empty figure
     job = next((job for job in new_Jobs if job['label'] == selected_job), None)
