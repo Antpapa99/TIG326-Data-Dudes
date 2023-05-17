@@ -102,13 +102,38 @@ def display_job_skills(dropdown_value, clicked_job, styles, selected_skills):
         job = next((job for job in new_Jobs if job['label'] == selected_job_label), None)
         if job:
             skills = job['skills']
-            return html.Ul([
-                html.Li(
+            # Added logic for show more/show less functionality
+            if len(skills) > 10:
+                visible_skills = skills[:10]  # Display the first 10 skills initially
+                hidden_skills = skills[10:]  # Skills to be hidden initially
+
+                children = []
+                children.extend([
+                    html.Ul([html.Li(
+                        f"{skill['name']} ({skill['count']})",
+                        style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                    ) for skill in visible_skills]),
+                    html.Ul(
+                        id='hidden-skills',
+                        children=[html.Li(
+                            f"{skill['name']} ({skill['count']})",
+                            style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                        ) for skill in hidden_skills],
+                        style={'display': 'none'}
+                    )
+                ])
+                children.append(html.Button(
+                    'Show More',
+                    id='show-more-button',
+                    n_clicks=0,
+                    style={'display': 'block', 'margin-top': '10px'}
+                ))
+                return children
+            else:
+                return html.Ul([html.Li(
                     f"{skill['name']} ({skill['count']})",
                     style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
-                )
-                for skill in skills
-            ])
+                ) for skill in skills])
     return "No job selected"
 
 
@@ -151,3 +176,18 @@ def handle_job_click(n_clicks, ids, styles):
 
 def update_job_link_styles(styles, ids):
     return [styles.get(id['index'], {}) for id in ids]
+
+
+@app.callback(
+    dash.dependencies.Output('hidden-skills', 'style'),
+    dash.dependencies.Output('show-more-button', 'children'),
+    dash.dependencies.Output('show-more-button', 'style'),
+    [dash.dependencies.Input('show-more-button', 'n_clicks')],
+    [dash.dependencies.State('hidden-skills', 'style')]
+)
+
+def show_hidden_skills(n_clicks, hidden_skills_style):
+    if n_clicks % 2 == 1:
+        return {'display': 'block'}, 'Show Less', {'display': 'block', 'margin-top': '10px'}
+    else:
+        return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px'}

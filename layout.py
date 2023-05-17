@@ -30,6 +30,7 @@ app.layout = dbc.Container([
                  multi=True,
                  style={'display': 'none'}),
     html.Div(id='job-skills', className="my-3"),
+    html.Div(id='hidden-skills', className="my-3"),
     dbc.Button('Match jobs', id='submit-button', className="mt-3"),
     dbc.Button('Match Skills', id='match-skills-button', className="mt-3"),  # Add this line
     html.Div(id='job-matches', className="my-3"),
