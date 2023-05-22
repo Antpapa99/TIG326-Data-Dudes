@@ -7,7 +7,7 @@ with open('data/updated_occupation_list.json', 'r+') as file:
     # Calculate the average value for each skill
     for job in data:
         skills = job['skills']
-        total_count = sum(skill['count'] for skill in skills)
+        total_count = job['count']
         for skill in skills:
             skill_count = skill['count']
             skill['average'] = skill_count / total_count
