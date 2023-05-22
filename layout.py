@@ -31,12 +31,14 @@ app.layout = dbc.Container([
                  style={'display': 'none'}),
     html.Div(id='job-skills', className="my-3"),
     html.Div(id='hidden-skills', className="my-3"),
-    dbc.Button('Match Skills', id='match-skills-button', className="mt-3"),  # Add this line
+    dbc.Button('Match Skills', id='match-skills-button', className="mt-3"),
+    dbc.Button('Exact Match Skills', id='exact-match-skills-button', className="mt-3"),    # Add this line
     html.Div(id='job-matches', className="my-3"),
     dcc.Graph(id='skills-barchart'),
     html.Div(id='hidden-div', style={'display': 'none'}),
     html.Div(id='selected-job', style={'display': 'none'}),
     dcc.Store(id='job-link-styles', data={}),
+    dcc.Store(id='last-button-pressed', data=''),
 ], width={'size': 6, 'offset': 3}),
     )
 ], fluid=True)
