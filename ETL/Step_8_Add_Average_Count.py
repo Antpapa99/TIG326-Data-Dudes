@@ -1,7 +1,7 @@
 import json
 
 # Load the JSON data from file
-with open('updated_occupation_list.json', 'r+') as file:
+with open('data/updated_occupation_list.json', 'r+') as file:
     data = json.load(file)
 
     # Calculate the average value for each skill
