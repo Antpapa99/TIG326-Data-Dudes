@@ -14,7 +14,22 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 40px 20px;
+  display: flex; /* this will make its children (content and image-container) sit side by side */
 }
+
+.content {
+  width: 60%; /* adjust as needed */
+}
+
+.image-container {
+  width: 40%; /* adjust as needed */
+}
+
+.image-right {
+  width: 100%;   /* adjust as needed */
+  height: auto; /* adjust as needed */
+}
+
 
 h1 {
   font-size: 48px;
@@ -28,7 +43,7 @@ p {
 }
 
 button {
-  background-color: #df1616;
+  background-color: #086971;;
   border: none;
   border-radius: 5px;
   color: #fff;
@@ -52,9 +67,9 @@ header {
 
 nav {
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
-
 nav img {
   height: 60px;
   margin-right: auto;
@@ -75,6 +90,7 @@ nav a {
   transition: color 0.2s;
 }
 
+
 nav a:hover {
   color: #df1616;
 }
@@ -86,6 +102,11 @@ main {
   background-repeat: repeat;
   background-size: auto;
   padding: 60px 0;
+}
+
+.image-right {
+  max-height: 5000px;  /* adjust as needed */
+  max-width: 2000px;   /* adjust as needed */
 }
 
 /* Footer styles */
@@ -125,3 +146,5 @@ footer p {
 
   nav ul {
     flex-direction:
+
+    
