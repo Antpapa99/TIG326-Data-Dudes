@@ -35,7 +35,7 @@ def toggle_match_skills_button(skills_dropdown_style):
 )
 def update_graph(selected_job):
     if not selected_job:
-        return go.Figure()  # return empty figure
+        return go.Figure() # return empty figure
     job = next((job for job in new_Jobs if job['label'] == selected_job), None)
     if job:
         skills = job['skills']
@@ -43,45 +43,53 @@ def update_graph(selected_job):
         counts = [skill['count'] for skill in skills]
         return {
             'data': [
-                go.Bar(
-                    x=names,
-                    y=counts,
-                    text=counts,
-                    textposition='auto'
-                )
+            go.Bar(
+            x=names,
+            y=counts,
+            text=counts,
+            textposition='auto'
+            )
             ],
             'layout': go.Layout(
-                title='Skills Distribution',
-                xaxis={'title': 'Skills'},
-                yaxis={'title': 'Count'},
+            title='Skills Distribution',
+            xaxis={'title': 'Skills'},
+            yaxis={'title': 'Count'},
             )
-        }
+            }
     return go.Figure()
 
 @app.callback(
     dash.dependencies.Output('job-matches', 'children'),
     [dash.dependencies.Input('skills-dropdown', 'value'),
-     dash.dependencies.Input('match-skills-button', 'n_clicks'),
+     dash.dependencies.Input('last-button-pressed', 'data'),
      dash.dependencies.Input('job-link-styles', 'data')]
 )
-def match_jobs(selected_skills, n_clicks, styles):
-    if not n_clicks or not selected_skills:
+def match_jobs(selected_skills, last_button_pressed, styles):
+    if not selected_skills or not last_button_pressed:
         return "No matches"
+
     matches = []
     for job in new_Jobs:
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
-        if required_skills and (seeker_skills & required_skills): 
-            button_style = styles.get(job['label'], {})
-            matches.append(html.Div([
-                html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, style=button_style),
-            ]))
+        if required_skills:
+            if last_button_pressed == 'exact-match-skills-button':
+                if required_skills.issuperset(seeker_skills): 
+                    button_style = styles.get(job['label'], {})
+                    matches.append(html.Div([
+                        html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, style=button_style),
+                    ]))
+            else:  # The match skills button was pressed last or is the only one pressed
+                if required_skills & seeker_skills: 
+                    button_style = styles.get(job['label'], {})
+                    matches.append(html.Div([
+                        html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, style=button_style),
+                    ]))
+
     if matches:
         return matches
     else:
         return 'No Matches found'
-
-#click on jobs callback
 
 
 @app.callback(
@@ -199,3 +207,16 @@ def show_hidden_skills(n_clicks, hidden_skills_style):
         return {'display': 'block'}, 'Show Less', {'display': 'block', 'margin-top': '10px'}
     else:
         return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px'}
+
+@app.callback(
+    dash.dependencies.Output('last-button-pressed', 'data'),
+    [dash.dependencies.Input('match-skills-button', 'n_clicks'),
+     dash.dependencies.Input('exact-match-skills-button', 'n_clicks')]
+)
+def update_last_button_pressed(match_n_clicks, exact_n_clicks):
+    ctx = dash.callback_context
+    if not ctx.triggered:
+        return ''
+    else:
+        button_id = ctx.triggered[-1]['prop_id'].split('.')[0]
+        return button_id
