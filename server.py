@@ -11,4 +11,4 @@ def home():
     return render_template('home.html', image_path1=image_path1, image_path2=image_path2)
 
 app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/",
-                external_stylesheets=[dbc.themes.BOOTSTRAP])
+                external_stylesheets=[dbc.themes.BOOTSTRAP, 'assets/custom.css'])
