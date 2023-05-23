@@ -19,10 +19,20 @@ def toggle_dropdowns(search_type):
         return {'display': 'none'}, {'display': 'none'}
 
 @app.callback(
-    dash.dependencies.Output('match-skills-button', 'style'),
+    dash.dependencies.Output('match-skills-button', 'style'), 
     [dash.dependencies.Input('skills-dropdown', 'style')]
 )
 def toggle_match_skills_button(skills_dropdown_style):
+    if skills_dropdown_style['display'] == 'block':
+        return {'display': 'block'}  # If skills dropdown is visible, show the button
+    else:
+        return {'display': 'none'}  # If skills dropdown is not visible, hide the button
+
+@app.callback(
+    dash.dependencies.Output('exact-match-skills-button', 'style'), 
+    [dash.dependencies.Input('skills-dropdown', 'style')]
+)
+def toggle_exact_match_skills_button(skills_dropdown_style):
     if skills_dropdown_style['display'] == 'block':
         return {'display': 'block'}  # If skills dropdown is visible, show the button
     else:
