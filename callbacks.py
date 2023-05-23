@@ -45,28 +45,36 @@ def toggle_exact_match_skills_button(skills_dropdown_style):
 )
 def update_graph(selected_job):
     if not selected_job:
-        return go.Figure() # return empty figure
+        return go.Figure()  # return empty figure
+
     job = next((job for job in new_Jobs if job['label'] == selected_job), None)
     if job:
         skills = job['skills']
         names = [skill['name'] for skill in skills]
-        counts = [skill['count'] for skill in skills]
+        counts = [(str(round((float(skill['average'])) * 100)) + "%") for skill in skills]
+
+        # Update the marker color to green (#086971)
+        bar_color = '#086971'
+
         return {
             'data': [
-            go.Bar(
-            x=names,
-            y=counts,
-            text=counts,
-            textposition='auto'
-            )
+                go.Bar(
+                    x=names,
+                    y=counts,
+                    text=counts,
+                    textposition='auto',
+                    marker={'color': bar_color}  # Set the bar color
+                )
             ],
             'layout': go.Layout(
-            title='Skills Distribution',
-            xaxis={'title': 'Skills'},
-            yaxis={'title': 'Count'},
+                title='Skills Distribution',
+                xaxis={'title': 'Skills'},
+                yaxis={'title': 'Presence in job ads(%)'},
             )
-            }
+        }
+
     return go.Figure()
+
 
 @app.callback(
     dash.dependencies.Output('job-matches', 'children'),

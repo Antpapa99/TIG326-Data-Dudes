@@ -23,3 +23,19 @@
 .Select-value-label {
     color: white !important;
 }
+
+.Select--multi .Select-value {
+    outline: 1px solid white !important;
+    color: white !important;
+}
+.Select--multi .Select-value-icon {
+    fill: white !important;
+}
+
+.Select-placeholder, .Select--single > .Select-control .Select-value {
+    color: white !important;
+}
+
+.gp-bar-chart .gp-bar {
+    fill: #086971 !important;
+  }
