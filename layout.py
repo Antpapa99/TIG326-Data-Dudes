@@ -14,6 +14,8 @@ app.layout = dbc.Container([
         className="mt-5"
     ),
 
+    html.Link(rel='stylesheet', href='/assets/custom.css'),
+
     dbc.Row(
         dbc.Col([
                 dcc.Dropdown(id='search-dropdown',
@@ -31,8 +33,8 @@ app.layout = dbc.Container([
                  style={'display': 'none'}),
     html.Div(id='job-skills', className="my-3"),
     html.Div(id='hidden-skills', className="my-3"),
-    dbc.Button('Match Skills', id='match-skills-button', className="mt-3", style={'background-color': '#086971'}),
-    dbc.Button('Exact Match Skills', id='exact-match-skills-button', className="mt-3", style={'background-color': '#086971'}),    # Add this line
+    dbc.Button('Match Skills', id='match-skills-button', className="mt-3", style={'background-color': '#086971', 'color': 'white'}),
+    dbc.Button('Exact Match Skills', id='exact-match-skills-button', className="mt-3", style={'background-color': '#086971', 'color': 'white'}),
     html.Div(id='job-matches', className="my-3"),
     dcc.Graph(id='skills-barchart'),
     html.Div(id='hidden-div', style={'display': 'none'}),

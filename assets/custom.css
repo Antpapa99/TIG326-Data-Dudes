@@ -1,8 +1,25 @@
 .VirtualizedSelectOption {
     background-color: #086971!important;
-    color: #086971 !important;
+    color: #ffffff !important;
 }
 .VirtualizedSelectFocusedOption {
     background-color: #086971 !important;
-    color: #086971!important;
+    color: #ffffff!important;
+}
+
+#match-skills-button,
+#exact-match-skills-button {
+    background-color: #086971 !important;
+    color: white !important;
+    border-color: #086971 !important;
+    box-shadow: none !important;
+}
+
+.Select-control {
+    background-color: #086971 !important;
+    color: white !important;
+}
+
+.Select-value-label {
+    color: white !important;
 }
