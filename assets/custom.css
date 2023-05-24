@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .VirtualizedSelectOption {
@@ -27,6 +27,19 @@ body {
     color: white !important;
 }
 
+.Select--multi .Select-value-icon,
+.Select--multi .Select-value-icon:hover,
+.Select--multi .Select-value-icon:focus {
+    background-color: #086971 !important;
+    color: white !important;
+    fill: white !important;
+}
+
+.Select--multi .Select-value-icon:hover svg,
+.Select--multi .Select-value-icon:focus svg {
+    fill: white !important;
+}
+
 .Select-value-label {
     color: white !important;
 }
@@ -34,6 +47,11 @@ body {
 .Select--multi .Select-value {
     outline: 1px solid white !important;
 }
+
+.Select-placeholder, .Select--single > .Select-control .Select-value {
+    color: white !important;
+}
+
 /* This will style the title. */
 h3 {
     text-align: center;
