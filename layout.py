@@ -9,10 +9,14 @@ new_Jobs = jobs()
 new_skills = select_skills()
 
 app.layout = dbc.Container([
-        dbc.Row(
-            dbc.Col(html.H1("Job Skills Matcher", className="text-center py-4"), 
-                    width=12),
+    dbc.Row(
+        dbc.Col(
+            [
+                html.Img(src="assets\img\skillflair.PNG", height="150px"),
+            ],
+            width=12,
         ),
+    ),
 
         dbc.Row([
             dbc.Col([
