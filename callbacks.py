@@ -195,7 +195,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
             else:
                 return html.Ul([html.Li(
                         f"{skill['name']} ({skill['count']})",
-                        style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                        style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                     ) for skill in skills])
         return "No job selected"
 
