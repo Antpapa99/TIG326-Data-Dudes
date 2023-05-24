@@ -199,20 +199,6 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                     ) for skill in skills])
         return "No job selected"
 
-def highlight_selected_job(dropdown_value, clicked_job, ids):
-    ctx = dash.callback_context
-    if not ctx.triggered:
-        return [{} for _ in ids]
-    else:
-        trigger_id = ctx.triggered[0]['prop_id'].split('.')[0]
-        # If the trigger comes from the dropdown
-        if trigger_id == 'jobs-dropdown':
-            selected_job_label = dropdown_value
-        else:  # trigger_id == 'hidden-div'
-            selected_job_label = clicked_job
-
-    return [{'background-color': 'green'} if id['index'] == selected_job_label else {} for id in ids]
-
 @app.callback(
     dash.dependencies.Output('job-link-styles', 'data'),
     dash.dependencies.Output('selected-job-store', 'data'),
