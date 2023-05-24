@@ -12,3 +12,7 @@ def home():
 
 app = dash.Dash(__name__, server=server, routes_pathname_prefix="/dash/",
                 external_stylesheets=[dbc.themes.BOOTSTRAP, 'assets/custom.css'])
+
+@server.route('/about', methods=['GET', 'POST'])
+def about():
+    return render_template('about.html')

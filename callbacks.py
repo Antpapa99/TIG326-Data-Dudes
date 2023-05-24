@@ -28,6 +28,20 @@ def toggle_match_skills_button(skills_dropdown_style):
     else:
         return {'display': 'none'}  # If skills dropdown is not visible, hide the button
 
+
+@app.callback(
+    dash.dependencies.Output('job-matches', 'style'),
+    [dash.dependencies.Input('search-dropdown', 'value')]
+)
+def toggle_job_matches(search_type):
+    if search_type == 'Jobs':
+        return {'display': 'none'}
+    elif search_type == 'Skills':
+        return {'display': 'block'}
+    else:
+        return {'display': 'none'}
+
+
 @app.callback(
     dash.dependencies.Output('exact-match-skills-button', 'style'), 
     [dash.dependencies.Input('skills-dropdown', 'style')]
@@ -149,13 +163,13 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                 children.extend([
                         html.Ul([html.Li(
                             f"{skill['name']} ({skill['count']})",
-                            style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                            style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                         ) for skill in visible_skills]),
                         html.Ul(
                             id='hidden-skills',
                             children=[html.Li(
                                 f"{skill['name']} ({skill['count']})",
-                                style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                                style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                             ) for skill in hidden_skills],
                             style={'display': 'none'}
                         )

@@ -1,22 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Prototype Dashboard</title>
+    <title>Skillflair</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
   </head>
   <body>
-    <header>
-      <nav>
-        <img src="{{url_for('static', filename='img/skillflair.PNG')}}" alt="Logo">
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-      
-    </header>
+    <div class="image-container-top">
+      <img src="{{url_for('static', filename='img/skillflair.PNG')}}" alt="Logo", class="image-top-left">
+    </div>
     <main>
+  
       <div class="container">
         <div class="content">
           <h1 style="color: #086971;">Finding the right skill is now as easy as Ctrl+F for your workforce!</h1>
@@ -26,13 +19,11 @@
             <button type="submit">Start your search</button>
           </form>
         </div>
+        
         <div class="image-container">
           <img src="{{ image_path2 }}" class="image-right">
         </div>
       </div>
     </main>
-    <footer>
-      <p>&copy; 2023 Prototype Dashboard. All rights reserved.</p>
-    </footer>
   </body>
 </html>
