@@ -65,10 +65,13 @@ def update_graph(selected_job):
     if job:
         skills = job['skills']
         names = [skill['name'] for skill in skills]
-        counts = [(str(round((float(skill['average'])) * 100)) + "%") for skill in skills]
+        counts = [(str(round((skill['average']) * 100)) + "%") for skill in skills]
 
         # Update the marker color to green (#086971)
         bar_color = '#086971'
+
+        title = 'Skills Distribution For ' + job['label']
+        subtitle = 'Number of Job Ads: ' + str(job["count"])
 
         return {
             'data': [
@@ -81,13 +84,21 @@ def update_graph(selected_job):
                 )
             ],
             'layout': go.Layout(
-                title='Skills Distribution',
+                title={
+                    'text': '<b>' + title + '</b><br>' + subtitle,
+                    'y': 0.9,  # Adjust the vertical position of the title
+                    'x': 0.5,  # Center the title horizontally
+                    'xanchor': 'center',
+                    'yanchor': 'top'
+                },
                 xaxis={'title': 'Skills'},
                 yaxis={'title': 'Presence in job ads(%)'},
             )
         }
 
     return go.Figure()
+
+
 
 
 @app.callback(
