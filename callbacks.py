@@ -110,14 +110,19 @@ def match_jobs(selected_skills, last_button_pressed, styles):
         return 'No Matches found'
 
 
+# Update the display_job_skills callback
 @app.callback(
     dash.dependencies.Output('job-skills', 'children'),
-    [dash.dependencies.Input('jobs-dropdown', 'value'),
-     dash.dependencies.Input('hidden-div', 'children'),
-     dash.dependencies.Input('job-link-styles', 'data')],  # Add this line
+    [dash.dependencies.Input('search-dropdown', 'value'),
+     dash.dependencies.Input('jobs-dropdown', 'value'),
+     dash.dependencies.Input('selected-job-store', 'data')],
     [dash.dependencies.State('skills-dropdown', 'value')]
 )
-def display_job_skills(dropdown_value, clicked_job, styles, selected_skills):
+def display_job_skills(search_type, dropdown_value, selected_job_store, selected_skills):
+    # If the search type is 'Skills', return "No job selected"
+    #if search_type == 'Skills':
+        #return [] # clear the skill list
+
     ctx = dash.callback_context
     if not ctx.triggered:
         return "No job selected"
@@ -126,12 +131,11 @@ def display_job_skills(dropdown_value, clicked_job, styles, selected_skills):
         # If the trigger comes from the dropdown
         if trigger_id == 'jobs-dropdown':
             selected_job_label = dropdown_value
-        elif trigger_id == 'job-link-styles':  # Add this condition
-            selected_job_label = next(
-                job for job, style in styles.items() if style.get('background-color') == 'green'
-            )
-        else:  # trigger_id == 'hidden-div'
-            selected_job_label = clicked_job
+        elif trigger_id == 'selected-job-store':  # the job link button was clicked
+            selected_job_label = selected_job_store
+        else:  # No job selected
+            return "No job selected"
+
     if selected_job_label:
         job = next((job for job in new_Jobs if job['label'] == selected_job_label), None)
         if job:
@@ -143,33 +147,32 @@ def display_job_skills(dropdown_value, clicked_job, styles, selected_skills):
 
                 children = []
                 children.extend([
-                    html.Ul([html.Li(
-                        f"{skill['name']} ({skill['count']})",
-                        style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
-                    ) for skill in visible_skills]),
-                    html.Ul(
-                        id='hidden-skills',
-                        children=[html.Li(
+                        html.Ul([html.Li(
                             f"{skill['name']} ({skill['count']})",
                             style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
-                        ) for skill in hidden_skills],
-                        style={'display': 'none'}
-                    )
-                ])
+                        ) for skill in visible_skills]),
+                        html.Ul(
+                            id='hidden-skills',
+                            children=[html.Li(
+                                f"{skill['name']} ({skill['count']})",
+                                style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                            ) for skill in hidden_skills],
+                            style={'display': 'none'}
+                        )
+                    ])
                 children.append(html.Button(
-                    'Show More',
-                    id='show-more-button',
-                    n_clicks=0,
-                    style={'display': 'block', 'margin-top': '10px'}
-                ))
+                        'Show More',
+                        id='show-more-button',
+                        n_clicks=0,
+                        style={'display': 'block', 'margin-top': '10px'}
+                    ))
                 return children
             else:
                 return html.Ul([html.Li(
-                    f"{skill['name']} ({skill['count']})",
-                    style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
-                ) for skill in skills])
-    return "No job selected"
-
+                        f"{skill['name']} ({skill['count']})",
+                        style={"font-weight": "bold", "color": "red"} if skill['name'] in selected_skills else {}
+                    ) for skill in skills])
+        return "No job selected"
 
 def highlight_selected_job(dropdown_value, clicked_job, ids):
     ctx = dash.callback_context
@@ -187,19 +190,20 @@ def highlight_selected_job(dropdown_value, clicked_job, ids):
 
 @app.callback(
     dash.dependencies.Output('job-link-styles', 'data'),
+    dash.dependencies.Output('selected-job-store', 'data'),
     [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
     [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id'),
      dash.dependencies.State('job-link-styles', 'data')]
 )
 def handle_job_click(n_clicks, ids, styles):
     if not any(n_clicks):
-        return styles  # No buttons have been clicked yet, return current styles
+        return styles, dash.no_update  # No buttons have been clicked yet, return current styles
     # Get the label of the clicked job
     clicked_job_label = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
     # Reset all styles and set the style of the clicked job to green
     new_styles = {id['index']: {} for id in ids}  # reset styles
     new_styles[clicked_job_label] = {'background-color': 'green'}  # highlight clicked job
-    return new_styles
+    return new_styles, clicked_job_label
 
 
 @app.callback(
@@ -238,3 +242,27 @@ def update_last_button_pressed(match_n_clicks, exact_n_clicks):
     else:
         button_id = ctx.triggered[-1]['prop_id'].split('.')[0]
         return button_id
+    
+@app.callback(
+    dash.dependencies.Output('selected-job', 'children'),
+    [dash.dependencies.Input('jobs-dropdown', 'value')]
+)
+def update_selected_job(dropdown_value):
+    return dropdown_value
+
+@app.callback(
+    dash.dependencies.Output('clicked-job', 'children'),
+    [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
+    [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id')]
+)
+@app.callback(
+    dash.dependencies.Output('jobs-dropdown', 'value'),
+    [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
+    [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id')]
+)
+def update_jobs_dropdown_from_link(n_clicks, ids):
+    if not any(n_clicks):
+        return dash.no_update  # No buttons have been clicked yet, don't update
+    # Get the label of the clicked job
+    clicked_job_label = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
+    return clicked_job_label

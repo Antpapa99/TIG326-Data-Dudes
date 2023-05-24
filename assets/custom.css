@@ -1,7 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+}
+
 .VirtualizedSelectOption {
     background-color: #086971!important;
     color: #ffffff !important;
 }
+
 .VirtualizedSelectFocusedOption {
     background-color: #086971 !important;
     color: #ffffff!important;
@@ -13,6 +19,7 @@
     color: white !important;
     border-color: #086971 !important;
     box-shadow: none !important;
+    width: 100%;
 }
 
 .Select-control {
@@ -26,16 +33,35 @@
 
 .Select--multi .Select-value {
     outline: 1px solid white !important;
-    color: white !important;
 }
-.Select--multi .Select-value-icon {
-    fill: white !important;
+/* This will style the title. */
+h3 {
+    text-align: center;
+    color: #086971;
+    font-size: 2.5em;
+    margin-bottom: 20px;
 }
 
-.Select-placeholder, .Select--single > .Select-control .Select-value {
-    color: white !important;
+/* This will style the Container. */
+.dash-bootstrap {
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    padding: 20px;
 }
 
-.gp-bar-chart .gp-bar {
-    fill: #086971 !important;
-  }
+/* This will style the Dropdowns. */
+.Select-control {
+    border-radius: 10px !important;
+    border: none !important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* This will style the Graph. */
+#skills-barchart .domain {
+    stroke: #086971 !important;
+}
+
+#skills-barchart .tick line {
+    stroke: #086971 !important;
+}
