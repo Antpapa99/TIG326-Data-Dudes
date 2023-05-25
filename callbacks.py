@@ -1,5 +1,6 @@
 import dash
 import plotly.graph_objs as go
+import dash_core_components as dcc
 import dash_html_components as html
 from server import app
 from layout import new_Jobs
@@ -109,7 +110,7 @@ def update_graph(selected_job):
 )
 def match_jobs(selected_skills, last_button_pressed, styles):
     if not selected_skills or not last_button_pressed:
-        return "No matches"
+        return ""
 
     matches = []
     for job in new_Jobs:
@@ -120,14 +121,14 @@ def match_jobs(selected_skills, last_button_pressed, styles):
                 if required_skills.issuperset(seeker_skills): 
                     button_style = styles.get(job['label'], {})
                     matches.append(html.Div([
-                        html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, style=button_style),
-                    ]))
+    html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button'),
+]))
             else:  # The match skills button was pressed last or is the only one pressed
                 if required_skills & seeker_skills: 
                     button_style = styles.get(job['label'], {})
                     matches.append(html.Div([
-                        html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, style=button_style),
-                    ]))
+    html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button'),
+]))
 
     if matches:
         return matches
@@ -198,6 +199,8 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                         style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                     ) for skill in skills])
         return "No job selected"
+
+
 
 @app.callback(
     dash.dependencies.Output('job-link-styles', 'data'),
@@ -277,3 +280,24 @@ def update_jobs_dropdown_from_link(n_clicks, ids):
     # Get the label of the clicked job
     clicked_job_label = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
     return clicked_job_label
+
+@app.callback(
+    dash.dependencies.Output('clicked-button-store', 'data'),
+    [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
+    [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id')]
+)
+def store_clicked_button(n_clicks, ids):
+    if not any(n_clicks):
+        return dash.no_update  # No buttons have been clicked yet, return current styles
+    # Get the label of the clicked job
+    clicked_button_id = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
+    return clicked_button_id
+
+@app.callback(
+    [dash.dependencies.Output({'type': 'job-link', 'index': dash.dependencies.ALL}, 'className')],
+    [dash.dependencies.Input('clicked-button-store', 'data')],
+    [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id')]
+)
+def update_button_styles(clicked_button_id, ids):
+    return ['fancy-button-clicked' if id['index'] == clicked_button_id else 'fancy-button' for id in ids]
+

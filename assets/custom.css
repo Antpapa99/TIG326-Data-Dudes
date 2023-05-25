@@ -83,3 +83,84 @@ h3 {
 #skills-barchart .tick line {
     stroke: #086971 !important;
 }
+
+.dynamic-job-button {
+    border-radius: 25px;
+    font-size: 1.2em;
+    background-color: #086971;
+    color: white;
+    border: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+}
+
+.dynamic-job-button:hover {
+    transform: scale(1.02);
+    background-color: #0B4F6C;
+    color: white;
+    cursor: pointer;
+}
+
+.dynamic-job-button:active {
+    transform: scale(0.98);
+    background-color: #03396c;
+    color: white;
+}
+
+.fancy-button {
+    background-color: #4CAF50; /* Green background */
+    border: none;  /* Remove borders */
+    color: white;  /* White text */
+    padding: 15px 32px;  /* Some padding */
+    text-align: center;  /* Centered text */
+    text-decoration: none;  /* No underline */
+    display: inline-block;
+    font-size: 16px;  /* Big text */
+    margin: 4px 2px;  /* Some margin */
+    cursor: pointer;  /* Mouse pointer on hover */
+    border-radius: 12px;  /* Rounded corners */
+    transition-duration: 0.4s;  /* Add transition (optional) */
+}
+
+.fancy-button:hover {
+    background-color: #3d493e; /* Green background on hover */
+}
+
+.fancy-button:active {
+    background-color: #013803; /* Darker green background when clicked */
+}
+.fancy-button-clicked {
+    /* Style for clicked button */
+    background-color: #050505;
+    /* Rest of the styles same as fancy-button */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.1s;
+}
+
+.clicked_buton {
+    background-color: #af4ca7; /* Green background */
+    border: none;  /* Remove borders */
+    color: white;  /* White text */
+    padding: 15px 32px;  /* Some padding */
+    text-align: center;  /* Centered text */
+    text-decoration: none;  /* No underline */
+    display: inline-block;
+    font-size: 16px;  /* Big text */
+    margin: 4px 2px;  /* Some margin */
+    cursor: pointer;  /* Mouse pointer on hover */
+    border-radius: 12px;  /* Rounded corners */
+    transition-duration: 0.4s;  /* Add transition (optional) */
+}
+
+.clicked_buton:active {
+    background-color: #350615; /* Darker green background when clicked */
+}
