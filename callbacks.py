@@ -237,13 +237,12 @@ def update_job_link_styles(styles, ids):
     [dash.dependencies.Input('show-more-button', 'n_clicks')],
     [dash.dependencies.State('hidden-skills', 'style')]
 )
-
 def show_hidden_skills(n_clicks, hidden_skills_style):
     if n_clicks % 2 == 1:
-        return {'display': 'block'}, 'Show Less', {'display': 'block', 'margin-top': '10px'}
+        return {'display': 'block'}, 'Show Less', {'display': 'block', 'margin-top': '10px', 'background-color': '#086971', 'color': 'white', 'border': 'none', 'padding': '10px 20px', 'text-align': 'center', 'text-decoration': 'none', 'display': 'inline-block', 'font-size': '16px', 'margin': '4px 2px', 'cursor': 'pointer', 'border-radius': '12px'}
     else:
-        return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px'}
-
+        return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px', 'background-color': '#086971', 'color': 'white', 'border': 'none', 'padding': '10px 20px', 'text-align': 'center', 'text-decoration': 'none', 'display': 'inline-block', 'font-size': '16px', 'margin': '4px 2px', 'cursor': 'pointer', 'border-radius': '12px'}
+    
 @app.callback(
     dash.dependencies.Output('last-button-pressed', 'data'),
     [dash.dependencies.Input('match-skills-button', 'n_clicks'),
