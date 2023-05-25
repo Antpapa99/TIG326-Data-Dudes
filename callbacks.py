@@ -117,21 +117,26 @@ def match_jobs(selected_skills, last_button_pressed, styles):
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills:
+            #match_percentage = len(required_skills & seeker_skills) / len(required_skills)
+            #color_value = int(match_percentage * 255)
+            button_style = {'background-color': f'rgb(128, 128, 128)'}
             if last_button_pressed == 'exact-match-skills-button':
                 if required_skills.issuperset(seeker_skills): 
-                    button_style = styles.get(job['label'], {})
-                    matches.append(html.Div([
-    html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button'),
-]))
+                    button_style.update(styles.get(job['label'], {}))
+                    matches.append(html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style))
             else:  # The match skills button was pressed last or is the only one pressed
                 if required_skills & seeker_skills: 
-                    button_style = styles.get(job['label'], {})
-                    matches.append(html.Div([
-    html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button'),
-]))
+                    button_style.update(styles.get(job['label'], {}))
+                    matches.append(html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style))
 
     if matches:
-        return matches
+        # Here we break down the matches list into sublists of 10 items
+        column_length = 10
+        columns = [matches[i:i + column_length] for i in range(0, len(matches), column_length)]
+        # Create a div for each column and wrap all in a parent div
+        return html.Div([
+            html.Div(column, className='column') for column in columns
+        ], className='columns')
     else:
         return 'No Matches found'
 
