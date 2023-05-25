@@ -112,24 +112,29 @@ def match_jobs(selected_skills, last_button_pressed, styles):
     if not selected_skills or not last_button_pressed:
         return ""
 
-    matches = []
+    job_matches = []  # a list to store tuples (match percentage, job label, job button)
+
     for job in new_Jobs:
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills:
-            #match_percentage = len(required_skills & seeker_skills) / len(required_skills)
-            #color_value = int(match_percentage * 255)
-            button_style = {'background-color': f'rgb(128, 128, 128)'}
+            match_percentage = len(required_skills & seeker_skills) / len(required_skills)
+            button_style = styles.get(job['label'], {})
             if last_button_pressed == 'exact-match-skills-button':
                 if required_skills.issuperset(seeker_skills): 
-                    button_style.update(styles.get(job['label'], {}))
-                    matches.append(html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style))
+                    job_button = html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style)
+                    job_matches.append((match_percentage, job['label'], job_button))
             else:  # The match skills button was pressed last or is the only one pressed
                 if required_skills & seeker_skills: 
-                    button_style.update(styles.get(job['label'], {}))
-                    matches.append(html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style))
+                    job_button = html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style)
+                    job_matches.append((match_percentage, job['label'], job_button))
 
-    if matches:
+    # sort the job matches by match percentage (highest first)
+    job_matches.sort(reverse=True)
+
+    if job_matches:
+        matches = [job[2] for job in job_matches]  # retrieve job buttons from the sorted list
+
         # Here we break down the matches list into sublists of 10 items
         column_length = 10
         columns = [matches[i:i + column_length] for i in range(0, len(matches), column_length)]
@@ -138,7 +143,7 @@ def match_jobs(selected_skills, last_button_pressed, styles):
             html.Div(column, className='column') for column in columns
         ], className='columns')
     else:
-        return 'No Matches found'
+        return ''
 
 
 # Update the display_job_skills callback
@@ -179,13 +184,13 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                 children = []
                 children.extend([
                         html.Ul([html.Li(
-                            f"{skill['name']} ({skill['count']})",
+                            f"{skill['name']}",
                             style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                         ) for skill in visible_skills]),
                         html.Ul(
                             id='hidden-skills',
                             children=[html.Li(
-                                f"{skill['name']} ({skill['count']})",
+                                f"{skill['name']}",
                                 style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                             ) for skill in hidden_skills],
                             style={'display': 'none'}
@@ -200,7 +205,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                 return children
             else:
                 return html.Ul([html.Li(
-                        f"{skill['name']} ({skill['count']})",
+                        f"{skill['name']}",
                         style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                     ) for skill in skills])
         return "No job selected"

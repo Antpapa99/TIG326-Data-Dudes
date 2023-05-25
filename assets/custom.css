@@ -108,7 +108,7 @@ h3 {
 }
 
 .fancy-button {
-    background-color: #4CAF50; /* Green background */
+    background-color: #959a95; /* Green background */
     border: none;  /* Remove borders */
     color: white;  /* White text */
     padding: 15px 32px;  /* Some padding */
@@ -158,7 +158,7 @@ h3 {
     margin: 4px 2px;  /* Some margin */
     cursor: pointer;  /* Mouse pointer on hover */
     border-radius: 12px;  /* Rounded corners */
-    transition-duration: 0.4s;  /* Add transition (optional) */
+    transition-duration: 0.1s;  /* Add transition (optional) */
 }
 
 .clicked_buton:active {
