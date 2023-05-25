@@ -79,7 +79,7 @@ for occupation in occupation_list:
     
     occupation['skills'] = valid_skills
 
-with open('updated_occupation_list.json', 'w') as f:
+with open('data/updated_occupation_list.json', 'w') as f:
     json.dump(occupation_list, f, indent=4)
 
 filtered_skills_sorted = sorted(filtered_skills_counts.values(), key=lambda x: x['count'], reverse=True)

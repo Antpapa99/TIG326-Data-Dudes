@@ -10,7 +10,7 @@ with open('data/updated_occupation_list.json', 'r+') as file:
         total_count = job['count']
         
         # Only process jobs with 5 or more ads
-        if total_count >= 15:
+        if total_count >= 20:
             skills = job['skills']
             filtered_skills = []
             for skill in skills:
