@@ -48,6 +48,11 @@ app.layout = dbc.Container([
             dcc.Store(id='clicked-button-store', data=None),
             dcc.Store(id='clicked-button-id', storage_type='memory'),
             dbc.Pagination(id='pagination', max_value=1, size='lg', className='mt-3 mb-3'),
+            html.A(
+            'Go to Flask homepage',
+            href='/',
+            className='fancy-link'  # Apply the CSS class to the hyperlink
+        ),
         ], width=6, className="mx-auto"),
         dbc.Col([
             dcc.Graph(id='skills-barchart'),

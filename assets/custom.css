@@ -165,3 +165,17 @@ h3 {
     background-color: #350615; /* Darker green background when clicked */
 }
 
+.fancy-link {
+    background-color: #086971; /* Green background */
+    border: none;  /* Remove borders */
+    color: white;  /* White text */
+    padding: 15px 32px;  /* Some padding */
+    text-align: center;  /* Centered text */
+    text-decoration: none;  /* No underline */
+    display: inline-block;
+    font-size: 16px;  /* Big text */
+    margin: 4px 2px;  /* Some margin */
+    cursor: pointer;  /* Mouse pointer on hover */
+    border-radius: 12px;  /* Rounded corners */
+    transition-duration: 0.4s;  /* Add transition (optional) */
+}
