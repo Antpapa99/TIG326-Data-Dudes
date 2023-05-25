@@ -1,6 +1,7 @@
 import dash_html_components as html
 import dash_core_components as dcc
 import dash_bootstrap_components as dbc
+import math
 from server import app
 from Skills_Selector import select_skills
 from Job_Selector import jobs
@@ -46,6 +47,7 @@ app.layout = dbc.Container([
             dcc.Store(id='selected-job-store', storage_type='session'),
             dcc.Store(id='clicked-button-store', data=None),
             dcc.Store(id='clicked-button-id', storage_type='memory'),
+            dbc.Pagination(id='pagination', max_value=1, size='lg', className='mt-3 mb-3'),
         ], width=6, className="mx-auto"),
         dbc.Col([
             dcc.Graph(id='skills-barchart'),

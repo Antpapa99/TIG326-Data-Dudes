@@ -2,6 +2,7 @@ import dash
 import plotly.graph_objs as go
 import dash_core_components as dcc
 import dash_html_components as html
+import math
 from server import app
 from layout import new_Jobs
 
@@ -103,14 +104,16 @@ def update_graph(selected_job):
 
 
 @app.callback(
-    dash.dependencies.Output('job-matches', 'children'),
+    [dash.dependencies.Output('job-matches', 'children'),
+     dash.dependencies.Output('pagination', 'max_value')],
     [dash.dependencies.Input('skills-dropdown', 'value'),
      dash.dependencies.Input('last-button-pressed', 'data'),
-     dash.dependencies.Input('job-link-styles', 'data')]
+     dash.dependencies.Input('job-link-styles', 'data'),
+     dash.dependencies.Input('pagination', 'active_page')],
 )
-def match_jobs(selected_skills, last_button_pressed, styles):
+def match_jobs(selected_skills, last_button_pressed, styles, active_page):
     if not selected_skills or not last_button_pressed:
-        return ""
+        return "", 1
 
     job_matches = []  # a list to store tuples (match percentage, job label, job button)
 
@@ -135,15 +138,16 @@ def match_jobs(selected_skills, last_button_pressed, styles):
     if job_matches:
         matches = [job[2] for job in job_matches]  # retrieve job buttons from the sorted list
 
-        # Here we break down the matches list into sublists of 10 items
-        column_length = 10
-        columns = [matches[i:i + column_length] for i in range(0, len(matches), column_length)]
-        # Create a div for each column and wrap all in a parent div
-        return html.Div([
-            html.Div(column, className='column') for column in columns
-        ], className='columns')
+        items_per_page = 15
+        pages = math.ceil(len(matches) / items_per_page)
+        active_page = active_page or 1
+        start = (active_page - 1) * items_per_page
+        end = start + items_per_page
+
+        return matches[start:end], pages
     else:
-        return ''
+        return '', 1
+    
 
 
 # Update the display_job_skills callback
