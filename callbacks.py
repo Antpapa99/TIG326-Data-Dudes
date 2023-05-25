@@ -161,7 +161,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
 
     ctx = dash.callback_context
     if not ctx.triggered:
-        return "No job selected"
+        return ""
     else:
         trigger_id = ctx.triggered[0]['prop_id'].split('.')[0]
         # If the trigger comes from the dropdown
@@ -170,7 +170,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
         elif trigger_id == 'selected-job-store':  # the job link button was clicked
             selected_job_label = selected_job_store
         else:  # No job selected
-            return "No job selected"
+            return ""
 
     if selected_job_label:
         job = next((job for job in new_Jobs if job['label'] == selected_job_label), None)
@@ -208,7 +208,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
                         f"{skill['name']}",
                         style={"font-weight": "bold", "color": "green"} if skill['name'] in selected_skills else {}
                     ) for skill in skills])
-        return "No job selected"
+        return ""
 
 
 
