@@ -116,25 +116,25 @@ def match_jobs(selected_skills, last_button_pressed, styles, active_page):
     if not selected_skills or not last_button_pressed:
         return "", 1, True
 
-    job_matches = []  # a list to store tuples (match percentage, job label, job button)
+    job_matches = []  # a list to store tuples (match count, job label, job button)
 
     for job in new_Jobs:
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills:
-            match_percentage = len(seeker_skills)
+            match_count = len(seeker_skills & required_skills) # calculating number of matching skills
             button_style = styles.get(job['label'], {})
             if last_button_pressed == 'exact-match-skills-button':
                 if required_skills.issuperset(seeker_skills): 
                     job_button = html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style)
-                    job_matches.append((match_percentage, job['label'], job_button))
+                    job_matches.append((match_count, job['label'], job_button))
             else:  # The match skills button was pressed last or is the only one pressed
                 if required_skills & seeker_skills: 
                     job_button = html.Button(job['label'], id={'type': 'job-link', 'index': job['label']}, className='fancy-button', style=button_style)
-                    job_matches.append((match_percentage, job['label'], job_button))
+                    job_matches.append((match_count, job['label'], job_button))
 
-    # sort the job matches by match percentage (highest first)
-    job_matches.sort(reverse=True)
+    # sort the job matches by match count (highest first)
+    job_matches.sort(key=lambda x: x[0], reverse=True)
 
     if job_matches:
         matches = [job[2] for job in job_matches]  # retrieve job buttons from the sorted list

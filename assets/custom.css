@@ -179,3 +179,25 @@ h3 {
     border-radius: 12px;  /* Rounded corners */
     transition-duration: 0.4s;  /* Add transition (optional) */
 }
+
+.pagination .page-link {
+  background-color: #f5f5f5;
+  border-color: #dee2e6;
+  color: #000000;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #086971;
+  border-color: #086971;
+  color: #ffffff;
+}
+
+.pagination .page-item.disabled .page-link {
+  background-color: #ffffff;
+  color: #086971;
+  cursor: not-allowed;
+}
+
+.pagination .page-link {
+  color: #086971; /* Change this to the color you want for the numbers */
+}
