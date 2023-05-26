@@ -54,14 +54,15 @@
     }
 
     .btn {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #333;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 4px;
-      transition: background-color 0.3s ease;
-    }
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #086971;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 0; /* Add this line to remove the bottom margin */
+  }
 
     .btn:hover {
       background-color: #555;
@@ -93,18 +94,15 @@
     <section>
       <h2>How Skillflair works
       </h2>
-      <p>Key features of this app:</p>
+      <p>Explaination</p>
       <ul>
-        <li>Choose between two search options: Jobs and Skills</li>
-        <li>Click the "Match Skills" button to instantly identify job positions that align with your technical expertise</li>
-        <li>Gain valuable insights into the IT job market with our Skills Distribution Graph</li>
-        <li>Explore a curated list of job matches tailored specifically to IT students like you</li>
+        <li>We extract our data from Jobtech</li>
+        <li>With the help of Jobtechs API we transform data so that the webapp can be able to read it and transform it</li>
+        <li>The skills come from the API scanning after keywords in jobs data, which then processes through a whitelist based on jobtechs own taxnomy and stackoverflow data</li>
+        <li>The jobs come from Jobtechs API scanning job titles/headlines and giving each of them a classified occupation</li>
+        <a href="/" class="btn">Go back to Home</a>
       </ul>
     </section>
   </main>
-
-  <footer>
-    <a href="/" class="btn">Go back to Home</a>
-  </footer>
 </body>
 </html>
