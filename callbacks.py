@@ -105,7 +105,8 @@ def update_graph(selected_job):
 
 @app.callback(
     [dash.dependencies.Output('job-matches', 'children'),
-     dash.dependencies.Output('pagination', 'max_value')],
+     dash.dependencies.Output('pagination', 'max_value'),
+     dash.dependencies.Output('pagination', 'hidden')],
     [dash.dependencies.Input('skills-dropdown', 'value'),
      dash.dependencies.Input('last-button-pressed', 'data'),
      dash.dependencies.Input('job-link-styles', 'data'),
@@ -113,7 +114,7 @@ def update_graph(selected_job):
 )
 def match_jobs(selected_skills, last_button_pressed, styles, active_page):
     if not selected_skills or not last_button_pressed:
-        return "", 1
+        return "", 1, True
 
     job_matches = []  # a list to store tuples (match percentage, job label, job button)
 
@@ -121,7 +122,7 @@ def match_jobs(selected_skills, last_button_pressed, styles, active_page):
         required_skills = set(skill['name'] for skill in job['skills'])
         seeker_skills = set(selected_skills)
         if required_skills:
-            match_percentage = len(required_skills & seeker_skills) / len(required_skills)
+            match_percentage = len(seeker_skills)
             button_style = styles.get(job['label'], {})
             if last_button_pressed == 'exact-match-skills-button':
                 if required_skills.issuperset(seeker_skills): 
@@ -144,10 +145,10 @@ def match_jobs(selected_skills, last_button_pressed, styles, active_page):
         start = (active_page - 1) * items_per_page
         end = start + items_per_page
 
-        return matches[start:end], pages
+        return matches[start:end], pages, False
     else:
-        return '', 1
-    
+        return '', 1, True
+
 
 
 # Update the display_job_skills callback
