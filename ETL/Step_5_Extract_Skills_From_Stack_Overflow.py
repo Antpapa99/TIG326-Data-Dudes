@@ -1,7 +1,9 @@
 import pandas as pd
 import json
 
-data = pd.read_csv(r"C:\Users\Anthony\Desktop\New folder_2\survey_results_public.csv")
+data = pd.read_csv(r"Here you put in the path where you put the stackoverflow latest survey")
+
+#Ideally we would have both the main jobtech dataset and the stackoverflow dataset in the git repo but sadly github can't handle too large files
 
 # List of columns you want to get unique values from
 columns = ["DatabaseHaveWorkedWith", "LanguageHaveWorkedWith", "PlatformHaveWorkedWith", "WebframeHaveWorkedWith", "MiscTechHaveWorkedWith", "ToolsTechHaveWorkedWith", "NEWCollabToolsHaveWorkedWith", "VersionControlSystem"]
@@ -20,7 +22,7 @@ for column in columns:
     unique_values.update(flat_list)
 
 print(unique_values)
-
+#same thing we did in the previous skills whitelist
 for elements in unique_values:
     output = {"label": [elements.lower() for elements in unique_values],
               "value": [elements.lower() for elements in unique_values]}

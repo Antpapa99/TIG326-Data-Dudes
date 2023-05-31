@@ -4,12 +4,12 @@ import json
 with open('data/updated_occupation_list.json', 'r+') as file:
     data = json.load(file)
 
-    filtered_jobs = []  # List to hold jobs with 5 or more ads
+    filtered_jobs = []  # List to hold jobs
 
     for job in data:
         total_count = job['count']
         
-        # Only process jobs with 5 or more ads
+        # Here you can decide how you want the job data for the webapp to look like you can configure which jobs will appear based on count or which skills will appear based on percentage
         if total_count >= 20:
             skills = job['skills']
             filtered_skills = []
@@ -24,6 +24,6 @@ with open('data/updated_occupation_list.json', 'r+') as file:
     # Move the file pointer to the beginning of the file
     file.seek(0)
 
-    # Write the updated JSON data back to the file
+    # Write the updated JSON data back to the file, this basically just updates the updated_occupation_list.json
     json.dump(filtered_jobs, file, indent=4)
     file.truncate()

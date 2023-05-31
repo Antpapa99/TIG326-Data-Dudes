@@ -1,10 +1,10 @@
 import json
 
-# Open the JSON file and load the data
-with open(r'C:\Users\Anthony\Desktop\JSON_data\2023.json', 'r') as f:
+# Open the JSON file and load the data from any path
+with open(r'Your file path here', 'r') as f:
     data = json.load(f)
 
-# Define the target concept_id
+# Define the target concept_id in the jobtech dataset
 target_concept_id = 'apaJ_2ja_LuF'
 
 # Create a new list to store the filtered data
@@ -23,8 +23,8 @@ for sample in data:
         # Add the sample to the filtered data list
         filtered_data.append(sample)
 
-# Save the filtered data to a new JSON file
-with open(r'C:\Users\Anthony\Desktop\JSON_data\afiltered_data.json', 'w', encoding='utf-8') as f:
+# Save the filtered data to a new JSON file to any path
+with open(r'Your file path here', 'w', encoding='utf-8') as f:
     json.dump(filtered_data, f, ensure_ascii=False, indent=4)  # Set ensure_ascii to False
 
 print("done")

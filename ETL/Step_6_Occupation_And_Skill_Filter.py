@@ -79,11 +79,13 @@ for occupation in occupation_list:
     
     occupation['skills'] = valid_skills
 
+#Here you have the final data transformation that the webapp will actually be able the read with way we have the designed it
 with open('data/updated_occupation_list.json', 'w') as f:
     json.dump(occupation_list, f, indent=4)
 
 filtered_skills_sorted = sorted(filtered_skills_counts.values(), key=lambda x: x['count'], reverse=True)
 
+#Here's for you to check if some skills that's you deem important is missing and you can add it to the skills_whitelist and redo this process
 with open('filtered_skills.json', 'w') as f:
     json.dump(list(filtered_skills_sorted), f, indent=4)
 
