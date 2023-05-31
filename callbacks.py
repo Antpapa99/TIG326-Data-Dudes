@@ -12,6 +12,8 @@ from layout import new_Jobs
     dash.dependencies.Output('skills-dropdown', 'style'),
     [dash.dependencies.Input('search-dropdown', 'value')]
 )
+
+#This actually toggles the dropdowns
 def toggle_dropdowns(search_type):
     if search_type == 'Jobs':
         return {'display': 'block'}, {'display': 'none'}
@@ -20,6 +22,7 @@ def toggle_dropdowns(search_type):
     else:
         return {'display': 'none'}, {'display': 'none'}
 
+#Makes sure that the match skills button doesn't appear when on jobs dropdown
 @app.callback(
     dash.dependencies.Output('match-skills-button', 'style'), 
     [dash.dependencies.Input('skills-dropdown', 'style')]
@@ -31,6 +34,7 @@ def toggle_match_skills_button(skills_dropdown_style):
         return {'display': 'none'}  # If skills dropdown is not visible, hide the button
 
 
+#Kind of clears the selected job when you switch to select skills 
 @app.callback(
     dash.dependencies.Output('job-matches', 'style'),
     [dash.dependencies.Input('search-dropdown', 'value')]
@@ -44,6 +48,7 @@ def toggle_job_matches(search_type):
         return {'display': 'none'}
 
 
+#Same as the match skills one
 @app.callback(
     dash.dependencies.Output('exact-match-skills-button', 'style'), 
     [dash.dependencies.Input('skills-dropdown', 'style')]
@@ -54,7 +59,7 @@ def toggle_exact_match_skills_button(skills_dropdown_style):
     else:
         return {'display': 'none'}  # If skills dropdown is not visible, hide the button
 
-#Graphs
+#Our Graph to show the skill percentages associated with each job role
 @app.callback(
     dash.dependencies.Output('skills-barchart', 'figure'),
     [dash.dependencies.Input('jobs-dropdown', 'value')]
@@ -101,7 +106,7 @@ def update_graph(selected_job):
     return go.Figure()
 
 
-
+#Our big function that matches selected skills with jobs as well code that makes sure it nice to look at it
 
 @app.callback(
     [dash.dependencies.Output('job-matches', 'children'),
@@ -151,7 +156,7 @@ def match_jobs(selected_skills, last_button_pressed, styles, active_page):
 
 
 
-# Update the display_job_skills callback
+# Basically a function that shows skills associated with each job
 @app.callback(
     dash.dependencies.Output('job-skills', 'children'),
     [dash.dependencies.Input('search-dropdown', 'value'),
@@ -216,7 +221,7 @@ def display_job_skills(search_type, dropdown_value, selected_job_store, selected
         return ""
 
 
-
+#A function that handles the interaction with job buttons i.e the jobs that are shown when you select and match skills
 @app.callback(
     dash.dependencies.Output('job-link-styles', 'data'),
     dash.dependencies.Output('selected-job-store', 'data'),
@@ -234,7 +239,7 @@ def handle_job_click(n_clicks, ids, styles):
     new_styles[clicked_job_label] = {'background-color': 'green'}  # highlight clicked job
     return new_styles, clicked_job_label
 
-
+#
 @app.callback(
     [dash.dependencies.Output({'type': 'job-link', 'index': dash.dependencies.ALL}, 'style')],
     [dash.dependencies.Input('job-link-styles', 'data')],
@@ -244,7 +249,7 @@ def handle_job_click(n_clicks, ids, styles):
 def update_job_link_styles(styles, ids):
     return [styles.get(id['index'], {}) for id in ids]
 
-
+#Adds a show more or show less button for skills and makes it work
 @app.callback(
     dash.dependencies.Output('hidden-skills', 'style'),
     dash.dependencies.Output('show-more-button', 'children'),
@@ -257,7 +262,9 @@ def show_hidden_skills(n_clicks, hidden_skills_style):
         return {'display': 'block'}, 'Show Less', {'display': 'block', 'margin-top': '10px', 'background-color': '#086971', 'color': 'white', 'border': 'none', 'padding': '10px 20px', 'text-align': 'center', 'text-decoration': 'none', 'display': 'inline-block', 'font-size': '16px', 'margin': '4px 2px', 'cursor': 'pointer', 'border-radius': '12px'}
     else:
         return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px', 'background-color': '#086971', 'color': 'white', 'border': 'none', 'padding': '10px 20px', 'text-align': 'center', 'text-decoration': 'none', 'display': 'inline-block', 'font-size': '16px', 'margin': '4px 2px', 'cursor': 'pointer', 'border-radius': '12px'}
-    
+
+#
+
 @app.callback(
     dash.dependencies.Output('last-button-pressed', 'data'),
     [dash.dependencies.Input('match-skills-button', 'n_clicks'),
