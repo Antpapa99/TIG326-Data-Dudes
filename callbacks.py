@@ -263,7 +263,7 @@ def show_hidden_skills(n_clicks, hidden_skills_style):
     else:
         return {'display': 'none'}, 'Show More', {'display': 'block', 'margin-top': '10px', 'background-color': '#086971', 'color': 'white', 'border': 'none', 'padding': '10px 20px', 'text-align': 'center', 'text-decoration': 'none', 'display': 'inline-block', 'font-size': '16px', 'margin': '4px 2px', 'cursor': 'pointer', 'border-radius': '12px'}
 
-#
+#Just a way for the program to know which button was pressed 
 
 @app.callback(
     dash.dependencies.Output('last-button-pressed', 'data'),
@@ -277,7 +277,8 @@ def update_last_button_pressed(match_n_clicks, exact_n_clicks):
     else:
         button_id = ctx.triggered[-1]['prop_id'].split('.')[0]
         return button_id
-    
+
+#Updates the dropdown menu    
 @app.callback(
     dash.dependencies.Output('selected-job', 'children'),
     [dash.dependencies.Input('jobs-dropdown', 'value')]
@@ -285,11 +286,14 @@ def update_last_button_pressed(match_n_clicks, exact_n_clicks):
 def update_selected_job(dropdown_value):
     return dropdown_value
 
+#pending to be removed as it's junk
 @app.callback(
     dash.dependencies.Output('clicked-job', 'children'),
     [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
     [dash.dependencies.State({'type': 'job-link', 'index': dash.dependencies.ALL}, 'id')]
 )
+
+#updates the whole list when clikcing on a button and it'll tell the program to act as if it you were selecting from the jobs dropdown
 @app.callback(
     dash.dependencies.Output('jobs-dropdown', 'value'),
     [dash.dependencies.Input({'type': 'job-link', 'index': dash.dependencies.ALL}, 'n_clicks')],
@@ -301,6 +305,8 @@ def update_jobs_dropdown_from_link(n_clicks, ids):
     # Get the label of the clicked job
     clicked_job_label = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
     return clicked_job_label
+
+#Makes the whole clicking a button work and tells the program which one
 
 @app.callback(
     dash.dependencies.Output('clicked-button-store', 'data'),
@@ -314,6 +320,8 @@ def store_clicked_button(n_clicks, ids):
     clicked_button_id = next(id['index'] for n_click, id in zip(n_clicks, ids) if n_click)
     return clicked_button_id
 
+
+#Some css stuff on the button
 @app.callback(
     [dash.dependencies.Output({'type': 'job-link', 'index': dash.dependencies.ALL}, 'className')],
     [dash.dependencies.Input('clicked-button-store', 'data')],
