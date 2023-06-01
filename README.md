@@ -31,5 +31,5 @@ for both you have to install dash bootstrap components like this
 
 pip install dash-bootstrap-components
 
-Note:Would be misleading to extremly_early_prototype.py an actual prototype, it was more or less a proof of concept as well familarising ourselves with Dash, Flask and using GIT in general
+Note:extremly_early_prototype.py was not really an actual prototype from the beginning, it was more or less a proof of concept as well familarising ourselves with Dash, Flask and using GIT in general
 
