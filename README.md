@@ -1,5 +1,7 @@
 # TIG326-Data-Dudes
 
+(https://github.com/Antpapa99/TIG-326-Data-Dudes/assets/img/skillflair.PNG?raw=true)
+
 Website here if you want quick access to this whole project(note that this is based on the source code version of this repo)
 [Antpapa1999.pythonanywhere.com](https://antpapa1999.pythonanywhere.com/)
 
