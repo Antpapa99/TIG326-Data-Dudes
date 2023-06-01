@@ -1,6 +1,6 @@
 # TIG326-Data-Dudes
 
-![alt text](/Antpapa99/TIG326-Data-Dudes/blob/Main/assets/img/skillflair.PNG)
+![alt text](/Antpapa99/TIG326-Data-Dudes/Main/assets/img/skillflair.PNG)
 
 Website here if you want quick access to this whole project(note that this is based on the source code version of this repo)
 [Antpapa1999.pythonanywhere.com](https://antpapa1999.pythonanywhere.com/)
