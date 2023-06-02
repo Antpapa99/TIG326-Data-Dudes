@@ -49,3 +49,5 @@ Notes
 
 * extremly_early_prototype.py and very early versions of this repo was not really an actual prototype from the beginning, it was more or less a proof of concept as well familarising ourselves with Dash, Flask, APIs and using GIT in general
 
+* All the group members worked on this project, so a lot of pushes and commits from one person may have actually been code worked by mutliple people
+
