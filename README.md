@@ -7,6 +7,8 @@ Website here if you want quick access to this whole project(note that this is ba
 
 Install the webapp to make it work with Anaconda
 
+* conda install -c anaconda flask
+
 * conda install -c conda-forge dash-renderer 
 
 * conda install -c conda-forge dash 
@@ -17,7 +19,9 @@ Install the webapp to make it work with Anaconda
 
 * conda install -c conda-forge plotly
 
-Install the webapp to make it work without
+Install the webapp to make it work without conda
+
+* pip install Flask
 
 * pip install dash-renderer
 
