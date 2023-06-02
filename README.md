@@ -37,6 +37,10 @@ For both you have to install dash bootstrap components like this
 
 * pip install dash-bootstrap-components
 
+In case Plotly fails try this
+
+* pip install plotly or conda install -c plotly plotly=5.14.1
+
 Notes
 
 * assets folder is the css and other static stuff for the dash application
